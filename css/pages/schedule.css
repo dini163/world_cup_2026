@@ -1,0 +1,363 @@
+/* ============================================
+   2026 FIFA World Cup — Schedule Page
+   ============================================ */
+
+/* ── Schedule Controls ── */
+.schedule-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-4);
+  margin-bottom: var(--space-8);
+}
+
+/* ── Date Navigator ── */
+.date-nav {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  background: var(--bg-glass);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-full);
+  padding: var(--space-2);
+}
+
+.date-nav-btn {
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: var(--text-secondary);
+  transition: all var(--duration-fast) var(--ease-default);
+  font-size: var(--text-lg);
+}
+
+.date-nav-btn:hover {
+  color: var(--text-primary);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.date-nav-current {
+  padding: var(--space-2) var(--space-4);
+  font-weight: var(--font-semibold);
+  font-size: var(--text-sm);
+  color: var(--text-primary);
+  min-width: 160px;
+  text-align: center;
+}
+
+/* ── Calendar Mini ── */
+.calendar-mini {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-xl);
+  padding: var(--space-5);
+  margin-bottom: var(--space-8);
+}
+
+.calendar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-4);
+}
+
+.calendar-month {
+  font-family: var(--font-heading);
+  font-weight: var(--font-bold);
+  font-size: var(--text-lg);
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 2px;
+}
+
+.calendar-day-name {
+  text-align: center;
+  font-size: var(--text-xs);
+  color: var(--text-tertiary);
+  font-weight: var(--font-semibold);
+  padding: var(--space-2);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.calendar-day {
+  aspect-ratio: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--text-sm);
+  border-radius: var(--radius-md);
+  color: var(--text-secondary);
+  cursor: default;
+  transition: all var(--duration-fast) var(--ease-default);
+  position: relative;
+}
+
+.calendar-day.empty {
+  visibility: hidden;
+}
+
+.calendar-day.has-matches {
+  color: var(--text-primary);
+  font-weight: var(--font-semibold);
+  cursor: pointer;
+}
+
+.calendar-day.has-matches::after {
+  content: '';
+  position: absolute;
+  bottom: 4px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--color-primary);
+}
+
+.calendar-day.has-matches:hover {
+  background: rgba(79, 70, 229, 0.08);
+}
+
+.calendar-day.today {
+  background: var(--color-primary);
+  color: var(--text-on-primary);
+  font-weight: var(--font-bold);
+}
+
+.calendar-day.today::after {
+  background: var(--text-on-primary);
+}
+
+.calendar-day.selected {
+  background: rgba(79, 70, 229, 0.15);
+  border: 1px solid var(--color-primary-light);
+}
+
+.calendar-day.past {
+  opacity: 0.5;
+}
+
+/* ── Match Day Group ── */
+.schedule-day-group {
+  margin-bottom: var(--space-8);
+}
+
+.schedule-date-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin-bottom: var(--space-4);
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.schedule-date-label {
+  font-family: var(--font-heading);
+  font-weight: var(--font-bold);
+  font-size: var(--text-xl);
+  color: var(--text-primary);
+}
+
+.schedule-date-count {
+  font-size: var(--text-sm);
+  color: var(--text-tertiary);
+  padding: var(--space-1) var(--space-3);
+  background: var(--bg-glass);
+  border-radius: var(--radius-full);
+}
+
+.schedule-date-badge {
+  display: flex;
+  align-items: center;
+}
+
+/* ── Schedule Match Row ── */
+.schedule-match-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.schedule-match {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr auto;
+  align-items: center;
+  gap: var(--space-4);
+  padding: var(--space-4) var(--space-5);
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  transition: all var(--duration-normal) var(--ease-default);
+  cursor: pointer;
+}
+
+.schedule-match:hover {
+  border-color: var(--border-accent);
+  box-shadow: var(--shadow-card-hover);
+  transform: translateX(4px);
+}
+
+.schedule-home {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--space-3);
+}
+
+.schedule-away {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.schedule-team-name {
+  font-weight: var(--font-semibold);
+  font-size: var(--text-sm);
+  white-space: nowrap;
+}
+
+.schedule-team-flag {
+  font-size: 1.6rem;
+  line-height: 1;
+}
+
+.schedule-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-1);
+  min-width: 80px;
+}
+
+.schedule-time {
+  font-family: var(--font-heading);
+  font-weight: var(--font-bold);
+  font-size: var(--text-base);
+  color: var(--text-primary);
+}
+
+.schedule-score-final {
+  font-family: var(--font-heading);
+  font-weight: var(--font-extrabold);
+  font-size: var(--text-xl);
+  color: var(--text-primary);
+}
+
+.schedule-group-tag {
+  font-size: var(--text-xs);
+  color: var(--text-tertiary);
+}
+
+.schedule-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--space-1);
+  font-size: var(--text-xs);
+  color: var(--text-tertiary);
+  min-width: 100px;
+}
+
+.schedule-venue-icon {
+  font-size: var(--text-sm);
+}
+
+/* ── Timezone Selector ── */
+.tz-selector {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--text-sm);
+  color: var(--text-tertiary);
+}
+
+.tz-selector select {
+  padding: var(--space-2) var(--space-3);
+  font-size: var(--text-sm);
+  border-radius: var(--radius-full);
+  background: var(--bg-glass);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-primary);
+  cursor: pointer;
+}
+
+/* ── Stage Badges ── */
+.stage-badge {
+  display: inline-flex;
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--radius-full);
+  font-size: var(--text-xs);
+  font-weight: var(--font-bold);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.stage-badge.group-stage {
+  background: rgba(79, 70, 229, 0.1);
+  color: var(--text-accent);
+}
+
+.stage-badge.round-32 {
+  background: rgba(59, 130, 246, 0.15);
+  color: var(--color-info);
+}
+
+.stage-badge.round-16 {
+  background: rgba(0, 188, 212, 0.15);
+  color: var(--color-accent);
+}
+
+.stage-badge.quarter {
+  background: rgba(245, 158, 11, 0.15);
+  color: var(--color-warning);
+}
+
+.stage-badge.semi {
+  background: rgba(239, 68, 68, 0.15);
+  color: var(--color-danger);
+}
+
+.stage-badge.final {
+  background: rgba(255, 215, 0, 0.15);
+  color: var(--text-gold);
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .schedule-match {
+    grid-template-columns: 1fr;
+    gap: var(--space-2);
+    text-align: center;
+  }
+
+  .schedule-home {
+    justify-content: center;
+  }
+
+  .schedule-away {
+    justify-content: center;
+  }
+
+  .schedule-meta {
+    align-items: center;
+    flex-direction: row;
+    gap: var(--space-2);
+    justify-content: center;
+    min-width: auto;
+  }
+
+  .date-nav {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .calendar-mini {
+    padding: var(--space-3);
+  }
+}

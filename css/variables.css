@@ -1,0 +1,205 @@
+/* ============================================
+   2026 FIFA World Cup — Design Tokens
+   ============================================ */
+
+:root {
+  /* ── Brand Colors (Premium World Cup Tournament Theme) ── */
+  --color-primary: #4F46E5;        /* Premium Indigo */
+  --color-primary-light: #6366F1;
+  --color-primary-dark: #3730A3;
+  --color-secondary: #0F172A;      /* Slate Dark */
+  --color-secondary-light: #1E293B;
+  --color-accent: #10B981;         /* Emerald Accent */
+  --color-accent-light: #34D399;
+  --color-gold: #C5A880;           /* Champagne Gold */
+  --color-gold-dark: #A78BFA;
+  --text-gold: #E2C799;
+
+  /* ── Status Colors ── */
+  --color-success: #10B981;
+  --color-warning: #F59E0B;
+  --color-danger: #EF4444;
+  --color-info: #3B82F6;
+  --color-live: #EF4444;
+
+  /* ── Background Colors (Deep Premium Slate/Black) ── */
+  --bg-primary: #08090C;           /* Obsidian Black */
+  --bg-secondary: #0E1015;         /* Deep Slate Dark */
+  --bg-card: #151820;              /* Matte Card */
+  --bg-card-hover: #1C202B;        /* Slightly lighter slate */
+  --bg-glass: rgba(255, 255, 255, 0.02);
+  --bg-glass-hover: rgba(255, 255, 255, 0.04);
+  --bg-elevated: #151820;
+  --bg-nav: rgba(8, 9, 12, 0.85);
+  --bg-modal-overlay: rgba(3, 4, 6, 0.8);
+  --bg-input: #12141C;
+
+  /* ── Text Colors ── */
+  --text-primary: #F8FAFC;         /* Off-white */
+  --text-secondary: #94A3B8;       /* Muted slate */
+  --text-tertiary: #64748B;        /* Muted slate light */
+  --text-accent: #818CF8;
+  --text-on-primary: #FFFFFF;
+  --text-link: #60A5FA;
+
+  /* ── Border Colors ── */
+  --border-subtle: rgba(255, 255, 255, 0.04);
+  --border-default: rgba(255, 255, 255, 0.07);
+  --border-accent: rgba(99, 102, 241, 0.3);
+  --border-glow: rgba(99, 102, 241, 0.15);
+  --border-gold: rgba(197, 168, 128, 0.3);
+
+  /* ── Gradients ── */
+  --gradient-hero: linear-gradient(135deg, #1E1B4B 0%, #0F172A 50%, #064E3B 100%); /* Elegant Dark Indigo to Dark Emerald */
+  --gradient-card: linear-gradient(135deg, rgba(79, 70, 229, 0.05) 0%, rgba(15, 23, 42, 0) 100%);
+  --gradient-gold: linear-gradient(135deg, #C5A880 0%, #A98E65 100%);
+  --gradient-success: linear-gradient(135deg, #10B981 0%, #059669 100%);
+  --gradient-danger: linear-gradient(135deg, #EF4444 0%, #DC2626 100%);
+  --gradient-glass: linear-gradient(135deg, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.01) 100%);
+  --gradient-radial-glow: radial-gradient(ellipse at center, rgba(79, 70, 229, 0.08) 0%, transparent 70%);
+  --gradient-text: linear-gradient(135deg, #FFFFFF 20%, #C5A880 100%); /* Elegant White to Gold */
+
+  /* ── Typography ── */
+  --font-heading: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
+
+  --text-xs: 0.75rem;    /* 12px */
+  --text-sm: 0.8125rem;  /* 13px */
+  --text-base: 0.9375rem;/* 15px */
+  --text-lg: 1.0625rem;  /* 17px */
+  --text-xl: 1.25rem;    /* 20px */
+  --text-2xl: 1.5rem;    /* 24px */
+  --text-3xl: 1.875rem;  /* 30px */
+  --text-4xl: 2.25rem;   /* 36px */
+  --text-5xl: 2.75rem;   /* 44px */
+  --text-6xl: 3.5rem;    /* 56px */
+
+  --leading-tight: 1.2;
+  --leading-normal: 1.5;
+  --leading-relaxed: 1.65;
+
+  --font-normal: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+  --font-extrabold: 800;
+
+  /* ── Spacing ── */
+  --space-1: 0.25rem;   /* 4px */
+  --space-2: 0.5rem;    /* 8px */
+  --space-3: 0.75rem;   /* 12px */
+  --space-4: 1rem;      /* 16px */
+  --space-5: 1.25rem;   /* 20px */
+  --space-6: 1.5rem;    /* 24px */
+  --space-8: 2rem;      /* 32px */
+  --space-10: 2.5rem;   /* 40px */
+  --space-12: 3rem;     /* 48px */
+  --space-16: 4rem;     /* 64px */
+  --space-20: 5rem;     /* 80px */
+  --space-24: 6rem;     /* 96px */
+
+  /* ── Border Radius (Modern, Less Over-Rounded) ── */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+  --radius-2xl: 16px;
+  --radius-full: 9999px;
+
+  /* ── Shadows ── */
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 10px rgba(0, 0, 0, 0.5);
+  --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.6);
+  --shadow-xl: 0 20px 40px rgba(0, 0, 0, 0.7);
+  --shadow-glow: 0 0 20px rgba(79, 70, 229, 0.1);
+  --shadow-glow-lg: 0 0 40px rgba(79, 70, 229, 0.15);
+  --shadow-gold: 0 0 15px rgba(197, 168, 128, 0.08);
+  --shadow-card: 0 2px 12px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.03);
+  --shadow-card-hover: 0 10px 30px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 255, 255, 0.08);
+
+  /* ── Glass Effect ── */
+  --glass-blur: blur(16px);
+  --glass-blur-heavy: blur(32px);
+  --glass-bg: rgba(21, 24, 32, 0.7);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.04);
+
+  /* ── Transitions ── */
+  --ease-default: cubic-bezier(0.16, 1, 0.3, 1); /* Elegant Out-Expo */
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --ease-elastic: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  --duration-fast: 150ms;
+  --duration-normal: 300ms;
+  --duration-slow: 500ms;
+  --duration-slower: 800ms;
+
+  /* ── Z-Index Scale ── */
+  --z-base: 0;
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-navbar: 300;
+  --z-modal-backdrop: 400;
+  --z-modal: 500;
+  --z-tooltip: 600;
+  --z-toast: 700;
+
+  /* ── Layout ── */
+  --max-width: 1200px;
+  --nav-height: 64px;
+  --sidebar-width: 260px;
+}
+
+/* ============================================
+   Light Theme Overrides
+   ============================================ */
+html[data-theme="light"] {
+  /* ── Background Colors (Clean Premium Off-White & Slate) ── */
+  --bg-primary: #F8FAFC;
+  --bg-secondary: #F1F5F9;
+  --bg-card: #FFFFFF;
+  --bg-card-hover: #EDF2F7;
+  --bg-glass: rgba(255, 255, 255, 0.7);
+  --bg-glass-hover: rgba(255, 255, 255, 0.85);
+  --bg-elevated: #FFFFFF;
+  --bg-nav: rgba(248, 250, 252, 0.85);
+  --bg-modal-overlay: rgba(15, 23, 42, 0.4);
+  --bg-input: #FFFFFF;
+
+  /* ── Text Colors ── */
+  --text-primary: #0F172A;
+  --text-secondary: #475569;
+  --text-tertiary: #64748B;
+  --text-accent: #4F46E5;
+  --text-on-primary: #FFFFFF;
+  --text-link: #2563EB;
+
+  /* ── Border Colors ── */
+  --border-subtle: rgba(15, 23, 42, 0.04);
+  --border-default: rgba(15, 23, 42, 0.08);
+  --border-accent: rgba(79, 70, 229, 0.2);
+  --border-glow: rgba(79, 70, 229, 0.05);
+  --border-gold: rgba(197, 168, 128, 0.4);
+
+  /* ── Gradients ── */
+  --gradient-hero: linear-gradient(135deg, #EEF2FF 0%, #E0F2FE 50%, #ECFDF5 100%);
+  --gradient-card: linear-gradient(135deg, rgba(79, 70, 229, 0.02) 0%, rgba(255, 255, 255, 0) 100%);
+  --gradient-glass: linear-gradient(135deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0.5) 100%);
+  --gradient-radial-glow: radial-gradient(ellipse at center, rgba(79, 70, 229, 0.04) 0%, transparent 70%);
+  --gradient-text: linear-gradient(135deg, #0F172A 20%, #A98E65 100%);
+
+  /* ── Shadows ── */
+  --shadow-sm: 0 1px 2px rgba(15, 23, 42, 0.05);
+  --shadow-md: 0 4px 12px rgba(15, 23, 42, 0.08);
+  --shadow-lg: 0 10px 25px rgba(15, 23, 42, 0.1);
+  --shadow-xl: 0 20px 40px rgba(15, 23, 42, 0.12);
+  --shadow-glow: 0 0 20px rgba(79, 70, 229, 0.04);
+  --shadow-glow-lg: 0 0 40px rgba(79, 70, 229, 0.06);
+  --shadow-gold: 0 0 15px rgba(197, 168, 128, 0.15);
+  --shadow-card: 0 4px 20px rgba(15, 23, 42, 0.04), 0 0 0 1px rgba(15, 23, 42, 0.05);
+  --shadow-card-hover: 0 12px 30px rgba(15, 23, 42, 0.08), 0 0 0 1px rgba(15, 23, 42, 0.08);
+
+  /* ── Glass Effect ── */
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: 1px solid rgba(15, 23, 42, 0.06);
+}
+

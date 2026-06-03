@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="nav_teams">48支球队全景 · 2026 FIFA World Cup</title>
+  <script>
+    (function() {
+      const theme = localStorage.getItem('world_cup_theme') || 'dark';
+      let actualTheme = theme;
+      if (theme === 'auto') {
+        actualTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      document.documentElement.setAttribute('data-theme', actualTheme);
+    })();
+  </script>
+  <meta name="description" content="2026世界杯48支参赛球队详细资料 — 阵容、战术、球员、伤情、FIFA排名">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚽</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/pages/teams.css">
+</head>
+<body>
+  <div id="navPlaceholder"></div>
+
+  <div class="page-wrapper">
+    <div class="container">
+      <div class="page-header">
+        <h1><span class="text-gradient" data-i18n="nav_teams">48支参赛球队</span></h1>
+        <p data-i18n="desc_teams">完整阵容 · 战术分析 · 伤情跟踪</p>
+      </div>
+
+      <!-- Filters -->
+      <div id="teamsFilter"></div>
+
+      <!-- Teams Grid -->
+      <div class="teams-grid stagger-children" id="teamsGrid">
+        <div class="skeleton skeleton-card"></div>
+        <div class="skeleton skeleton-card"></div>
+        <div class="skeleton skeleton-card"></div>
+        <div class="skeleton skeleton-card"></div>
+        <div class="skeleton skeleton-card"></div>
+        <div class="skeleton skeleton-card"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Team Detail Modal -->
+  <div class="modal-overlay" id="teamModal">
+    <div class="modal">
+      <div class="modal-header">
+        <h3></h3>
+        <button class="modal-close" aria-label="关闭">✕</button>
+      </div>
+      <div class="modal-body"></div>
+    </div>
+  </div>
+
+  <div id="footerPlaceholder"></div>
+
+  <script src="js/data-loader.js"></script>
+  <script src="js/utils/i18n.js"></script>
+  <script src="js/utils/helpers.js"></script>
+  <script src="js/utils/calculator.js"></script>
+  <script src="js/components/navbar.js"></script>
+  <script src="js/components/team-card.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/pages/teams.js"></script>
+</body>
+</html>

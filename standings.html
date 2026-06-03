@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="standings_header">积分榜 & 出线算分器 · 2026 FIFA World Cup</title>
+  <script>
+    (function() {
+      const theme = localStorage.getItem('world_cup_theme') || 'dark';
+      let actualTheme = theme;
+      if (theme === 'auto') {
+        actualTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      document.documentElement.setAttribute('data-theme', actualTheme);
+    })();
+  </script>
+  <meta name="description" content="2026世界杯12组积分榜 + 48队出线算分器 — 模拟比赛结果，实时计算晋级32强">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚽</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/pages/standings.css">
+</head>
+<body>
+  <div id="navPlaceholder"></div>
+
+  <div class="page-wrapper">
+    <div class="container">
+      <div class="page-header">
+        <h1><span class="text-gradient" data-i18n="standings_header">积分榜 & 出线算分器</span></h1>
+        <p data-i18n="desc_calculator">12组积分 · 模拟出线 · 最佳第三名排名</p>
+      </div>
+
+      <!-- Controls -->
+      <div class="standings-controls">
+        <div class="group-tabs" id="groupTabs"></div>
+      </div>
+
+      <!-- Legend -->
+      <div id="standingsLegend"></div>
+
+      <!-- Standings Tables -->
+      <div id="standingsContent">
+        <div class="skeleton skeleton-card" style="height:300px;margin-bottom:var(--space-4)"></div>
+        <div class="skeleton skeleton-card" style="height:300px"></div>
+      </div>
+
+      <!-- Best Third Place -->
+      <div id="thirdPlaceContent"></div>
+
+      <!-- Calculator -->
+      <div id="calculatorContent"></div>
+    </div>
+  </div>
+
+  <div id="footerPlaceholder"></div>
+
+  <script src="js/data-loader.js"></script>
+  <script src="js/utils/i18n.js"></script>
+  <script src="js/utils/helpers.js"></script>
+  <script src="js/utils/calculator.js"></script>
+  <script src="js/components/navbar.js"></script>
+  <script src="js/components/group-table.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/pages/standings.js"></script>
+</body>
+</html>

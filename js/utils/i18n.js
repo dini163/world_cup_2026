@@ -1,0 +1,824 @@
+/**
+ * 2026 FIFA World Cup — Internationalization (i18n) Utility
+ */
+
+const I18n = (() => {
+  const LANGUAGES = ['zh-CN', 'en', 'es', 'fr'];
+  let currentLanguage = localStorage.getItem('world_cup_lang') || 'zh-CN';
+
+  // Ensure language is valid
+  if (!LANGUAGES.includes(currentLanguage)) {
+    currentLanguage = 'zh-CN';
+  }
+
+  const UI_TRANSLATIONS = {
+    'zh-CN': {
+      nav_home: '首页',
+      nav_teams: '球队全景',
+      nav_standings: '积分排名',
+      nav_schedule: '完整赛程',
+      nav_predictions: 'AI 预测',
+      nav_bracket: '淘汰赛',
+      nav_spoiler: '防剧透',
+      nav_theme_dark: '深色模式',
+      nav_theme_light: '浅色模式',
+      nav_theme_auto: '跟随系统',
+      standings_header: '积分榜 & 出线算分器',
+      schedule_header: '世界杯完整赛程',
+      btn_reset_bracket: '重置淘汰赛',
+      btn_reset_all: '重置全部',
+      
+      hero_badge: 'FIFA WORLD CUP 2026',
+      hero_title: '2026 世界杯',
+      hero_subtitle: '美加墨联合承办 · 48支参赛球队 · 104场巅峰对决',
+      hero_countdown: '赛事倒计时',
+      hero_btn_schedule: '查看完整赛程',
+      hero_btn_teams: '48 支参赛球队',
+      
+      desc_teams: '48支参赛队伍名单及能力',
+      desc_standings: '12组小组赛实时积分榜',
+      desc_schedule: '104场比赛时间与地点查询',
+      desc_calculator: '模拟比赛出线，推算32强',
+      desc_predictions: '基于大模型的赛果智能解析',
+      desc_bracket: '决赛晋级对抗树图谱',
+      
+      match_day: '今日比赛',
+      view_all: '查看全部 →',
+      no_matches_today: '今日无比赛',
+      live_ticker: '实时比分速报',
+      
+      filter_all: '全部 All',
+      filter_continent: '按大洲筛选:',
+      filter_uefa: '🇪🇺 欧洲 UEFA',
+      filter_conmebol: '🌎 南美 CONMEBOL',
+      filter_concacaf: '🌎 北中美 CONCACAF',
+      filter_caf: '🌍 非洲 CAF',
+      filter_afc: '🌏 亚洲 AFC',
+      filter_ofc: '🌊 大洋洲 OFC',
+      search_placeholder: '搜索球队或球员...',
+      label_coach: '主教练',
+      label_fifa_ranking: 'FIFA 排名',
+      label_best_finish: '最佳战绩',
+      label_key_players: '核心球员',
+      label_formation: '主力阵型',
+      label_strength: '战力评分',
+      label_attack: '进攻',
+      label_midfield: '中场',
+      label_defense: '防守',
+      label_overall: '综合',
+      label_squad: '球队大名单',
+      table_name: '球员',
+      table_pos: '位置',
+      table_age: '年龄',
+      table_club: '俱乐部',
+      table_league: '联赛',
+      table_injury: '伤情',
+      no_squad_info: '暂无阵容信息',
+      
+      tab_groups: '小组赛积分',
+      tab_calculator: '出线算分模拟',
+      standings_title: '分组积分榜',
+      table_team: '球队',
+      table_played: '场次',
+      table_won: '胜',
+      table_drawn: '平',
+      table_lost: '负',
+      table_gf: '进球',
+      table_ga: '失球',
+      table_gd: '净胜球',
+      table_pts: '积分',
+      table_status: '状态',
+      calc_title: '出线算分器',
+      calc_desc: '点击预测未赛场次的“胜/平/负”，实时计算各组积分及第3名出线形势',
+      btn_auto_simulate: '一键模拟',
+      btn_reset: '重置模拟',
+      status_qualified: '已晋级',
+      status_waiting: '待定',
+      status_eliminated: '已淘汰',
+      best_third_title: '小组第三名实时排序（前8名出线）',
+      legend_auto: '自动出线 (小组前2)',
+      legend_third: '最佳第3名出线',
+      legend_out: '淘汰',
+      group_matches_completed: '本组所有比赛已完赛',
+      
+      schedule_title: '完整赛程',
+      view_by_date: '按日期',
+      view_by_group: '按小组',
+      view_by_stage: '按阶段',
+      no_matches_on_day: '该日无比赛',
+      use_arrows_to_switch_date: '使用箭头切换日期',
+      matches_label: '场比赛',
+      timezone_local: '北京时间 (Local)',
+      timezone_venue: '场馆当地时间 (Venue)',
+      status_upcoming: '未开始',
+      status_live: '进行中',
+      status_finished: '已结束',
+      venue_city: '主办城市',
+      
+      pred_title: 'AI 赛事深度预测',
+      pred_desc: '结合球队战力、近期战绩与AI大模型的多维度对阵剖析',
+      no_predictions_found: '未找到匹配的预测',
+      change_date_or_search: '请尝试更改日期或搜索条件',
+      ai_score_label: 'AI 预测比分',
+      persona_expert: '👨‍🏫 理智懂球帝',
+      persona_poison: '🦑 乌贼毒奶机',
+      win_probability: '胜率预测',
+      win_home: '主胜',
+      win_away: '客胜',
+      win_draw: '平局',
+      ai_analysis: 'AI 深度分析',
+      persona: '预测风格',
+      persona_tactician: '战术分析师 📊',
+      persona_fanatic: '超级热血球迷 📣',
+      persona_oracle: '神秘塔罗占卜师 🔮',
+      
+      bracket_title: '淘汰赛晋级树模拟',
+      bracket_desc: '点击球队直接晋级下一轮，预测你心中的2026世界杯冠军！',
+      btn_import_standings: '导入小组赛模拟结果',
+      champion: '冠军',
+      runner_up: '亚军',
+      third_place: '季军',
+      
+      stage_group: '小组赛',
+      stage_round32: '32强赛',
+      stage_round16: '16强赛',
+      stage_quarter: '1/4 决赛',
+      stage_semi: '半决赛',
+      stage_third: '季军赛',
+      stage_final: '决赛',
+      
+      countdown_days: '天',
+      countdown_hours: '时',
+      countdown_minutes: '分',
+      countdown_seconds: '秒',
+      countdown_suffix: '后开幕',
+      countdown_today: '世界杯今日开幕！',
+      countdown_inprogress: '世界杯进行中',
+      countdown_ended: '🏆 2026世界杯已圆满结束',
+      next_match_day: '下一比赛日',
+      prev_match_day: '上一比赛日',
+      footer_desc: '2026 美加墨世界杯专题网站<br>实时数据 · AI 预测 · 球迷互动',
+      footer_features: '核心功能',
+      footer_tournament: '赛事信息',
+      footer_about: '关于',
+      footer_dates: '比赛日: 6/11 - 7/19',
+      footer_cities: '16座城市 · 3个国家',
+      footer_matches: '104场比赛',
+      footer_source: '数据来源: FIFA',
+      footer_static: '静态站点 · GitHub Pages',
+      footer_open: '开源项目',
+      footer_copy: '© 2026 World Cup Fan Site · 非官方 · 仅供球迷参考'
+    },
+    'en': {
+      nav_home: 'Home',
+      nav_teams: 'Teams',
+      nav_standings: 'Standings',
+      nav_schedule: 'Schedule',
+      nav_predictions: 'AI Predictions',
+      nav_bracket: 'Bracket',
+      nav_spoiler: 'Spoiler',
+      nav_theme_dark: 'Dark Mode',
+      nav_theme_light: 'Light Mode',
+      nav_theme_auto: 'System Theme',
+      standings_header: 'Standings & Calculator',
+      schedule_header: 'FIFA World Cup Schedule',
+      btn_reset_bracket: 'Reset Bracket',
+      btn_reset_all: 'Reset All',
+      
+      hero_badge: 'FIFA WORLD CUP 2026',
+      hero_title: '2026 World Cup',
+      hero_subtitle: 'USA, Canada & Mexico · 48 Teams · 104 Matches',
+      hero_countdown: 'Tournament Countdown',
+      hero_btn_schedule: 'Full Schedule',
+      hero_btn_teams: '48 Qualified Teams',
+      
+      desc_teams: '48 teams squad profiles & stats',
+      desc_standings: '12 group stage live tables',
+      desc_schedule: 'Check time & venues of 104 matches',
+      desc_calculator: 'Simulate results & project Round of 32',
+      desc_predictions: 'Smart analysis driven by LLM',
+      desc_bracket: 'Knockout bracket simulator',
+      
+      match_day: 'Today\'s Matches',
+      view_all: 'View All →',
+      no_matches_today: 'No matches today',
+      live_ticker: 'Live Match Ticker',
+      
+      filter_all: 'All',
+      filter_continent: 'Filter by Continent:',
+      filter_uefa: '🇪🇺 Europe UEFA',
+      filter_conmebol: '🌎 South America CONMEBOL',
+      filter_concacaf: '🌎 North America CONCACAF',
+      filter_caf: '🌍 Africa CAF',
+      filter_afc: '🌏 Asia AFC',
+      filter_ofc: '🌊 Oceania OFC',
+      search_placeholder: 'Search teams or players...',
+      label_coach: 'Head Coach',
+      label_fifa_ranking: 'FIFA Ranking',
+      label_best_finish: 'Best Finish',
+      label_key_players: 'Key Players',
+      label_formation: 'Preferred Formation',
+      label_strength: 'Strength Rating',
+      label_attack: 'Attack',
+      label_midfield: 'Midfield',
+      label_defense: 'Defense',
+      label_overall: 'Overall',
+      label_squad: 'Squad List',
+      table_name: 'Player',
+      table_pos: 'Pos',
+      table_age: 'Age',
+      table_club: 'Club',
+      table_league: 'League',
+      table_injury: 'Injury',
+      no_squad_info: 'No squad roster available',
+      
+      tab_groups: 'Group Tables',
+      tab_calculator: 'Qualification Calculator',
+      standings_title: 'Group Standings',
+      table_team: 'Team',
+      table_played: 'P',
+      table_won: 'W',
+      table_drawn: 'D',
+      table_lost: 'L',
+      table_gf: 'GF',
+      table_ga: 'GA',
+      table_gd: 'GD',
+      table_pts: 'Pts',
+      table_status: 'Status',
+      calc_title: 'Qualification Calculator',
+      calc_desc: 'Click on match results to simulate live group points and determine 3rd-placed qualifiers',
+      btn_auto_simulate: 'Auto Simulate',
+      btn_reset: 'Reset Simulation',
+      status_qualified: 'Qualified',
+      status_waiting: 'Waiting',
+      status_eliminated: 'Eliminated',
+      best_third_title: '3rd Place Standings (Top 8 Qualify)',
+      legend_auto: 'Top 2 (Auto Qualification)',
+      legend_third: 'Best 3rd Place',
+      legend_out: 'Eliminated',
+      group_matches_completed: 'All group matches completed',
+      
+      schedule_title: 'Full Schedule',
+      view_by_date: 'By Date',
+      view_by_group: 'By Group',
+      view_by_stage: 'By Stage',
+      no_matches_on_day: 'No matches scheduled for this date',
+      use_arrows_to_switch_date: 'Use arrows to change date',
+      matches_label: 'Matches',
+      timezone_local: 'Local Time (GMT+8)',
+      timezone_venue: 'Venue Time',
+      status_upcoming: 'Upcoming',
+      status_live: 'LIVE',
+      status_finished: 'Finished',
+      venue_city: 'Host City',
+      
+      pred_title: 'AI Match Predictions',
+      pred_desc: 'Deep multi-dimensional analysis combining team ratings, form, and LLM',
+      no_predictions_found: 'No predictions found',
+      change_date_or_search: 'Try changing the date or search query',
+      ai_score_label: 'AI Predicted Score',
+      persona_expert: '👨‍🏫 Expert Analyst',
+      persona_poison: '🦑 Poison Oracle',
+      win_probability: 'Win Probability',
+      win_home: 'Home Win',
+      win_away: 'Away Win',
+      win_draw: 'Draw',
+      ai_analysis: 'AI Analysis',
+      persona: 'Prediction Style',
+      persona_tactician: 'Tactical Guru 📊',
+      persona_fanatic: 'Hype Fanatic 📣',
+      persona_oracle: 'Tarot Oracle 🔮',
+      
+      bracket_title: 'Knockout Bracket Simulator',
+      bracket_desc: 'Click on a team to advance them, and predict your 2026 World Cup champion!',
+      btn_import_standings: 'Seeding from Group Simulator',
+      champion: 'Champion',
+      runner_up: 'Runner-up',
+      third_place: 'Third Place',
+      
+      stage_group: 'Group Stage',
+      stage_round32: 'Round of 32',
+      stage_round16: 'Round of 16',
+      stage_quarter: 'Quarter-finals',
+      stage_semi: 'Semi-finals',
+      stage_third: 'Third-place Match',
+      stage_final: 'Final',
+      
+      countdown_days: 'd',
+      countdown_hours: 'h',
+      countdown_minutes: 'm',
+      countdown_seconds: 's',
+      countdown_suffix: 'to Kickoff',
+      countdown_today: 'World Cup kicks off today!',
+      countdown_inprogress: 'World Cup in progress',
+      countdown_ended: '🏆 2026 World Cup has concluded',
+      next_match_day: 'Next Match Day',
+      prev_match_day: 'Previous Match Day',
+      footer_desc: '2026 World Cup Portal<br>Live Data · AI Predictions · Fan Hub',
+      footer_features: 'Features',
+      footer_tournament: 'Tournament',
+      footer_about: 'About',
+      footer_dates: 'Dates: June 11 - July 19',
+      footer_cities: '16 Host Cities · 3 Nations',
+      footer_matches: '104 Peak Matches',
+      footer_source: 'Source: FIFA',
+      footer_static: 'Static Site · GitHub Pages',
+      footer_open: 'Open Source',
+      footer_copy: '© 2026 World Cup Fan Site · Unofficial · For Fans Reference Only'
+    },
+    'es': {
+      nav_home: 'Inicio',
+      nav_teams: 'Equipos',
+      nav_standings: 'Clasificaciones',
+      nav_schedule: 'Calendario',
+      nav_predictions: 'Predicciones IA',
+      nav_bracket: 'Cuadro',
+      nav_spoiler: 'Spoiler',
+      nav_theme_dark: 'Modo Oscuro',
+      nav_theme_light: 'Modo Claro',
+      nav_theme_auto: 'Automático',
+      standings_header: 'Clasificaciones y Calculadora',
+      schedule_header: 'Calendario del Mundial',
+      btn_reset_bracket: 'Restablecer Eliminatorias',
+      btn_reset_all: 'Restablecer Todo',
+      
+      hero_badge: 'COPA MUNDIAL DE LA FIFA 2026',
+      hero_title: 'Mundial 2026',
+      hero_subtitle: 'EE. UU., Canadá y México · 48 Equipos · 104 Partidos',
+      hero_countdown: 'Cuenta Atrás del Torneo',
+      hero_btn_schedule: 'Ver Calendario',
+      hero_btn_teams: '48 Selecciones',
+      
+      desc_teams: 'Plantillas y estadísticas de los 48 equipos',
+      desc_standings: 'Tablas en vivo de la fase de grupos',
+      desc_schedule: 'Consulta horarios y sedes de 104 partidos',
+      desc_calculator: 'Simula resultados y calcula dieciseisavos',
+      desc_predictions: 'Análisis inteligente impulsado por IA',
+      desc_bracket: 'Simulador del cuadro de eliminatorias',
+      
+      match_day: 'Partidos de Hoy',
+      view_all: 'Ver Todo →',
+      no_matches_today: 'No hay partidos hoy',
+      live_ticker: 'Marcador en Vivo',
+      
+      filter_all: 'Todo',
+      filter_continent: 'Filtrar por Continente:',
+      filter_uefa: '🇪🇺 Europa UEFA',
+      filter_conmebol: '🌎 Sudamérica CONMEBOL',
+      filter_concacaf: '🌎 Norteamérica CONCACAF',
+      filter_caf: '🌍 África CAF',
+      filter_afc: '🌏 Asia AFC',
+      filter_ofc: '🌊 Oceanía OFC',
+      search_placeholder: 'Buscar equipos o jugadores...',
+      label_coach: 'Entrenador',
+      label_fifa_ranking: 'Ranking FIFA',
+      label_best_finish: 'Mejor Puesto',
+      label_key_players: 'Jugadores Clave',
+      label_formation: 'Alineación Preferida',
+      label_strength: 'Valoración de Fuerza',
+      label_attack: 'Ataque',
+      label_midfield: 'Mediocampo',
+      label_defense: 'Defensa',
+      label_overall: 'General',
+      label_squad: 'Lista de Convocados',
+      table_name: 'Jugador',
+      table_pos: 'Pos',
+      table_age: 'Edad',
+      table_club: 'Club',
+      table_league: 'Liga',
+      table_injury: 'Lesión',
+      no_squad_info: 'No hay lista de convocados disponible',
+      
+      tab_groups: 'Fase de Grupos',
+      tab_calculator: 'Calculadora de Clasificación',
+      standings_title: 'Clasificación de Grupos',
+      table_team: 'Equipo',
+      table_played: 'PJ',
+      table_won: 'PG',
+      table_drawn: 'PE',
+      table_lost: 'PP',
+      table_gf: 'GF',
+      table_ga: 'GC',
+      table_gd: 'DG',
+      table_pts: 'Pts',
+      table_status: 'Estado',
+      calc_title: 'Calculadora de Clasificación',
+      calc_desc: 'Elige los resultados de los partidos para calcular los puntos en vivo y los clasificados',
+      btn_auto_simulate: 'Simulación Automática',
+      btn_reset: 'Restablecer',
+      status_qualified: 'Clasificado',
+      status_waiting: 'Esperando',
+      status_eliminated: 'Eliminado',
+      best_third_title: 'Mejores Terceros (Pasan los 8 mejores)',
+      legend_auto: 'Top 2 (Clasificación Auto)',
+      legend_third: 'Mejores Terceros',
+      legend_out: 'Eliminado',
+      group_matches_completed: 'Todos los partidos del grupo completados',
+      
+      schedule_title: 'Calendario Completo',
+      view_by_date: 'Por Fecha',
+      view_by_group: 'Por Grupo',
+      view_by_stage: 'Por Fase',
+      no_matches_on_day: 'No hay partidos para esta fecha',
+      use_arrows_to_switch_date: 'Usa las flechas para cambiar la fecha',
+      matches_label: 'Partidos',
+      timezone_local: 'Hora Local (GMT+8)',
+      timezone_venue: 'Hora de la Sede',
+      status_upcoming: 'Por Jugar',
+      status_live: 'EN VIVO',
+      status_finished: 'Finalizado',
+      venue_city: 'Ciudad Sede',
+      
+      pred_title: 'Predicciones IA',
+      pred_desc: 'Análisis profundo que combina estadísticas, estado de forma e IA',
+      no_predictions_found: 'No se encontraron predicciones',
+      change_date_or_search: 'Prueba a cambiar la fecha o los términos de búsqueda',
+      ai_score_label: 'Marcador Predicho IA',
+      persona_expert: '👨‍🏫 Analista Experto',
+      persona_poison: '🦑 Oráculo de la Suerte',
+      win_probability: 'Probabilidad de Victoria',
+      win_home: 'Victoria Local',
+      win_away: 'Victoria Visitante',
+      win_draw: 'Empate',
+      ai_analysis: 'Análisis de IA',
+      persona: 'Estilo de Predicción',
+      persona_tactician: 'Gurú Táctico 📊',
+      persona_fanatic: 'Hincha Apasionado 📣',
+      persona_oracle: 'Oráculo del Tarot 🔮',
+      
+      bracket_title: 'Simulador del Cuadro de Eliminatorias',
+      bracket_desc: 'Haz clic en un equipo para avanzar y ¡predice tu campeón del mundo 2026!',
+      btn_import_standings: 'Clasificar desde Fase de Grupos',
+      champion: 'Campeón',
+      runner_up: 'Subcampeón',
+      third_place: 'Tercer Puesto',
+      
+      stage_group: 'Fase de Grupos',
+      stage_round32: 'Dieciseisavos',
+      stage_round16: 'Octavos de Final',
+      stage_quarter: 'Cuartos de Final',
+      stage_semi: 'Semifinales',
+      stage_third: 'Tercer Puesto',
+      stage_final: 'Final',
+      
+      countdown_days: 'd',
+      countdown_hours: 'h',
+      countdown_minutes: 'm',
+      countdown_seconds: 's',
+      countdown_suffix: 'para el pitido inicial',
+      countdown_today: '¡El Mundial comienza hoy!',
+      countdown_inprogress: 'Mundial en curso',
+      countdown_ended: '🏆 El Mundial 2026 ha concluido',
+      next_match_day: 'Siguiente Día de Partido',
+      prev_match_day: 'Día de Partido Anterior',
+      footer_desc: 'Sitio Especial del Mundial 2026<br>Datos en Vivo · Predicciones IA · Interacción',
+      footer_features: 'Funciones',
+      footer_tournament: 'Información',
+      footer_about: 'Acerca de',
+      footer_dates: 'Fechas: 11 Jun - 19 Jul',
+      footer_cities: '16 Ciudades · 3 Países',
+      footer_matches: '104 Partidos',
+      footer_source: 'Fuente de datos: FIFA',
+      footer_static: 'Sitio estático · GitHub Pages',
+      footer_open: 'Código abierto',
+      footer_copy: '© 2026 Sitio de Fans del Mundial · No oficial · Solo para referencia'
+    },
+    'fr': {
+      nav_home: 'Accueil',
+      nav_teams: 'Équipes',
+      nav_standings: 'Classements',
+      nav_schedule: 'Calendrier',
+      nav_predictions: 'Prédictions IA',
+      nav_bracket: 'Tableau',
+      nav_spoiler: 'Anti-Spoiler',
+      nav_theme_dark: 'Mode Sombre',
+      nav_theme_light: 'Mode Clair',
+      nav_theme_auto: 'Auto',
+      standings_header: 'Classements & Calculateur',
+      schedule_header: 'Calendrier de la Coupe du Monde',
+      btn_reset_bracket: 'Réinitialiser le Tableau',
+      btn_reset_all: 'Réinitialiser Tout',
+      
+      hero_badge: 'COUPE DU MONDE DE LA FIFA 2026',
+      hero_title: 'Coupe du Monde 2026',
+      hero_subtitle: 'USA, Canada & Mexique · 48 Équipes · 104 Matchs',
+      hero_countdown: 'Compte à Rebours du Tournoi',
+      hero_btn_schedule: 'Voir Calendrier',
+      hero_btn_teams: '48 Équipes Qualifiées',
+      
+      desc_teams: 'Effectifs et statistiques des 48 équipes',
+      desc_standings: 'Tableaux en direct de la phase de groupes',
+      desc_schedule: 'Consultez les horaires et les stades des 104 matchs',
+      desc_calculator: 'Simulez les résultats et calculez les 16es',
+      desc_predictions: 'Analyse intelligente générée par l\'IA',
+      desc_bracket: 'Simulateur du tableau final',
+      
+      match_day: 'Matchs du Jour',
+      view_all: 'Voir Tout →',
+      no_matches_today: 'Aucun match aujourd\'hui',
+      live_ticker: 'Scores en Direct',
+      
+      filter_all: 'Tout',
+      filter_continent: 'Filtrer par Continent:',
+      filter_uefa: '🇪🇺 Europe UEFA',
+      filter_conmebol: '🌎 Amérique du Sud CONMEBOL',
+      filter_concacaf: '🌎 Amérique du Nord CONCACAF',
+      filter_caf: '🌍 Afrique CAF',
+      filter_afc: '🌏 Asie AFC',
+      filter_ofc: '🌊 Océanie OFC',
+      search_placeholder: 'Rechercher des équipes ou joueurs...',
+      label_coach: 'Sélectionneur',
+      label_fifa_ranking: 'Classement FIFA',
+      label_best_finish: 'Meilleur Résultat',
+      label_key_players: 'Joueurs Clés',
+      label_formation: 'Formation Préférée',
+      label_strength: 'Force de l\'Équipe',
+      label_attack: 'Attaque',
+      label_midfield: 'Milieu',
+      label_defense: 'Défense',
+      label_overall: 'Général',
+      label_squad: 'Liste des Joueurs',
+      table_name: 'Joueur',
+      table_pos: 'Poste',
+      table_age: 'Âge',
+      table_club: 'Club',
+      table_league: 'Ligue',
+      table_injury: 'Blessure',
+      no_squad_info: 'Aucun effectif disponible',
+      
+      tab_groups: 'Phase de Groupes',
+      tab_calculator: 'Calculateur de Qualification',
+      standings_title: 'Classement des Groupes',
+      table_team: 'Équipe',
+      table_played: 'J',
+      table_won: 'G',
+      table_drawn: 'N',
+      table_lost: 'P',
+      table_gf: 'BP',
+      table_ga: 'BC',
+      table_gd: 'DB',
+      table_pts: 'Pts',
+      table_status: 'Statut',
+      calc_title: 'Calculateur de Qualification',
+      calc_desc: 'Choisissez les résultats des matchs pour calculer les points en direct et les qualifiés',
+      btn_auto_simulate: 'Simulation Automatique',
+      btn_reset: 'Réinitialiser',
+      status_qualified: 'Qualifié',
+      status_waiting: 'En attente',
+      status_eliminated: 'Éliminé',
+      best_third_title: 'Classement des Meilleurs 3es (Passe les 8 meilleurs)',
+      legend_auto: 'Top 2 (Qualif. Auto)',
+      legend_third: 'Meilleurs 3es',
+      legend_out: 'Éliminé',
+      group_matches_completed: 'Tous les matchs du groupe sont terminés',
+      
+      schedule_title: 'Calendrier Complet',
+      view_by_date: 'Par Date',
+      view_by_group: 'Par Groupe',
+      view_by_stage: 'Par Phase',
+      no_matches_on_day: 'Aucun match prévu pour cette date',
+      use_arrows_to_switch_date: 'Utilisez les flèches pour changer la date',
+      matches_label: 'Matchs',
+      timezone_local: 'Heure Locale (GMT+8)',
+      timezone_venue: 'Heure du Stade',
+      status_upcoming: 'À venir',
+      status_live: 'EN DIRECT',
+      status_finished: 'Terminé',
+      venue_city: 'Ville Hôte',
+      
+      pred_title: 'Prédictions IA',
+      pred_desc: 'Analyse approfondie combinant force de l\'équipe, dynamique récente et IA',
+      no_predictions_found: 'Aucune prédiction trouvée',
+      change_date_or_search: 'Essayez de changer la date ou les critères de recherche',
+      ai_score_label: 'Score Prédit IA',
+      persona_expert: '👨‍🏫 Analyste Expert',
+      persona_poison: '🦑 Machine Toxique',
+      win_probability: 'Probabilité de Victoire',
+      win_home: 'Victoire Domicile',
+      win_away: 'Victoire Extérieur',
+      win_draw: 'Match Nul',
+      ai_analysis: 'Analyse de l\'IA',
+      persona: 'Style de Prédiction',
+      persona_tactician: 'Gourou Tactique 📊',
+      persona_fanatic: 'Fan Hystérique 📣',
+      persona_oracle: 'Oracle du Tarot 🔮',
+      
+      bracket_title: 'Simulateur de Phase Finale',
+      bracket_desc: 'Cliquez sur une équipe pour la faire avancer et prédisez votre champion du monde 2026 !',
+      btn_import_standings: 'Seeding Phase de Groupes',
+      champion: 'Champion',
+      runner_up: 'Finaliste',
+      third_place: 'Troisième Place',
+      
+      stage_group: 'Phase de Groupes',
+      stage_round32: 'Seizièmes de finale',
+      stage_round16: 'Huitièmes de finale',
+      stage_quarter: 'Quarts de finale',
+      stage_semi: 'Demi-finales',
+      stage_third: 'Match pour la 3e place',
+      stage_final: 'Finale',
+      
+      countdown_days: 'j',
+      countdown_hours: 'h',
+      countdown_minutes: 'm',
+      countdown_seconds: 's',
+      countdown_suffix: 'avant le coup d\'envoi',
+      countdown_today: 'La Coupe du Monde commence aujourd\'hui !',
+      countdown_inprogress: 'Coupe du Monde en cours',
+      countdown_ended: '🏆 La Coupe du Monde 2026 est terminée',
+      next_match_day: 'Prochain Jour de Match',
+      prev_match_day: 'Jour de Match Précédent',
+      footer_desc: 'Site Spécial de la Coupe du Monde 2026<br>Scores en Direct · Prédictions IA · Espace Fans',
+      footer_features: 'Fonctionnalités',
+      footer_tournament: 'Informations',
+      footer_about: 'À propos',
+      footer_dates: 'Dates : 11 juin - 19 juillet',
+      footer_cities: '16 Villes Hôtes · 3 Pays',
+      footer_matches: '104 Matchs',
+      footer_source: 'Source des données : FIFA',
+      footer_static: 'Site statique · GitHub Pages',
+      footer_open: 'Projet Open Source',
+      footer_copy: '© 2026 Site de Fans de la Coupe du Monde · Non officiel · Pour référence uniquement'
+    }
+  };
+
+  const TEAM_NAMES = {
+    MEX: { 'zh-CN': '墨西哥', en: 'Mexico', es: 'México', fr: 'Mexique' },
+    RSA: { 'zh-CN': '南非', en: 'South Africa', es: 'Sudáfrica', fr: 'Afrique du Sud' },
+    KOR: { 'zh-CN': '韩国', en: 'South Korea', es: 'Corea del Sur', fr: 'Corée du Sud' },
+    CZE: { 'zh-CN': '捷克', en: 'Czechia', es: 'Chequia', fr: 'Tchéquie' },
+    CAN: { 'zh-CN': '加拿大', en: 'Canada', es: 'Canadá', fr: 'Canada' },
+    BIH: { 'zh-CN': '波黑', en: 'Bosnia & Herzegovina', es: 'Bosnia y Herzegovina', fr: 'Bosnie-Herzégovine' },
+    QAT: { 'zh-CN': '卡塔尔', en: 'Qatar', es: 'Qatar', fr: 'Qatar' },
+    SUI: { 'zh-CN': '瑞士', en: 'Switzerland', es: 'Suiza', fr: 'Suisse' },
+    BRA: { 'zh-CN': '巴西', en: 'Brazil', es: 'Brasil', fr: 'Brésil' },
+    MAR: { 'zh-CN': '摩洛哥', en: 'Morocco', es: 'Marruecos', fr: 'Maroc' },
+    HAI: { 'zh-CN': '海地', en: 'Haiti', es: 'Haití', fr: 'Haïti' },
+    SCO: { 'zh-CN': '苏格兰', en: 'Scotland', es: 'Escocia', fr: 'Écosse' },
+    USA: { 'zh-CN': '美国', en: 'United States', es: 'Estados Unidos', fr: 'États-Unis' },
+    PAR: { 'zh-CN': '巴拉圭', en: 'Paraguay', es: 'Paraguay', fr: 'Paraguay' },
+    AUS: { 'zh-CN': '澳大利亚', en: 'Australia', es: 'Australia', fr: 'Australie' },
+    TUR: { 'zh-CN': '土耳其', en: 'Türkiye', es: 'Turquía', fr: 'Turquie' },
+    GER: { 'zh-CN': '德国', en: 'Germany', es: 'Alemania', fr: 'Allemagne' },
+    CUW: { 'zh-CN': '库拉索', en: 'Curaçao', es: 'Curazao', fr: 'Curaçao' },
+    CIV: { 'zh-CN': '科特迪瓦', en: 'Ivory Coast', es: 'Costa de Marfil', fr: 'Côte d\'Ivoire' },
+    ECU: { 'zh-CN': '厄瓜多尔', en: 'Ecuador', es: 'Ecuador', fr: 'Équateur' },
+    NED: { 'zh-CN': '荷兰', en: 'Netherlands', es: 'Países Bajos', fr: 'Pays-Bas' },
+    JPN: { 'zh-CN': '日本', en: 'Japan', es: 'Japón', fr: 'Japon' },
+    SWE: { 'zh-CN': '瑞典', en: 'Sweden', es: 'Suecia', fr: 'Suède' },
+    TUN: { 'zh-CN': '突尼斯', en: 'Tunisia', es: 'Túnez', fr: 'Tunisie' },
+    BEL: { 'zh-CN': '比利时', en: 'Belgium', es: 'Bélgica', fr: 'Belgique' },
+    EGY: { 'zh-CN': '埃及', en: 'Egypt', es: 'Egipto', fr: 'Égypte' },
+    IRN: { 'zh-CN': '伊朗', en: 'Iran', es: 'Irán', fr: 'Iran' },
+    NZL: { 'zh-CN': '新西兰', en: 'New Zealand', es: 'Nueva Zelanda', fr: 'Nouvelle-Zélande' },
+    ESP: { 'zh-CN': '西班牙', en: 'Spain', es: 'España', fr: 'Espagne' },
+    CPV: { 'zh-CN': '佛得角', en: 'Cape Verde', es: 'Cabo Verde', fr: 'Cap-Vert' },
+    KSA: { 'zh-CN': '沙特阿拉伯', en: 'Saudi Arabia', es: 'Arabia Saudita', fr: 'Arabie Saoudite' },
+    URU: { 'zh-CN': '乌拉圭', en: 'Uruguay', es: 'Uruguay', fr: 'Uruguay' },
+    FRA: { 'zh-CN': '法国', en: 'France', es: 'Francia', fr: 'France' },
+    SEN: { 'zh-CN': '塞内加尔', en: 'Senegal', es: 'Senegal', fr: 'Sénégal' },
+    IRQ: { 'zh-CN': '伊拉克', en: 'Iraq', es: 'Irak', fr: 'Irak' },
+    NOR: { 'zh-CN': '挪威', en: 'Norway', es: 'Noruega', fr: 'Norvège' },
+    ARG: { 'zh-CN': '阿根廷', en: 'Argentina', es: 'Argentina', fr: 'Argentine' },
+    ALG: { 'zh-CN': '阿尔及利亚', en: 'Algeria', es: 'Argelia', fr: 'Algérie' },
+    AUT: { 'zh-CN': '奥地利', en: 'Austria', es: 'Austria', fr: 'Autriche' },
+    JOR: { 'zh-CN': '约旦', en: 'Jordan', es: 'Jordania', fr: 'Jordanie' },
+    POR: { 'zh-CN': '葡萄牙', en: 'Portugal', es: 'Portugal', fr: 'Portugal' },
+    COD: { 'zh-CN': '刚果民主共和国', en: 'DR Congo', es: 'RD Congo', fr: 'RD Congo' },
+    UZB: { 'zh-CN': '乌兹别克斯坦', en: 'Uzbekistan', es: 'Uzbekistán', fr: 'Ouzbékistan' },
+    COL: { 'zh-CN': '哥伦比亚', en: 'Colombia', es: 'Colombia', fr: 'Colombie' },
+    ENG: { 'zh-CN': '英格兰', en: 'England', es: 'Inglaterra', fr: 'Angleterre' },
+    CRO: { 'zh-CN': '克罗地亚', en: 'Croatia', es: 'Croacia', fr: 'Croatie' },
+    GHA: { 'zh-CN': '加纳', en: 'Ghana', es: 'Ghana', fr: 'Ghana' },
+    PAN: { 'zh-CN': '巴拿马', en: 'Panama', es: 'Panamá', fr: 'Panama' }
+  };
+
+  const CITY_NAMES = {
+    'Mexico City': { 'zh-CN': '墨西哥城', en: 'Mexico City', es: 'Ciudad de México', fr: 'Mexico' },
+    'Toronto': { 'zh-CN': '多伦多', en: 'Toronto', es: 'Toronto', fr: 'Toronto' },
+    'Los Angeles': { 'zh-CN': '洛杉矶', en: 'Los Angeles', es: 'Los Ángeles', fr: 'Los Angeles' },
+    'Dallas': { 'zh-CN': '达拉斯', en: 'Dallas', es: 'Dallas', fr: 'Dallas' },
+    'Guadalajara': { 'zh-CN': '瓜达拉哈拉', en: 'Guadalajara', es: 'Guadalajara', fr: 'Guadalajara' },
+    'Monterrey': { 'zh-CN': '蒙特雷', en: 'Monterrey', es: 'Monterrey', fr: 'Monterrey' },
+    'Vancouver': { 'zh-CN': '温哥华', en: 'Vancouver', es: 'Vancouver', fr: 'Vancouver' },
+    'Seattle': { 'zh-CN': '西雅图', en: 'Seattle', es: 'Seattle', fr: 'Seattle' },
+    'San Francisco': { 'zh-CN': '旧金山', en: 'San Francisco', es: 'San Francisco', fr: 'San Francisco' },
+    'Boston': { 'zh-CN': '波士顿', en: 'Boston', es: 'Boston', fr: 'Boston' },
+    'Miami': { 'zh-CN': '迈阿密', en: 'Miami', es: 'Miami', fr: 'Miami' },
+    'Houston': { 'zh-CN': '休斯敦', en: 'Houston', es: 'Houston', fr: 'Houston' },
+    'Atlanta': { 'zh-CN': '亚特兰大', en: 'Atlanta', es: 'Atlanta', fr: 'Atlanta' },
+    'Philadelphia': { 'zh-CN': '费城', en: 'Philadelphia', es: 'Filadelfia', fr: 'Philadelphie' },
+    'New York': { 'zh-CN': '纽约', en: 'New York', es: 'Nueva York', fr: 'New York' },
+    'Kansas City': { 'zh-CN': '堪萨斯城', en: 'Kansas City', es: 'Kansas City', fr: 'Kansas City' }
+  };
+
+  /** Translate a static string by key */
+  function t(key) {
+    if (UI_TRANSLATIONS[currentLanguage] && UI_TRANSLATIONS[currentLanguage][key]) {
+      return UI_TRANSLATIONS[currentLanguage][key];
+    }
+    // Fallback to English
+    if (UI_TRANSLATIONS['en'] && UI_TRANSLATIONS['en'][key]) {
+      return UI_TRANSLATIONS['en'][key];
+    }
+    return key;
+  }
+
+  /** Get team name based on current language or team object */
+  function getTeamName(team) {
+    const id = typeof team === 'object' ? team.id : team;
+    if (TEAM_NAMES[id] && TEAM_NAMES[id][currentLanguage]) {
+      return TEAM_NAMES[id][currentLanguage];
+    }
+    if (typeof team === 'object') {
+      return currentLanguage === 'zh-CN' ? (team.name_cn || team.name) : team.name;
+    }
+    return id;
+  }
+
+  /** Get host city name */
+  function getCityName(city) {
+    if (CITY_NAMES[city] && CITY_NAMES[city][currentLanguage]) {
+      return CITY_NAMES[city][currentLanguage];
+    }
+    return city;
+  }
+
+  /** Get stage name */
+  function getStageName(stage) {
+    const key = `stage_${stage}`;
+    return t(key);
+  }
+
+  /** Get currently selected language */
+  function getLanguage() {
+    return currentLanguage;
+  }
+
+  /** Change language and fire update */
+  function setLanguage(lang) {
+    if (!LANGUAGES.includes(lang)) return;
+    currentLanguage = lang;
+    localStorage.setItem('world_cup_lang', lang);
+    
+    // Update documents lang attribute
+    document.documentElement.setAttribute('lang', lang === 'zh-CN' ? 'zh-CN' : lang);
+
+    // Apply translations to static elements
+    translatePage();
+
+    // Trigger update for page-specific dynamic rendering
+    window.dispatchEvent(new CustomEvent('lang-change', { detail: lang }));
+  }
+
+  /** Update all elements marked with data-i18n */
+  function translatePage() {
+    // 1. Text elements
+    document.querySelectorAll('[data-i18n]').forEach(el => {
+      const key = el.getAttribute('data-i18n');
+      const translation = t(key);
+      if (translation !== key) {
+        if (translation.includes('<')) {
+          el.innerHTML = translation;
+        } else {
+          el.textContent = translation;
+        }
+      }
+    });
+
+    // 2. Input Placeholders
+    document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+      const key = el.getAttribute('data-i18n-placeholder');
+      const translation = t(key);
+      if (translation !== key) {
+        el.setAttribute('placeholder', translation);
+      }
+    });
+
+    // 3. Title tags
+    const pageTitleKey = document.querySelector('title')?.getAttribute('data-i18n');
+    if (pageTitleKey) {
+      const translation = t(pageTitleKey);
+      if (translation !== pageTitleKey) {
+        document.title = translation;
+      }
+    }
+  }
+
+  // Run initial page translation when this script is loaded
+  document.addEventListener('DOMContentLoaded', () => {
+    document.documentElement.setAttribute('lang', currentLanguage === 'zh-CN' ? 'zh-CN' : currentLanguage);
+    translatePage();
+  });
+
+  return {
+    LANGUAGES,
+    getLanguage,
+    setLanguage,
+    t,
+    getTeamName,
+    getCityName,
+    getStageName,
+    translatePage
+  };
+})();

@@ -1,0 +1,212 @@
+/* ============================================
+   2026 FIFA World Cup — Predictions Page CSS
+   ============================================ */
+
+.predictions-controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-4);
+  margin-bottom: var(--space-8);
+}
+
+.search-filter-box {
+  width: 100%;
+  max-width: 400px;
+}
+
+.search-filter-box input {
+  width: 100%;
+  padding: var(--space-3) var(--space-5);
+  font-size: var(--text-sm);
+  background: var(--bg-card);
+  border: 1px solid var(--border-default);
+  border-radius: var(--radius-full);
+}
+
+.predictions-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: var(--space-6);
+}
+
+/* ── Prediction Card ── */
+.pred-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.pred-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: var(--text-xs);
+  color: var(--text-tertiary);
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: var(--space-2);
+}
+
+.pred-teams {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+}
+
+.pred-team {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-2);
+  flex: 1;
+  text-align: center;
+}
+
+.pred-team-name {
+  font-weight: var(--font-semibold);
+  font-size: var(--text-sm);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 110px;
+}
+
+.pred-score-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-1);
+}
+
+.pred-predicted-label {
+  font-size: 0.65rem;
+  color: var(--color-gold);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: var(--font-bold);
+}
+
+.pred-score-value {
+  font-family: var(--font-heading);
+  font-weight: var(--font-extrabold);
+  font-size: var(--text-2xl);
+  color: var(--text-primary);
+  background: rgba(255, 255, 255, 0.03);
+  padding: var(--space-1) var(--space-4);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+}
+
+/* ── Probability Bar ── */
+.pred-probabilities {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.pred-prob-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: var(--text-xs);
+  font-weight: var(--font-semibold);
+  color: var(--text-secondary);
+}
+
+.pred-prob-label.win { color: var(--color-success); }
+.pred-prob-label.draw { color: var(--text-tertiary); }
+.pred-prob-label.lose { color: var(--color-danger); }
+
+.pred-prob-bar {
+  display: flex;
+  height: 8px;
+  border-radius: var(--radius-full);
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.05);
+  margin: var(--space-1) 0;
+}
+
+.pred-prob-segment {
+  height: 100%;
+  transition: width var(--duration-slow) var(--ease-default);
+}
+
+.pred-prob-segment.home {
+  background: var(--color-success);
+}
+
+.pred-prob-segment.draw {
+  background: var(--text-tertiary);
+}
+
+.pred-prob-segment.away {
+  background: var(--color-danger);
+}
+
+/* ── Persona Toggles ── */
+.pred-persona-toggles {
+  display: flex;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  margin-top: var(--space-2);
+}
+
+.pred-persona-btn {
+  flex: 1;
+  padding: var(--space-2) var(--space-3);
+  font-size: var(--text-xs);
+  font-weight: var(--font-medium);
+  color: var(--text-tertiary);
+  background: rgba(255, 255, 255, 0.01);
+  cursor: pointer;
+  transition: all var(--duration-fast) var(--ease-default);
+  text-align: center;
+}
+
+.pred-persona-btn:hover {
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text-secondary);
+}
+
+.pred-persona-btn.active.expert {
+  background: rgba(16, 185, 129, 0.08);
+  color: var(--color-success);
+  font-weight: var(--font-semibold);
+}
+
+.pred-persona-btn.active.poison {
+  background: rgba(245, 158, 11, 0.08);
+  color: var(--color-warning);
+  font-weight: var(--font-semibold);
+}
+
+/* ── Comment Box ── */
+.pred-comment-box {
+  min-height: 80px;
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius-md);
+  font-size: var(--text-xs);
+  line-height: var(--leading-relaxed);
+  background: rgba(255, 255, 255, 0.01);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-secondary);
+  transition: all var(--duration-normal) var(--ease-default);
+}
+
+.pred-comment-box.expert-active {
+  border-color: rgba(16, 185, 129, 0.15);
+  background: rgba(16, 185, 129, 0.02);
+}
+
+.pred-comment-box.poison-active {
+  border-color: rgba(245, 158, 11, 0.15);
+  background: rgba(245, 158, 11, 0.02);
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .predictions-grid {
+    grid-template-columns: 1fr;
+  }
+}

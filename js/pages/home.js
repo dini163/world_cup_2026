@@ -1,0 +1,174 @@
+/**
+ * 2026 FIFA World Cup — Home Page Logic
+ */
+
+const HomePage = (() => {
+  let teams = [];
+  let matches = [];
+
+  async function init() {
+    try {
+      const data = await DataLoader.loadAll();
+      teams = data.teams;
+      matches = data.matches;
+      renderCountdown();
+      renderTicker();
+      renderTodayMatches();
+      
+      // Listen for language changes to re-render
+      window.addEventListener('lang-change', () => {
+        renderCountdown();
+        renderTicker();
+        renderTodayMatches();
+      });
+    } catch (err) {
+      console.error('[HomePage] Init failed:', err);
+    }
+  }
+
+  function renderCountdown() {
+    const container = document.getElementById('heroCountdown');
+    if (!container) return;
+
+    const tournamentStart = '2026-06-11';
+    const days = Helpers.daysUntil(tournamentStart);
+    const suffix = typeof I18n !== 'undefined' ? I18n.t('countdown_suffix') : '后开幕';
+    const daysText = typeof I18n !== 'undefined' ? I18n.t('countdown_days') : '天';
+
+    if (days > 0) {
+      container.innerHTML = `
+        <div class="countdown">
+          <div class="countdown-item">
+            <span class="countdown-value">${days}</span>
+            <span class="countdown-label">${daysText}</span>
+          </div>
+        </div>
+        <p style="margin-top:var(--space-2);font-size:var(--text-sm);color:var(--text-tertiary)">${days} ${suffix}</p>`;
+    } else if (days === 0) {
+      const todayText = typeof I18n !== 'undefined' ? I18n.t('countdown_today') : '世界杯今日开幕！';
+      container.innerHTML = `
+        <div class="live-indicator" style="font-size:var(--text-xl)">
+          <span class="live-dot"></span> ${todayText}
+        </div>`;
+    } else {
+      const endDate = '2026-07-19';
+      const daysToEnd = Helpers.daysUntil(endDate);
+      if (daysToEnd >= 0) {
+        const inprogressText = typeof I18n !== 'undefined' ? I18n.t('countdown_inprogress') : '世界杯进行中';
+        container.innerHTML = `
+          <div class="live-indicator" style="font-size:var(--text-lg)">
+            <span class="live-dot"></span> ${inprogressText}
+          </div>`;
+      } else {
+        const endedText = typeof I18n !== 'undefined' ? I18n.t('countdown_ended') : '🏆 2026世界杯已圆满结束';
+        container.innerHTML = `<p style="color:var(--text-gold);font-size:var(--text-lg)">${endedText}</p>`;
+      }
+    }
+  }
+
+  function renderTicker() {
+    const track = document.getElementById('tickerTrack');
+    if (!track) return;
+
+    // Show today's matches or next matchday
+    const today = Helpers.getToday();
+    let dayMatches = DataLoader.getMatchesByDate(matches, today);
+
+    if (dayMatches.length === 0) {
+      // Find next match day
+      const futureDates = DataLoader.getAllDates(matches).filter(d => d >= today);
+      if (futureDates.length > 0) {
+        dayMatches = DataLoader.getMatchesByDate(matches, futureDates[0]);
+      }
+    }
+
+    if (dayMatches.length === 0) return;
+
+    const items = dayMatches.map(m => {
+      const home = DataLoader.getTeamById(teams, m.home);
+      const away = DataLoader.getTeamById(teams, m.away);
+      if (!home || !away) return '';
+
+      const isLive = m.status === 'live';
+      const liveClass = isLive ? 'ticker-live' : '';
+      const scoreOrTime = m.home_score !== null
+        ? `<span class="ticker-score">${m.home_score} - ${m.away_score}</span>`
+        : `<span style="color:var(--text-tertiary);font-size:var(--text-xs)">${m.time}</span>`;
+
+      const homeName = Helpers.getTeamName(home);
+      const awayName = Helpers.getTeamName(away);
+
+      return `
+        <div class="ticker-item ${liveClass}">
+          <img src="${Helpers.getFlagUrl(home.flag_code, 'w40')}" class="flag-icon flag-icon-sm" style="display:inline-block; vertical-align:middle; margin-right:4px" alt="${homeName}">
+          <span style="font-weight:600">${homeName}</span>
+          ${scoreOrTime}
+          <span style="font-weight:600">${awayName}</span>
+          <img src="${Helpers.getFlagUrl(away.flag_code, 'w40')}" class="flag-icon flag-icon-sm" style="display:inline-block; vertical-align:middle; margin-left:4px" alt="${awayName}">
+          ${isLive ? '<span class="live-dot" style="margin-left:4px"></span>' : ''}
+        </div>`;
+    }).join('');
+
+    // Duplicate for seamless scrolling
+    track.innerHTML = items + items;
+  }
+
+  function renderTodayMatches() {
+    const container = document.getElementById('todayMatches');
+    const dateLabel = document.getElementById('matchDayLabel');
+    if (!container) return;
+
+    const today = Helpers.getToday();
+    let dayMatches = DataLoader.getMatchesByDate(matches, today);
+    let dateStr = today;
+
+    if (dayMatches.length === 0) {
+      // Find the closest matchday (next or previous)
+      const allDates = DataLoader.getAllDates(matches);
+      const futureDates = allDates.filter(d => d >= today);
+      const pastDates = allDates.filter(d => d < today);
+
+      if (futureDates.length > 0) {
+        dateStr = futureDates[0];
+        dayMatches = DataLoader.getMatchesByDate(matches, dateStr);
+      } else if (pastDates.length > 0) {
+        dateStr = pastDates[pastDates.length - 1];
+        dayMatches = DataLoader.getMatchesByDate(matches, dateStr);
+      }
+    }
+
+    if (dateLabel) {
+      const isT = Helpers.isToday(dateStr);
+      let prefix;
+      if (isT) {
+        const todayPrefix = typeof I18n !== 'undefined' ? I18n.t('match_day') : '今日比赛';
+        prefix = `<span class="live-dot" style="display:inline-block; margin-right:8px; width:8px; height:8px; background:var(--color-live); border-radius:50%"></span>${todayPrefix}`;
+      } else {
+        const isF = Helpers.isFuture(dateStr);
+        const nextLabel = typeof I18n !== 'undefined' ? I18n.t('next_match_day') : '下一比赛日';
+        const prevLabel = typeof I18n !== 'undefined' ? I18n.t('prev_match_day') : '上一比赛日';
+        prefix = isF ? nextLabel : prevLabel;
+      }
+      dateLabel.innerHTML = `${prefix} · ${Helpers.formatDate(dateStr)}`;
+    }
+
+    if (dayMatches.length === 0) {
+      const noMatchesTitle = typeof I18n !== 'undefined' ? I18n.t('no_matches_today') : '今日无比赛';
+      const scheduleBtnText = typeof I18n !== 'undefined' ? I18n.t('hero_btn_schedule') : '查看完整赛程';
+      container.innerHTML = `
+        <div class="empty-state">
+          <div class="empty-state-title">${noMatchesTitle}</div>
+          <div class="empty-state-desc">${scheduleBtnText}</div>
+        </div>`;
+      return;
+    }
+
+    // Sort by time
+    dayMatches.sort((a, b) => (a.time || '').localeCompare(b.time || ''));
+    MatchCard.renderList(dayMatches, teams, container);
+  }
+
+  return { init };
+})();
+
+document.addEventListener('DOMContentLoaded', () => HomePage.init());

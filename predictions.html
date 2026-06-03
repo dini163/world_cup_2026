@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="nav_predictions">AI 赛果预测 · 2026 FIFA World Cup</title>
+  <script>
+    (function() {
+      const theme = localStorage.getItem('world_cup_theme') || 'dark';
+      let actualTheme = theme;
+      if (theme === 'auto') {
+        actualTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      document.documentElement.setAttribute('data-theme', actualTheme);
+    })();
+  </script>
+  <meta name="description" content="2026世界杯AI赛果预测 — 概率分析、精选比分、专家分析与趣味毒奶">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏆</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/pages/predictions.css">
+</head>
+<body>
+  <div id="navPlaceholder"></div>
+
+  <div class="page-wrapper">
+    <div class="container">
+      <div class="page-header">
+        <h1><span class="text-gradient" data-i18n="pred_title">AI 赛果预测</span></h1>
+        <p data-i18n="pred_desc">AI Predictions · 大模型概率解析 · 理智分析与趣味毒奶</p>
+      </div>
+
+      <!-- View Toggle -->
+      <div class="predictions-controls">
+        <div id="dateSelector" class="tab-bar" style="margin-bottom:var(--space-4)"></div>
+        <div class="search-filter-box">
+          <input type="text" id="teamSearch" data-i18n-placeholder="search_placeholder" placeholder="搜索球队 (如: 巴西、Spain)..." />
+        </div>
+      </div>
+
+      <!-- Predictions Content -->
+      <div class="predictions-grid" id="predictionsGrid">
+        <div class="skeleton skeleton-card" style="height:320px"></div>
+        <div class="skeleton skeleton-card" style="height:320px"></div>
+        <div class="skeleton skeleton-card" style="height:320px"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="footerPlaceholder"></div>
+
+  <script src="js/data-loader.js"></script>
+  <script src="js/utils/i18n.js"></script>
+  <script src="js/utils/helpers.js"></script>
+  <script src="js/utils/calculator.js"></script>
+  <script src="js/components/navbar.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/pages/predictions.js"></script>
+</body>
+</html>

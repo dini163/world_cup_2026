@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="title">2026 FIFA World Cup · 美加墨世界杯</title>
+  <script>
+    (function() {
+      const theme = localStorage.getItem('world_cup_theme') || 'dark';
+      let actualTheme = theme;
+      if (theme === 'auto') {
+        actualTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      document.documentElement.setAttribute('data-theme', actualTheme);
+    })();
+  </script>
+  <meta name="description" content="2026 FIFA World Cup 美加墨世界杯专题网站 — 实时数据、AI预测、球迷互动一站式体验">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚽</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/pages/home.css">
+</head>
+<body>
+  <div id="navPlaceholder"></div>
+
+  <div class="page-wrapper">
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="particles" id="particles"></div>
+      <div class="hero-content">
+        <div class="hero-badge" data-i18n="hero_badge">FIFA WORLD CUP 2026</div>
+        <h1>
+          <span class="text-gradient" data-i18n="hero_title">2026 世界杯</span>
+        </h1>
+        <p class="hero-subtitle" data-i18n="hero_subtitle">美加墨联合承办 · 48支参赛球队 · 104场巅峰对决</p>
+        <div class="hero-hosts">
+          <span>UNITED STATES</span><span>·</span><span>CANADA</span><span>·</span><span>MEXICO</span>
+        </div>
+        <div id="heroCountdown"></div>
+        <div style="margin-top:var(--space-6)">
+          <a href="schedule.html" class="btn btn-primary btn-lg" data-i18n="hero_btn_schedule">查看完整赛程</a>
+          <a href="teams.html" class="btn btn-ghost btn-lg" style="margin-left:var(--space-3)" data-i18n="hero_btn_teams">48 支参赛球队</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Ticker -->
+    <div class="ticker-bar">
+      <div class="ticker-track" id="tickerTrack"></div>
+    </div>
+
+    <div class="container">
+      <!-- Quick Nav -->
+      <section class="section" style="padding-top:var(--space-10)">
+        <div class="quick-nav">
+          <a href="teams.html" class="quick-nav-card scroll-animate">
+            <span class="quick-nav-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2M9 11a4 4 0 100-8 4 4 0 000 8zm14 10v-2a4 4 0 00-3-3.87m-4-12a4 4 0 010 7.75"/></svg>
+            </span>
+            <span class="quick-nav-label" data-i18n="nav_teams">球队全景</span>
+            <span class="quick-nav-desc" data-i18n="desc_teams">48支参赛队伍名单及能力</span>
+          </a>
+          <a href="standings.html" class="quick-nav-card scroll-animate">
+            <span class="quick-nav-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 002 2h2a2 2 0 002-2"/></svg>
+            </span>
+            <span class="quick-nav-label" data-i18n="nav_standings">积分排名</span>
+            <span class="quick-nav-desc" data-i18n="desc_standings">12组小组赛实时积分榜</span>
+          </a>
+          <a href="schedule.html" class="quick-nav-card scroll-animate">
+            <span class="quick-nav-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+            </span>
+            <span class="quick-nav-label" data-i18n="nav_schedule">完整赛程</span>
+            <span class="quick-nav-desc" data-i18n="desc_schedule">104场比赛时间与地点查询</span>
+          </a>
+          <a href="standings.html" class="quick-nav-card scroll-animate">
+            <span class="quick-nav-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="4" y="4" width="16" height="16" rx="2" stroke-linecap="round" stroke-linejoin="round"/><path stroke-linecap="round" stroke-linejoin="round" d="M9 9h.01M15 9h.01M9 15h.01M15 15h.01"/></svg>
+            </span>
+            <span class="quick-nav-label" data-i18n="calc_title">出线算分器</span>
+            <span class="quick-nav-desc" data-i18n="desc_calculator">模拟比赛出线，推算32强</span>
+          </a>
+          <a href="predictions.html" class="quick-nav-card scroll-animate">
+            <span class="quick-nav-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="5" y="5" width="14" height="14" rx="2"/><path d="M9 1v4M15 1v4M9 19v4M15 19v4M1 9h4M1 15h4M19 9h4M19 15h4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </span>
+            <span class="quick-nav-label" data-i18n="nav_predictions">AI预测</span>
+            <span class="quick-nav-desc" data-i18n="desc_predictions">基于大模型的赛果智能解析</span>
+          </a>
+          <a href="bracket.html" class="quick-nav-card scroll-animate">
+            <span class="quick-nav-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 14a7 7 0 007-7V3H5v4a7 7 0 007 7zm0 0v6m0 0H8m4 0h4M4 5h2M20 5h-2"/></svg>
+            </span>
+            <span class="quick-nav-label" data-i18n="nav_bracket">淘汰赛</span>
+            <span class="quick-nav-desc" data-i18n="desc_bracket">决赛晋级对抗树图谱</span>
+          </a>
+        </div>
+      </section>
+
+      <!-- Today's Matches -->
+      <section class="section" style="padding-top:0">
+        <div class="section-header">
+          <h2 id="matchDayLabel" data-i18n="match_day">比赛日</h2>
+          <a href="schedule.html" class="view-all" data-i18n="view_all">查看全部 →</a>
+        </div>
+        <div class="matches-grid" id="todayMatches">
+          <div class="skeleton skeleton-card"></div>
+          <div class="skeleton skeleton-card"></div>
+          <div class="skeleton skeleton-card"></div>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <div id="footerPlaceholder"></div>
+
+  <script src="js/data-loader.js"></script>
+  <script src="js/utils/i18n.js"></script>
+  <script src="js/utils/helpers.js"></script>
+  <script src="js/utils/calculator.js"></script>
+  <script src="js/components/navbar.js"></script>
+  <script src="js/components/match-card.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/pages/home.js"></script>
+  <script>
+    // Generate decorative particles
+    const particlesEl = document.getElementById('particles');
+    if (particlesEl) {
+      for (let i = 0; i < 20; i++) {
+        const p = document.createElement('div');
+        p.className = 'particle';
+        p.style.left = Math.random() * 100 + '%';
+        p.style.top = Math.random() * 100 + '%';
+        p.style.width = (2 + Math.random() * 4) + 'px';
+        p.style.height = p.style.width;
+        p.style.animationDelay = -(Math.random() * 6) + 's';
+        p.style.animationDuration = (4 + Math.random() * 6) + 's';
+        particlesEl.appendChild(p);
+      }
+    }
+  </script>
+</body>
+</html>

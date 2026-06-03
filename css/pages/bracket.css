@@ -1,0 +1,247 @@
+/* ============================================
+   2026 FIFA World Cup — Bracket Page CSS
+   ============================================ */
+
+.bracket-controls {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-4);
+  margin-bottom: var(--space-8);
+  flex-wrap: wrap;
+}
+
+.bracket-scroll-container {
+  width: 100%;
+  overflow-x: auto;
+  padding: var(--space-4) 0 var(--space-12);
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-gold) var(--bg-secondary);
+}
+
+.bracket-scroll-container::-webkit-scrollbar {
+  height: 6px;
+}
+
+.bracket-scroll-container::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+
+.bracket-scroll-container::-webkit-scrollbar-thumb {
+  background-color: var(--color-gold);
+  border-radius: var(--radius-full);
+}
+
+.bracket-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: var(--space-8);
+  min-width: 1650px;
+  margin: 0 auto;
+  padding: 0 var(--space-6);
+}
+
+/* ── Bracket Sides ── */
+.bracket-side {
+  display: flex;
+  gap: var(--space-8);
+  flex: 1;
+}
+
+.bracket-side.left-side {
+  flex-direction: row; /* R32 -> R16 -> QF -> SF */
+}
+
+.bracket-side.right-side {
+  flex-direction: row-reverse; /* SF <- QF <- R16 <- R32 (SF is inner, R32 is outer) */
+}
+
+.bracket-round {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 220px;
+  position: relative;
+}
+
+/* ── Center Column (Finals) ── */
+.bracket-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: var(--space-10);
+  width: 280px;
+  padding: var(--space-6);
+  background: rgba(197, 168, 128, 0.02);
+  border-left: 1px dashed rgba(197, 168, 128, 0.1);
+  border-right: 1px dashed rgba(197, 168, 128, 0.1);
+  border-radius: var(--radius-xl);
+}
+
+.bracket-center-section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.bracket-center-title {
+  font-family: var(--font-heading);
+  font-size: var(--text-base);
+  font-weight: var(--font-bold);
+  color: var(--text-gold);
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  text-shadow: 0 0 10px rgba(197, 168, 128, 0.2);
+}
+
+/* Trophy animation */
+.trophy-container {
+  font-size: 3.5rem;
+  margin-bottom: var(--space-2);
+  animation: float 4s ease-in-out infinite;
+  filter: drop-shadow(0 0 15px rgba(197, 168, 128, 0.4));
+}
+
+.champion-display {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--space-4) var(--space-6);
+  background: linear-gradient(135deg, rgba(197, 168, 128, 0.1) 0%, rgba(255, 255, 255, 0.01) 100%);
+  border: 1px solid var(--color-gold);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-gold), 0 0 30px rgba(197, 168, 128, 0.15);
+  width: 100%;
+  animation: pulseGold 3s infinite;
+}
+
+.champion-display .champion-name {
+  font-size: var(--text-lg);
+  font-weight: var(--font-bold);
+  color: var(--text-primary);
+  margin-top: var(--space-2);
+}
+
+/* ── Match Card ── */
+.bracket-match {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  transition: all var(--duration-normal) var(--ease-default);
+}
+
+.bracket-match:hover {
+  border-color: var(--border-gold);
+  box-shadow: 0 4px 15px rgba(197, 168, 128, 0.08);
+}
+
+.bracket-match-header {
+  display: flex;
+  justify-content: space-between;
+  padding: var(--space-1) var(--space-3);
+  font-size: 0.65rem;
+  color: var(--text-tertiary);
+  background: rgba(255, 255, 255, 0.01);
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.bracket-match-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.bracket-team-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-2) var(--space-3);
+  cursor: pointer;
+  transition: background var(--duration-fast) var(--ease-default);
+  user-select: none;
+}
+
+.bracket-team-row:first-child {
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.bracket-team-row:hover {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.bracket-team-info {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  min-width: 0;
+}
+
+.bracket-team-name {
+  font-size: var(--text-sm);
+  font-weight: var(--font-medium);
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.bracket-team-row.winner .bracket-team-name {
+  color: var(--text-primary);
+  font-weight: var(--font-semibold);
+}
+
+.bracket-team-row.winner::after {
+  content: '✓';
+  color: var(--color-success);
+  font-size: var(--text-xs);
+  font-weight: var(--font-bold);
+  margin-left: var(--space-2);
+}
+
+.bracket-team-row.loser {
+  opacity: 0.4;
+}
+
+.bracket-team-row.empty {
+  cursor: default;
+}
+
+.bracket-team-row.empty .bracket-team-name {
+  color: var(--text-tertiary);
+  font-style: italic;
+}
+
+.bracket-team-score {
+  font-family: var(--font-heading);
+  font-weight: var(--font-bold);
+  font-size: var(--text-sm);
+  color: var(--text-tertiary);
+}
+
+.bracket-team-row.winner .bracket-team-score {
+  color: var(--text-gold);
+}
+
+/* Highlight matching paths */
+.bracket-team-row.highlight-path {
+  background: rgba(197, 168, 128, 0.08);
+}
+
+/* Animations */
+@keyframes pulseGold {
+  0% {
+    box-shadow: 0 0 15px rgba(197, 168, 128, 0.1), var(--shadow-gold);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(197, 168, 128, 0.25), var(--shadow-gold);
+  }
+  100% {
+    box-shadow: 0 0 15px rgba(197, 168, 128, 0.1), var(--shadow-gold);
+  }
+}
