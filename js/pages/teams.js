@@ -67,20 +67,33 @@ const TeamsPage = (() => {
   }
 
   function initModalClose() {
-    const overlay = document.getElementById('teamModal');
-    if (!overlay) return;
+    const teamOverlay = document.getElementById('teamModal');
+    if (teamOverlay) {
+      teamOverlay.addEventListener('click', (e) => {
+        if (e.target === teamOverlay) TeamCard.closeModal();
+      });
+      const closeBtn = teamOverlay.querySelector('.modal-close');
+      if (closeBtn) {
+        closeBtn.addEventListener('click', () => TeamCard.closeModal());
+      }
+    }
 
-    overlay.addEventListener('click', (e) => {
-      if (e.target === overlay) TeamCard.closeModal();
-    });
-
-    const closeBtn = overlay.querySelector('.modal-close');
-    if (closeBtn) {
-      closeBtn.addEventListener('click', () => TeamCard.closeModal());
+    const playerOverlay = document.getElementById('playerModal');
+    if (playerOverlay) {
+      playerOverlay.addEventListener('click', (e) => {
+        if (e.target === playerOverlay) TeamCard.closePlayerModal();
+      });
+      const closeBtn = playerOverlay.querySelector('.modal-close');
+      if (closeBtn) {
+        closeBtn.addEventListener('click', () => TeamCard.closePlayerModal());
+      }
     }
 
     document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') TeamCard.closeModal();
+      if (e.key === 'Escape') {
+        TeamCard.closeModal();
+        TeamCard.closePlayerModal();
+      }
     });
   }
 

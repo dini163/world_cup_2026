@@ -119,7 +119,7 @@ const TeamCard = (() => {
 
         <div class="squad-section">
           <h4>${squadLabel}</h4>
-          ${renderSquadTable(team.squad)}
+          ${renderSquadTable(team.squad, team.id)}
         </div>`;
 
       overlay.classList.add('is-open');
@@ -175,7 +175,47 @@ const TeamCard = (() => {
     </div>`;
   }
 
-  function renderSquadTable(squad) {
+  function getInitials(name) {
+    const parts = name.split(' ');
+    if (parts.length >= 2) {
+      return (parts[0][0] + parts[parts.length - 1][0]).toUpperCase();
+    }
+    return name.substring(0, 2).toUpperCase();
+  }
+
+  function getStableColor(name) {
+    let hash = 0;
+    for (let i = 0; i < name.length; i++) {
+      hash = name.charCodeAt(i) + ((hash << 5) - hash);
+    }
+    const hue = Math.abs(hash % 360);
+    return `linear-gradient(135deg, hsl(${hue}, 70%, 45%), hsl(${(hue + 40) % 360}, 75%, 25%))`;
+  }
+
+  function renderMiniAvatar(name) {
+    const initials = getInitials(name);
+    const bg = getStableColor(name);
+    return `
+      <div class="player-mini-avatar" style="
+        width: 28px;
+        height: 28px;
+        border-radius: 50%;
+        background: ${bg};
+        color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 0.72rem;
+        font-weight: 700;
+        border: 1px solid rgba(255,255,255,0.2);
+        box-shadow: 0 2px 4px rgba(0,0,0,0.25);
+        flex-shrink: 0;
+      ">
+        ${initials}
+      </div>`;
+  }
+
+  function renderSquadTable(squad, teamId) {
     const noSquadInfo = typeof I18n !== 'undefined' ? I18n.t('no_squad_info') : '暂无阵容信息';
     if (!squad || squad.length === 0) return `<p style="color:var(--text-tertiary);font-size:var(--text-sm)">${noSquadInfo}</p>`;
 
@@ -186,13 +226,20 @@ const TeamCard = (() => {
     const tInjury = typeof I18n !== 'undefined' ? I18n.t('table_injury') : '伤情';
 
     const rows = squad.map(p => {
+      const displayName = typeof I18n !== 'undefined' && I18n.getLanguage() === 'zh-CN' ? (p.name_cn || p.name) : p.name;
       const keyClass = p.is_key ? 'player-key' : '';
       const injuryHtml = p.injury
         ? `<span class="injury-status"><span class="injury-dot ${p.injury.impact}"></span> ${p.injury.type}</span>`
         : '—';
+      const avatarHtml = renderMiniAvatar(p.name);
       return `
-        <tr>
-          <td class="${keyClass}">${p.is_key ? '⭐ ' : ''}${p.name}</td>
+        <tr onclick="TeamCard.showPlayerDetail('${teamId}', '${p.name.replace(/'/g, "\\'")}')" style="cursor: pointer;">
+          <td class="${keyClass}">
+            <div style="display:flex; align-items:center; gap:8px;">
+              ${avatarHtml}
+              <span>${p.is_key ? '⭐ ' : ''}${displayName}</span>
+            </div>
+          </td>
           <td>${p.pos}</td>
           <td>${p.age}</td>
           <td>${p.club}</td>
@@ -207,10 +254,178 @@ const TeamCard = (() => {
       </table>`;
   }
 
+  function generatePlayerStats(player, team) {
+    const seed = player.name;
+    let hash = 0;
+    for (let i = 0; i < seed.length; i++) {
+      hash = seed.charCodeAt(i) + ((hash << 5) - hash);
+    }
+    const rand = () => {
+      let x = Math.sin(hash++) * 10000;
+      return x - Math.floor(x);
+    };
+
+    const teamOverall = team.strength.overall;
+    let overall = teamOverall + Math.floor(rand() * 10 - 5);
+    if (player.is_key) {
+      overall = Math.max(overall, teamOverall + 5 + Math.floor(rand() * 5));
+    }
+    overall = Math.min(99, Math.max(50, overall));
+
+    let pac = 50, sho = 50, pas = 50, dri = 50, def = 50, phy = 50;
+
+    if (player.pos === 'FW') {
+      pac = 75 + Math.floor(rand() * 20);
+      sho = 75 + Math.floor(rand() * 20);
+      pas = 65 + Math.floor(rand() * 20);
+      dri = 75 + Math.floor(rand() * 20);
+      def = 25 + Math.floor(rand() * 25);
+      phy = 60 + Math.floor(rand() * 25);
+    } else if (player.pos === 'MF') {
+      pac = 65 + Math.floor(rand() * 20);
+      sho = 60 + Math.floor(rand() * 25);
+      pas = 75 + Math.floor(rand() * 20);
+      dri = 75 + Math.floor(rand() * 20);
+      def = 55 + Math.floor(rand() * 25);
+      phy = 65 + Math.floor(rand() * 20);
+    } else if (player.pos === 'DF') {
+      pac = 60 + Math.floor(rand() * 25);
+      sho = 30 + Math.floor(rand() * 30);
+      pas = 55 + Math.floor(rand() * 25);
+      dri = 60 + Math.floor(rand() * 25);
+      def = 75 + Math.floor(rand() * 20);
+      phy = 75 + Math.floor(rand() * 20);
+    } else if (player.pos === 'GK') {
+      pac = 70 + Math.floor(rand() * 25);
+      sho = 70 + Math.floor(rand() * 25);
+      pas = 60 + Math.floor(rand() * 30);
+      dri = 75 + Math.floor(rand() * 20);
+      def = 40 + Math.floor(rand() * 30);
+      phy = 70 + Math.floor(rand() * 25);
+    }
+
+    const scale = (val) => {
+      let offset = overall - 75;
+      let scaled = val + Math.floor(offset * 0.7);
+      return Math.min(99, Math.max(30, scaled));
+    };
+
+    return {
+      overall,
+      pac: scale(pac),
+      sho: scale(sho),
+      pas: scale(pas),
+      dri: scale(dri),
+      def: scale(def),
+      phy: scale(phy)
+    };
+  }
+
+  function showPlayerDetail(teamId, playerName) {
+    DataLoader.load('teams').then(teams => {
+      const team = teams.find(t => t.id === teamId);
+      if (!team) return;
+
+      const player = team.squad.find(p => p.name === playerName);
+      if (!player) return;
+
+      const overlay = document.getElementById('playerModal');
+      const modalBody = document.getElementById('playerModalBody');
+      if (!overlay || !modalBody) return;
+
+      const stats = generatePlayerStats(player, team);
+
+      const displayName = typeof I18n !== 'undefined' && I18n.getLanguage() === 'zh-CN' ? (player.name_cn || player.name) : player.name;
+      const subName = typeof I18n !== 'undefined' && I18n.getLanguage() === 'zh-CN' ? player.name : (player.name_cn || '');
+      const initials = getInitials(player.name);
+      const bg = getStableColor(player.name);
+
+      const clubLabel = typeof I18n !== 'undefined' ? I18n.t('table_club') : '俱乐部';
+      const leagueLabel = typeof I18n !== 'undefined' ? I18n.t('table_league') : '联赛';
+      const ageLabel = typeof I18n !== 'undefined' ? I18n.t('table_age') : '年龄';
+      const posLabel = typeof I18n !== 'undefined' ? I18n.t('table_pos') : '位置';
+      const injuryLabel = typeof I18n !== 'undefined' ? I18n.t('table_injury') : '伤情';
+
+      const injuryHtml = player.injury
+        ? `<span class="injury-status"><span class="injury-dot ${player.injury.impact}"></span> ${player.injury.type}</span>`
+        : '—';
+
+      const pacText = player.pos === 'GK' ? 'DIV' : 'PAC';
+      const shoText = player.pos === 'GK' ? 'HAN' : 'SHO';
+      const pasText = player.pos === 'GK' ? 'KIC' : 'PAS';
+      const driText = player.pos === 'GK' ? 'REF' : 'DRI';
+      const defText = player.pos === 'GK' ? 'SPD' : 'DEF';
+      const phyText = player.pos === 'GK' ? 'POS' : 'PHY';
+
+      modalBody.innerHTML = `
+        <div class="fut-card-container">
+          <div class="fut-card">
+            <div class="fut-card-top">
+              <div class="fut-card-badge">
+                <div class="fut-card-rating">${stats.overall}</div>
+                <div class="fut-card-pos">${player.pos}</div>
+                <img src="${Helpers.getFlagUrl(team.flag_code, 'w40')}" class="fut-card-flag" alt="${team.name}">
+              </div>
+              <div class="fut-card-pic-wrapper">
+                <div class="fut-card-pic" style="background: ${bg};">
+                  ${initials}
+                </div>
+              </div>
+            </div>
+            <div class="fut-card-name">${displayName}</div>
+            ${subName ? `<div class="fut-card-name-cn">${subName}</div>` : ''}
+            <div class="fut-card-stats">
+              <div class="fut-stats-col">
+                <div class="fut-stat-row"><span>${pacText}</span><span class="fut-stat-val">${stats.pac}</span></div>
+                <div class="fut-stat-row"><span>${shoText}</span><span class="fut-stat-val">${stats.sho}</span></div>
+                <div class="fut-stat-row"><span>${pasText}</span><span class="fut-stat-val">${stats.pas}</span></div>
+              </div>
+              <div class="fut-stats-col">
+                <div class="fut-stat-row"><span>${driText}</span><span class="fut-stat-val">${stats.dri}</span></div>
+                <div class="fut-stat-row"><span>${defText}</span><span class="fut-stat-val">${stats.def}</span></div>
+                <div class="fut-stat-row"><span>${phyText}</span><span class="fut-stat-val">${stats.phy}</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="player-info-section">
+          <div class="player-info-item">
+            <span class="player-info-label">${clubLabel}</span>
+            <span class="player-info-val">${player.club}</span>
+          </div>
+          <div class="player-info-item">
+            <span class="player-info-label">${leagueLabel}</span>
+            <span class="player-info-val">${player.league}</span>
+          </div>
+          <div class="player-info-item">
+            <span class="player-info-label">${ageLabel}</span>
+            <span class="player-info-val">${player.age}</span>
+          </div>
+          <div class="player-info-item">
+            <span class="player-info-label">${posLabel}</span>
+            <span class="player-info-val">${player.pos}</span>
+          </div>
+          <div class="player-info-item">
+            <span class="player-info-label">${injuryLabel}</span>
+            <span class="player-info-val">${injuryHtml}</span>
+          </div>
+        </div>
+      `;
+
+      overlay.classList.add('is-open');
+    });
+  }
+
+  function closePlayerModal() {
+    const overlay = document.getElementById('playerModal');
+    if (overlay) overlay.classList.remove('is-open');
+  }
+
   function closeModal() {
     const overlay = document.getElementById('teamModal');
     if (overlay) overlay.classList.remove('is-open');
   }
 
-  return { render, renderGrid, showDetail, closeModal };
+  return { render, renderGrid, showDetail, closeModal, showPlayerDetail, closePlayerModal };
 })();

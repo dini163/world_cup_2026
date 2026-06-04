@@ -62,6 +62,17 @@
     </div>
   </div>
 
+  <!-- Player Detail Modal -->
+  <div class="modal-overlay" id="playerModal" style="z-index: 1100;">
+    <div class="modal" style="max-width: 420px; border: 2px solid var(--color-gold);">
+      <div class="modal-header">
+        <h3 id="playerModalTitle" data-i18n="player_detail_title">球员详情</h3>
+        <button class="modal-close" onclick="TeamCard.closePlayerModal()">✕</button>
+      </div>
+      <div class="modal-body" id="playerModalBody"></div>
+    </div>
+  </div>
+
   <div id="footerPlaceholder"></div>
 
   <script src="js/data-loader.js"></script>

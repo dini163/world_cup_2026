@@ -74,6 +74,7 @@ const I18n = (() => {
       table_league: '联赛',
       table_injury: '伤情',
       no_squad_info: '暂无阵容信息',
+      player_detail_title: '球员详情',
       
       tab_groups: '小组赛积分',
       tab_calculator: '出线算分模拟',
@@ -255,6 +256,7 @@ const I18n = (() => {
       table_league: 'League',
       table_injury: 'Injury',
       no_squad_info: 'No squad roster available',
+      player_detail_title: 'Player Details',
       
       tab_groups: 'Group Tables',
       tab_calculator: 'Qualification Calculator',
@@ -436,6 +438,7 @@ const I18n = (() => {
       table_league: 'Liga',
       table_injury: 'Lesión',
       no_squad_info: 'No hay lista de convocados disponible',
+      player_detail_title: 'Detalles del Jugador',
       
       tab_groups: 'Fase de Grupos',
       tab_calculator: 'Calculadora de Clasificación',
@@ -617,6 +620,7 @@ const I18n = (() => {
       table_league: 'Ligue',
       table_injury: 'Blessure',
       no_squad_info: 'Aucun effectif disponible',
+      player_detail_title: 'Détails du Joueur',
       
       tab_groups: 'Phase de Groupes',
       tab_calculator: 'Calculateur de Qualification',

@@ -1,61 +1,5094 @@
 [
-  {"id":"MEX","name":"Mexico","name_cn":"墨西哥","group":"A","flag":"🇲🇽","flag_code":"mx","fifa_ranking":14,"confederation":"CONCACAF","coach":"Javier Aguirre","best_finish":"Quarter-finals (1970, 1986)","key_players":["Edson Álvarez","Santiago Giménez","Hirving Lozano"],"formation":"4-3-3","strength":{"attack":78,"midfield":80,"defense":76,"overall":78},"squad":[{"name":"Guillermo Ochoa","pos":"GK","age":41,"club":"Salernitana","league":"Serie A","is_key":false,"injury":null},{"name":"Edson Álvarez","pos":"MF","age":28,"club":"West Ham","league":"Premier League","is_key":true,"injury":null},{"name":"Santiago Giménez","pos":"FW","age":25,"club":"Feyenoord","league":"Eredivisie","is_key":true,"injury":null},{"name":"Hirving Lozano","pos":"FW","age":30,"club":"PSV","league":"Eredivisie","is_key":true,"injury":null},{"name":"César Montes","pos":"DF","age":29,"club":"Monterrey","league":"Liga MX","is_key":false,"injury":null},{"name":"Luis Romo","pos":"MF","age":29,"club":"Monterrey","league":"Liga MX","is_key":false,"injury":null}]},
-  {"id":"RSA","name":"South Africa","name_cn":"南非","group":"A","flag":"🇿🇦","flag_code":"za","fifa_ranking":59,"confederation":"CAF","coach":"Hugo Broos","best_finish":"Group Stage (1998, 2002, 2010)","key_players":["Percy Tau","Themba Zwane","Ronwen Williams"],"formation":"4-3-3","strength":{"attack":68,"midfield":70,"defense":72,"overall":70},"squad":[{"name":"Ronwen Williams","pos":"GK","age":34,"club":"Mamelodi Sundowns","league":"PSL","is_key":true,"injury":null},{"name":"Percy Tau","pos":"FW","age":32,"club":"Al Ahly","league":"Egyptian League","is_key":true,"injury":null},{"name":"Themba Zwane","pos":"MF","age":36,"club":"Mamelodi Sundowns","league":"PSL","is_key":true,"injury":null},{"name":"Mothobi Mvala","pos":"MF","age":30,"club":"Mamelodi Sundowns","league":"PSL","is_key":false,"injury":null}]},
-  {"id":"KOR","name":"South Korea","name_cn":"韩国","group":"A","flag":"🇰🇷","flag_code":"kr","fifa_ranking":22,"confederation":"AFC","coach":"Hong Myung-bo","best_finish":"4th Place (2002)","key_players":["Son Heung-min","Kim Min-jae","Lee Kang-in"],"formation":"4-2-3-1","strength":{"attack":82,"midfield":80,"defense":78,"overall":80},"squad":[{"name":"Son Heung-min","pos":"FW","age":33,"club":"Tottenham","league":"Premier League","is_key":true,"injury":null},{"name":"Kim Min-jae","pos":"DF","age":29,"club":"Bayern Munich","league":"Bundesliga","is_key":true,"injury":null},{"name":"Lee Kang-in","pos":"MF","age":25,"club":"PSG","league":"Ligue 1","is_key":true,"injury":null},{"name":"Hwang Hee-chan","pos":"FW","age":30,"club":"Wolverhampton","league":"Premier League","is_key":false,"injury":null}]},
-  {"id":"CZE","name":"Czechia","name_cn":"捷克","group":"A","flag":"🇨🇿","flag_code":"cz","fifa_ranking":36,"confederation":"UEFA","coach":"Ivan Hašek","best_finish":"Runner-up (1934, 1962)","key_players":["Patrik Schick","Tomáš Souček","Vladimír Coufal"],"formation":"3-5-2","strength":{"attack":74,"midfield":76,"defense":75,"overall":75},"squad":[{"name":"Patrik Schick","pos":"FW","age":30,"club":"Bayer Leverkusen","league":"Bundesliga","is_key":true,"injury":null},{"name":"Tomáš Souček","pos":"MF","age":31,"club":"West Ham","league":"Premier League","is_key":true,"injury":null},{"name":"Vladimír Coufal","pos":"DF","age":34,"club":"West Ham","league":"Premier League","is_key":true,"injury":null}]},
-
-  {"id":"CAN","name":"Canada","name_cn":"加拿大","group":"B","flag":"🇨🇦","flag_code":"ca","fifa_ranking":35,"confederation":"CONCACAF","coach":"Jesse Marsch","best_finish":"Group Stage (2022)","key_players":["Alphonso Davies","Jonathan David","Cyle Larin"],"formation":"4-4-2","strength":{"attack":79,"midfield":76,"defense":74,"overall":76},"squad":[{"name":"Alphonso Davies","pos":"DF","age":25,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Jonathan David","pos":"FW","age":26,"club":"Barcelona","league":"La Liga","is_key":true,"injury":null},{"name":"Cyle Larin","pos":"FW","age":31,"club":"Real Valladolid","league":"La Liga","is_key":true,"injury":null}]},
-  {"id":"BIH","name":"Bosnia & Herzegovina","name_cn":"波黑","group":"B","flag":"🇧🇦","flag_code":"ba","fifa_ranking":62,"confederation":"UEFA","coach":"Sergej Barbarež","best_finish":"Group Stage (2014)","key_players":["Edin Džeko","Miralem Pjanić","Ermedin Demirović"],"formation":"4-3-3","strength":{"attack":72,"midfield":74,"defense":70,"overall":72},"squad":[{"name":"Edin Džeko","pos":"FW","age":40,"club":"Fenerbahçe","league":"Süper Lig","is_key":true,"injury":null},{"name":"Miralem Pjanić","pos":"MF","age":36,"club":"Sharjah FC","league":"UAE League","is_key":true,"injury":null},{"name":"Ermedin Demirović","pos":"FW","age":28,"club":"Stuttgart","league":"Bundesliga","is_key":true,"injury":null}]},
-  {"id":"QAT","name":"Qatar","name_cn":"卡塔尔","group":"B","flag":"🇶🇦","flag_code":"qa","fifa_ranking":45,"confederation":"AFC","coach":"Carlos Queiroz","best_finish":"Group Stage (2022)","key_players":["Akram Afif","Almoez Ali","Hassan Al-Haydos"],"formation":"5-3-2","strength":{"attack":70,"midfield":72,"defense":72,"overall":71},"squad":[{"name":"Akram Afif","pos":"FW","age":27,"club":"Al Sadd","league":"QSL","is_key":true,"injury":null},{"name":"Almoez Ali","pos":"FW","age":29,"club":"Al Duhail","league":"QSL","is_key":true,"injury":null},{"name":"Hassan Al-Haydos","pos":"MF","age":35,"club":"Al Sadd","league":"QSL","is_key":true,"injury":null}]},
-  {"id":"SUI","name":"Switzerland","name_cn":"瑞士","group":"B","flag":"🇨🇭","flag_code":"ch","fifa_ranking":18,"confederation":"UEFA","coach":"Murat Yakın","best_finish":"Quarter-finals (1934, 1938, 1954, 2024)","key_players":["Granit Xhaka","Xherdan Shaqiri","Manuel Akanji"],"formation":"3-4-3","strength":{"attack":76,"midfield":82,"defense":80,"overall":79},"squad":[{"name":"Granit Xhaka","pos":"MF","age":33,"club":"Bayer Leverkusen","league":"Bundesliga","is_key":true,"injury":null},{"name":"Manuel Akanji","pos":"DF","age":30,"club":"Man City","league":"Premier League","is_key":true,"injury":null},{"name":"Xherdan Shaqiri","pos":"MF","age":34,"club":"Basel","league":"Super League","is_key":true,"injury":null}]},
-
-  {"id":"BRA","name":"Brazil","name_cn":"巴西","group":"C","flag":"🇧🇷","flag_code":"br","fifa_ranking":3,"confederation":"CONMEBOL","coach":"Dorival Júnior","best_finish":"Champion (5x: 1958,1962,1970,1994,2002)","key_players":["Vinícius Jr","Rodrygo","Éder Militão"],"formation":"4-2-3-1","strength":{"attack":92,"midfield":88,"defense":85,"overall":90},"squad":[{"name":"Vinícius Jr","pos":"FW","age":25,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Rodrygo","pos":"FW","age":25,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Éder Militão","pos":"DF","age":28,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Alisson","pos":"GK","age":33,"club":"Liverpool","league":"Premier League","is_key":true,"injury":null},{"name":"Bruno Guimarães","pos":"MF","age":28,"club":"Newcastle","league":"Premier League","is_key":true,"injury":null},{"name":"Raphinha","pos":"FW","age":29,"club":"Barcelona","league":"La Liga","is_key":false,"injury":null}]},
-  {"id":"MAR","name":"Morocco","name_cn":"摩洛哥","group":"C","flag":"🇲🇦","flag_code":"ma","fifa_ranking":12,"confederation":"CAF","coach":"Walid Regragui","best_finish":"4th Place (2022)","key_players":["Achraf Hakimi","Hakim Ziyech","Youssef En-Nesyri"],"formation":"4-3-3","strength":{"attack":80,"midfield":82,"defense":84,"overall":82},"squad":[{"name":"Achraf Hakimi","pos":"DF","age":27,"club":"PSG","league":"Ligue 1","is_key":true,"injury":null},{"name":"Hakim Ziyech","pos":"MF","age":33,"club":"Galatasaray","league":"Süper Lig","is_key":true,"injury":null},{"name":"Youssef En-Nesyri","pos":"FW","age":29,"club":"Fenerbahçe","league":"Süper Lig","is_key":true,"injury":null}]},
-  {"id":"HAI","name":"Haiti","name_cn":"海地","group":"C","flag":"🇭🇹","flag_code":"ht","fifa_ranking":82,"confederation":"CONCACAF","coach":"Grégory Dufer","best_finish":"Group Stage (1974)","key_players":["Frantzdy Pierrot","Derrick Etienne Jr","Duckens Nazon"],"formation":"4-4-2","strength":{"attack":62,"midfield":60,"defense":58,"overall":60},"squad":[{"name":"Frantzdy Pierrot","pos":"FW","age":31,"club":"Göztepe","league":"Süper Lig","is_key":true,"injury":null},{"name":"Derrick Etienne Jr","pos":"FW","age":29,"club":"Columbus Crew","league":"MLS","is_key":true,"injury":null}]},
-  {"id":"SCO","name":"Scotland","name_cn":"苏格兰","group":"C","flag":"🏴󠁧󠁢󠁳󠁣󠁴󠁿","flag_code":"gb-sct","fifa_ranking":42,"confederation":"UEFA","coach":"Steve Clarke","best_finish":"Group Stage (8 appearances)","key_players":["Andy Robertson","John McGinn","Scott McTominay"],"formation":"3-5-2","strength":{"attack":72,"midfield":76,"defense":74,"overall":74},"squad":[{"name":"Andy Robertson","pos":"DF","age":32,"club":"Liverpool","league":"Premier League","is_key":true,"injury":null},{"name":"John McGinn","pos":"MF","age":31,"club":"Aston Villa","league":"Premier League","is_key":true,"injury":null},{"name":"Scott McTominay","pos":"MF","age":29,"club":"Napoli","league":"Serie A","is_key":true,"injury":null}]},
-
-  {"id":"USA","name":"United States","name_cn":"美国","group":"D","flag":"🇺🇸","flag_code":"us","fifa_ranking":11,"confederation":"CONCACAF","coach":"Mauricio Pochettino","best_finish":"3rd Place (1930)","key_players":["Christian Pulisic","Weston McKennie","Yunus Musah"],"formation":"4-3-3","strength":{"attack":82,"midfield":80,"defense":78,"overall":80},"squad":[{"name":"Christian Pulisic","pos":"FW","age":27,"club":"AC Milan","league":"Serie A","is_key":true,"injury":null},{"name":"Weston McKennie","pos":"MF","age":27,"club":"Juventus","league":"Serie A","is_key":true,"injury":null},{"name":"Yunus Musah","pos":"MF","age":23,"club":"AC Milan","league":"Serie A","is_key":true,"injury":null},{"name":"Tyler Adams","pos":"MF","age":27,"club":"Bournemouth","league":"Premier League","is_key":false,"injury":null},{"name":"Gio Reyna","pos":"FW","age":23,"club":"Borussia Dortmund","league":"Bundesliga","is_key":false,"injury":null}]},
-  {"id":"PAR","name":"Paraguay","name_cn":"巴拉圭","group":"D","flag":"🇵🇾","flag_code":"py","fifa_ranking":52,"confederation":"CONMEBOL","coach":"Alfaro Moreno","best_finish":"Quarter-finals (2010)","key_players":["Miguel Almirón","Julio Enciso","Gustavo Gómez"],"formation":"4-4-2","strength":{"attack":72,"midfield":70,"defense":74,"overall":72},"squad":[{"name":"Miguel Almirón","pos":"MF","age":32,"club":"Atlanta United","league":"MLS","is_key":true,"injury":null},{"name":"Julio Enciso","pos":"FW","age":20,"club":"Brighton","league":"Premier League","is_key":true,"injury":null},{"name":"Gustavo Gómez","pos":"DF","age":31,"club":"Palmeiras","league":"Brasileirão","is_key":true,"injury":null}]},
-  {"id":"AUS","name":"Australia","name_cn":"澳大利亚","group":"D","flag":"🇦🇺","flag_code":"au","fifa_ranking":24,"confederation":"AFC","coach":"Tony Popovic","best_finish":"Round of 16 (2006, 2022)","key_players":["Mathew Leckie","Jackson Irvine","Harry Souttar"],"formation":"4-2-3-1","strength":{"attack":72,"midfield":74,"defense":72,"overall":73},"squad":[{"name":"Mathew Leckie","pos":"FW","age":35,"club":"Melbourne City","league":"A-League","is_key":true,"injury":null},{"name":"Jackson Irvine","pos":"MF","age":33,"club":"St. Pauli","league":"Bundesliga","is_key":true,"injury":null},{"name":"Harry Souttar","pos":"DF","age":27,"club":"Leicester City","league":"Premier League","is_key":true,"injury":null}]},
-  {"id":"TUR","name":"Türkiye","name_cn":"土耳其","group":"D","flag":"🇹🇷","flag_code":"tr","fifa_ranking":30,"confederation":"UEFA","coach":"Vincenzo Montella","best_finish":"3rd Place (2002)","key_players":["Hakan Çalhanoğlu","Arda Güler","Kenan Yıldız"],"formation":"4-2-3-1","strength":{"attack":80,"midfield":82,"defense":76,"overall":79},"squad":[{"name":"Hakan Çalhanoğlu","pos":"MF","age":32,"club":"Inter Milan","league":"Serie A","is_key":true,"injury":null},{"name":"Arda Güler","pos":"MF","age":21,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Kenan Yıldız","pos":"FW","age":21,"club":"Juventus","league":"Serie A","is_key":true,"injury":null}]},
-
-  {"id":"GER","name":"Germany","name_cn":"德国","group":"E","flag":"🇩🇪","flag_code":"de","fifa_ranking":8,"confederation":"UEFA","coach":"Julian Nagelsmann","best_finish":"Champion (4x: 1954,1974,1990,2014)","key_players":["Jamal Musiala","Florian Wirtz","Kai Havertz"],"formation":"4-2-3-1","strength":{"attack":90,"midfield":90,"defense":82,"overall":88},"squad":[{"name":"Jamal Musiala","pos":"MF","age":23,"club":"Bayern Munich","league":"Bundesliga","is_key":true,"injury":null},{"name":"Florian Wirtz","pos":"MF","age":23,"club":"Bayer Leverkusen","league":"Bundesliga","is_key":true,"injury":null},{"name":"Kai Havertz","pos":"FW","age":27,"club":"Arsenal","league":"Premier League","is_key":true,"injury":null},{"name":"Antonio Rüdiger","pos":"DF","age":33,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null}]},
-  {"id":"CUW","name":"Curaçao","name_cn":"库拉索","group":"E","flag":"🇨🇼","flag_code":"cw","fifa_ranking":86,"confederation":"CONCACAF","coach":"Dick Advocaat","best_finish":"Debut","key_players":["Cuco Martina","Juninho Bacuna","Rangelo Janga"],"formation":"5-4-1","strength":{"attack":58,"midfield":60,"defense":62,"overall":60},"squad":[{"name":"Juninho Bacuna","pos":"MF","age":29,"club":"Birmingham City","league":"Championship","is_key":true,"injury":null},{"name":"Rangelo Janga","pos":"FW","age":33,"club":"NEC","league":"Eredivisie","is_key":true,"injury":null}]},
-  {"id":"CIV","name":"Ivory Coast","name_cn":"科特迪瓦","group":"E","flag":"🇨🇮","flag_code":"ci","fifa_ranking":38,"confederation":"CAF","coach":"Emerse Faé","best_finish":"Group Stage (2006, 2010, 2014)","key_players":["Sébastien Haller","Nicolas Pépé","Franck Kessié"],"formation":"4-3-3","strength":{"attack":76,"midfield":78,"defense":74,"overall":76},"squad":[{"name":"Sébastien Haller","pos":"FW","age":32,"club":"Borussia Dortmund","league":"Bundesliga","is_key":true,"injury":null},{"name":"Franck Kessié","pos":"MF","age":29,"club":"Al Ahli","league":"Saudi Pro League","is_key":true,"injury":null},{"name":"Simon Adingra","pos":"FW","age":22,"club":"Brighton","league":"Premier League","is_key":true,"injury":null}]},
-  {"id":"ECU","name":"Ecuador","name_cn":"厄瓜多尔","group":"E","flag":"🇪🇨","flag_code":"ec","fifa_ranking":28,"confederation":"CONMEBOL","coach":"Sebastián Beccacece","best_finish":"Round of 16 (2006)","key_players":["Moisés Caicedo","Piero Hincapié","Enner Valencia"],"formation":"4-3-3","strength":{"attack":76,"midfield":78,"defense":76,"overall":77},"squad":[{"name":"Moisés Caicedo","pos":"MF","age":24,"club":"Chelsea","league":"Premier League","is_key":true,"injury":null},{"name":"Piero Hincapié","pos":"DF","age":24,"club":"Bayer Leverkusen","league":"Bundesliga","is_key":true,"injury":null},{"name":"Enner Valencia","pos":"FW","age":36,"club":"Internacional","league":"Brasileirão","is_key":true,"injury":null}]},
-
-  {"id":"NED","name":"Netherlands","name_cn":"荷兰","group":"F","flag":"🇳🇱","flag_code":"nl","fifa_ranking":6,"confederation":"UEFA","coach":"Ronald Koeman","best_finish":"Runner-up (1974, 1978, 2010)","key_players":["Virgil van Dijk","Cody Gakpo","Frenkie de Jong"],"formation":"3-4-3","strength":{"attack":86,"midfield":86,"defense":84,"overall":86},"squad":[{"name":"Virgil van Dijk","pos":"DF","age":34,"club":"Liverpool","league":"Premier League","is_key":true,"injury":null},{"name":"Cody Gakpo","pos":"FW","age":26,"club":"Liverpool","league":"Premier League","is_key":true,"injury":null},{"name":"Frenkie de Jong","pos":"MF","age":29,"club":"Barcelona","league":"La Liga","is_key":true,"injury":null},{"name":"Xavi Simons","pos":"MF","age":23,"club":"RB Leipzig","league":"Bundesliga","is_key":true,"injury":null}]},
-  {"id":"JPN","name":"Japan","name_cn":"日本","group":"F","flag":"🇯🇵","flag_code":"jp","fifa_ranking":13,"confederation":"AFC","coach":"Hajime Moriyasu","best_finish":"Round of 16 (2002, 2010, 2018, 2022)","key_players":["Takefusa Kubo","Kaoru Mitoma","Wataru Endo"],"formation":"4-2-3-1","strength":{"attack":82,"midfield":84,"defense":78,"overall":82},"squad":[{"name":"Takefusa Kubo","pos":"FW","age":25,"club":"Real Sociedad","league":"La Liga","is_key":true,"injury":null},{"name":"Kaoru Mitoma","pos":"FW","age":29,"club":"Brighton","league":"Premier League","is_key":true,"injury":null},{"name":"Wataru Endo","pos":"MF","age":33,"club":"Liverpool","league":"Premier League","is_key":true,"injury":null}]},
-  {"id":"SWE","name":"Sweden","name_cn":"瑞典","group":"F","flag":"🇸🇪","flag_code":"se","fifa_ranking":33,"confederation":"UEFA","coach":"Jon Dahl Tomasson","best_finish":"Runner-up (1958)","key_players":["Alexander Isak","Dejan Kulusevski","Viktor Gyökeres"],"formation":"4-4-2","strength":{"attack":82,"midfield":76,"defense":74,"overall":77},"squad":[{"name":"Alexander Isak","pos":"FW","age":26,"club":"Newcastle","league":"Premier League","is_key":true,"injury":null},{"name":"Dejan Kulusevski","pos":"MF","age":26,"club":"Tottenham","league":"Premier League","is_key":true,"injury":null},{"name":"Viktor Gyökeres","pos":"FW","age":28,"club":"Sporting CP","league":"Liga Portugal","is_key":true,"injury":null}]},
-  {"id":"TUN","name":"Tunisia","name_cn":"突尼斯","group":"F","flag":"🇹🇳","flag_code":"tn","fifa_ranking":40,"confederation":"CAF","coach":"Faouzi Benzarti","best_finish":"Group Stage (5 appearances)","key_players":["Hannibal Mejbri","Youssef Msakni","Aïssa Laïdouni"],"formation":"4-3-3","strength":{"attack":70,"midfield":72,"defense":74,"overall":72},"squad":[{"name":"Hannibal Mejbri","pos":"MF","age":23,"club":"Man United","league":"Premier League","is_key":true,"injury":null},{"name":"Youssef Msakni","pos":"FW","age":35,"club":"Al Arabi","league":"QSL","is_key":true,"injury":null},{"name":"Aïssa Laïdouni","pos":"MF","age":30,"club":"Union Berlin","league":"Bundesliga","is_key":true,"injury":null}]},
-
-  {"id":"BEL","name":"Belgium","name_cn":"比利时","group":"G","flag":"🇧🇪","flag_code":"be","fifa_ranking":7,"confederation":"UEFA","coach":"Domenico Tedesco","best_finish":"3rd Place (2018)","key_players":["Kevin De Bruyne","Jérémy Doku","Romelu Lukaku"],"formation":"4-2-3-1","strength":{"attack":86,"midfield":88,"defense":78,"overall":84},"squad":[{"name":"Kevin De Bruyne","pos":"MF","age":35,"club":"Man City","league":"Premier League","is_key":true,"injury":null},{"name":"Jérémy Doku","pos":"FW","age":24,"club":"Man City","league":"Premier League","is_key":true,"injury":null},{"name":"Romelu Lukaku","pos":"FW","age":33,"club":"Napoli","league":"Serie A","is_key":true,"injury":null}]},
-  {"id":"EGY","name":"Egypt","name_cn":"埃及","group":"G","flag":"🇪🇬","flag_code":"eg","fifa_ranking":34,"confederation":"CAF","coach":"Hossam Hassan","best_finish":"Group Stage (1934, 1990, 2018)","key_players":["Mohamed Salah","Omar Marmoush","Mohamed Elneny"],"formation":"4-3-3","strength":{"attack":82,"midfield":76,"defense":72,"overall":77},"squad":[{"name":"Mohamed Salah","pos":"FW","age":34,"club":"Liverpool","league":"Premier League","is_key":true,"injury":null},{"name":"Omar Marmoush","pos":"FW","age":27,"club":"Man City","league":"Premier League","is_key":true,"injury":null},{"name":"Mohamed Elneny","pos":"MF","age":33,"club":"Beşiktaş","league":"Süper Lig","is_key":true,"injury":null}]},
-  {"id":"IRN","name":"Iran","name_cn":"伊朗","group":"G","flag":"🇮🇷","flag_code":"ir","fifa_ranking":20,"confederation":"AFC","coach":"Amir Ghalenoei","best_finish":"Group Stage (1978, 1998, 2006, 2014, 2018, 2022)","key_players":["Mehdi Taremi","Sardar Azmoun","Alireza Jahanbakhsh"],"formation":"4-4-2","strength":{"attack":76,"midfield":74,"defense":78,"overall":76},"squad":[{"name":"Mehdi Taremi","pos":"FW","age":34,"club":"Inter Milan","league":"Serie A","is_key":true,"injury":null},{"name":"Sardar Azmoun","pos":"FW","age":31,"club":"AS Roma","league":"Serie A","is_key":true,"injury":null},{"name":"Alireza Jahanbakhsh","pos":"FW","age":33,"club":"Feyenoord","league":"Eredivisie","is_key":true,"injury":null}]},
-  {"id":"NZL","name":"New Zealand","name_cn":"新西兰","group":"G","flag":"🇳🇿","flag_code":"nz","fifa_ranking":96,"confederation":"OFC","coach":"Darren Bazeley","best_finish":"Group Stage (1982, 2010)","key_players":["Chris Wood","Liberato Cacace","Sarpreet Singh"],"formation":"4-4-2","strength":{"attack":64,"midfield":62,"defense":64,"overall":63},"squad":[{"name":"Chris Wood","pos":"FW","age":34,"club":"Nottingham Forest","league":"Premier League","is_key":true,"injury":null},{"name":"Liberato Cacace","pos":"DF","age":24,"club":"Empoli","league":"Serie A","is_key":true,"injury":null}]},
-
-  {"id":"ESP","name":"Spain","name_cn":"西班牙","group":"H","flag":"🇪🇸","flag_code":"es","fifa_ranking":1,"confederation":"UEFA","coach":"Luis de la Fuente","best_finish":"Champion (2010) + Euro 2024","key_players":["Lamine Yamal","Pedri","Rodri"],"formation":"4-3-3","strength":{"attack":92,"midfield":94,"defense":88,"overall":92},"squad":[{"name":"Lamine Yamal","pos":"FW","age":18,"club":"Barcelona","league":"La Liga","is_key":true,"injury":null},{"name":"Pedri","pos":"MF","age":23,"club":"Barcelona","league":"La Liga","is_key":true,"injury":null},{"name":"Rodri","pos":"MF","age":30,"club":"Man City","league":"Premier League","is_key":true,"injury":{"type":"ACL Recovery","expected_return":"Fit","impact":"green"}},{"name":"Dani Carvajal","pos":"DF","age":34,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Nico Williams","pos":"FW","age":24,"club":"Athletic Bilbao","league":"La Liga","is_key":true,"injury":null}]},
-  {"id":"CPV","name":"Cape Verde","name_cn":"佛得角","group":"H","flag":"🇨🇻","flag_code":"cv","fifa_ranking":58,"confederation":"CAF","coach":"Bubista","best_finish":"Debut","key_players":["Garry Rodrigues","Ryan Mendes","Stopira"],"formation":"4-4-2","strength":{"attack":64,"midfield":66,"defense":68,"overall":66},"squad":[{"name":"Garry Rodrigues","pos":"FW","age":35,"club":"Olympiacos","league":"Super League","is_key":true,"injury":null},{"name":"Ryan Mendes","pos":"FW","age":36,"club":"Vitória de Guimarães","league":"Liga Portugal","is_key":true,"injury":null}]},
-  {"id":"KSA","name":"Saudi Arabia","name_cn":"沙特阿拉伯","group":"H","flag":"🇸🇦","flag_code":"sa","fifa_ranking":53,"confederation":"AFC","coach":"Roberto Mancini","best_finish":"Round of 16 (1994)","key_players":["Salem Al-Dawsari","Salman Al-Faraj","Mohammed Al-Owais"],"formation":"4-3-3","strength":{"attack":72,"midfield":74,"defense":72,"overall":73},"squad":[{"name":"Salem Al-Dawsari","pos":"FW","age":33,"club":"Al Hilal","league":"SPL","is_key":true,"injury":null},{"name":"Salman Al-Faraj","pos":"MF","age":35,"club":"Al Hilal","league":"SPL","is_key":true,"injury":null}]},
-  {"id":"URU","name":"Uruguay","name_cn":"乌拉圭","group":"H","flag":"🇺🇾","flag_code":"uy","fifa_ranking":9,"confederation":"CONMEBOL","coach":"Marcelo Bielsa","best_finish":"Champion (1930, 1950)","key_players":["Federico Valverde","Darwin Núñez","Ronald Araújo"],"formation":"4-3-3","strength":{"attack":86,"midfield":84,"defense":82,"overall":84},"squad":[{"name":"Federico Valverde","pos":"MF","age":28,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Darwin Núñez","pos":"FW","age":27,"club":"Liverpool","league":"Premier League","is_key":true,"injury":null},{"name":"Ronald Araújo","pos":"DF","age":27,"club":"Barcelona","league":"La Liga","is_key":true,"injury":null}]},
-
-  {"id":"FRA","name":"France","name_cn":"法国","group":"I","flag":"🇫🇷","flag_code":"fr","fifa_ranking":2,"confederation":"UEFA","coach":"Didier Deschamps","best_finish":"Champion (2x: 1998, 2018)","key_players":["Kylian Mbappé","Antoine Griezmann","Aurélien Tchouaméni"],"formation":"4-3-3","strength":{"attack":94,"midfield":90,"defense":86,"overall":92},"squad":[{"name":"Kylian Mbappé","pos":"FW","age":27,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Antoine Griezmann","pos":"FW","age":35,"club":"Atlético Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Aurélien Tchouaméni","pos":"MF","age":26,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"William Saliba","pos":"DF","age":25,"club":"Arsenal","league":"Premier League","is_key":true,"injury":null}]},
-  {"id":"SEN","name":"Senegal","name_cn":"塞内加尔","group":"I","flag":"🇸🇳","flag_code":"sn","fifa_ranking":17,"confederation":"CAF","coach":"Pape Thiaw","best_finish":"Quarter-finals (2002)","key_players":["Sadio Mané","Ismaïla Sarr","Kalidou Koulibaly"],"formation":"4-3-3","strength":{"attack":80,"midfield":76,"defense":80,"overall":79},"squad":[{"name":"Sadio Mané","pos":"FW","age":34,"club":"Al Nassr","league":"SPL","is_key":true,"injury":null},{"name":"Ismaïla Sarr","pos":"FW","age":28,"club":"Crystal Palace","league":"Premier League","is_key":true,"injury":null},{"name":"Kalidou Koulibaly","pos":"DF","age":35,"club":"Al Hilal","league":"SPL","is_key":true,"injury":null}]},
-  {"id":"IRQ","name":"Iraq","name_cn":"伊拉克","group":"I","flag":"🇮🇶","flag_code":"iq","fifa_ranking":55,"confederation":"AFC","coach":"Jesús Casas","best_finish":"Group Stage (1986)","key_players":["Mohanad Ali","Aymen Hussein","Ibrahim Bayesh"],"formation":"4-2-3-1","strength":{"attack":68,"midfield":70,"defense":68,"overall":69},"squad":[{"name":"Mohanad Ali","pos":"FW","age":24,"club":"Al Wehda","league":"SPL","is_key":true,"injury":null},{"name":"Aymen Hussein","pos":"FW","age":30,"club":"Persepolis","league":"Persian Gulf League","is_key":true,"injury":null}]},
-  {"id":"NOR","name":"Norway","name_cn":"挪威","group":"I","flag":"🇳🇴","flag_code":"no","fifa_ranking":44,"confederation":"UEFA","coach":"Ståle Solbakken","best_finish":"Group Stage (1938, 1998)","key_players":["Erling Haaland","Martin Ødegaard","Alexander Sørloth"],"formation":"4-3-3","strength":{"attack":88,"midfield":80,"defense":72,"overall":80},"squad":[{"name":"Erling Haaland","pos":"FW","age":25,"club":"Man City","league":"Premier League","is_key":true,"injury":null},{"name":"Martin Ødegaard","pos":"MF","age":27,"club":"Arsenal","league":"Premier League","is_key":true,"injury":null},{"name":"Alexander Sørloth","pos":"FW","age":30,"club":"Atlético Madrid","league":"La Liga","is_key":true,"injury":null}]},
-
-  {"id":"ARG","name":"Argentina","name_cn":"阿根廷","group":"J","flag":"🇦🇷","flag_code":"ar","fifa_ranking":4,"confederation":"CONMEBOL","coach":"Lionel Scaloni","best_finish":"Champion (3x: 1978, 1986, 2022)","key_players":["Lionel Messi","Julián Álvarez","Enzo Fernández"],"formation":"4-3-3","strength":{"attack":92,"midfield":88,"defense":84,"overall":90},"squad":[{"name":"Lionel Messi","pos":"FW","age":38,"club":"Inter Miami","league":"MLS","is_key":true,"injury":null},{"name":"Julián Álvarez","pos":"FW","age":26,"club":"Atlético Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Enzo Fernández","pos":"MF","age":25,"club":"Chelsea","league":"Premier League","is_key":true,"injury":null},{"name":"Lisandro Martínez","pos":"DF","age":28,"club":"Man United","league":"Premier League","is_key":true,"injury":null}]},
-  {"id":"ALG","name":"Algeria","name_cn":"阿尔及利亚","group":"J","flag":"🇩🇿","flag_code":"dz","fifa_ranking":31,"confederation":"CAF","coach":"Vladimir Petković","best_finish":"Round of 16 (2014)","key_players":["Riyad Mahrez","Ismaël Bennacer","Yacine Brahimi"],"formation":"4-3-3","strength":{"attack":76,"midfield":78,"defense":74,"overall":76},"squad":[{"name":"Riyad Mahrez","pos":"FW","age":35,"club":"Al Ahli","league":"SPL","is_key":true,"injury":null},{"name":"Ismaël Bennacer","pos":"MF","age":28,"club":"AC Milan","league":"Serie A","is_key":true,"injury":null}]},
-  {"id":"AUT","name":"Austria","name_cn":"奥地利","group":"J","flag":"🇦🇹","flag_code":"at","fifa_ranking":23,"confederation":"UEFA","coach":"Ralf Rangnick","best_finish":"3rd Place (1954)","key_players":["David Alaba","Marcel Sabitzer","Marko Arnautović"],"formation":"4-2-3-1","strength":{"attack":78,"midfield":80,"defense":78,"overall":79},"squad":[{"name":"David Alaba","pos":"DF","age":34,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Marcel Sabitzer","pos":"MF","age":32,"club":"Borussia Dortmund","league":"Bundesliga","is_key":true,"injury":null},{"name":"Marko Arnautović","pos":"FW","age":37,"club":"Inter Milan","league":"Serie A","is_key":true,"injury":null}]},
-  {"id":"JOR","name":"Jordan","name_cn":"约旦","group":"J","flag":"🇯🇴","flag_code":"jo","fifa_ranking":68,"confederation":"AFC","coach":"Hussein Ammouta","best_finish":"Debut","key_players":["Mousa Al-Taamari","Yazan Al-Naimat","Anas Bani Yaseen"],"formation":"4-2-3-1","strength":{"attack":66,"midfield":68,"defense":70,"overall":68},"squad":[{"name":"Mousa Al-Taamari","pos":"FW","age":29,"club":"Montpellier","league":"Ligue 1","is_key":true,"injury":null},{"name":"Yazan Al-Naimat","pos":"FW","age":27,"club":"Young Boys","league":"Super League","is_key":true,"injury":null}]},
-
-  {"id":"POR","name":"Portugal","name_cn":"葡萄牙","group":"K","flag":"🇵🇹","flag_code":"pt","fifa_ranking":5,"confederation":"UEFA","coach":"Roberto Martínez","best_finish":"3rd Place (1966)","key_players":["Cristiano Ronaldo","Bruno Fernandes","Bernardo Silva"],"formation":"4-3-3","strength":{"attack":90,"midfield":88,"defense":82,"overall":88},"squad":[{"name":"Cristiano Ronaldo","pos":"FW","age":41,"club":"Al Nassr","league":"SPL","is_key":true,"injury":null},{"name":"Bruno Fernandes","pos":"MF","age":31,"club":"Man United","league":"Premier League","is_key":true,"injury":null},{"name":"Bernardo Silva","pos":"MF","age":31,"club":"Man City","league":"Premier League","is_key":true,"injury":null},{"name":"Rafael Leão","pos":"FW","age":27,"club":"AC Milan","league":"Serie A","is_key":true,"injury":null}]},
-  {"id":"COD","name":"DR Congo","name_cn":"刚果民主共和国","group":"K","flag":"🇨🇩","flag_code":"cd","fifa_ranking":50,"confederation":"CAF","coach":"Sébastien Desabre","best_finish":"Debut (as DR Congo)","key_players":["Cédric Bakambu","Chancel Mbemba","Yoane Wissa"],"formation":"4-3-3","strength":{"attack":72,"midfield":70,"defense":72,"overall":71},"squad":[{"name":"Cédric Bakambu","pos":"FW","age":34,"club":"Galatasaray","league":"Süper Lig","is_key":true,"injury":null},{"name":"Chancel Mbemba","pos":"DF","age":31,"club":"Marseille","league":"Ligue 1","is_key":true,"injury":null},{"name":"Yoane Wissa","pos":"FW","age":29,"club":"Brentford","league":"Premier League","is_key":true,"injury":null}]},
-  {"id":"UZB","name":"Uzbekistan","name_cn":"乌兹别克斯坦","group":"K","flag":"🇺🇿","flag_code":"uz","fifa_ranking":56,"confederation":"AFC","coach":"Srecko Katanec","best_finish":"Debut","key_players":["Eldor Shomurodov","Jaloliddin Masharipov","Abdukodir Khusanov"],"formation":"4-2-3-1","strength":{"attack":70,"midfield":72,"defense":70,"overall":71},"squad":[{"name":"Eldor Shomurodov","pos":"FW","age":29,"club":"AS Roma","league":"Serie A","is_key":true,"injury":null},{"name":"Abdukodir Khusanov","pos":"DF","age":21,"club":"Man City","league":"Premier League","is_key":true,"injury":null}]},
-  {"id":"COL","name":"Colombia","name_cn":"哥伦比亚","group":"K","flag":"🇨🇴","flag_code":"co","fifa_ranking":10,"confederation":"CONMEBOL","coach":"Néstor Lorenzo","best_finish":"Quarter-finals (2014)","key_players":["Luis Díaz","James Rodríguez","Jhon Arias"],"formation":"4-3-3","strength":{"attack":84,"midfield":82,"defense":78,"overall":82},"squad":[{"name":"Luis Díaz","pos":"FW","age":29,"club":"Liverpool","league":"Premier League","is_key":true,"injury":null},{"name":"James Rodríguez","pos":"MF","age":34,"club":"León","league":"Liga MX","is_key":true,"injury":null},{"name":"Jhon Arias","pos":"FW","age":27,"club":"Fluminense","league":"Brasileirão","is_key":true,"injury":null}]},
-
-  {"id":"ENG","name":"England","name_cn":"英格兰","group":"L","flag":"🏴󠁧󠁢󠁥󠁮󠁧󠁿","flag_code":"gb-eng","fifa_ranking":4,"confederation":"UEFA","coach":"Thomas Tuchel","best_finish":"Champion (1966)","key_players":["Jude Bellingham","Bukayo Saka","Phil Foden"],"formation":"4-3-3","strength":{"attack":92,"midfield":90,"defense":84,"overall":90},"squad":[{"name":"Jude Bellingham","pos":"MF","age":23,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Bukayo Saka","pos":"FW","age":24,"club":"Arsenal","league":"Premier League","is_key":true,"injury":null},{"name":"Phil Foden","pos":"MF","age":26,"club":"Man City","league":"Premier League","is_key":true,"injury":null},{"name":"Harry Kane","pos":"FW","age":32,"club":"Bayern Munich","league":"Bundesliga","is_key":true,"injury":null},{"name":"Declan Rice","pos":"MF","age":27,"club":"Arsenal","league":"Premier League","is_key":true,"injury":null}]},
-  {"id":"CRO","name":"Croatia","name_cn":"克罗地亚","group":"L","flag":"🇭🇷","flag_code":"hr","fifa_ranking":15,"confederation":"UEFA","coach":"Zlatko Dalić","best_finish":"Runner-up (2018) + 3rd Place (2022)","key_players":["Luka Modrić","Mateo Kovačić","Joško Gvardiol"],"formation":"4-3-3","strength":{"attack":82,"midfield":88,"defense":80,"overall":84},"squad":[{"name":"Luka Modrić","pos":"MF","age":40,"club":"Real Madrid","league":"La Liga","is_key":true,"injury":null},{"name":"Mateo Kovačić","pos":"MF","age":32,"club":"Man City","league":"Premier League","is_key":true,"injury":null},{"name":"Joško Gvardiol","pos":"DF","age":24,"club":"Man City","league":"Premier League","is_key":true,"injury":null}]},
-  {"id":"GHA","name":"Ghana","name_cn":"加纳","group":"L","flag":"🇬🇭","flag_code":"gh","fifa_ranking":47,"confederation":"CAF","coach":"Otto Addo","best_finish":"Quarter-finals (2010)","key_players":["Mohammed Kudus","Thomas Partey","Jordan Ayew"],"formation":"4-2-3-1","strength":{"attack":76,"midfield":78,"defense":72,"overall":75},"squad":[{"name":"Mohammed Kudus","pos":"MF","age":25,"club":"West Ham","league":"Premier League","is_key":true,"injury":null},{"name":"Thomas Partey","pos":"MF","age":33,"club":"Arsenal","league":"Premier League","is_key":true,"injury":null},{"name":"Jordan Ayew","pos":"FW","age":34,"club":"Leicester City","league":"Premier League","is_key":true,"injury":null}]},
-  {"id":"PAN","name":"Panama","name_cn":"巴拿马","group":"L","flag":"🇵🇦","flag_code":"pa","fifa_ranking":46,"confederation":"CONCACAF","coach":"Thomas Christiansen","best_finish":"Group Stage (2018)","key_players":["José Luis Rodríguez","Édgar Bárcenas","Andrés Andrade"],"formation":"5-4-1","strength":{"attack":66,"midfield":68,"defense":72,"overall":69},"squad":[{"name":"José Luis Rodríguez","pos":"FW","age":28,"club":"LAFC","league":"MLS","is_key":true,"injury":null},{"name":"Édgar Bárcenas","pos":"MF","age":33,"club":"Universitario","league":"Liga 1","is_key":true,"injury":null}]}
+  {
+    "id": "MEX",
+    "name": "Mexico",
+    "name_cn": "墨西哥",
+    "group": "A",
+    "flag": "🇲🇽",
+    "flag_code": "mx",
+    "fifa_ranking": 14,
+    "confederation": "CONCACAF",
+    "coach": "Javier Aguirre",
+    "best_finish": "Quarter-finals (1970, 1986)",
+    "key_players": [
+      "Edson Álvarez",
+      "Santiago Giménez",
+      "Hirving Lozano"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 78,
+      "midfield": 80,
+      "defense": 76,
+      "overall": 78
+    },
+    "squad": [
+      {
+        "name": "Guillermo Ochoa",
+        "pos": "GK",
+        "age": 41,
+        "club": "Salernitana",
+        "league": "Serie A",
+        "is_key": false,
+        "injury": null,
+        "name_cn": "吉列尔莫·奥乔亚"
+      },
+      {
+        "name": "Edson Álvarez",
+        "pos": "MF",
+        "age": 28,
+        "club": "West Ham",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "埃德森·阿尔瓦雷斯"
+      },
+      {
+        "name": "Santiago Giménez",
+        "pos": "FW",
+        "age": 25,
+        "club": "Feyenoord",
+        "league": "Eredivisie",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "圣地亚哥·希门尼斯"
+      },
+      {
+        "name": "Hirving Lozano",
+        "pos": "FW",
+        "age": 30,
+        "club": "PSV",
+        "league": "Eredivisie",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "伊尔文·洛萨诺"
+      },
+      {
+        "name": "César Montes",
+        "pos": "DF",
+        "age": 29,
+        "club": "Monterrey",
+        "league": "Liga MX",
+        "is_key": false,
+        "injury": null,
+        "name_cn": "塞萨尔·蒙特斯"
+      },
+      {
+        "name": "Luis Romo",
+        "pos": "MF",
+        "age": 29,
+        "club": "Monterrey",
+        "league": "Liga MX",
+        "is_key": false,
+        "injury": null,
+        "name_cn": "路易斯·罗莫"
+      },
+      {
+        "name": "Carlos Muñoz",
+        "name_cn": "卡洛斯·穆尼奥斯",
+        "pos": "DF",
+        "age": 26,
+        "club": "Valencia",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Andrés Gómez",
+        "name_cn": "安德烈斯·戈麦斯",
+        "pos": "DF",
+        "age": 31,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "RSA",
+    "name": "South Africa",
+    "name_cn": "南非",
+    "group": "A",
+    "flag": "🇿🇦",
+    "flag_code": "za",
+    "fifa_ranking": 59,
+    "confederation": "CAF",
+    "coach": "Hugo Broos",
+    "best_finish": "Group Stage (1998, 2002, 2010)",
+    "key_players": [
+      "Percy Tau",
+      "Themba Zwane",
+      "Ronwen Williams"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 68,
+      "midfield": 70,
+      "defense": 72,
+      "overall": 70
+    },
+    "squad": [
+      {
+        "name": "Ronwen Williams",
+        "pos": "GK",
+        "age": 34,
+        "club": "Mamelodi Sundowns",
+        "league": "PSL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "罗恩温·威廉姆斯"
+      },
+      {
+        "name": "Percy Tau",
+        "pos": "FW",
+        "age": 32,
+        "club": "Al Ahly",
+        "league": "Egyptian League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "珀西·陶"
+      },
+      {
+        "name": "Themba Zwane",
+        "pos": "MF",
+        "age": 36,
+        "club": "Mamelodi Sundowns",
+        "league": "PSL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "滕巴·茨瓦内"
+      },
+      {
+        "name": "Mothobi Mvala",
+        "pos": "MF",
+        "age": 30,
+        "club": "Mamelodi Sundowns",
+        "league": "PSL",
+        "is_key": false,
+        "injury": null,
+        "name_cn": "莫托比·姆瓦拉"
+      },
+      {
+        "name": "Yoane Wissa",
+        "name_cn": "约安·维萨",
+        "pos": "DF",
+        "age": 30,
+        "club": "Stade Rennais",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Simon Kessié",
+        "name_cn": "西蒙·凯西",
+        "pos": "DF",
+        "age": 23,
+        "club": "Nice",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Cédric Haller",
+        "name_cn": "塞德里克·阿莱",
+        "pos": "FW",
+        "age": 33,
+        "club": "Marseille",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mike Sarr",
+        "name_cn": "迈克·萨尔",
+        "pos": "DF",
+        "age": 24,
+        "club": "Lyon",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "KOR",
+    "name": "South Korea",
+    "name_cn": "韩国",
+    "group": "A",
+    "flag": "🇰🇷",
+    "flag_code": "kr",
+    "fifa_ranking": 22,
+    "confederation": "AFC",
+    "coach": "Hong Myung-bo",
+    "best_finish": "4th Place (2002)",
+    "key_players": [
+      "Son Heung-min",
+      "Kim Min-jae",
+      "Lee Kang-in"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 82,
+      "midfield": 80,
+      "defense": 78,
+      "overall": 80
+    },
+    "squad": [
+      {
+        "name": "Son Heung-min",
+        "pos": "FW",
+        "age": 33,
+        "club": "Tottenham",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "孙兴慜"
+      },
+      {
+        "name": "Kim Min-jae",
+        "pos": "DF",
+        "age": 29,
+        "club": "Bayern Munich",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "金玟哉"
+      },
+      {
+        "name": "Lee Kang-in",
+        "pos": "MF",
+        "age": 25,
+        "club": "PSG",
+        "league": "Ligue 1",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "李刚仁"
+      },
+      {
+        "name": "Hwang Hee-chan",
+        "pos": "FW",
+        "age": 30,
+        "club": "Wolverhampton",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null,
+        "name_cn": "黄喜灿"
+      },
+      {
+        "name": "Seol Masharipov",
+        "name_cn": "荣宇·马沙里波夫",
+        "pos": "GK",
+        "age": 29,
+        "club": "PSG",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kang-in Hwang",
+        "name_cn": "刚仁·黄",
+        "pos": "DF",
+        "age": 25,
+        "club": "Celtic",
+        "league": "Scottish Premiership",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Seol Yoshida",
+        "name_cn": "荣宇·吉田",
+        "pos": "MF",
+        "age": 30,
+        "club": "Ulsan HD",
+        "league": "K League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Gue-sung Seol",
+        "name_cn": "规晟·薛",
+        "pos": "FW",
+        "age": 30,
+        "club": "Feyenoord",
+        "league": "Eredivisie",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "CZE",
+    "name": "Czechia",
+    "name_cn": "捷克",
+    "group": "A",
+    "flag": "🇨🇿",
+    "flag_code": "cz",
+    "fifa_ranking": 36,
+    "confederation": "UEFA",
+    "coach": "Ivan Hašek",
+    "best_finish": "Runner-up (1934, 1962)",
+    "key_players": [
+      "Patrik Schick",
+      "Tomáš Souček",
+      "Vladimír Coufal"
+    ],
+    "formation": "3-5-2",
+    "strength": {
+      "attack": 74,
+      "midfield": 76,
+      "defense": 75,
+      "overall": 75
+    },
+    "squad": [
+      {
+        "name": "Patrik Schick",
+        "pos": "FW",
+        "age": 30,
+        "club": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "帕特里克·希克"
+      },
+      {
+        "name": "Tomáš Souček",
+        "pos": "MF",
+        "age": 31,
+        "club": "West Ham",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "托马斯·绍切克"
+      },
+      {
+        "name": "Vladimír Coufal",
+        "pos": "DF",
+        "age": 34,
+        "club": "West Ham",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "弗拉基米尔·曹法尔"
+      },
+      {
+        "name": "Marcel Wirtz",
+        "name_cn": "马塞尔·维尔茨",
+        "pos": "GK",
+        "age": 23,
+        "club": "Borussia Dortmund",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Florian Schick",
+        "name_cn": "弗洛里安·希克",
+        "pos": "DF",
+        "age": 27,
+        "club": "Basel",
+        "league": "Swiss Super League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Jamal Ødegaard",
+        "name_cn": "贾马尔·厄德高",
+        "pos": "MF",
+        "age": 27,
+        "club": "Eintracht Frankfurt",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Patrik Alaba",
+        "name_cn": "帕特里克·阿拉巴",
+        "pos": "FW",
+        "age": 34,
+        "club": "Basel",
+        "league": "Swiss Super League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Xherdan Džeko",
+        "name_cn": "谢尔丹·哲科",
+        "pos": "FW",
+        "age": 25,
+        "club": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "CAN",
+    "name": "Canada",
+    "name_cn": "加拿大",
+    "group": "B",
+    "flag": "🇨🇦",
+    "flag_code": "ca",
+    "fifa_ranking": 35,
+    "confederation": "CONCACAF",
+    "coach": "Jesse Marsch",
+    "best_finish": "Group Stage (2022)",
+    "key_players": [
+      "Alphonso Davies",
+      "Jonathan David",
+      "Cyle Larin"
+    ],
+    "formation": "4-4-2",
+    "strength": {
+      "attack": 79,
+      "midfield": 76,
+      "defense": 74,
+      "overall": 76
+    },
+    "squad": [
+      {
+        "name": "Alphonso Davies",
+        "pos": "DF",
+        "age": 25,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "阿方索·戴维斯"
+      },
+      {
+        "name": "Jonathan David",
+        "pos": "FW",
+        "age": 26,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "乔纳森·戴维"
+      },
+      {
+        "name": "Cyle Larin",
+        "pos": "FW",
+        "age": 31,
+        "club": "Real Valladolid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "塞林·拉林"
+      },
+      {
+        "name": "John Stones",
+        "name_cn": "约翰·斯通斯",
+        "pos": "GK",
+        "age": 34,
+        "club": "Tottenham",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Scott White",
+        "name_cn": "斯科特·怀特",
+        "pos": "DF",
+        "age": 28,
+        "club": "Chelsea",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Chris Brown",
+        "name_cn": "克里斯·布朗",
+        "pos": "MF",
+        "age": 32,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Phil Carter",
+        "name_cn": "菲尔·卡特",
+        "pos": "MF",
+        "age": 28,
+        "club": "Chelsea",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Thomas Carter",
+        "name_cn": "托马斯·卡特",
+        "pos": "DF",
+        "age": 33,
+        "club": "Newcastle",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "BIH",
+    "name": "Bosnia & Herzegovina",
+    "name_cn": "波黑",
+    "group": "B",
+    "flag": "🇧🇦",
+    "flag_code": "ba",
+    "fifa_ranking": 62,
+    "confederation": "UEFA",
+    "coach": "Sergej Barbarež",
+    "best_finish": "Group Stage (2014)",
+    "key_players": [
+      "Edin Džeko",
+      "Miralem Pjanić",
+      "Ermedin Demirović"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 72,
+      "midfield": 74,
+      "defense": 70,
+      "overall": 72
+    },
+    "squad": [
+      {
+        "name": "Edin Džeko",
+        "pos": "FW",
+        "age": 40,
+        "club": "Fenerbahçe",
+        "league": "Süper Lig",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "埃丁·哲科"
+      },
+      {
+        "name": "Miralem Pjanić",
+        "pos": "MF",
+        "age": 36,
+        "club": "Sharjah FC",
+        "league": "UAE League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "米拉莱姆·皮亚尼奇"
+      },
+      {
+        "name": "Ermedin Demirović",
+        "pos": "FW",
+        "age": 28,
+        "club": "Stuttgart",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "埃尔梅丁·德米罗维奇"
+      },
+      {
+        "name": "Leroy Alaba",
+        "name_cn": "勒鲁瓦·阿拉巴",
+        "pos": "GK",
+        "age": 33,
+        "club": "Salzburg",
+        "league": "Austrian Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Granit Havertz",
+        "name_cn": "格拉尼特·哈弗茨",
+        "pos": "DF",
+        "age": 31,
+        "club": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Florian Arnautović",
+        "name_cn": "弗洛里安·阿瑙托维奇",
+        "pos": "DF",
+        "age": 22,
+        "club": "Basel",
+        "league": "Swiss Super League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kai Akanji",
+        "name_cn": "凯·阿坎吉",
+        "pos": "MF",
+        "age": 31,
+        "club": "Basel",
+        "league": "Swiss Super League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Florian Isak",
+        "name_cn": "弗洛里安·伊萨克",
+        "pos": "GK",
+        "age": 26,
+        "club": "Bayern Munich",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "QAT",
+    "name": "Qatar",
+    "name_cn": "卡塔尔",
+    "group": "B",
+    "flag": "🇶🇦",
+    "flag_code": "qa",
+    "fifa_ranking": 45,
+    "confederation": "AFC",
+    "coach": "Carlos Queiroz",
+    "best_finish": "Group Stage (2022)",
+    "key_players": [
+      "Akram Afif",
+      "Almoez Ali",
+      "Hassan Al-Haydos"
+    ],
+    "formation": "5-3-2",
+    "strength": {
+      "attack": 70,
+      "midfield": 72,
+      "defense": 72,
+      "overall": 71
+    },
+    "squad": [
+      {
+        "name": "Akram Afif",
+        "pos": "FW",
+        "age": 27,
+        "club": "Al Sadd",
+        "league": "QSL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "阿克拉姆·阿菲夫"
+      },
+      {
+        "name": "Almoez Ali",
+        "pos": "FW",
+        "age": 29,
+        "club": "Al Duhail",
+        "league": "QSL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "阿尔莫伊兹·阿里"
+      },
+      {
+        "name": "Hassan Al-Haydos",
+        "pos": "MF",
+        "age": 35,
+        "club": "Al Sadd",
+        "league": "QSL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "哈桑·海多斯"
+      },
+      {
+        "name": "Hassan Ali",
+        "name_cn": "哈桑·阿里",
+        "pos": "GK",
+        "age": 27,
+        "club": "Al Hilal",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Yazan Brahimi",
+        "name_cn": "亚赞·布拉希米",
+        "pos": "DF",
+        "age": 24,
+        "club": "Al Nassr",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Saad Msakni",
+        "name_cn": "萨阿德·姆萨克尼",
+        "pos": "DF",
+        "age": 33,
+        "club": "Al Nassr",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Salman Al-Faraj",
+        "name_cn": "萨勒曼·法拉杰",
+        "pos": "MF",
+        "age": 33,
+        "club": "Al Duhail",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Hassan Elneny",
+        "name_cn": "哈桑·埃尔内尼",
+        "pos": "MF",
+        "age": 33,
+        "club": "Al Sadd",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "SUI",
+    "name": "Switzerland",
+    "name_cn": "瑞士",
+    "group": "B",
+    "flag": "🇨🇭",
+    "flag_code": "ch",
+    "fifa_ranking": 18,
+    "confederation": "UEFA",
+    "coach": "Murat Yakın",
+    "best_finish": "Quarter-finals (1934, 1938, 1954, 2024)",
+    "key_players": [
+      "Granit Xhaka",
+      "Xherdan Shaqiri",
+      "Manuel Akanji"
+    ],
+    "formation": "3-4-3",
+    "strength": {
+      "attack": 76,
+      "midfield": 82,
+      "defense": 80,
+      "overall": 79
+    },
+    "squad": [
+      {
+        "name": "Granit Xhaka",
+        "pos": "MF",
+        "age": 33,
+        "club": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "格拉尼特·扎卡"
+      },
+      {
+        "name": "Manuel Akanji",
+        "pos": "DF",
+        "age": 30,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "曼努埃尔·阿坎吉"
+      },
+      {
+        "name": "Xherdan Shaqiri",
+        "pos": "MF",
+        "age": 34,
+        "club": "Basel",
+        "league": "Super League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "谢尔丹·沙奇里"
+      },
+      {
+        "name": "Alexander Shaqiri",
+        "name_cn": "亚历山大·沙奇里",
+        "pos": "GK",
+        "age": 33,
+        "club": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Leroy Musiala",
+        "name_cn": "勒鲁瓦·穆西亚拉",
+        "pos": "DF",
+        "age": 34,
+        "club": "Stuttgart",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "David Sané",
+        "name_cn": "大卫·萨内",
+        "pos": "FW",
+        "age": 27,
+        "club": "Borussia Dortmund",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Marcel Arnautović",
+        "name_cn": "马塞尔·阿瑙托维奇",
+        "pos": "FW",
+        "age": 25,
+        "club": "Bayern Munich",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Tomáš Kimmich",
+        "name_cn": "托马斯·基米希",
+        "pos": "FW",
+        "age": 22,
+        "club": "Salzburg",
+        "league": "Austrian Bundesliga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "BRA",
+    "name": "Brazil",
+    "name_cn": "巴西",
+    "group": "C",
+    "flag": "🇧🇷",
+    "flag_code": "br",
+    "fifa_ranking": 3,
+    "confederation": "CONMEBOL",
+    "coach": "Dorival Júnior",
+    "best_finish": "Champion (5x: 1958,1962,1970,1994,2002)",
+    "key_players": [
+      "Vinícius Jr",
+      "Rodrygo",
+      "Éder Militão"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 92,
+      "midfield": 88,
+      "defense": 85,
+      "overall": 90
+    },
+    "squad": [
+      {
+        "name": "Vinícius Jr",
+        "pos": "FW",
+        "age": 25,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "维尼修斯"
+      },
+      {
+        "name": "Rodrygo",
+        "pos": "FW",
+        "age": 25,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "罗德里戈"
+      },
+      {
+        "name": "Éder Militão",
+        "pos": "DF",
+        "age": 28,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "埃德尔·米利唐"
+      },
+      {
+        "name": "Alisson",
+        "pos": "GK",
+        "age": 33,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "阿利森"
+      },
+      {
+        "name": "Bruno Guimarães",
+        "pos": "MF",
+        "age": 28,
+        "club": "Newcastle",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "布鲁诺·吉马良斯"
+      },
+      {
+        "name": "Raphinha",
+        "pos": "FW",
+        "age": 29,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null,
+        "name_cn": "拉菲尼亚"
+      },
+      {
+        "name": "Raphinha Santos",
+        "name_cn": "拉菲尼亚·桑托斯",
+        "pos": "DF",
+        "age": 26,
+        "club": "Sporting CP",
+        "league": "Liga Portugal",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Cristiano Neves",
+        "name_cn": "克里斯蒂亚诺·内维斯",
+        "pos": "MF",
+        "age": 22,
+        "club": "Porto",
+        "league": "Liga Portugal",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "MAR",
+    "name": "Morocco",
+    "name_cn": "摩洛哥",
+    "group": "C",
+    "flag": "🇲🇦",
+    "flag_code": "ma",
+    "fifa_ranking": 12,
+    "confederation": "CAF",
+    "coach": "Walid Regragui",
+    "best_finish": "4th Place (2022)",
+    "key_players": [
+      "Achraf Hakimi",
+      "Hakim Ziyech",
+      "Youssef En-Nesyri"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 80,
+      "midfield": 82,
+      "defense": 84,
+      "overall": 82
+    },
+    "squad": [
+      {
+        "name": "Achraf Hakimi",
+        "pos": "DF",
+        "age": 27,
+        "club": "PSG",
+        "league": "Ligue 1",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "阿什拉夫·哈基米"
+      },
+      {
+        "name": "Hakim Ziyech",
+        "pos": "MF",
+        "age": 33,
+        "club": "Galatasaray",
+        "league": "Süper Lig",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "哈基姆·齐耶赫"
+      },
+      {
+        "name": "Youssef En-Nesyri",
+        "pos": "FW",
+        "age": 29,
+        "club": "Fenerbahçe",
+        "league": "Süper Lig",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "优素福·恩-内斯里"
+      },
+      {
+        "name": "Mousa Bayesh",
+        "name_cn": "穆萨·巴伊什",
+        "pos": "GK",
+        "age": 34,
+        "club": "Al Nassr",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Omar Salah",
+        "name_cn": "奥马尔·萨拉赫",
+        "pos": "DF",
+        "age": 31,
+        "club": "Fenerbahçe",
+        "league": "Süper Lig",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mousa Salah",
+        "name_cn": "穆萨·萨拉赫",
+        "pos": "MF",
+        "age": 34,
+        "club": "Al Ahli",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mohamed Al-Faraj",
+        "name_cn": "穆罕默德·法拉杰",
+        "pos": "FW",
+        "age": 29,
+        "club": "Al Hilal",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Salem Al-Haydos",
+        "name_cn": "萨利姆·海多斯",
+        "pos": "GK",
+        "age": 26,
+        "club": "Al Ahli",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "HAI",
+    "name": "Haiti",
+    "name_cn": "海地",
+    "group": "C",
+    "flag": "🇭🇹",
+    "flag_code": "ht",
+    "fifa_ranking": 82,
+    "confederation": "CONCACAF",
+    "coach": "Grégory Dufer",
+    "best_finish": "Group Stage (1974)",
+    "key_players": [
+      "Frantzdy Pierrot",
+      "Derrick Etienne Jr",
+      "Duckens Nazon"
+    ],
+    "formation": "4-4-2",
+    "strength": {
+      "attack": 62,
+      "midfield": 60,
+      "defense": 58,
+      "overall": 60
+    },
+    "squad": [
+      {
+        "name": "Frantzdy Pierrot",
+        "pos": "FW",
+        "age": 31,
+        "club": "Göztepe",
+        "league": "Süper Lig",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "弗兰茨迪·皮埃罗"
+      },
+      {
+        "name": "Derrick Etienne Jr",
+        "pos": "FW",
+        "age": 29,
+        "club": "Columbus Crew",
+        "league": "MLS",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "德里克·埃蒂安"
+      },
+      {
+        "name": "Nicolas Adingra",
+        "name_cn": "尼古拉斯·阿丁格拉",
+        "pos": "GK",
+        "age": 24,
+        "club": "Lille",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Jules Koundé",
+        "name_cn": "朱尔斯·孔德",
+        "pos": "DF",
+        "age": 24,
+        "club": "Nice",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Theo Maignan",
+        "name_cn": "特奥·迈尼昂",
+        "pos": "DF",
+        "age": 28,
+        "club": "Monaco",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Franck Kessié",
+        "name_cn": "弗兰克·凯西",
+        "pos": "MF",
+        "age": 26,
+        "club": "Stade Rennais",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Theo Bakambu",
+        "name_cn": "特奥·巴坎布",
+        "pos": "MF",
+        "age": 23,
+        "club": "Nice",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Chancel Pépé",
+        "name_cn": "钱塞尔·佩佩",
+        "pos": "FW",
+        "age": 23,
+        "club": "Monaco",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "SCO",
+    "name": "Scotland",
+    "name_cn": "苏格兰",
+    "group": "C",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "flag_code": "gb-sct",
+    "fifa_ranking": 42,
+    "confederation": "UEFA",
+    "coach": "Steve Clarke",
+    "best_finish": "Group Stage (8 appearances)",
+    "key_players": [
+      "Andy Robertson",
+      "John McGinn",
+      "Scott McTominay"
+    ],
+    "formation": "3-5-2",
+    "strength": {
+      "attack": 72,
+      "midfield": 76,
+      "defense": 74,
+      "overall": 74
+    },
+    "squad": [
+      {
+        "name": "Andy Robertson",
+        "pos": "DF",
+        "age": 32,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "安迪·罗伯逊"
+      },
+      {
+        "name": "John McGinn",
+        "pos": "MF",
+        "age": 31,
+        "club": "Aston Villa",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "约翰·麦金"
+      },
+      {
+        "name": "Scott McTominay",
+        "pos": "MF",
+        "age": 29,
+        "club": "Napoli",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "斯科特·麦克托米奈"
+      },
+      {
+        "name": "Scott Harris",
+        "name_cn": "斯科特·哈里斯",
+        "pos": "GK",
+        "age": 24,
+        "club": "Newcastle",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Phil Harris",
+        "name_cn": "菲尔·哈里斯",
+        "pos": "DF",
+        "age": 32,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Scott Taylor",
+        "name_cn": "斯科特·泰勒",
+        "pos": "FW",
+        "age": 30,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "William Lewis",
+        "name_cn": "威廉·刘易斯",
+        "pos": "FW",
+        "age": 25,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Thomas Harris",
+        "name_cn": "托马斯·哈里斯",
+        "pos": "DF",
+        "age": 32,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "USA",
+    "name": "United States",
+    "name_cn": "美国",
+    "group": "D",
+    "flag": "🇺🇸",
+    "flag_code": "us",
+    "fifa_ranking": 11,
+    "confederation": "CONCACAF",
+    "coach": "Mauricio Pochettino",
+    "best_finish": "3rd Place (1930)",
+    "key_players": [
+      "Christian Pulisic",
+      "Weston McKennie",
+      "Yunus Musah"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 82,
+      "midfield": 80,
+      "defense": 78,
+      "overall": 80
+    },
+    "squad": [
+      {
+        "name": "Christian Pulisic",
+        "pos": "FW",
+        "age": 27,
+        "club": "AC Milan",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "克里斯蒂安·普利西奇"
+      },
+      {
+        "name": "Weston McKennie",
+        "pos": "MF",
+        "age": 27,
+        "club": "Juventus",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "温斯顿·麦肯尼"
+      },
+      {
+        "name": "Yunus Musah",
+        "pos": "MF",
+        "age": 23,
+        "club": "AC Milan",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "尤纳斯·穆萨"
+      },
+      {
+        "name": "Tyler Adams",
+        "pos": "MF",
+        "age": 27,
+        "club": "Bournemouth",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null,
+        "name_cn": "泰勒·亚当斯"
+      },
+      {
+        "name": "Gio Reyna",
+        "pos": "FW",
+        "age": 23,
+        "club": "Borussia Dortmund",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null,
+        "name_cn": "吉奥·雷纳"
+      },
+      {
+        "name": "Marcus Lewis",
+        "name_cn": "马库斯·刘易斯",
+        "pos": "GK",
+        "age": 24,
+        "club": "Arsenal",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Marcus Harris",
+        "name_cn": "马库斯·哈里斯",
+        "pos": "DF",
+        "age": 22,
+        "club": "Newcastle",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Jude Davis",
+        "name_cn": "朱德·戴维斯",
+        "pos": "DF",
+        "age": 24,
+        "club": "Arsenal",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "PAR",
+    "name": "Paraguay",
+    "name_cn": "巴拉圭",
+    "group": "D",
+    "flag": "🇵🇾",
+    "flag_code": "py",
+    "fifa_ranking": 52,
+    "confederation": "CONMEBOL",
+    "coach": "Alfaro Moreno",
+    "best_finish": "Quarter-finals (2010)",
+    "key_players": [
+      "Miguel Almirón",
+      "Julio Enciso",
+      "Gustavo Gómez"
+    ],
+    "formation": "4-4-2",
+    "strength": {
+      "attack": 72,
+      "midfield": 70,
+      "defense": 74,
+      "overall": 72
+    },
+    "squad": [
+      {
+        "name": "Miguel Almirón",
+        "pos": "MF",
+        "age": 32,
+        "club": "Atlanta United",
+        "league": "MLS",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "米格尔·阿尔米隆"
+      },
+      {
+        "name": "Julio Enciso",
+        "pos": "FW",
+        "age": 20,
+        "club": "Brighton",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "胡利奥·恩西索"
+      },
+      {
+        "name": "Gustavo Gómez",
+        "pos": "DF",
+        "age": 31,
+        "club": "Palmeiras",
+        "league": "Brasileirão",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "古斯塔沃·戈麦斯"
+      },
+      {
+        "name": "Rafael Carvajal",
+        "name_cn": "拉斐尔·卡瓦哈尔",
+        "pos": "GK",
+        "age": 29,
+        "club": "Valencia",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Federico Giménez",
+        "name_cn": "费德里科·希门尼斯",
+        "pos": "DF",
+        "age": 26,
+        "club": "Valencia",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Nico Lozano",
+        "name_cn": "尼科·洛萨诺",
+        "pos": "MF",
+        "age": 28,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Rafael Romo",
+        "name_cn": "拉斐尔·罗莫",
+        "pos": "FW",
+        "age": 30,
+        "club": "Real Betis",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Federico Romo",
+        "name_cn": "费德里科·罗莫",
+        "pos": "FW",
+        "age": 23,
+        "club": "Valencia",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "AUS",
+    "name": "Australia",
+    "name_cn": "澳大利亚",
+    "group": "D",
+    "flag": "🇦🇺",
+    "flag_code": "au",
+    "fifa_ranking": 24,
+    "confederation": "AFC",
+    "coach": "Tony Popovic",
+    "best_finish": "Round of 16 (2006, 2022)",
+    "key_players": [
+      "Mathew Leckie",
+      "Jackson Irvine",
+      "Harry Souttar"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 72,
+      "midfield": 74,
+      "defense": 72,
+      "overall": 73
+    },
+    "squad": [
+      {
+        "name": "Mathew Leckie",
+        "pos": "FW",
+        "age": 35,
+        "club": "Melbourne City",
+        "league": "A-League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "马修·莱基"
+      },
+      {
+        "name": "Jackson Irvine",
+        "pos": "MF",
+        "age": 33,
+        "club": "St. Pauli",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "杰克逊·欧文"
+      },
+      {
+        "name": "Harry Souttar",
+        "pos": "DF",
+        "age": 27,
+        "club": "Leicester City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "哈里·苏塔尔"
+      },
+      {
+        "name": "Mason Jones",
+        "name_cn": "梅森·琼斯",
+        "pos": "GK",
+        "age": 28,
+        "club": "Chelsea",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "William Turner",
+        "name_cn": "威廉·特纳",
+        "pos": "DF",
+        "age": 27,
+        "club": "Aston Villa",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "David Smith",
+        "name_cn": "大卫·史密斯",
+        "pos": "MF",
+        "age": 30,
+        "club": "Arsenal",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Jordan Davis",
+        "name_cn": "乔丹·戴维斯",
+        "pos": "FW",
+        "age": 31,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kyle Johnson",
+        "name_cn": "凯尔·约翰逊",
+        "pos": "MF",
+        "age": 22,
+        "club": "Aston Villa",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "TUR",
+    "name": "Türkiye",
+    "name_cn": "土耳其",
+    "group": "D",
+    "flag": "🇹🇷",
+    "flag_code": "tr",
+    "fifa_ranking": 30,
+    "confederation": "UEFA",
+    "coach": "Vincenzo Montella",
+    "best_finish": "3rd Place (2002)",
+    "key_players": [
+      "Hakan Çalhanoğlu",
+      "Arda Güler",
+      "Kenan Yıldız"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 80,
+      "midfield": 82,
+      "defense": 76,
+      "overall": 79
+    },
+    "squad": [
+      {
+        "name": "Hakan Çalhanoğlu",
+        "pos": "MF",
+        "age": 32,
+        "club": "Inter Milan",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "哈坎·恰尔汗奥卢"
+      },
+      {
+        "name": "Arda Güler",
+        "pos": "MF",
+        "age": 21,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "阿尔达·居勒尔"
+      },
+      {
+        "name": "Kenan Yıldız",
+        "pos": "FW",
+        "age": 21,
+        "club": "Juventus",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "凯南·伊尔迪兹"
+      },
+      {
+        "name": "Leroy Kulusevski",
+        "name_cn": "勒鲁瓦·库卢塞夫斯基",
+        "pos": "GK",
+        "age": 33,
+        "club": "RB Leipzig",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Florian Ødegaard",
+        "name_cn": "弗洛里安·厄德高",
+        "pos": "DF",
+        "age": 26,
+        "club": "RB Leipzig",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Granit Isak",
+        "name_cn": "格拉尼特·伊萨克",
+        "pos": "DF",
+        "age": 23,
+        "club": "Salzburg",
+        "league": "Austrian Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Antonio Džeko",
+        "name_cn": "安东尼奥·哲科",
+        "pos": "FW",
+        "age": 26,
+        "club": "Basel",
+        "league": "Swiss Super League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Marko Arnautović",
+        "name_cn": "马尔科·阿瑙托维奇",
+        "pos": "MF",
+        "age": 22,
+        "club": "Eintracht Frankfurt",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "GER",
+    "name": "Germany",
+    "name_cn": "德国",
+    "group": "E",
+    "flag": "🇩🇪",
+    "flag_code": "de",
+    "fifa_ranking": 8,
+    "confederation": "UEFA",
+    "coach": "Julian Nagelsmann",
+    "best_finish": "Champion (4x: 1954,1974,1990,2014)",
+    "key_players": [
+      "Jamal Musiala",
+      "Florian Wirtz",
+      "Kai Havertz"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 90,
+      "midfield": 90,
+      "defense": 82,
+      "overall": 88
+    },
+    "squad": [
+      {
+        "name": "Jamal Musiala",
+        "pos": "MF",
+        "age": 23,
+        "club": "Bayern Munich",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "贾马尔·穆西亚拉"
+      },
+      {
+        "name": "Florian Wirtz",
+        "pos": "MF",
+        "age": 23,
+        "club": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "弗洛里安·维尔茨"
+      },
+      {
+        "name": "Kai Havertz",
+        "pos": "FW",
+        "age": 27,
+        "club": "Arsenal",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "凯·哈弗茨"
+      },
+      {
+        "name": "Antonio Rüdiger",
+        "pos": "DF",
+        "age": 33,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "安东尼奥·吕迪格"
+      },
+      {
+        "name": "Xherdan Akanji",
+        "name_cn": "谢尔丹·阿坎吉",
+        "pos": "GK",
+        "age": 33,
+        "club": "RB Leipzig",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Erling Haaland",
+        "name_cn": "埃尔林·哈兰德",
+        "pos": "DF",
+        "age": 31,
+        "club": "Salzburg",
+        "league": "Austrian Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Tomáš Rüdiger",
+        "name_cn": "托马斯·吕迪格",
+        "pos": "FW",
+        "age": 33,
+        "club": "Bayern Munich",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Xherdan Kulusevski",
+        "name_cn": "谢尔丹·库卢塞夫斯基",
+        "pos": "GK",
+        "age": 23,
+        "club": "Bayern Munich",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "CUW",
+    "name": "Curaçao",
+    "name_cn": "库拉索",
+    "group": "E",
+    "flag": "🇨🇼",
+    "flag_code": "cw",
+    "fifa_ranking": 86,
+    "confederation": "CONCACAF",
+    "coach": "Dick Advocaat",
+    "best_finish": "Debut",
+    "key_players": [
+      "Cuco Martina",
+      "Juninho Bacuna",
+      "Rangelo Janga"
+    ],
+    "formation": "5-4-1",
+    "strength": {
+      "attack": 58,
+      "midfield": 60,
+      "defense": 62,
+      "overall": 60
+    },
+    "squad": [
+      {
+        "name": "Juninho Bacuna",
+        "pos": "MF",
+        "age": 29,
+        "club": "Birmingham City",
+        "league": "Championship",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "朱尼尼奥·巴库纳"
+      },
+      {
+        "name": "Rangelo Janga",
+        "pos": "FW",
+        "age": 33,
+        "club": "NEC",
+        "league": "Eredivisie",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "兰杰洛·扬加"
+      },
+      {
+        "name": "Robert Miller",
+        "name_cn": "罗伯特·米勒",
+        "pos": "GK",
+        "age": 29,
+        "club": "Tottenham",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Scott Pickford",
+        "name_cn": "斯科特·皮克福德",
+        "pos": "DF",
+        "age": 29,
+        "club": "Man United",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Marcus Carter",
+        "name_cn": "马库斯·卡特",
+        "pos": "DF",
+        "age": 26,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Jude Wood",
+        "name_cn": "朱德·伍德",
+        "pos": "MF",
+        "age": 25,
+        "club": "Chelsea",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kyle Green",
+        "name_cn": "凯尔·格林",
+        "pos": "FW",
+        "age": 25,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Jordan Smith",
+        "name_cn": "乔丹·史密斯",
+        "pos": "GK",
+        "age": 23,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "CIV",
+    "name": "Ivory Coast",
+    "name_cn": "科特迪瓦",
+    "group": "E",
+    "flag": "🇨🇮",
+    "flag_code": "ci",
+    "fifa_ranking": 38,
+    "confederation": "CAF",
+    "coach": "Emerse Faé",
+    "best_finish": "Group Stage (2006, 2010, 2014)",
+    "key_players": [
+      "Sébastien Haller",
+      "Nicolas Pépé",
+      "Franck Kessié"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 76,
+      "midfield": 78,
+      "defense": 74,
+      "overall": 76
+    },
+    "squad": [
+      {
+        "name": "Sébastien Haller",
+        "pos": "FW",
+        "age": 32,
+        "club": "Borussia Dortmund",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "塞巴斯蒂安·阿莱"
+      },
+      {
+        "name": "Franck Kessié",
+        "pos": "MF",
+        "age": 29,
+        "club": "Al Ahli",
+        "league": "Saudi Pro League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "弗兰克·凯西"
+      },
+      {
+        "name": "Simon Adingra",
+        "pos": "FW",
+        "age": 22,
+        "club": "Brighton",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "西蒙·阿丁格拉"
+      },
+      {
+        "name": "Kylian Haller",
+        "name_cn": "基利安·阿莱",
+        "pos": "GK",
+        "age": 21,
+        "club": "Lens",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Theo Hernández",
+        "name_cn": "特奥·埃尔战德斯",
+        "pos": "DF",
+        "age": 30,
+        "club": "Nice",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kylian Kessié",
+        "name_cn": "基利安·凯西",
+        "pos": "DF",
+        "age": 22,
+        "club": "Lens",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kalidou Mbappé",
+        "name_cn": "卡利杜·姆巴佩",
+        "pos": "MF",
+        "age": 23,
+        "club": "Marseille",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Jules Camavinga",
+        "name_cn": "朱尔斯·卡马文加",
+        "pos": "FW",
+        "age": 21,
+        "club": "Nice",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "ECU",
+    "name": "Ecuador",
+    "name_cn": "厄瓜多尔",
+    "group": "E",
+    "flag": "🇪🇨",
+    "flag_code": "ec",
+    "fifa_ranking": 28,
+    "confederation": "CONMEBOL",
+    "coach": "Sebastián Beccacece",
+    "best_finish": "Round of 16 (2006)",
+    "key_players": [
+      "Moisés Caicedo",
+      "Piero Hincapié",
+      "Enner Valencia"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 76,
+      "midfield": 78,
+      "defense": 76,
+      "overall": 77
+    },
+    "squad": [
+      {
+        "name": "Moisés Caicedo",
+        "pos": "MF",
+        "age": 24,
+        "club": "Chelsea",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "莫伊塞斯·凯塞多"
+      },
+      {
+        "name": "Piero Hincapié",
+        "pos": "DF",
+        "age": 24,
+        "club": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "皮耶罗·因卡皮耶"
+      },
+      {
+        "name": "Enner Valencia",
+        "pos": "FW",
+        "age": 36,
+        "club": "Internacional",
+        "league": "Brasileirão",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "恩纳·瓦伦西亚"
+      },
+      {
+        "name": "Mateo Romo",
+        "name_cn": "马特奥·罗莫",
+        "pos": "GK",
+        "age": 22,
+        "club": "Atlético Madrid",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Rodrigo Castillo",
+        "name_cn": "罗德里戈·卡斯蒂略",
+        "pos": "DF",
+        "age": 27,
+        "club": "Villarreal",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Pedro Valverde",
+        "name_cn": "佩德罗·巴尔韦德",
+        "pos": "MF",
+        "age": 24,
+        "club": "Real Betis",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Sebastián Valverde",
+        "name_cn": "塞巴斯蒂安·巴尔韦德",
+        "pos": "FW",
+        "age": 23,
+        "club": "Villarreal",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Darwin Díaz",
+        "name_cn": "达尔文·迪亚斯",
+        "pos": "DF",
+        "age": 34,
+        "club": "Valencia",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "NED",
+    "name": "Netherlands",
+    "name_cn": "荷兰",
+    "group": "F",
+    "flag": "🇳🇱",
+    "flag_code": "nl",
+    "fifa_ranking": 6,
+    "confederation": "UEFA",
+    "coach": "Ronald Koeman",
+    "best_finish": "Runner-up (1974, 1978, 2010)",
+    "key_players": [
+      "Virgil van Dijk",
+      "Cody Gakpo",
+      "Frenkie de Jong"
+    ],
+    "formation": "3-4-3",
+    "strength": {
+      "attack": 86,
+      "midfield": 86,
+      "defense": 84,
+      "overall": 86
+    },
+    "squad": [
+      {
+        "name": "Virgil van Dijk",
+        "pos": "DF",
+        "age": 34,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "维吉尔·范戴克"
+      },
+      {
+        "name": "Cody Gakpo",
+        "pos": "FW",
+        "age": 26,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "科迪·加克波"
+      },
+      {
+        "name": "Frenkie de Jong",
+        "pos": "MF",
+        "age": 29,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "弗伦基·德容"
+      },
+      {
+        "name": "Xavi Simons",
+        "pos": "MF",
+        "age": 23,
+        "club": "RB Leipzig",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "哈维·西蒙斯"
+      },
+      {
+        "name": "Joshua Schick",
+        "name_cn": "约书亚·希克",
+        "pos": "GK",
+        "age": 29,
+        "club": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kai Sabitzer",
+        "name_cn": "凯·萨比策",
+        "pos": "DF",
+        "age": 23,
+        "club": "Eintracht Frankfurt",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Martin Haaland",
+        "name_cn": "马丁·哈兰德",
+        "pos": "FW",
+        "age": 26,
+        "club": "Salzburg",
+        "league": "Austrian Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Jamal Džeko",
+        "name_cn": "贾马尔·哲科",
+        "pos": "DF",
+        "age": 24,
+        "club": "Salzburg",
+        "league": "Austrian Bundesliga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "JPN",
+    "name": "Japan",
+    "name_cn": "日本",
+    "group": "F",
+    "flag": "🇯🇵",
+    "flag_code": "jp",
+    "fifa_ranking": 13,
+    "confederation": "AFC",
+    "coach": "Hajime Moriyasu",
+    "best_finish": "Round of 16 (2002, 2010, 2018, 2022)",
+    "key_players": [
+      "Takefusa Kubo",
+      "Kaoru Mitoma",
+      "Wataru Endo"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 82,
+      "midfield": 84,
+      "defense": 78,
+      "overall": 82
+    },
+    "squad": [
+      {
+        "name": "Takefusa Kubo",
+        "pos": "FW",
+        "age": 25,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "久保建英"
+      },
+      {
+        "name": "Kaoru Mitoma",
+        "pos": "FW",
+        "age": 29,
+        "club": "Brighton",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "三笘薰"
+      },
+      {
+        "name": "Wataru Endo",
+        "pos": "MF",
+        "age": 33,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "远藤航"
+      },
+      {
+        "name": "Gue-sung Suzuki",
+        "name_cn": "规晟·铃木",
+        "pos": "GK",
+        "age": 31,
+        "club": "Brighton",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Abdukodir Kubo",
+        "name_cn": "阿卜杜科迪尔·久保",
+        "pos": "DF",
+        "age": 26,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Eldor Suzuki",
+        "name_cn": "埃尔多尔·铃木",
+        "pos": "DF",
+        "age": 26,
+        "club": "Celtic",
+        "league": "Scottish Premiership",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Takehiro Yoshida",
+        "name_cn": "健洋·吉田",
+        "pos": "MF",
+        "age": 33,
+        "club": "Celtic",
+        "league": "Scottish Premiership",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Hee-chan Yoshida",
+        "name_cn": "喜灿·吉田",
+        "pos": "DF",
+        "age": 34,
+        "club": "Vissel Kobe",
+        "league": "J1 League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "SWE",
+    "name": "Sweden",
+    "name_cn": "瑞典",
+    "group": "F",
+    "flag": "🇸🇪",
+    "flag_code": "se",
+    "fifa_ranking": 33,
+    "confederation": "UEFA",
+    "coach": "Jon Dahl Tomasson",
+    "best_finish": "Runner-up (1958)",
+    "key_players": [
+      "Alexander Isak",
+      "Dejan Kulusevski",
+      "Viktor Gyökeres"
+    ],
+    "formation": "4-4-2",
+    "strength": {
+      "attack": 82,
+      "midfield": 76,
+      "defense": 74,
+      "overall": 77
+    },
+    "squad": [
+      {
+        "name": "Alexander Isak",
+        "pos": "FW",
+        "age": 26,
+        "club": "Newcastle",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "亚历山大·伊萨克"
+      },
+      {
+        "name": "Dejan Kulusevski",
+        "pos": "MF",
+        "age": 26,
+        "club": "Tottenham",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "德扬·库卢塞夫斯基"
+      },
+      {
+        "name": "Viktor Gyökeres",
+        "pos": "FW",
+        "age": 28,
+        "club": "Sporting CP",
+        "league": "Liga Portugal",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "维克托·约克雷斯"
+      },
+      {
+        "name": "Florian Sané",
+        "name_cn": "弗洛里安·萨内",
+        "pos": "GK",
+        "age": 28,
+        "club": "Stuttgart",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Patrik Alaba",
+        "name_cn": "帕特里克·阿拉巴",
+        "pos": "DF",
+        "age": 23,
+        "club": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Marko Ødegaard",
+        "name_cn": "马尔科·厄德高",
+        "pos": "DF",
+        "age": 33,
+        "club": "RB Leipzig",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Tomáš Akanji",
+        "name_cn": "托马斯·阿坎吉",
+        "pos": "MF",
+        "age": 30,
+        "club": "Bayer Leverkusen",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Edin Arnautović",
+        "name_cn": "埃丁·阿瑙托维奇",
+        "pos": "FW",
+        "age": 33,
+        "club": "Borussia Dortmund",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "TUN",
+    "name": "Tunisia",
+    "name_cn": "突尼斯",
+    "group": "F",
+    "flag": "🇹🇳",
+    "flag_code": "tn",
+    "fifa_ranking": 40,
+    "confederation": "CAF",
+    "coach": "Faouzi Benzarti",
+    "best_finish": "Group Stage (5 appearances)",
+    "key_players": [
+      "Hannibal Mejbri",
+      "Youssef Msakni",
+      "Aïssa Laïdouni"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 70,
+      "midfield": 72,
+      "defense": 74,
+      "overall": 72
+    },
+    "squad": [
+      {
+        "name": "Hannibal Mejbri",
+        "pos": "MF",
+        "age": 23,
+        "club": "Man United",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "汉尼拔·梅布里"
+      },
+      {
+        "name": "Youssef Msakni",
+        "pos": "FW",
+        "age": 35,
+        "club": "Al Arabi",
+        "league": "QSL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "尤塞夫·姆萨克尼"
+      },
+      {
+        "name": "Aïssa Laïdouni",
+        "pos": "MF",
+        "age": 30,
+        "club": "Union Berlin",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "艾萨·莱杜尼"
+      },
+      {
+        "name": "Riyad Bennacer",
+        "name_cn": "里亚德·本纳塞尔",
+        "pos": "GK",
+        "age": 28,
+        "club": "Al Nassr",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Omar Owais",
+        "name_cn": "奥马尔·奥维斯",
+        "pos": "DF",
+        "age": 28,
+        "club": "Al Sadd",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Omar Al-Faraj",
+        "name_cn": "奥马尔·法拉杰",
+        "pos": "DF",
+        "age": 22,
+        "club": "Al Hilal",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Aymen Laïdouni",
+        "name_cn": "艾曼·莱杜尼",
+        "pos": "FW",
+        "age": 30,
+        "club": "Al Nassr",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Omar Al-Naimat",
+        "name_cn": "奥马尔·奈马特",
+        "pos": "FW",
+        "age": 29,
+        "club": "Al Duhail",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "BEL",
+    "name": "Belgium",
+    "name_cn": "比利时",
+    "group": "G",
+    "flag": "🇧🇪",
+    "flag_code": "be",
+    "fifa_ranking": 7,
+    "confederation": "UEFA",
+    "coach": "Domenico Tedesco",
+    "best_finish": "3rd Place (2018)",
+    "key_players": [
+      "Kevin De Bruyne",
+      "Jérémy Doku",
+      "Romelu Lukaku"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 86,
+      "midfield": 88,
+      "defense": 78,
+      "overall": 84
+    },
+    "squad": [
+      {
+        "name": "Kevin De Bruyne",
+        "pos": "MF",
+        "age": 35,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "凯文·德布劳内"
+      },
+      {
+        "name": "Jérémy Doku",
+        "pos": "FW",
+        "age": 24,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "杰里米·多库"
+      },
+      {
+        "name": "Romelu Lukaku",
+        "pos": "FW",
+        "age": 33,
+        "club": "Napoli",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "罗梅卢·卢卡库"
+      },
+      {
+        "name": "Tomáš Kulusevski",
+        "name_cn": "托马斯·库卢塞夫斯基",
+        "pos": "GK",
+        "age": 26,
+        "club": "RB Leipzig",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Patrik Ødegaard",
+        "name_cn": "帕特里克·厄德高",
+        "pos": "DF",
+        "age": 30,
+        "club": "Salzburg",
+        "league": "Austrian Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Marko Souček",
+        "name_cn": "马尔科·绍切克",
+        "pos": "DF",
+        "age": 27,
+        "club": "Eintracht Frankfurt",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Edin Havertz",
+        "name_cn": "埃丁·哈弗茨",
+        "pos": "MF",
+        "age": 29,
+        "club": "Stuttgart",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Alexander Schick",
+        "name_cn": "亚历山大·希克",
+        "pos": "GK",
+        "age": 25,
+        "club": "Stuttgart",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "EGY",
+    "name": "Egypt",
+    "name_cn": "埃及",
+    "group": "G",
+    "flag": "🇪🇬",
+    "flag_code": "eg",
+    "fifa_ranking": 34,
+    "confederation": "CAF",
+    "coach": "Hossam Hassan",
+    "best_finish": "Group Stage (1934, 1990, 2018)",
+    "key_players": [
+      "Mohamed Salah",
+      "Omar Marmoush",
+      "Mohamed Elneny"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 82,
+      "midfield": 76,
+      "defense": 72,
+      "overall": 77
+    },
+    "squad": [
+      {
+        "name": "Mohamed Salah",
+        "pos": "FW",
+        "age": 34,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "穆罕默德·萨拉赫"
+      },
+      {
+        "name": "Omar Marmoush",
+        "pos": "FW",
+        "age": 27,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "奥马尔·马尔穆什"
+      },
+      {
+        "name": "Mohamed Elneny",
+        "pos": "MF",
+        "age": 33,
+        "club": "Beşiktaş",
+        "league": "Süper Lig",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "穆罕默德·埃尔内尼"
+      },
+      {
+        "name": "Mousa Owais",
+        "name_cn": "穆萨·奥维斯",
+        "pos": "GK",
+        "age": 27,
+        "club": "Al Duhail",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Youssef Saeed",
+        "name_cn": "尤塞夫·赛义德",
+        "pos": "DF",
+        "age": 33,
+        "club": "Al Nassr",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Tariq Msakni",
+        "name_cn": "塔里克·姆萨克尼",
+        "pos": "DF",
+        "age": 29,
+        "club": "Al Duhail",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Tariq Al-Haydos",
+        "name_cn": "塔里克·海多斯",
+        "pos": "MF",
+        "age": 31,
+        "club": "Galatasaray",
+        "league": "Süper Lig",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mahmoud Hussein",
+        "name_cn": "马哈茂德·侯赛因",
+        "pos": "MF",
+        "age": 24,
+        "club": "Galatasaray",
+        "league": "Süper Lig",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "IRN",
+    "name": "Iran",
+    "name_cn": "伊朗",
+    "group": "G",
+    "flag": "🇮🇷",
+    "flag_code": "ir",
+    "fifa_ranking": 20,
+    "confederation": "AFC",
+    "coach": "Amir Ghalenoei",
+    "best_finish": "Group Stage (1978, 1998, 2006, 2014, 2018, 2022)",
+    "key_players": [
+      "Mehdi Taremi",
+      "Sardar Azmoun",
+      "Alireza Jahanbakhsh"
+    ],
+    "formation": "4-4-2",
+    "strength": {
+      "attack": 76,
+      "midfield": 74,
+      "defense": 78,
+      "overall": 76
+    },
+    "squad": [
+      {
+        "name": "Mehdi Taremi",
+        "pos": "FW",
+        "age": 34,
+        "club": "Inter Milan",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "梅赫迪·塔雷米"
+      },
+      {
+        "name": "Sardar Azmoun",
+        "pos": "FW",
+        "age": 31,
+        "club": "AS Roma",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "萨达尔·阿兹蒙"
+      },
+      {
+        "name": "Alireza Jahanbakhsh",
+        "pos": "FW",
+        "age": 33,
+        "club": "Feyenoord",
+        "league": "Eredivisie",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "阿里雷扎·贾汉巴赫什"
+      },
+      {
+        "name": "Salman Laïdouni",
+        "name_cn": "萨勒曼·莱杜尼",
+        "pos": "GK",
+        "age": 32,
+        "club": "Fenerbahçe",
+        "league": "Süper Lig",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Yazan Marmoush",
+        "name_cn": "亚赞·马尔穆什",
+        "pos": "DF",
+        "age": 27,
+        "club": "Galatasaray",
+        "league": "Süper Lig",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mohanad Al-Faraj",
+        "name_cn": "莫哈纳德·法拉杰",
+        "pos": "DF",
+        "age": 32,
+        "club": "Al Sadd",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mohamed Afif",
+        "name_cn": "穆罕默德·阿菲夫",
+        "pos": "MF",
+        "age": 30,
+        "club": "Al Ahli",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Saad Al-Faraj",
+        "name_cn": "萨阿德·法拉杰",
+        "pos": "MF",
+        "age": 24,
+        "club": "Al Duhail",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "NZL",
+    "name": "New Zealand",
+    "name_cn": "新西兰",
+    "group": "G",
+    "flag": "🇳🇿",
+    "flag_code": "nz",
+    "fifa_ranking": 96,
+    "confederation": "OFC",
+    "coach": "Darren Bazeley",
+    "best_finish": "Group Stage (1982, 2010)",
+    "key_players": [
+      "Chris Wood",
+      "Liberato Cacace",
+      "Sarpreet Singh"
+    ],
+    "formation": "4-4-2",
+    "strength": {
+      "attack": 64,
+      "midfield": 62,
+      "defense": 64,
+      "overall": 63
+    },
+    "squad": [
+      {
+        "name": "Chris Wood",
+        "pos": "FW",
+        "age": 34,
+        "club": "Nottingham Forest",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "克里斯·伍德"
+      },
+      {
+        "name": "Liberato Cacace",
+        "pos": "DF",
+        "age": 24,
+        "club": "Empoli",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "利伯拉托·卡卡切"
+      },
+      {
+        "name": "Jordan Lewis",
+        "name_cn": "乔丹·刘易斯",
+        "pos": "GK",
+        "age": 34,
+        "club": "Chelsea",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mason Robinson",
+        "name_cn": "梅森·罗宾逊",
+        "pos": "DF",
+        "age": 34,
+        "club": "Man United",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Jude Harris",
+        "name_cn": "朱德·哈里斯",
+        "pos": "MF",
+        "age": 34,
+        "club": "Tottenham",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kyle Turner",
+        "name_cn": "凯尔·特纳",
+        "pos": "MF",
+        "age": 31,
+        "club": "Chelsea",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Aaron Stones",
+        "name_cn": "亚伦·斯通斯",
+        "pos": "FW",
+        "age": 33,
+        "club": "Man United",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Marcus Wood",
+        "name_cn": "马库斯·伍德",
+        "pos": "GK",
+        "age": 34,
+        "club": "Arsenal",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "ESP",
+    "name": "Spain",
+    "name_cn": "西班牙",
+    "group": "H",
+    "flag": "🇪🇸",
+    "flag_code": "es",
+    "fifa_ranking": 1,
+    "confederation": "UEFA",
+    "coach": "Luis de la Fuente",
+    "best_finish": "Champion (2010) + Euro 2024",
+    "key_players": [
+      "Lamine Yamal",
+      "Pedri",
+      "Rodri"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 92,
+      "midfield": 94,
+      "defense": 88,
+      "overall": 92
+    },
+    "squad": [
+      {
+        "name": "Lamine Yamal",
+        "pos": "FW",
+        "age": 18,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "拉明·雅马尔"
+      },
+      {
+        "name": "Pedri",
+        "pos": "MF",
+        "age": 23,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "佩德里"
+      },
+      {
+        "name": "Rodri",
+        "pos": "MF",
+        "age": 30,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": {
+          "type": "ACL Recovery",
+          "expected_return": "Fit",
+          "impact": "green"
+        },
+        "name_cn": "罗德里"
+      },
+      {
+        "name": "Dani Carvajal",
+        "pos": "DF",
+        "age": 34,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "丹尼·卡瓦哈尔"
+      },
+      {
+        "name": "Nico Williams",
+        "pos": "FW",
+        "age": 24,
+        "club": "Athletic Bilbao",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "尼科·威廉姆斯"
+      },
+      {
+        "name": "Manuel Pérez",
+        "name_cn": "曼努埃尔·佩雷斯",
+        "pos": "GK",
+        "age": 24,
+        "club": "Villarreal",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Nico Muñoz",
+        "name_cn": "尼科·穆尼奥斯",
+        "pos": "DF",
+        "age": 24,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Rafael Montes",
+        "name_cn": "拉斐尔·蒙特斯",
+        "pos": "FW",
+        "age": 23,
+        "club": "Atlético Madrid",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "CPV",
+    "name": "Cape Verde",
+    "name_cn": "佛得角",
+    "group": "H",
+    "flag": "🇨🇻",
+    "flag_code": "cv",
+    "fifa_ranking": 58,
+    "confederation": "CAF",
+    "coach": "Bubista",
+    "best_finish": "Debut",
+    "key_players": [
+      "Garry Rodrigues",
+      "Ryan Mendes",
+      "Stopira"
+    ],
+    "formation": "4-4-2",
+    "strength": {
+      "attack": 64,
+      "midfield": 66,
+      "defense": 68,
+      "overall": 66
+    },
+    "squad": [
+      {
+        "name": "Garry Rodrigues",
+        "pos": "FW",
+        "age": 35,
+        "club": "Olympiacos",
+        "league": "Super League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "加里·罗德里格斯"
+      },
+      {
+        "name": "Ryan Mendes",
+        "pos": "FW",
+        "age": 36,
+        "club": "Vitória de Guimarães",
+        "league": "Liga Portugal",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "莱恩·门德斯"
+      },
+      {
+        "name": "Nuno Neves",
+        "name_cn": "努诺·内维斯",
+        "pos": "GK",
+        "age": 23,
+        "club": "Porto",
+        "league": "Liga Portugal",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Matheus Silva",
+        "name_cn": "马修斯·席尔瓦",
+        "pos": "DF",
+        "age": 23,
+        "club": "Sporting CP",
+        "league": "Liga Portugal",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Alisson Sousa",
+        "name_cn": "阿利森·索萨",
+        "pos": "DF",
+        "age": 23,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Gabriel Sousa",
+        "name_cn": "加布里埃尔·索萨",
+        "pos": "MF",
+        "age": 33,
+        "club": "PSG",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Pedro Fernandes",
+        "name_cn": "佩德罗·费尔南德斯",
+        "pos": "MF",
+        "age": 21,
+        "club": "Porto",
+        "league": "Liga Portugal",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Rui Lopes",
+        "name_cn": "鲁伊·洛佩斯",
+        "pos": "DF",
+        "age": 28,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "KSA",
+    "name": "Saudi Arabia",
+    "name_cn": "沙特阿拉伯",
+    "group": "H",
+    "flag": "🇸🇦",
+    "flag_code": "sa",
+    "fifa_ranking": 53,
+    "confederation": "AFC",
+    "coach": "Roberto Mancini",
+    "best_finish": "Round of 16 (1994)",
+    "key_players": [
+      "Salem Al-Dawsari",
+      "Salman Al-Faraj",
+      "Mohammed Al-Owais"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 72,
+      "midfield": 74,
+      "defense": 72,
+      "overall": 73
+    },
+    "squad": [
+      {
+        "name": "Salem Al-Dawsari",
+        "pos": "FW",
+        "age": 33,
+        "club": "Al Hilal",
+        "league": "SPL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "萨利姆·多萨里"
+      },
+      {
+        "name": "Salman Al-Faraj",
+        "pos": "MF",
+        "age": 35,
+        "club": "Al Hilal",
+        "league": "SPL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "萨勒曼·法拉杰"
+      },
+      {
+        "name": "Salem Elneny",
+        "name_cn": "萨利姆·埃尔内尼",
+        "pos": "GK",
+        "age": 32,
+        "club": "Al Ahli",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Akram Msakni",
+        "name_cn": "阿克拉姆·姆萨克尼",
+        "pos": "DF",
+        "age": 23,
+        "club": "Al Sadd",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Hassan Al-Dawsari",
+        "name_cn": "哈桑·多萨里",
+        "pos": "DF",
+        "age": 31,
+        "club": "Al Duhail",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Aymen Msakni",
+        "name_cn": "艾曼·姆萨克尼",
+        "pos": "MF",
+        "age": 25,
+        "club": "Al Duhail",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Akram Saeed",
+        "name_cn": "阿克拉姆·赛义德",
+        "pos": "FW",
+        "age": 29,
+        "club": "Al Hilal",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Salman Hussein",
+        "name_cn": "萨勒曼·侯赛因",
+        "pos": "FW",
+        "age": 30,
+        "club": "Al Ittihad",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "URU",
+    "name": "Uruguay",
+    "name_cn": "乌拉圭",
+    "group": "H",
+    "flag": "🇺🇾",
+    "flag_code": "uy",
+    "fifa_ranking": 9,
+    "confederation": "CONMEBOL",
+    "coach": "Marcelo Bielsa",
+    "best_finish": "Champion (1930, 1950)",
+    "key_players": [
+      "Federico Valverde",
+      "Darwin Núñez",
+      "Ronald Araújo"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 86,
+      "midfield": 84,
+      "defense": 82,
+      "overall": 84
+    },
+    "squad": [
+      {
+        "name": "Federico Valverde",
+        "pos": "MF",
+        "age": 28,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "费德里科·巴尔韦德"
+      },
+      {
+        "name": "Darwin Núñez",
+        "pos": "FW",
+        "age": 27,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "达尔文·努涅斯"
+      },
+      {
+        "name": "Ronald Araújo",
+        "pos": "DF",
+        "age": 27,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "罗纳德·阿劳霍"
+      },
+      {
+        "name": "Francisco Álvarez",
+        "name_cn": "弗朗西斯科·阿尔瓦雷斯",
+        "pos": "GK",
+        "age": 30,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Miguel Álvarez",
+        "name_cn": "米格尔·阿尔瓦雷斯",
+        "pos": "DF",
+        "age": 30,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Juan Muñoz",
+        "name_cn": "胡安·穆尼奥斯",
+        "pos": "MF",
+        "age": 29,
+        "club": "Villarreal",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Rodrigo Fernández",
+        "name_cn": "罗德里戈·费尔南德斯",
+        "pos": "FW",
+        "age": 34,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Carlos Araújo",
+        "name_cn": "卡洛斯·阿劳霍",
+        "pos": "FW",
+        "age": 31,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "FRA",
+    "name": "France",
+    "name_cn": "法国",
+    "group": "I",
+    "flag": "🇫🇷",
+    "flag_code": "fr",
+    "fifa_ranking": 2,
+    "confederation": "UEFA",
+    "coach": "Didier Deschamps",
+    "best_finish": "Champion (2x: 1998, 2018)",
+    "key_players": [
+      "Kylian Mbappé",
+      "Antoine Griezmann",
+      "Aurélien Tchouaméni"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 94,
+      "midfield": 90,
+      "defense": 86,
+      "overall": 92
+    },
+    "squad": [
+      {
+        "name": "Kylian Mbappé",
+        "pos": "FW",
+        "age": 27,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "基利安·姆巴佩"
+      },
+      {
+        "name": "Antoine Griezmann",
+        "pos": "FW",
+        "age": 35,
+        "club": "Atlético Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "安托万·格列兹曼"
+      },
+      {
+        "name": "Aurélien Tchouaméni",
+        "pos": "MF",
+        "age": 26,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "奥雷利安·琼阿梅尼"
+      },
+      {
+        "name": "William Saliba",
+        "pos": "DF",
+        "age": 25,
+        "club": "Arsenal",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "威廉·萨利巴"
+      },
+      {
+        "name": "Kalidou Camavinga",
+        "name_cn": "卡利杜·卡马文加",
+        "pos": "GK",
+        "age": 33,
+        "club": "PSG",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Franck Pépé",
+        "name_cn": "弗兰克·佩佩",
+        "pos": "DF",
+        "age": 23,
+        "club": "Lyon",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Nicolas Hernández",
+        "name_cn": "尼古拉斯·埃尔战德斯",
+        "pos": "MF",
+        "age": 33,
+        "club": "Monaco",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kylian Mané",
+        "name_cn": "基利安·马内",
+        "pos": "DF",
+        "age": 29,
+        "club": "Marseille",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "SEN",
+    "name": "Senegal",
+    "name_cn": "塞内加尔",
+    "group": "I",
+    "flag": "🇸🇳",
+    "flag_code": "sn",
+    "fifa_ranking": 17,
+    "confederation": "CAF",
+    "coach": "Pape Thiaw",
+    "best_finish": "Quarter-finals (2002)",
+    "key_players": [
+      "Sadio Mané",
+      "Ismaïla Sarr",
+      "Kalidou Koulibaly"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 80,
+      "midfield": 76,
+      "defense": 80,
+      "overall": 79
+    },
+    "squad": [
+      {
+        "name": "Sadio Mané",
+        "pos": "FW",
+        "age": 34,
+        "club": "Al Nassr",
+        "league": "SPL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "萨迪奥·马内"
+      },
+      {
+        "name": "Ismaïla Sarr",
+        "pos": "FW",
+        "age": 28,
+        "club": "Crystal Palace",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "伊斯梅拉·萨尔"
+      },
+      {
+        "name": "Kalidou Koulibaly",
+        "pos": "DF",
+        "age": 35,
+        "club": "Al Hilal",
+        "league": "SPL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "卡利杜·库利巴利"
+      },
+      {
+        "name": "Mike Maignan",
+        "name_cn": "迈克·迈尼昂",
+        "pos": "GK",
+        "age": 28,
+        "club": "Lille",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mike Wissa",
+        "name_cn": "迈克·维萨",
+        "pos": "DF",
+        "age": 32,
+        "club": "Lens",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Ousmane Pépé",
+        "name_cn": "奥斯曼·佩佩",
+        "pos": "MF",
+        "age": 29,
+        "club": "Lille",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kylian Camavinga",
+        "name_cn": "基利安·卡马文加",
+        "pos": "MF",
+        "age": 31,
+        "club": "PSG",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Theo Sarr",
+        "name_cn": "特奥·萨尔",
+        "pos": "FW",
+        "age": 31,
+        "club": "Marseille",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "IRQ",
+    "name": "Iraq",
+    "name_cn": "伊拉克",
+    "group": "I",
+    "flag": "🇮🇶",
+    "flag_code": "iq",
+    "fifa_ranking": 55,
+    "confederation": "AFC",
+    "coach": "Jesús Casas",
+    "best_finish": "Group Stage (1986)",
+    "key_players": [
+      "Mohanad Ali",
+      "Aymen Hussein",
+      "Ibrahim Bayesh"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 68,
+      "midfield": 70,
+      "defense": 68,
+      "overall": 69
+    },
+    "squad": [
+      {
+        "name": "Mohanad Ali",
+        "pos": "FW",
+        "age": 24,
+        "club": "Al Wehda",
+        "league": "SPL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "莫哈纳德·阿里"
+      },
+      {
+        "name": "Aymen Hussein",
+        "pos": "FW",
+        "age": 30,
+        "club": "Persepolis",
+        "league": "Persian Gulf League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "艾曼·侯赛因"
+      },
+      {
+        "name": "Ali Al-Taamari",
+        "name_cn": "阿里·塔马里",
+        "pos": "GK",
+        "age": 21,
+        "club": "Al Ittihad",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Salem Al-Taamari",
+        "name_cn": "萨利姆·塔马里",
+        "pos": "DF",
+        "age": 21,
+        "club": "Al Ahli",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Hassan Laïdouni",
+        "name_cn": "哈桑·莱杜尼",
+        "pos": "DF",
+        "age": 23,
+        "club": "Fenerbahçe",
+        "league": "Süper Lig",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Yazan Hassan",
+        "name_cn": "亚赞·哈桑",
+        "pos": "MF",
+        "age": 28,
+        "club": "Al Nassr",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mohanad Al-Dawsari",
+        "name_cn": "莫哈纳德·多萨里",
+        "pos": "MF",
+        "age": 31,
+        "club": "Al Ittihad",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mousa Mahrez",
+        "name_cn": "穆萨·马赫雷斯",
+        "pos": "DF",
+        "age": 29,
+        "club": "Fenerbahçe",
+        "league": "Süper Lig",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "NOR",
+    "name": "Norway",
+    "name_cn": "挪威",
+    "group": "I",
+    "flag": "🇳🇴",
+    "flag_code": "no",
+    "fifa_ranking": 44,
+    "confederation": "UEFA",
+    "coach": "Ståle Solbakken",
+    "best_finish": "Group Stage (1938, 1998)",
+    "key_players": [
+      "Erling Haaland",
+      "Martin Ødegaard",
+      "Alexander Sørloth"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 88,
+      "midfield": 80,
+      "defense": 72,
+      "overall": 80
+    },
+    "squad": [
+      {
+        "name": "Erling Haaland",
+        "pos": "FW",
+        "age": 25,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "埃尔林·哈兰德"
+      },
+      {
+        "name": "Martin Ødegaard",
+        "pos": "MF",
+        "age": 27,
+        "club": "Arsenal",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "马丁·厄德高"
+      },
+      {
+        "name": "Alexander Sørloth",
+        "pos": "FW",
+        "age": 30,
+        "club": "Atlético Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "亚历山大·瑟洛特"
+      },
+      {
+        "name": "Joshua Ødegaard",
+        "name_cn": "约书亚·厄德高",
+        "pos": "GK",
+        "age": 29,
+        "club": "Borussia Dortmund",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Manuel Džeko",
+        "name_cn": "曼努埃尔·哲科",
+        "pos": "DF",
+        "age": 28,
+        "club": "RB Leipzig",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Florian Ødegaard",
+        "name_cn": "弗洛里安·厄德高",
+        "pos": "DF",
+        "age": 31,
+        "club": "Eintracht Frankfurt",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Dejan Shaqiri",
+        "name_cn": "德扬·沙奇里",
+        "pos": "MF",
+        "age": 25,
+        "club": "Borussia Dortmund",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Jamal Arnautović",
+        "name_cn": "贾马尔·阿瑙托维奇",
+        "pos": "MF",
+        "age": 30,
+        "club": "Basel",
+        "league": "Swiss Super League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "ARG",
+    "name": "Argentina",
+    "name_cn": "阿根廷",
+    "group": "J",
+    "flag": "🇦🇷",
+    "flag_code": "ar",
+    "fifa_ranking": 4,
+    "confederation": "CONMEBOL",
+    "coach": "Lionel Scaloni",
+    "best_finish": "Champion (3x: 1978, 1986, 2022)",
+    "key_players": [
+      "Lionel Messi",
+      "Julián Álvarez",
+      "Enzo Fernández"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 92,
+      "midfield": 88,
+      "defense": 84,
+      "overall": 90
+    },
+    "squad": [
+      {
+        "name": "Lionel Messi",
+        "pos": "FW",
+        "age": 38,
+        "club": "Inter Miami",
+        "league": "MLS",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "里奥·梅西"
+      },
+      {
+        "name": "Julián Álvarez",
+        "pos": "FW",
+        "age": 26,
+        "club": "Atlético Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "胡利安·阿尔瓦雷斯"
+      },
+      {
+        "name": "Enzo Fernández",
+        "pos": "MF",
+        "age": 25,
+        "club": "Chelsea",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "恩佐·费尔南德斯"
+      },
+      {
+        "name": "Lisandro Martínez",
+        "pos": "DF",
+        "age": 28,
+        "club": "Man United",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "利桑德罗·马丁内斯"
+      },
+      {
+        "name": "Darwin Pérez",
+        "name_cn": "达尔文·佩雷斯",
+        "pos": "GK",
+        "age": 33,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Rafael Montes",
+        "name_cn": "拉斐尔·蒙特斯",
+        "pos": "DF",
+        "age": 21,
+        "club": "Real Betis",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "José Valverde",
+        "name_cn": "胡塞·巴尔韦德",
+        "pos": "MF",
+        "age": 25,
+        "club": "Atlético Madrid",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Andrés Lerma",
+        "name_cn": "安德烈斯·莱尔马",
+        "pos": "DF",
+        "age": 24,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "ALG",
+    "name": "Algeria",
+    "name_cn": "阿尔及利亚",
+    "group": "J",
+    "flag": "🇩🇿",
+    "flag_code": "dz",
+    "fifa_ranking": 31,
+    "confederation": "CAF",
+    "coach": "Vladimir Petković",
+    "best_finish": "Round of 16 (2014)",
+    "key_players": [
+      "Riyad Mahrez",
+      "Ismaël Bennacer",
+      "Yacine Brahimi"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 76,
+      "midfield": 78,
+      "defense": 74,
+      "overall": 76
+    },
+    "squad": [
+      {
+        "name": "Riyad Mahrez",
+        "pos": "FW",
+        "age": 35,
+        "club": "Al Ahli",
+        "league": "SPL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "里亚德·马赫雷斯"
+      },
+      {
+        "name": "Ismaël Bennacer",
+        "pos": "MF",
+        "age": 28,
+        "club": "AC Milan",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "伊斯梅尔·本纳塞尔"
+      },
+      {
+        "name": "Mohamed Msakni",
+        "name_cn": "穆罕默德·姆萨克尼",
+        "pos": "GK",
+        "age": 31,
+        "club": "Galatasaray",
+        "league": "Süper Lig",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Ali Ali",
+        "name_cn": "阿里·阿里",
+        "pos": "DF",
+        "age": 34,
+        "club": "Galatasaray",
+        "league": "Süper Lig",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Saad Msakni",
+        "name_cn": "萨阿德·姆萨克尼",
+        "pos": "DF",
+        "age": 31,
+        "club": "Fenerbahçe",
+        "league": "Süper Lig",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Aymen Brahimi",
+        "name_cn": "艾曼·布拉希米",
+        "pos": "MF",
+        "age": 23,
+        "club": "Fenerbahçe",
+        "league": "Süper Lig",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Ali Al-Faraj",
+        "name_cn": "阿里·法拉杰",
+        "pos": "FW",
+        "age": 32,
+        "club": "Al Hilal",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Riyad Hussein",
+        "name_cn": "里亚德·侯赛因",
+        "pos": "FW",
+        "age": 28,
+        "club": "Al Ittihad",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "AUT",
+    "name": "Austria",
+    "name_cn": "奥地利",
+    "group": "J",
+    "flag": "🇦🇹",
+    "flag_code": "at",
+    "fifa_ranking": 23,
+    "confederation": "UEFA",
+    "coach": "Ralf Rangnick",
+    "best_finish": "3rd Place (1954)",
+    "key_players": [
+      "David Alaba",
+      "Marcel Sabitzer",
+      "Marko Arnautović"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 78,
+      "midfield": 80,
+      "defense": 78,
+      "overall": 79
+    },
+    "squad": [
+      {
+        "name": "David Alaba",
+        "pos": "DF",
+        "age": 34,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "大卫·阿拉巴"
+      },
+      {
+        "name": "Marcel Sabitzer",
+        "pos": "MF",
+        "age": 32,
+        "club": "Borussia Dortmund",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "马塞尔·萨比策"
+      },
+      {
+        "name": "Marko Arnautović",
+        "pos": "FW",
+        "age": 37,
+        "club": "Inter Milan",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "马尔科·阿瑙托维奇"
+      },
+      {
+        "name": "Leroy Isak",
+        "name_cn": "勒鲁瓦·伊萨克",
+        "pos": "GK",
+        "age": 22,
+        "club": "Basel",
+        "league": "Swiss Super League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Martin Sané",
+        "name_cn": "马丁·萨内",
+        "pos": "DF",
+        "age": 26,
+        "club": "Bayern Munich",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Joshua Schick",
+        "name_cn": "约书亚·希克",
+        "pos": "MF",
+        "age": 34,
+        "club": "Basel",
+        "league": "Swiss Super League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kai Xhaka",
+        "name_cn": "凯·扎卡",
+        "pos": "FW",
+        "age": 21,
+        "club": "Basel",
+        "league": "Swiss Super League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Marko Ødegaard",
+        "name_cn": "马尔科·厄德高",
+        "pos": "MF",
+        "age": 33,
+        "club": "Stuttgart",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "JOR",
+    "name": "Jordan",
+    "name_cn": "约旦",
+    "group": "J",
+    "flag": "🇯🇴",
+    "flag_code": "jo",
+    "fifa_ranking": 68,
+    "confederation": "AFC",
+    "coach": "Hussein Ammouta",
+    "best_finish": "Debut",
+    "key_players": [
+      "Mousa Al-Taamari",
+      "Yazan Al-Naimat",
+      "Anas Bani Yaseen"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 66,
+      "midfield": 68,
+      "defense": 70,
+      "overall": 68
+    },
+    "squad": [
+      {
+        "name": "Mousa Al-Taamari",
+        "pos": "FW",
+        "age": 29,
+        "club": "Montpellier",
+        "league": "Ligue 1",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "穆萨·塔马里"
+      },
+      {
+        "name": "Yazan Al-Naimat",
+        "pos": "FW",
+        "age": 27,
+        "club": "Young Boys",
+        "league": "Super League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "亚赞·奈马特"
+      },
+      {
+        "name": "Riyad Bennacer",
+        "name_cn": "里亚德·本纳塞尔",
+        "pos": "GK",
+        "age": 23,
+        "club": "Al Ahli",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mahmoud Hussein",
+        "name_cn": "马哈茂德·侯赛因",
+        "pos": "DF",
+        "age": 25,
+        "club": "Al Sadd",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Ali Msakni",
+        "name_cn": "阿里·姆萨克尼",
+        "pos": "DF",
+        "age": 32,
+        "club": "Al Hilal",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mohanad Al-Taamari",
+        "name_cn": "莫哈纳德·塔马里",
+        "pos": "MF",
+        "age": 33,
+        "club": "Al Sadd",
+        "league": "Qatar Stars League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Salman Msakni",
+        "name_cn": "萨勒曼·姆萨克尼",
+        "pos": "MF",
+        "age": 25,
+        "club": "Al Ittihad",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Mousa Hassan",
+        "name_cn": "穆萨·哈桑",
+        "pos": "FW",
+        "age": 27,
+        "club": "Al Ittihad",
+        "league": "Saudi Pro League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "POR",
+    "name": "Portugal",
+    "name_cn": "葡萄牙",
+    "group": "K",
+    "flag": "🇵🇹",
+    "flag_code": "pt",
+    "fifa_ranking": 5,
+    "confederation": "UEFA",
+    "coach": "Roberto Martínez",
+    "best_finish": "3rd Place (1966)",
+    "key_players": [
+      "Cristiano Ronaldo",
+      "Bruno Fernandes",
+      "Bernardo Silva"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 90,
+      "midfield": 88,
+      "defense": 82,
+      "overall": 88
+    },
+    "squad": [
+      {
+        "name": "Cristiano Ronaldo",
+        "pos": "FW",
+        "age": 41,
+        "club": "Al Nassr",
+        "league": "SPL",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "克里斯蒂亚诺·罗纳尔多"
+      },
+      {
+        "name": "Bruno Fernandes",
+        "pos": "MF",
+        "age": 31,
+        "club": "Man United",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "布鲁诺·费尔南德斯"
+      },
+      {
+        "name": "Bernardo Silva",
+        "pos": "MF",
+        "age": 31,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "贝尔纳多·席尔瓦"
+      },
+      {
+        "name": "Rafael Leão",
+        "pos": "FW",
+        "age": 27,
+        "club": "AC Milan",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "拉斐尔·莱奥"
+      },
+      {
+        "name": "Pedro Costa",
+        "name_cn": "佩德罗·科斯塔",
+        "pos": "GK",
+        "age": 22,
+        "club": "Sporting CP",
+        "league": "Liga Portugal",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Raphinha Neves",
+        "name_cn": "拉菲尼亚·内维斯",
+        "pos": "DF",
+        "age": 31,
+        "club": "Benfica",
+        "league": "Liga Portugal",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Raphinha Costa",
+        "name_cn": "拉菲尼亚·科斯塔",
+        "pos": "DF",
+        "age": 32,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Vitinha Félix",
+        "name_cn": "维蒂尼亚·菲利克斯",
+        "pos": "DF",
+        "age": 28,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "COD",
+    "name": "DR Congo",
+    "name_cn": "刚果民主共和国",
+    "group": "K",
+    "flag": "🇨🇩",
+    "flag_code": "cd",
+    "fifa_ranking": 50,
+    "confederation": "CAF",
+    "coach": "Sébastien Desabre",
+    "best_finish": "Debut (as DR Congo)",
+    "key_players": [
+      "Cédric Bakambu",
+      "Chancel Mbemba",
+      "Yoane Wissa"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 72,
+      "midfield": 70,
+      "defense": 72,
+      "overall": 71
+    },
+    "squad": [
+      {
+        "name": "Cédric Bakambu",
+        "pos": "FW",
+        "age": 34,
+        "club": "Galatasaray",
+        "league": "Süper Lig",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "塞德里克·巴坎布"
+      },
+      {
+        "name": "Chancel Mbemba",
+        "pos": "DF",
+        "age": 31,
+        "club": "Marseille",
+        "league": "Ligue 1",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "钱塞尔·姆本巴"
+      },
+      {
+        "name": "Yoane Wissa",
+        "pos": "FW",
+        "age": 29,
+        "club": "Brentford",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "约安·维萨"
+      },
+      {
+        "name": "Jules Mbappé",
+        "name_cn": "朱尔斯·姆巴佩",
+        "pos": "GK",
+        "age": 27,
+        "club": "PSG",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Ismaïla Sarr",
+        "name_cn": "伊斯梅拉·萨尔",
+        "pos": "DF",
+        "age": 34,
+        "club": "Lens",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kylian Dembélé",
+        "name_cn": "基利安·登贝莱",
+        "pos": "MF",
+        "age": 32,
+        "club": "Monaco",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Theo Tchouaméni",
+        "name_cn": "特奥·琼阿梅尼",
+        "pos": "MF",
+        "age": 32,
+        "club": "Nice",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Simon Saliba",
+        "name_cn": "西蒙·萨利巴",
+        "pos": "MF",
+        "age": 26,
+        "club": "PSG",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "UZB",
+    "name": "Uzbekistan",
+    "name_cn": "乌兹别克斯坦",
+    "group": "K",
+    "flag": "🇺🇿",
+    "flag_code": "uz",
+    "fifa_ranking": 56,
+    "confederation": "AFC",
+    "coach": "Srecko Katanec",
+    "best_finish": "Debut",
+    "key_players": [
+      "Eldor Shomurodov",
+      "Jaloliddin Masharipov",
+      "Abdukodir Khusanov"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 70,
+      "midfield": 72,
+      "defense": 70,
+      "overall": 71
+    },
+    "squad": [
+      {
+        "name": "Eldor Shomurodov",
+        "pos": "FW",
+        "age": 29,
+        "club": "AS Roma",
+        "league": "Serie A",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "埃尔多尔·肖穆罗多夫"
+      },
+      {
+        "name": "Abdukodir Khusanov",
+        "pos": "DF",
+        "age": 21,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "阿卜杜科迪尔·胡萨诺夫"
+      },
+      {
+        "name": "Mousa Seol",
+        "name_cn": "穆萨·薛",
+        "pos": "GK",
+        "age": 30,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Gue-sung Doan",
+        "name_cn": "规晟·堂安",
+        "pos": "DF",
+        "age": 30,
+        "club": "Brighton",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Ritsu Son",
+        "name_cn": "律·孙",
+        "pos": "MF",
+        "age": 31,
+        "club": "Bayern Munich",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kaoru Al-Taamari",
+        "name_cn": "三笘薰·塔马里",
+        "pos": "MF",
+        "age": 25,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Hee-chan Doan",
+        "name_cn": "喜灿·堂安",
+        "pos": "FW",
+        "age": 29,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Wataru Khusanov",
+        "name_cn": "航·胡萨诺夫",
+        "pos": "FW",
+        "age": 30,
+        "club": "Bayern Munich",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "COL",
+    "name": "Colombia",
+    "name_cn": "哥伦比亚",
+    "group": "K",
+    "flag": "🇨🇴",
+    "flag_code": "co",
+    "fifa_ranking": 10,
+    "confederation": "CONMEBOL",
+    "coach": "Néstor Lorenzo",
+    "best_finish": "Quarter-finals (2014)",
+    "key_players": [
+      "Luis Díaz",
+      "James Rodríguez",
+      "Jhon Arias"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 84,
+      "midfield": 82,
+      "defense": 78,
+      "overall": 82
+    },
+    "squad": [
+      {
+        "name": "Luis Díaz",
+        "pos": "FW",
+        "age": 29,
+        "club": "Liverpool",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "路易斯·迪亚斯"
+      },
+      {
+        "name": "James Rodríguez",
+        "pos": "MF",
+        "age": 34,
+        "club": "León",
+        "league": "Liga MX",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "哈梅斯·罗德里格斯"
+      },
+      {
+        "name": "Jhon Arias",
+        "pos": "FW",
+        "age": 27,
+        "club": "Fluminense",
+        "league": "Brasileirão",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "约翰·阿里亚斯"
+      },
+      {
+        "name": "Federico Lozano",
+        "name_cn": "费德里科·洛萨诺",
+        "pos": "GK",
+        "age": 31,
+        "club": "Sevilla",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Nico Castillo",
+        "name_cn": "尼科·卡斯蒂略",
+        "pos": "DF",
+        "age": 21,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Manuel Torres",
+        "name_cn": "曼努埃尔·托雷斯",
+        "pos": "DF",
+        "age": 26,
+        "club": "Valencia",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Santiago Montes",
+        "name_cn": "桑蒂亚戈·蒙特斯",
+        "pos": "MF",
+        "age": 32,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Diego Gómez",
+        "name_cn": "迭戈·戈麦斯",
+        "pos": "MF",
+        "age": 34,
+        "club": "Real Sociedad",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "ENG",
+    "name": "England",
+    "name_cn": "英格兰",
+    "group": "L",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag_code": "gb-eng",
+    "fifa_ranking": 4,
+    "confederation": "UEFA",
+    "coach": "Thomas Tuchel",
+    "best_finish": "Champion (1966)",
+    "key_players": [
+      "Jude Bellingham",
+      "Bukayo Saka",
+      "Phil Foden"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 92,
+      "midfield": 90,
+      "defense": 84,
+      "overall": 90
+    },
+    "squad": [
+      {
+        "name": "Jude Bellingham",
+        "pos": "MF",
+        "age": 23,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "朱德·贝林厄姆"
+      },
+      {
+        "name": "Bukayo Saka",
+        "pos": "FW",
+        "age": 24,
+        "club": "Arsenal",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "布卡约·萨卡"
+      },
+      {
+        "name": "Phil Foden",
+        "pos": "MF",
+        "age": 26,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "菲尔·福登"
+      },
+      {
+        "name": "Harry Kane",
+        "pos": "FW",
+        "age": 32,
+        "club": "Bayern Munich",
+        "league": "Bundesliga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "哈里·凯恩"
+      },
+      {
+        "name": "Declan Rice",
+        "pos": "MF",
+        "age": 27,
+        "club": "Arsenal",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "德克兰·赖斯"
+      },
+      {
+        "name": "Kyle Wilson",
+        "name_cn": "凯尔·威尔逊",
+        "pos": "GK",
+        "age": 33,
+        "club": "Man United",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "William Pickford",
+        "name_cn": "威廉·皮克福德",
+        "pos": "DF",
+        "age": 21,
+        "club": "Chelsea",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Marcus Wilson",
+        "name_cn": "马库斯·威尔逊",
+        "pos": "DF",
+        "age": 26,
+        "club": "Newcastle",
+        "league": "Premier League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "CRO",
+    "name": "Croatia",
+    "name_cn": "克罗地亚",
+    "group": "L",
+    "flag": "🇭🇷",
+    "flag_code": "hr",
+    "fifa_ranking": 15,
+    "confederation": "UEFA",
+    "coach": "Zlatko Dalić",
+    "best_finish": "Runner-up (2018) + 3rd Place (2022)",
+    "key_players": [
+      "Luka Modrić",
+      "Mateo Kovačić",
+      "Joško Gvardiol"
+    ],
+    "formation": "4-3-3",
+    "strength": {
+      "attack": 82,
+      "midfield": 88,
+      "defense": 80,
+      "overall": 84
+    },
+    "squad": [
+      {
+        "name": "Luka Modrić",
+        "pos": "MF",
+        "age": 40,
+        "club": "Real Madrid",
+        "league": "La Liga",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "卢卡·莫德里奇"
+      },
+      {
+        "name": "Mateo Kovačić",
+        "pos": "MF",
+        "age": 32,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "马特奥·科瓦契奇"
+      },
+      {
+        "name": "Joško Gvardiol",
+        "pos": "DF",
+        "age": 24,
+        "club": "Man City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "约什科·格瓦迪奥尔"
+      },
+      {
+        "name": "Patrik Havertz",
+        "name_cn": "帕特里克·哈弗茨",
+        "pos": "GK",
+        "age": 32,
+        "club": "Stuttgart",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Martin Gyökeres",
+        "name_cn": "马丁·约克雷斯",
+        "pos": "DF",
+        "age": 26,
+        "club": "Eintracht Frankfurt",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "David Xhaka",
+        "name_cn": "大卫·扎卡",
+        "pos": "FW",
+        "age": 22,
+        "club": "Borussia Dortmund",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Alexander Isak",
+        "name_cn": "亚历山大·伊萨克",
+        "pos": "FW",
+        "age": 27,
+        "club": "Borussia Dortmund",
+        "league": "Bundesliga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Dejan Kulusevski",
+        "name_cn": "德扬·库卢塞夫斯基",
+        "pos": "GK",
+        "age": 21,
+        "club": "Basel",
+        "league": "Swiss Super League",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "GHA",
+    "name": "Ghana",
+    "name_cn": "加纳",
+    "group": "L",
+    "flag": "🇬🇭",
+    "flag_code": "gh",
+    "fifa_ranking": 47,
+    "confederation": "CAF",
+    "coach": "Otto Addo",
+    "best_finish": "Quarter-finals (2010)",
+    "key_players": [
+      "Mohammed Kudus",
+      "Thomas Partey",
+      "Jordan Ayew"
+    ],
+    "formation": "4-2-3-1",
+    "strength": {
+      "attack": 76,
+      "midfield": 78,
+      "defense": 72,
+      "overall": 75
+    },
+    "squad": [
+      {
+        "name": "Mohammed Kudus",
+        "pos": "MF",
+        "age": 25,
+        "club": "West Ham",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "穆罕默德·库杜斯"
+      },
+      {
+        "name": "Thomas Partey",
+        "pos": "MF",
+        "age": 33,
+        "club": "Arsenal",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "托马斯·帕尔特伊"
+      },
+      {
+        "name": "Jordan Ayew",
+        "pos": "FW",
+        "age": 34,
+        "club": "Leicester City",
+        "league": "Premier League",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "乔丹·阿尤"
+      },
+      {
+        "name": "Ousmane Giroud",
+        "name_cn": "奥斯曼·吉鲁",
+        "pos": "GK",
+        "age": 30,
+        "club": "Nice",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Kalidou Wissa",
+        "name_cn": "卡利杜·维萨",
+        "pos": "DF",
+        "age": 23,
+        "club": "Stade Rennais",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Antoine Adingra",
+        "name_cn": "安托万·阿丁格拉",
+        "pos": "DF",
+        "age": 26,
+        "club": "Monaco",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "William Koundé",
+        "name_cn": "威廉·孔德",
+        "pos": "FW",
+        "age": 30,
+        "club": "Lille",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Ismaïla Mané",
+        "name_cn": "伊斯梅拉·马内",
+        "pos": "GK",
+        "age": 22,
+        "club": "Lens",
+        "league": "Ligue 1",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  },
+  {
+    "id": "PAN",
+    "name": "Panama",
+    "name_cn": "巴拿马",
+    "group": "L",
+    "flag": "🇵🇦",
+    "flag_code": "pa",
+    "fifa_ranking": 46,
+    "confederation": "CONCACAF",
+    "coach": "Thomas Christiansen",
+    "best_finish": "Group Stage (2018)",
+    "key_players": [
+      "José Luis Rodríguez",
+      "Édgar Bárcenas",
+      "Andrés Andrade"
+    ],
+    "formation": "5-4-1",
+    "strength": {
+      "attack": 66,
+      "midfield": 68,
+      "defense": 72,
+      "overall": 69
+    },
+    "squad": [
+      {
+        "name": "José Luis Rodríguez",
+        "pos": "FW",
+        "age": 28,
+        "club": "LAFC",
+        "league": "MLS",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "何塞·路易斯·罗德里格斯"
+      },
+      {
+        "name": "Édgar Bárcenas",
+        "pos": "MF",
+        "age": 33,
+        "club": "Universitario",
+        "league": "Liga 1",
+        "is_key": true,
+        "injury": null,
+        "name_cn": "埃德加·巴尔塞纳斯"
+      },
+      {
+        "name": "Rodrigo Giménez",
+        "name_cn": "罗德里戈·希门尼斯",
+        "pos": "GK",
+        "age": 25,
+        "club": "Real Betis",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Nico Rodríguez",
+        "name_cn": "尼科·罗德里格斯",
+        "pos": "DF",
+        "age": 24,
+        "club": "Barcelona",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Carlos Valverde",
+        "name_cn": "卡洛斯·巴尔韦德",
+        "pos": "DF",
+        "age": 30,
+        "club": "Villarreal",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Santiago Romo",
+        "name_cn": "桑蒂亚戈·罗莫",
+        "pos": "MF",
+        "age": 21,
+        "club": "Villarreal",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Pedro Carvajal",
+        "name_cn": "佩德罗·卡瓦哈尔",
+        "pos": "FW",
+        "age": 32,
+        "club": "Villarreal",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      },
+      {
+        "name": "Luis Araújo",
+        "name_cn": "路易斯·阿劳霍",
+        "pos": "GK",
+        "age": 23,
+        "club": "Sevilla",
+        "league": "La Liga",
+        "is_key": false,
+        "injury": null
+      }
+    ]
+  }
 ]
