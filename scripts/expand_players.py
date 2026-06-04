@@ -37,7 +37,7 @@ existing_players_cn = {
     # AUS
     "Mathew Leckie": "马修·莱基", "Jackson Irvine": "杰克逊·欧文", "Harry Souttar": "哈里·苏塔尔",
     # TUR
-    "Hakan Çalhanoğlu": "哈坎·恰尔汗奥卢", "Arda Güler": "阿尔达·居勒尔", "Kenan Yıld兹": "凯南·伊尔迪兹", "Kenan Yıldız": "凯南·伊尔迪兹",
+    "Hakan Çalhanoğlu": "哈坎·恰尔汗奥卢", "Arda Güler": "阿尔达·居勒尔", "Kenan Yıldız": "凯南·伊尔迪兹",
     # GER
     "Jamal Musiala": "贾马尔·穆西亚拉", "Florian Wirtz": "弗洛里安·维尔茨", "Kai Havertz": "凯·哈弗茨", "Antonio Rüdiger": "安东尼奥·吕迪格",
     # CUW
@@ -95,207 +95,311 @@ existing_players_cn = {
     # COL
     "Luis Díaz": "路易斯·迪亚斯", "James Rodríguez": "哈梅斯·罗德里格斯", "Jhon Arias": "约翰·阿里亚斯",
     # ENG
-    "Jude Bellingham": "朱德·贝林厄姆", "Bukayo Saka": "布卡约·萨卡", "Phil Foden": "菲尔·福登", "Harry Kane": "哈里·凯恩", "Declan Rice": "赖斯", "Declan Rice": "德克兰·赖斯",
+    "Jude Bellingham": "朱德·贝林厄姆", "Bukayo Saka": "布卡约·萨卡", "Phil Foden": "菲尔·福登", "Harry Kane": "哈里·凯恩", "Declan Rice": "德克兰·赖斯",
     # CRO
     "Luka Modrić": "卢卡·莫德里奇", "Mateo Kovačić": "马特奥·科瓦契奇", "Joško Gvardiol": "约什科·格瓦迪奥尔",
     # GHA
     "Mohammed Kudus": "穆罕默德·库杜斯", "Thomas Partey": "托马斯·帕尔特伊", "Jordan Ayew": "乔丹·阿尤",
     # PAN
-    "José Luis Rodríguez": "何塞·路易斯·罗德里格斯", "Édgar Bárcenas": "埃德加·巴尔塞纳斯", "Andrés Andrade": "安德烈斯·安德拉德"
+    "José Luis Rodríguez": "何塞·路易斯·罗德里格斯", "Édgar Bárcenas": "埃德加·巴尔塞纳斯", "Andrés Andrade": "安德烈斯·安德拉德",
+
+    # FRA extra
+    "Olivier Giroud": "奥利维耶·吉鲁", "Kingsley Coman": "金斯利·科曼", "Marcus Thuram": "马库斯·图拉姆",
+    "Randal Kolo Muani": "兰德尔·科洛·穆阿尼", "Adrien Rabiot": "阿德里安·拉比奥", "N'Golo Kanté": "恩戈洛·坎特",
+    "Warren Zaïre-Emery": "沃伦·扎伊尔-埃梅里", "Youssouf Fofana": "优素福·福法纳", "Theo Hernández": "特奥·埃尔南德斯",
+    "Jules Koundé": "朱尔·孔德", "Ibrahima Konaté": "易卜拉希马·科纳特", "Dayot Upamecano": "达约·于帕梅卡诺",
+    "Benjamin Pavard": "邦雅曼·帕瓦尔", "Lucas Hernández": "卢卡斯·埃尔南德斯", "Mike Maignan": "迈克·迈尼昂",
+    "Brice Samba": "布里斯·桑巴", "Alphonse Areola": "阿尔封斯·阿雷奥拉", "Ousmane Dembélé": "奥斯曼·登贝莱",
+    # ARG extra
+    "Lautaro Martínez": "劳塔罗·马丁内斯", "Ángel Di María": "安赫尔·迪马利亚", "Nicolás González": "尼古拉斯·冈萨雷斯",
+    "Alejandro Garnacho": "亚历杭德罗·加纳乔", "Rodrigo De Paul": "罗德里戈·德保罗", "Alexis Mac Allister": "亚历克西斯·麦卡利斯特",
+    "Leandro Paredes": "莱安德罗·帕雷德斯", "Giovani Lo Celso": "乔瓦尼·洛塞尔索", "Exequiel Palacios": "埃塞基耶尔·帕拉西奥斯",
+    "Cristian Romero": "克里斯蒂安·罗梅罗", "Nahuel Molina": "纳韦尔·莫利纳", "Nicolás Tagliafico": "尼古拉斯·塔利亚菲科",
+    "Gonzalo Montiel": "贡萨洛·蒙铁尔", "Marcos Acuña": "马科斯·阿库尼亚", "Nicolás Otamendi": "尼古拉斯·奥塔门迪",
+    "Emiliano Martínez": "埃米利亚诺·马丁内斯", "Gerónimo Rulli": "赫罗尼莫·鲁利", "Franco Armani": "弗朗哥·阿尔马尼",
+    # ENG extra
+    "Marcus Rashford": "马库斯·拉什福德", "Cole Palmer": "科尔·帕尔默", "Ollie Watkins": "奥利·瓦特金斯",
+    "Anthony Gordon": "安东尼·戈登", "Jarrod Bowen": "贾罗德·鲍文", "Conor Gallagher": "康纳·加拉格尔",
+    "Kobbie Mainoo": "科比·梅努", "Trent Alexander-Arnold": "亚历山大-ア诺德", "Trent Alexander-Arnold": "特伦特·亚历山大-阿诺德", "Kyle Walker": "凯尔·沃克",
+    "John Stones": "约翰·斯通斯", "Kieran Trippier": "基兰·特里皮尔", "Marc Guéhi": "马克·格伊",
+    "Harry Maguire": "哈里·马奎尔", "Luke Shaw": "卢克·肖", "Joe Gomez": "乔·戈麦斯",
+    "Jordan Pickford": "乔丹·皮克福德", "Aaron Ramsdale": "亚伦·拉姆斯代尔", "Dean Henderson": "迪恩·亨德森",
+    # BRA extra
+    "Gabriel Martinelli": "加布里埃尔·马丁内利", "Endrick": "恩德里克", "Neymar Jr": "内马尔",
+    "Richarlison": "理查利森", "Lucas Paquetá": "卢卡斯·帕奎塔", "Casemiro": "卡塞米罗",
+    "Douglas Luiz": "道格拉斯·路易斯", "Andreas Pereira": "安德烈亚斯·佩雷拉", "Marquinhos": "马尔基尼奥斯",
+    "Gabriel Magalhães": "加布里埃尔·马加良斯", "Bremer": "布雷默", "Danilo": "达尼洛",
+    "Yan Couto": "扬·科托", "Wendell": "温德尔", "Ederson": "埃德森", "Bento": "本托",
+    "Lucas Beraldo": "卢卡斯·贝拉尔多",
+    # ESP extra
+    "Alvaro Morata": "阿尔瓦罗·莫拉塔", "Dani Olmo": "丹尼·奥尔莫", "Ferran Torres": "费兰·托雷斯",
+    "Joselu": "何塞卢", "Mikel Oyarzabal": "米克尔·奥亚萨瓦尔", "Gavi": "加维",
+    "Fabián Ruiz": "法比安·鲁伊斯", "Martin Zubimendi": "马丁·苏维门迪", "Mikel Merino": "米克尔·梅里诺",
+    "Robin Le Normand": "罗宾·勒诺尔芒", "Aymeric Laporte": "埃梅里克·拉波尔特", "Marc Cucurella": "马克·库库雷利亚",
+    "Alex Grimaldo": "亚历克斯·格里马尔多", "Nacho Fernández": "纳乔·费尔南德斯", "Vivian": "丹尼尔·维维安",
+    "Unai Simón": "乌奈·西蒙", "David Raya": "大卫·拉亚", "Alex Remiro": "亚历克斯·雷米罗",
+    # POR extra
+    "João Félix": "若昂·菲利克斯", "Diogo Jota": "迪奥戈·若塔", "Gonçalo Ramos": "贡萨洛·拉莫斯",
+    "Francisco Conceição": "弗朗西斯科·孔塞桑", "João Neves": "若昂·内维斯", "Vitinha": "维蒂尼亚",
+    "Otávio": "奥塔维奥", "Rúben Neves": "鲁本·内维斯", "João Palhinha": "若昂·帕利尼亚",
+    "Rúben Dias": "鲁本·迪亚斯", "João Cancelo": "若昂·坎塞洛", "Nuno Mendes": "努诺·门德斯",
+    "Diogo Dalot": "迪奥戈·达洛特", "António Silva": "安东尼奥·席尔瓦", "Gonçalo Inácio": "贡萨洛·伊纳西奥",
+    "Nélson Semedo": "内尔松·塞梅多", "Diogo Costa": "迪奥戈·科斯塔", "José Sá": "若泽·萨",
+    "Rui Patrício": "鲁伊·帕特里西奥",
+    # GER extra
+    "Niclas Füllkrug": "尼克拉斯·菲尔克鲁格", "Leroy Sané": "勒鲁瓦·萨内", "Serge Gnabry": "谢尔日·格纳布里",
+    "İlkay Gündoğan": "伊尔卡伊·京多安", "Joshua Kimmich": "约书亚·基米希", "Pascal Groß": "帕斯卡尔·格罗斯",
+    "Robert Andrich": "罗伯特·安德里希", "Aleksandar Pavlović": "亚历山大·帕夫洛维奇", "David Raum": "大卫·劳姆",
+    "Nico Schlotterbeck": "尼科·施洛特贝克", "Jonathan Tah": "约纳坦·塔", "Maximilian Mittelstädt": "马克西米利安·米特尔施泰特",
+    "Waldemar Anton": "瓦尔德马·安东", "Benjamin Henrichs": "本杰明·亨里克斯", "Marc-André ter Stegen": "特尔施特根",
+    "Manuel Neuer": "曼努埃尔·诺伊尔", "Oliver Baumann": "奥利弗·鲍曼",
+    # JPN extra
+    "Daichi Kamada": "镰田大地", "Takumi Minamino": "南野拓实", "Ritsu Doan": "堂安律",
+    "Ayase Ueda": "上田绮世", "Reo Hatate": "旗手怜央", "Ao Tanaka": "田中碧",
+    "Hidemasa Morita": "守田英正", "Takehiro Tomiyasu": "富安健洋", "Hiroki Ito": "伊藤洋介",
+    "Ko Itakura": "板仓滉", "Yukinari Sugawara": "菅原由势", "Koki Machida": "町田浩树",
+    "Shogo Taniguchi": "谷口彰悟", "Zion Suzuki": "铃木彩艳", "Keisuke Osako": "大迫敬介",
+    # KOR extra
+    "Cho Gue-sung": "曹圭成", "Oh Hyeon-gyu": "吴贤揆", "Hwang In-beom": "黄仁范",
+    "Lee Jae-sung": "李在城", "Hong Hyun-seok": "洪贤锡", "Park Yong-woo": "朴镕宇",
+    "Seol Young-woo": "薛荣宇", "Kim Young-gwon": "金英权", "Jung Seung-hyun": "郑昇炫",
+    "Jo Hyeon-woo": "赵贤祐", "Song Bum-keun": "宋范根",
+    # USA extra
+    "Folarin Balogun": "巴洛贡", "Timothy Weah": "蒂莫西·维阿", "Ricardo Pepi": "里卡多·佩皮",
+    "Brenden Aaronson": "布伦登·阿伦森", "Johnny Cardoso": "约翰尼·卡多索", "Malik Tillman": "马里克·蒂尔曼",
+    "Antonee Robinson": "安东尼·罗宾逊", "Chris Richards": "克里斯·里查兹", "Tim Ream": "蒂姆·里姆",
+    "Cameron Carter-Vickers": "卡特-维克斯", "Joe Scally": "乔·斯卡利", "Matt Turner": "马特·特纳",
+    "Ethan Horvath": "伊森·霍瓦特"
 }
 
-# Cultural name pools for generation
-names_pool = {
-    "anglo": {
-        "first": ["John", "Robert", "William", "David", "James", "Michael", "Thomas", "Chris", "Marcus", "Harry", "Jordan", "Scott", "Andy", "Matt", "Aaron", "Mason", "Declan", "Kyle", "Jude", "Phil"],
-        "first_cn": ["约翰", "罗伯特", "威廉", "大卫", "詹姆斯", "迈克尔", "托马斯", "克里斯", "马库斯", "哈里", "乔丹", "斯科特", "安迪", "马特", "亚伦", "梅森", "德克兰", "凯尔", "朱德", "菲尔"],
-        "last": ["Smith", "Jones", "Taylor", "Brown", "Wilson", "Johnson", "Davis", "Miller", "Walker", "Pickford", "Stones", "Robinson", "Turner", "Wood", "Carter", "Green", "White", "Harris", "Clark", "Lewis"],
-        "last_cn": ["史密斯", "琼斯", "泰勒", "布朗", "威尔逊", "约翰逊", "戴维斯", "米勒", "沃克", "皮克福德", "斯通斯", "罗宾逊", "特纳", "伍德", "卡特", "格林", "怀特", "哈里斯", "克拉克", "刘易斯"]
-    },
-    "spanish": {
-        "first": ["Carlos", "José", "Juan", "Luis", "Francisco", "Javier", "Manuel", "Santiago", "Diego", "Rafael", "Miguel", "Pedro", "Rodrigo", "Álvaro", "Nico", "Federico", "Darwin", "Andrés", "Sebastián", "Mateo"],
-        "first_cn": ["卡洛斯", "胡塞", "胡安", "路易斯", "弗朗西斯科", "哈维尔", "曼努埃尔", "桑蒂亚戈", "迭戈", "拉斐尔", "米格尔", "佩德罗", "罗德里戈", "阿尔瓦罗", "尼科", "费德里科", "达尔文", "安德烈斯", "塞巴斯蒂安", "马特奥"],
-        "last": ["Rodríguez", "González", "Gómez", "Fernández", "Álvarez", "Giménez", "Lozano", "Montes", "Romo", "Valverde", "Núñez", "Araújo", "Díaz", "Muñoz", "Lerma", "Carvajal", "Sánchez", "Torres", "Pérez", "Castillo"],
-        "last_cn": ["罗德里格斯", "冈萨雷斯", "戈麦斯", "费尔南德斯", "阿尔瓦雷斯", "希门尼斯", "洛萨诺", "蒙特斯", "罗莫", "巴尔韦德", "努涅斯", "阿劳霍", "迪亚斯", "穆尼奥斯", "莱尔马", "卡瓦哈尔", "桑切斯", "托雷斯", "佩雷斯", "卡斯蒂略"]
-    },
-    "portuguese": {
-        "first": ["João", "Pedro", "Bruno", "Diogo", "Cristiano", "Rafael", "Bernardo", "Vinícius", "Rodrygo", "Éder", "Alisson", "Raphinha", "Gabriel", "Lucas", "Matheus", "Francisco", "Gonçalo", "Vitinha", "Rui", "Nuno"],
-        "first_cn": ["若昂", "佩德罗", "布诺", "迪奥戈", "克里斯蒂亚诺", "拉斐尔", "贝尔纳多", "维尼修斯", "罗德里戈", "埃德尔", "阿利森", "拉菲尼亚", "加布里埃尔", "卢卡斯", "马修斯", "弗朗西斯科", "贡萨洛", "维蒂尼亚", "鲁伊", "努诺"],
-        "last": ["Silva", "Santos", "Ferreira", "Pereira", "Oliveira", "Costa", "Rodrigues", "Fernandes", "Dias", "Cancelo", "Félix", "Neves", "Militão", "Guimarães", "Neto", "Ramos", "Lopes", "Gomes", "Sousa", "Carvalho"],
-        "last_cn": ["席尔瓦", "桑托斯", "费雷拉", "佩雷拉", "奥利维拉", "科斯塔", "罗德里格斯", "费尔南德斯", "迪亚斯", "坎塞洛", "菲利克斯", "内维斯", "米利唐", "吉马良斯", "内托", "拉莫斯", "洛佩斯", "戈麦斯", "索萨", "卡瓦略"]
-    },
-    "french": {
-        "first": ["Kylian", "Antoine", "Aurélien", "William", "Ousmane", "Mike", "Theo", "Jules", "Eduardo", "Sadio", "Ismaïla", "Kalidou", "Sébastien", "Franck", "Simon", "Cédric", "Chancel", "Yoane", "Nicolas", "Olivier"],
-        "first_cn": ["基利安", "安托万", "奥雷利安", "威廉", "奥斯曼", "迈克", "特奥", "朱尔斯", "爱德华多", "萨迪奥", "伊斯梅拉", "卡利杜", "塞巴斯蒂安", "弗兰克", "西蒙", "塞德里克", "钱塞尔", "约安", "尼古拉斯", "奥利维耶"],
-        "last": ["Mbappé", "Griezmann", "Tchouaméni", "Saliba", "Dembélé", "Maignan", "Hernández", "Koundé", "Camavinga", "Mané", "Sarr", "Koulibaly", "Haller", "Kessié", "Adingra", "Bakambu", "Mbemba", "Wissa", "Pépé", "Giroud"],
-        "last_cn": ["姆巴佩", "格列兹曼", "琼阿梅尼", "萨利巴", "登贝莱", "迈尼昂", "埃尔战德斯", "孔德", "卡马文加", "马内", "萨尔", "库利巴利", "阿莱", "凯西", "阿丁格拉", "巴坎布", "姆本巴", "维萨", "佩佩", "吉鲁"]
-    },
-    "arabic": {
-        "first": ["Mohamed", "Akram", "Almoez", "Hassan", "Omar", "Salem", "Salman", "Aymen", "Ibrahim", "Mohanad", "Mousa", "Yazan", "Ali", "Ahmad", "Mahmoud", "Tariq", "Saad", "Youssef", "Firas", "Riyad"],
-        "first_cn": ["穆罕默德", "阿克拉姆", "阿尔莫伊兹", "哈桑", "奥马尔", "萨利姆", "萨勒曼", "艾曼", "易卜拉欣", "莫哈纳德", "穆萨", "亚赞", "阿里", "艾哈迈德", "马哈茂德", "塔里克", "萨阿德", "尤塞夫", "菲拉斯", "里亚德"],
-        "last": ["Salah", "Afif", "Ali", "Al-Haydos", "Marmoush", "Elneny", "Al-Dawsari", "Al-Faraj", "Hussein", "Bayesh", "Al-Taamari", "Al-Naimat", "Owais", "Hassan", "Saeed", "Mahrez", "Bennacer", "Brahimi", "Msakni", "Laïdouni"],
-        "last_cn": ["萨拉赫", "阿菲夫", "阿里", "海多斯", "马尔穆什", "埃尔内尼", "多萨里", "法拉杰", "侯赛因", "巴伊什", "塔马里", "奈马特", "奥维斯", "哈桑", "赛义德", "马赫雷斯", "本纳塞尔", "布拉希米", "姆萨克尼", "莱杜尼"]
-    },
-    "germanic": {
-        "first": ["Jamal", "Florian", "Kai", "Antonio", "David", "Marcel", "Marko", "Granit", "Manuel", "Xherdan", "Erling", "Martin", "Alexander", "Viktor", "Dejan", "Patrik", "Tomáš", "Edin", "Joshua", "Leroy"],
-        "first_cn": ["贾马尔", "弗洛里安", "凯", "安东尼奥", "大卫", "马塞尔", "马尔科", "格拉尼特", "曼努埃尔", "谢尔丹", "埃尔林", "马丁", "亚历山大", "维克托", "德扬", "帕特里克", "托马斯", "埃丁", "约书亚", "勒鲁瓦"],
-        "last": ["Musiala", "Wirtz", "Havertz", "Rüdiger", "Alaba", "Sabitzer", "Arnautović", "Xhaka", "Akanji", "Shaqiri", "Haaland", "Ødegaard", "Isak", "Kulusevski", "Gyökeres", "Schick", "Souček", "Džeko", "Kimmich", "Sané"],
-        "last_cn": ["穆西亚拉", "维尔茨", "哈弗茨", "吕迪格", "阿拉巴", "萨比策", "阿瑙托维奇", "扎卡", "阿坎吉", "沙奇里", "哈兰德", "厄德高", "伊萨克", "库卢塞夫斯基", "约克雷斯", "希克", "绍切克", "哲科", "基米希", "萨内"]
-    },
-    "asian": {
-        "first": ["Heung-min", "Min-jae", "Kang-in", "Hee-chan", "Takefusa", "Kaoru", "Wataru", "Takehiro", "Hiroki", "Eldor", "Abdukodir", "Zion", "Ritsu", "Hidemasa", "Shoya", "Jaloliddin", "Mousa", "Seol", "In-beom", "Gue-sung"],
-        "first_cn": ["兴慜", "玟哉", "刚仁", "喜灿", "建英", "三笘薰", "航", "健洋", "洋介", "埃尔多尔", "阿卜杜科迪尔", "彩艳", "律", "英正", "翔哉", "贾洛利丁", "穆萨", "荣宇", "仁范", "规晟"],
-        "last": ["Son", "Kim", "Lee", "Hwang", "Kubo", "Mitoma", "Endo", "Tomiyasu", "Ito", "Shomurodov", "Khusanov", "Suzuki", "Doan", "Morita", "Yoshida", "Masharipov", "Al-Taamari", "Seol", "Hwang", "Cho"],
-        "last_cn": ["孙", "金", "李", "黄", "久保", "三笘", "远藤", "富安", "伊藤", "肖穆罗多夫", "胡萨诺夫", "铃木", "堂安", "守田", "吉田", "马沙里波夫", "塔马里", "薛", "黄", "曹"]
-    }
+real_players_by_team = {
+    "FRA": [
+        {"name": "Kylian Mbappé", "pos": "FW", "age": 27, "club": "Real Madrid", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Antoine Griezmann", "pos": "FW", "age": 35, "club": "Atlético Madrid", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Aurélien Tchouaméni", "pos": "MF", "age": 26, "club": "Real Madrid", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "William Saliba", "pos": "DF", "age": 25, "club": "Arsenal", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Ousmane Dembélé", "pos": "FW", "age": 29, "club": "PSG", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Olivier Giroud", "pos": "FW", "age": 35, "club": "LAFC", "league": "MLS", "is_key": False, "injury": None},
+        {"name": "Kingsley Coman", "pos": "FW", "age": 29, "club": "Bayern Munich", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Marcus Thuram", "pos": "FW", "age": 28, "club": "Inter Milan", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Randal Kolo Muani", "pos": "FW", "age": 27, "club": "PSG", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Eduardo Camavinga", "pos": "MF", "age": 23, "club": "Real Madrid", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Adrien Rabiot", "pos": "MF", "age": 31, "club": "Juventus", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "N'Golo Kanté", "pos": "MF", "age": 35, "club": "Al Ittihad", "league": "Saudi Pro League", "is_key": False, "injury": None},
+        {"name": "Warren Zaïre-Emery", "pos": "MF", "age": 20, "club": "PSG", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Youssouf Fofana", "pos": "MF", "age": 27, "club": "AC Milan", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Theo Hernández", "pos": "DF", "age": 28, "club": "AC Milan", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Jules Koundé", "pos": "DF", "age": 27, "club": "Barcelona", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Ibrahima Konaté", "pos": "DF", "age": 27, "club": "Liverpool", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Dayot Upamecano", "pos": "DF", "age": 27, "club": "Bayern Munich", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Benjamin Pavard", "pos": "DF", "age": 30, "club": "Inter Milan", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Lucas Hernández", "pos": "DF", "age": 30, "club": "PSG", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Mike Maignan", "pos": "GK", "age": 30, "club": "AC Milan", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Brice Samba", "pos": "GK", "age": 32, "club": "Lens", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Alphonse Areola", "pos": "GK", "age": 33, "club": "West Ham", "league": "Premier League", "is_key": False, "injury": None}
+    ],
+    "ARG": [
+        {"name": "Lionel Messi", "pos": "FW", "age": 38, "club": "Inter Miami", "league": "MLS", "is_key": True, "injury": None},
+        {"name": "Julián Álvarez", "pos": "FW", "age": 26, "club": "Atlético Madrid", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Enzo Fernández", "pos": "MF", "age": 25, "club": "Chelsea", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Lisandro Martínez", "pos": "DF", "age": 28, "club": "Man United", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Lautaro Martínez", "pos": "FW", "age": 28, "club": "Inter Milan", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Ángel Di María", "pos": "FW", "age": 38, "club": "Benfica", "league": "Liga Portugal", "is_key": False, "injury": None},
+        {"name": "Nicolás González", "pos": "FW", "age": 28, "club": "Juventus", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Alejandro Garnacho", "pos": "FW", "age": 21, "club": "Man United", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Rodrigo De Paul", "pos": "MF", "age": 32, "club": "Atlético Madrid", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Alexis Mac Allister", "pos": "MF", "age": 27, "club": "Liverpool", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Leandro Paredes", "pos": "MF", "age": 31, "club": "AS Roma", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Giovani Lo Celso", "pos": "MF", "age": 30, "club": "Real Betis", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Exequiel Palacios", "pos": "MF", "age": 27, "club": "Bayer Leverkusen", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Cristian Romero", "pos": "DF", "age": 28, "club": "Tottenham", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Nahuel Molina", "pos": "DF", "age": 28, "club": "Atlético Madrid", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Nicolás Tagliafico", "pos": "DF", "age": 33, "club": "Lyon", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Gonzalo Montiel", "pos": "DF", "age": 29, "club": "Sevilla", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Marcos Acuña", "pos": "DF", "age": 34, "club": "River Plate", "league": "Primera División", "is_key": False, "injury": None},
+        {"name": "Nicolás Otamendi", "pos": "DF", "age": 38, "club": "Benfica", "league": "Liga Portugal", "is_key": False, "injury": None},
+        {"name": "Emiliano Martínez", "pos": "GK", "age": 33, "club": "Aston Villa", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Gerónimo Rulli", "pos": "GK", "age": 34, "club": "Marseille", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Franco Armani", "pos": "GK", "age": 39, "club": "River Plate", "league": "Primera División", "is_key": False, "injury": None}
+    ],
+    "ENG": [
+        {"name": "Jude Bellingham", "pos": "MF", "age": 23, "club": "Real Madrid", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Bukayo Saka", "pos": "FW", "age": 24, "club": "Arsenal", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Phil Foden", "pos": "MF", "age": 26, "club": "Man City", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Harry Kane", "pos": "FW", "age": 32, "club": "Bayern Munich", "league": "Bundesliga", "is_key": True, "injury": None},
+        {"name": "Declan Rice", "pos": "MF", "age": 27, "club": "Arsenal", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Marcus Rashford", "pos": "FW", "age": 28, "club": "Man United", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Cole Palmer", "pos": "FW", "age": 24, "club": "Chelsea", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Ollie Watkins", "pos": "FW", "age": 30, "club": "Aston Villa", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Anthony Gordon", "pos": "FW", "age": 25, "club": "Newcastle", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Jarrod Bowen", "pos": "FW", "age": 29, "club": "West Ham", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Conor Gallagher", "pos": "MF", "age": 26, "club": "Atlético Madrid", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Kobbie Mainoo", "pos": "MF", "age": 21, "club": "Man United", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Trent Alexander-Arnold", "pos": "DF", "age": 27, "club": "Liverpool", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Kyle Walker", "pos": "DF", "age": 36, "club": "Man City", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "John Stones", "pos": "DF", "age": 32, "club": "Man City", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Kieran Trippier", "pos": "DF", "age": 35, "club": "Newcastle", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Marc Guéhi", "pos": "DF", "age": 25, "club": "Crystal Palace", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Harry Maguire", "pos": "DF", "age": 33, "club": "Man United", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Luke Shaw", "pos": "DF", "age": 30, "club": "Man United", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Joe Gomez", "pos": "DF", "age": 29, "club": "Liverpool", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Jordan Pickford", "pos": "GK", "age": 32, "club": "Everton", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Aaron Ramsdale", "pos": "GK", "age": 28, "club": "Southampton", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Dean Henderson", "pos": "GK", "age": 29, "club": "Crystal Palace", "league": "Premier League", "is_key": False, "injury": None}
+    ],
+    "BRA": [
+        {"name": "Vinícius Jr", "pos": "FW", "age": 25, "club": "Real Madrid", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Rodrygo", "pos": "FW", "age": 25, "club": "Real Madrid", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Éder Militão", "pos": "DF", "age": 28, "club": "Real Madrid", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Alisson", "pos": "GK", "age": 33, "club": "Liverpool", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Bruno Guimarães", "pos": "MF", "age": 28, "club": "Newcastle", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Raphinha", "pos": "FW", "age": 29, "club": "Barcelona", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Gabriel Martinelli", "pos": "FW", "age": 24, "club": "Arsenal", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Endrick", "pos": "FW", "age": 19, "club": "Real Madrid", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Neymar Jr", "pos": "FW", "age": 34, "club": "Al Hilal", "league": "Saudi Pro League", "is_key": False, "injury": None},
+        {"name": "Richarlison", "pos": "FW", "age": 29, "club": "Tottenham", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Lucas Paquetá", "pos": "MF", "age": 28, "club": "West Ham", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Casemiro", "pos": "MF", "age": 34, "club": "Man United", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Douglas Luiz", "pos": "MF", "age": 28, "club": "Juventus", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Andreas Pereira", "pos": "MF", "age": 30, "club": "Fulham", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Marquinhos", "pos": "DF", "age": 32, "club": "PSG", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Gabriel Magalhães", "pos": "DF", "age": 28, "club": "Arsenal", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Bremer", "pos": "DF", "age": 29, "club": "Juventus", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Danilo", "pos": "DF", "age": 34, "club": "Juventus", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Yan Couto", "pos": "DF", "age": 24, "club": "Borussia Dortmund", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Wendell", "pos": "DF", "age": 32, "club": "Porto", "league": "Liga Portugal", "is_key": False, "injury": None},
+        {"name": "Ederson", "pos": "GK", "age": 32, "club": "Man City", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Bento", "pos": "GK", "age": 26, "club": "Al Nassr", "league": "Saudi Pro League", "is_key": False, "injury": None},
+        {"name": "Lucas Beraldo", "pos": "DF", "age": 22, "club": "PSG", "league": "Ligue 1", "is_key": False, "injury": None}
+    ],
+    "ESP": [
+        {"name": "Lamine Yamal", "pos": "FW", "age": 18, "club": "Barcelona", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Pedri", "pos": "MF", "age": 23, "club": "Barcelona", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Rodri", "pos": "MF", "age": 30, "club": "Man City", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Dani Carvajal", "pos": "DF", "age": 34, "club": "Real Madrid", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Nico Williams", "pos": "FW", "age": 24, "club": "Athletic Bilbao", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Alvaro Morata", "pos": "FW", "age": 33, "club": "AC Milan", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Dani Olmo", "pos": "MF", "age": 28, "club": "Barcelona", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Ferran Torres", "pos": "FW", "age": 26, "club": "Barcelona", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Joselu", "pos": "FW", "age": 36, "club": "Al Gharafa", "league": "QSL", "is_key": False, "injury": None},
+        {"name": "Mikel Oyarzabal", "pos": "FW", "age": 29, "club": "Real Sociedad", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Gavi", "pos": "MF", "age": 21, "club": "Barcelona", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Fabián Ruiz", "pos": "MF", "age": 30, "club": "PSG", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Martin Zubimendi", "pos": "MF", "age": 27, "club": "Real Sociedad", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Mikel Merino", "pos": "MF", "age": 29, "club": "Arsenal", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Robin Le Normand", "pos": "DF", "age": 29, "club": "Atlético Madrid", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Aymeric Laporte", "pos": "DF", "age": 32, "club": "Al Nassr", "league": "Saudi Pro League", "is_key": False, "injury": None},
+        {"name": "Marc Cucurella", "pos": "DF", "age": 27, "club": "Chelsea", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Alex Grimaldo", "pos": "DF", "age": 30, "club": "Bayer Leverkusen", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Nacho Fernández", "pos": "DF", "age": 36, "club": "Al Qadsiah", "league": "Saudi Pro League", "is_key": False, "injury": None},
+        {"name": "Vivian", "pos": "DF", "age": 26, "club": "Athletic Bilbao", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Unai Simón", "pos": "GK", "age": 28, "club": "Athletic Bilbao", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "David Raya", "pos": "GK", "age": 30, "club": "Arsenal", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Alex Remiro", "pos": "GK", "age": 31, "club": "Real Sociedad", "league": "La Liga", "is_key": False, "injury": None}
+    ],
+    "POR": [
+        {"name": "Cristiano Ronaldo", "pos": "FW", "age": 41, "club": "Al Nassr", "league": "Saudi Pro League", "is_key": True, "injury": None},
+        {"name": "Bruno Fernandes", "pos": "MF", "age": 31, "club": "Man United", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Bernardo Silva", "pos": "MF", "age": 31, "club": "Man City", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Rafael Leão", "pos": "FW", "age": 27, "club": "AC Milan", "league": "Serie A", "is_key": True, "injury": None},
+        {"name": "João Félix", "pos": "FW", "age": 26, "club": "Chelsea", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Diogo Jota", "pos": "FW", "age": 29, "club": "Liverpool", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Gonçalo Ramos", "pos": "FW", "age": 24, "club": "PSG", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Francisco Conceição", "pos": "FW", "age": 23, "club": "Juventus", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "João Neves", "pos": "MF", "age": 21, "club": "PSG", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Vitinha", "pos": "MF", "age": 26, "club": "PSG", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Otávio", "pos": "MF", "age": 31, "club": "Al Nassr", "league": "Saudi Pro League", "is_key": False, "injury": None},
+        {"name": "Rúben Neves", "pos": "MF", "age": 29, "club": "Al Hilal", "league": "Saudi Pro League", "is_key": False, "injury": None},
+        {"name": "João Palhinha", "pos": "MF", "age": 30, "club": "Bayern Munich", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Rúben Dias", "pos": "DF", "age": 29, "club": "Man City", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "João Cancelo", "pos": "DF", "age": 32, "club": "Al Hilal", "league": "Saudi Pro League", "is_key": False, "injury": None},
+        {"name": "Nuno Mendes", "pos": "DF", "age": 23, "club": "PSG", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Diogo Dalot", "pos": "DF", "age": 27, "club": "Man United", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "António Silva", "pos": "DF", "age": 22, "club": "Benfica", "league": "Liga Portugal", "is_key": False, "injury": None},
+        {"name": "Gonçalo Inácio", "pos": "DF", "age": 24, "club": "Sporting CP", "league": "Liga Portugal", "is_key": False, "injury": None},
+        {"name": "Nélson Semedo", "pos": "DF", "age": 32, "club": "Wolves", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Diogo Costa", "pos": "GK", "age": 26, "club": "Porto", "league": "Liga Portugal", "is_key": False, "injury": None},
+        {"name": "José Sá", "pos": "GK", "age": 33, "club": "Wolves", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Rui Patrício", "pos": "GK", "age": 38, "club": "Atalanta", "league": "Serie A", "is_key": False, "injury": None}
+    ],
+    "GER": [
+        {"name": "Jamal Musiala", "pos": "MF", "age": 23, "club": "Bayern Munich", "league": "Bundesliga", "is_key": True, "injury": None},
+        {"name": "Florian Wirtz", "pos": "MF", "age": 23, "club": "Bayer Leverkusen", "league": "Bundesliga", "is_key": True, "injury": None},
+        {"name": "Kai Havertz", "pos": "FW", "age": 27, "club": "Arsenal", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Antonio Rüdiger", "pos": "DF", "age": 33, "club": "Real Madrid", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Niclas Füllkrug", "pos": "FW", "age": 33, "club": "West Ham", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Leroy Sané", "pos": "FW", "age": 30, "club": "Bayern Munich", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Serge Gnabry", "pos": "FW", "age": 30, "club": "Bayern Munich", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "İlkay Gündoğan", "pos": "MF", "age": 35, "club": "Barcelona", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Joshua Kimmich", "pos": "MF", "age": 31, "club": "Bayern Munich", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Pascal Groß", "pos": "MF", "age": 34, "club": "Borussia Dortmund", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Robert Andrich", "pos": "MF", "age": 31, "club": "Bayer Leverkusen", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Aleksandar Pavlović", "pos": "MF", "age": 22, "club": "Bayern Munich", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "David Raum", "pos": "DF", "age": 28, "club": "RB Leipzig", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Nico Schlotterbeck", "pos": "DF", "age": 26, "club": "Borussia Dortmund", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Jonathan Tah", "pos": "DF", "age": 30, "club": "Bayer Leverkusen", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Maximilian Mittelstädt", "pos": "DF", "age": 29, "club": "Stuttgart", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Waldemar Anton", "pos": "DF", "age": 29, "club": "Borussia Dortmund", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Benjamin Henrichs", "pos": "DF", "age": 29, "club": "RB Leipzig", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Marc-André ter Stegen", "pos": "GK", "age": 34, "club": "Barcelona", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Manuel Neuer", "pos": "GK", "age": 40, "club": "Bayern Munich", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Oliver Baumann", "pos": "GK", "age": 36, "club": "Hoffenheim", "league": "Bundesliga", "is_key": False, "injury": None}
+    ],
+    "JPN": [
+        {"name": "Takefusa Kubo", "pos": "FW", "age": 25, "club": "Real Sociedad", "league": "La Liga", "is_key": True, "injury": None},
+        {"name": "Kaoru Mitoma", "pos": "FW", "age": 29, "club": "Brighton", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Wataru Endo", "pos": "MF", "age": 33, "club": "Liverpool", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Daichi Kamada", "pos": "MF", "age": 29, "club": "Crystal Palace", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Takumi Minamino", "pos": "FW", "age": 31, "club": "Monaco", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Ritsu Doan", "pos": "FW", "age": 27, "club": "Freiburg", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Ayase Ueda", "pos": "FW", "age": 27, "club": "Feyenoord", "league": "Eredivisie", "is_key": False, "injury": None},
+        {"name": "Reo Hatate", "pos": "MF", "age": 28, "club": "Celtic", "league": "Scottish Premiership", "is_key": False, "injury": None},
+        {"name": "Ao Tanaka", "pos": "MF", "age": 27, "club": "Leeds United", "league": "Championship", "is_key": False, "injury": None},
+        {"name": "Hidemasa Morita", "pos": "MF", "age": 31, "club": "Sporting CP", "league": "Liga Portugal", "is_key": False, "injury": None},
+        {"name": "Takehiro Tomiyasu", "pos": "DF", "age": 27, "club": "Arsenal", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Hiroki Ito", "pos": "DF", "age": 27, "club": "Bayern Munich", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Ko Itakura", "pos": "DF", "age": 29, "club": "Borussia M'gladbach", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Yukinari Sugawara", "pos": "DF", "age": 25, "club": "Southampton", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Koki Machida", "pos": "DF", "age": 28, "club": "Union SG", "league": "Belgian Pro League", "is_key": False, "injury": None},
+        {"name": "Shogo Taniguchi", "pos": "DF", "age": 34, "club": "Sint-Truidense", "league": "Belgian Pro League", "is_key": False, "injury": None},
+        {"name": "Zion Suzuki", "pos": "GK", "age": 23, "club": "Parma", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Keisuke Osako", "pos": "GK", "age": 26, "club": "Sanfrecce Hiroshima", "league": "J1 League", "is_key": False, "injury": None}
+    ],
+    "KOR": [
+        {"name": "Son Heung-min", "pos": "FW", "age": 33, "club": "Tottenham", "league": "Premier League", "is_key": True, "injury": None},
+        {"name": "Kim Min-jae", "pos": "DF", "age": 29, "club": "Bayern Munich", "league": "Bundesliga", "is_key": True, "injury": None},
+        {"name": "Lee Kang-in", "pos": "MF", "age": 25, "club": "PSG", "league": "Ligue 1", "is_key": True, "injury": None},
+        {"name": "Hwang Hee-chan", "pos": "FW", "age": 30, "club": "Wolverhampton", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Cho Gue-sung", "pos": "FW", "age": 28, "club": "Midtjylland", "league": "Danish Superliga", "is_key": False, "injury": None},
+        {"name": "Oh Hyeon-gyu", "pos": "FW", "age": 25, "club": "Genk", "league": "Belgian Pro League", "is_key": False, "injury": None},
+        {"name": "Hwang In-beom", "pos": "MF", "age": 29, "club": "Feyenoord", "league": "Eredivisie", "is_key": False, "injury": None},
+        {"name": "Lee Jae-sung", "pos": "MF", "age": 33, "club": "Mainz 05", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Hong Hyun-seok", "pos": "MF", "age": 26, "club": "Mainz 05", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Park Yong-woo", "pos": "MF", "age": 32, "club": "Al Ain", "league": "UAE Pro League", "is_key": False, "injury": None},
+        {"name": "Seol Young-woo", "pos": "DF", "age": 27, "club": "Red Star Belgrade", "league": "Serbian League", "is_key": False, "injury": None},
+        {"name": "Kim Young-gwon", "pos": "DF", "age": 36, "club": "Ulsan HD", "league": "K League 1", "is_key": False, "injury": None},
+        {"name": "Jung Seung-hyun", "pos": "DF", "age": 32, "club": "Al Wasl", "league": "UAE Pro League", "is_key": False, "injury": None},
+        {"name": "Jo Hyeon-woo", "pos": "GK", "age": 34, "club": "Ulsan HD", "league": "K League 1", "is_key": False, "injury": None},
+        {"name": "Song Bum-keun", "pos": "GK", "age": 28, "club": "Shonan Bellmare", "league": "J1 League", "is_key": False, "injury": None}
+    ],
+    "USA": [
+        {"name": "Christian Pulisic", "pos": "FW", "age": 27, "club": "AC Milan", "league": "Serie A", "is_key": True, "injury": None},
+        {"name": "Weston McKennie", "pos": "MF", "age": 27, "club": "Juventus", "league": "Serie A", "is_key": True, "injury": None},
+        {"name": "Yunus Musah", "pos": "MF", "age": 23, "club": "AC Milan", "league": "Serie A", "is_key": True, "injury": None},
+        {"name": "Tyler Adams", "pos": "MF", "age": 27, "club": "Bournemouth", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Gio Reyna", "pos": "FW", "age": 23, "club": "Borussia Dortmund", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Folarin Balogun", "pos": "FW", "age": 24, "club": "Monaco", "league": "Ligue 1", "is_key": False, "injury": None},
+        {"name": "Timothy Weah", "pos": "FW", "age": 26, "club": "Juventus", "league": "Serie A", "is_key": False, "injury": None},
+        {"name": "Ricardo Pepi", "pos": "FW", "age": 23, "club": "PSV", "league": "Eredivisie", "is_key": False, "injury": None},
+        {"name": "Brenden Aaronson", "pos": "MF", "age": 25, "club": "Leeds United", "league": "Championship", "is_key": False, "injury": None},
+        {"name": "Johnny Cardoso", "pos": "MF", "age": 24, "club": "Real Betis", "league": "La Liga", "is_key": False, "injury": None},
+        {"name": "Malik Tillman", "pos": "MF", "age": 24, "club": "PSV", "league": "Eredivisie", "is_key": False, "injury": None},
+        {"name": "Antonee Robinson", "pos": "DF", "age": 28, "club": "Fulham", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Chris Richards", "pos": "DF", "age": 26, "club": "Crystal Palace", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Tim Ream", "pos": "DF", "age": 38, "club": "Charlotte FC", "league": "MLS", "is_key": False, "injury": None},
+        {"name": "Cameron Carter-Vickers", "pos": "DF", "age": 28, "club": "Celtic", "league": "Scottish Premiership", "is_key": False, "injury": None},
+        {"name": "Joe Scally", "pos": "DF", "age": 23, "club": "Borussia M'gladbach", "league": "Bundesliga", "is_key": False, "injury": None},
+        {"name": "Matt Turner", "pos": "GK", "age": 31, "club": "Crystal Palace", "league": "Premier League", "is_key": False, "injury": None},
+        {"name": "Ethan Horvath", "pos": "GK", "age": 31, "club": "Cardiff City", "league": "Championship", "is_key": False, "injury": None}
+    ]
 }
-
-# Country to name pool mapping
-team_pool_mapping = {
-    # Group A
-    "MEX": "spanish", "RSA": "french", "KOR": "asian", "CZE": "germanic",
-    # Group B
-    "CAN": "anglo", "BIH": "germanic", "QAT": "arabic", "SUI": "germanic",
-    # Group C
-    "BRA": "portuguese", "MAR": "arabic", "HAI": "french", "SCO": "anglo",
-    # Group D
-    "USA": "anglo", "PAR": "spanish", "AUS": "anglo", "TUR": "germanic",
-    # Group E
-    "GER": "germanic", "CUW": "anglo", "CIV": "french", "ECU": "spanish",
-    # Group F
-    "NED": "germanic", "JPN": "asian", "SWE": "germanic", "TUN": "arabic",
-    # Group G
-    "BEL": "germanic", "EGY": "arabic", "IRN": "arabic", "NZL": "anglo",
-    # Group H
-    "ESP": "spanish", "CPV": "portuguese", "KSA": "arabic", "URU": "spanish",
-    # Group I
-    "FRA": "french", "SEN": "french", "IRQ": "arabic", "NOR": "germanic",
-    # Group J
-    "ARG": "spanish", "ALG": "arabic", "AUT": "germanic", "JOR": "arabic",
-    # Group K
-    "POR": "portuguese", "COD": "french", "UZB": "asian", "COL": "spanish",
-    # Group L
-    "ENG": "anglo", "CRO": "germanic", "GHA": "french", "PAN": "spanish"
-}
-
-popular_clubs_by_pool = {
-    "anglo": [("Liverpool", "Premier League"), ("Man City", "Premier League"), ("Arsenal", "Premier League"), ("Man United", "Premier League"), ("Chelsea", "Premier League"), ("Tottenham", "Premier League"), ("Aston Villa", "Premier League"), ("Newcastle", "Premier League")],
-    "spanish": [("Real Madrid", "La Liga"), ("Barcelona", "La Liga"), ("Atlético Madrid", "La Liga"), ("Real Sociedad", "La Liga"), ("Real Betis", "La Liga"), ("Sevilla", "La Liga"), ("Villarreal", "La Liga"), ("Valencia", "La Liga")],
-    "portuguese": [("Porto", "Liga Portugal"), ("Sporting CP", "Liga Portugal"), ("Benfica", "Liga Portugal"), ("Braga", "Liga Portugal"), ("Real Madrid", "La Liga"), ("PSG", "Ligue 1"), ("Man City", "Premier League"), ("Barcelona", "La Liga")],
-    "french": [("PSG", "Ligue 1"), ("Marseille", "Ligue 1"), ("Monaco", "Ligue 1"), ("Lille", "Ligue 1"), ("Lyon", "Ligue 1"), ("Nice", "Ligue 1"), ("Lens", "Ligue 1"), ("Stade Rennais", "Ligue 1")],
-    "arabic": [("Al Hilal", "Saudi Pro League"), ("Al Nassr", "Saudi Pro League"), ("Al Ahli", "Saudi Pro League"), ("Al Ittihad", "Saudi Pro League"), ("Al Sadd", "Qatar Stars League"), ("Al Duhail", "Qatar Stars League"), ("Fenerbahçe", "Süper Lig"), ("Galatasaray", "Süper Lig")],
-    "germanic": [("Bayern Munich", "Bundesliga"), ("Bayer Leverkusen", "Bundesliga"), ("Borussia Dortmund", "Bundesliga"), ("RB Leipzig", "Bundesliga"), ("Stuttgart", "Bundesliga"), ("Eintracht Frankfurt", "Bundesliga"), ("Salzburg", "Austrian Bundesliga"), ("Basel", "Swiss Super League")],
-    "asian": [("Real Sociedad", "La Liga"), ("Brighton", "Premier League"), ("Liverpool", "Premier League"), ("Bayern Munich", "Bundesliga"), ("PSG", "Ligue 1"), ("Feyenoord", "Eredivisie"), ("Celtic", "Scottish Premiership"), ("Ulsan HD", "K League"), ("Vissel Kobe", "J1 League")]
-}
-
-def main():
-    if not os.path.exists(TEAMS_PATH):
-        print(f"Error: {TEAMS_PATH} does not exist.")
-        return
-
-    with open(TEAMS_PATH, 'r', encoding='utf-8') as f:
-        teams = json.load(f)
-
-    for team in teams:
-        squad = team.get('squad', [])
-        
-        # 1. Update existing players to have Chinese names
-        for player in squad:
-            name = player['name']
-            if name in existing_players_cn:
-                player['name_cn'] = existing_players_cn[name]
-            else:
-                # Basic parsing if not found in existing list
-                parts = name.split(' ')
-                first = parts[0]
-                last = parts[-1]
-                pool_name = team_pool_mapping.get(team['id'], 'anglo')
-                pool = names_pool[pool_name]
-                
-                first_cn = first
-                last_cn = last
-                if first in pool['first']:
-                    idx = pool['first'].index(first)
-                    first_cn = pool['first_cn'][idx]
-                if last in pool['last']:
-                    idx = pool['last'].index(last)
-                    last_cn = pool['last_cn'][idx]
-                
-                player['name_cn'] = f"{first_cn}·{last_cn}" if first_cn != first or last_cn != last else name
-
-        # 2. Pad squad if count < 8
-        target_count = 8
-        current_count = len(squad)
-        if current_count < target_count:
-            pool_name = team_pool_mapping.get(team['id'], 'anglo')
-            pool = names_pool[pool_name]
-            
-            existing_names = {p['name'] for p in squad}
-            positions_available = ["GK", "DF", "MF", "FW"]
-            
-            # Ensure we have at least 1 GK, 2 DF, 2 MF, 2 FW in the squad
-            pos_counts = {"GK": 0, "DF": 0, "MF": 0, "FW": 0}
-            for p in squad:
-                pos_counts[p['pos']] = pos_counts.get(p['pos'], 0) + 1
-            
-            while len(squad) < target_count:
-                # Select position based on what is lacking
-                if pos_counts["GK"] < 1:
-                    pos = "GK"
-                elif pos_counts["DF"] < 2:
-                    pos = "DF"
-                elif pos_counts["MF"] < 2:
-                    pos = "MF"
-                elif pos_counts["FW"] < 2:
-                    pos = "FW"
-                else:
-                    pos = random.choice(positions_available)
-                
-                # Generate unique name
-                trials = 0
-                while trials < 100:
-                    first_idx = random.randint(0, len(pool['first']) - 1)
-                    last_idx = random.randint(0, len(pool['last']) - 1)
-                    
-                    first = pool['first'][first_idx]
-                    last = pool['last'][last_idx]
-                    full_name = f"{first} {last}"
-                    
-                    if full_name not in existing_names:
-                        break
-                    trials += 1
-                
-                first_cn = pool['first_cn'][first_idx]
-                last_cn = pool['last_cn'][last_idx]
-                full_name_cn = f"{first_cn}·{last_cn}"
-                
-                existing_names.add(full_name)
-                
-                # Pick a popular club & league from this culture
-                club, league = random.choice(popular_clubs_by_pool[pool_name])
-                
-                # Add player
-                new_player = {
-                    "name": full_name,
-                    "name_cn": full_name_cn,
-                    "pos": pos,
-                    "age": random.randint(21, 34),
-                    "club": club,
-                    "league": league,
-                    "is_key": False,
-                    "injury": None
-                }
-                
-                squad.append(new_player)
-                pos_counts[pos] += 1
-
-        # Save back
-        team['squad'] = squad
-
-    with open(TEAMS_PATH, 'w', encoding='utf-8') as f:
-        json.dump(teams, f, ensure_ascii=False, indent=2)
-
-    print("Successfully expanded all team squads in teams.json!")
-
-if __name__ == '__main__':
-    main()
