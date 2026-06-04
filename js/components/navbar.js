@@ -22,6 +22,7 @@ const Navbar = (() => {
           <a href="schedule.html" class="nav-link" data-page="schedule" data-i18n="nav_schedule">赛程表</a>
           <a href="predictions.html" class="nav-link" data-page="predictions" data-i18n="nav_predictions">AI预测</a>
           <a href="bracket.html" class="nav-link" data-page="bracket" data-i18n="nav_bracket">淘汰赛</a>
+          <a href="news.html" class="nav-link" data-page="news" data-i18n="nav_news">新闻中心</a>
         </div>
 
         <div class="nav-actions">
@@ -59,6 +60,7 @@ const Navbar = (() => {
         <a href="schedule.html" class="nav-link" data-page="schedule" data-i18n="nav_schedule">赛程表</a>
         <a href="predictions.html" class="nav-link" data-page="predictions" data-i18n="nav_predictions">AI预测</a>
         <a href="bracket.html" class="nav-link" data-page="bracket" data-i18n="nav_bracket">淘汰赛</a>
+        <a href="news.html" class="nav-link" data-page="news" data-i18n="nav_news">新闻中心</a>
 
         <!-- Mobile Actions -->
         <div class="mobile-nav-actions">

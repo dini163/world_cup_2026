@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="nav_news">新闻中心 · 2026 FIFA World Cup</title>
+  <script>
+    (function() {
+      const theme = localStorage.getItem('world_cup_theme') || 'dark';
+      let actualTheme = theme;
+      if (theme === 'auto') {
+        actualTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      document.documentElement.setAttribute('data-theme', actualTheme);
+    })();
+  </script>
+  <meta name="description" content="2026世界杯新闻中心 — 实时官方报道，更衣室八卦与球迷爆料追踪">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📰</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/pages/news.css">
+</head>
+<body>
+  <div id="navPlaceholder"></div>
+
+  <div class="page-wrapper">
+    <div class="container">
+      <div class="page-header">
+        <h1><span class="text-gradient" data-i18n="news_header">世界赛事速递 & 花边追踪</span></h1>
+        <p data-i18n="news_desc">最前沿的官方报道，最劲爆的更衣室传闻与球迷爆料</p>
+      </div>
+
+      <!-- Controls: Filters, search and submit tip -->
+      <div class="news-controls">
+        <div class="news-filters">
+          <div class="tab-bar" id="newsTypeSelector">
+            <button class="tab-btn active" data-type="all" data-i18n="news_tab_all">全部资讯</button>
+            <button class="tab-btn" data-type="official" data-i18n="news_tab_official">官方新闻</button>
+            <button class="tab-btn" data-type="gossip" data-i18n="news_tab_gossip">花边传闻</button>
+          </div>
+          
+          <label class="bookmark-filter-wrapper">
+            <input type="checkbox" id="bookmarkFilter" />
+            <span data-i18n="news_only_bookmarks">只看收藏</span>
+          </label>
+          
+          <label class="live-stream-toggle-wrapper">
+            <input type="checkbox" id="liveStreamToggle" />
+            <span data-i18n="news_live_stream">🔴 实时播报</span>
+          </label>
+        </div>
+
+        <div class="news-search-submit">
+          <div class="search-filter-box">
+            <input type="text" id="newsSearch" data-i18n-placeholder="news_search_placeholder" placeholder="搜索新闻标题、内容或来源..." />
+          </div>
+          <button class="btn btn-primary" id="openTipModalBtn" data-i18n="news_submit_tip">我来爆料</button>
+        </div>
+      </div>
+
+      <!-- News Feed Grid -->
+      <div class="news-grid" id="newsGrid">
+        <div class="skeleton skeleton-card" style="height:280px"></div>
+        <div class="skeleton skeleton-card" style="height:280px"></div>
+        <div class="skeleton skeleton-card" style="height:280px"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Submit Tip Modal -->
+  <div class="modal-overlay" id="tipModalOverlay">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 data-i18n="news_form_title">球迷爆料热线</h3>
+        <button class="modal-close" id="closeTipModalBtn">✕</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-description" data-i18n="news_form_desc">分享你听到的世界杯传闻或更衣室八卦！内容将即时呈现在您的本地新闻列表中（保存在浏览器本地）。</p>
+        <form id="tipForm">
+          <div class="form-group">
+            <label for="tipTitle" data-i18n="news_input_title">爆料标题</label>
+            <input type="text" id="tipTitle" required maxlength="60" />
+          </div>
+          
+          <div class="form-group">
+            <label for="tipContent" data-i18n="news_input_content">爆料详情</label>
+            <textarea id="tipContent" rows="4" required maxlength="500"></textarea>
+          </div>
+
+          <div class="form-row">
+            <div class="form-group">
+              <label for="tipAuthor" data-i18n="news_input_author">爆料人昵称</label>
+              <input type="text" id="tipAuthor" required maxlength="25" />
+            </div>
+            
+            <div class="form-group">
+              <label for="tipType" data-i18n="news_tab_gossip">分类</label>
+              <select id="tipType">
+                <option value="gossip" data-i18n="news_tag_gossip">花边传闻</option>
+                <option value="official" data-i18n="news_tag_official">官方报道</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="form-actions">
+            <button type="submit" class="btn btn-primary" id="submitTipBtn" data-i18n="news_btn_submit">立即提交</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <div id="footerPlaceholder"></div>
+
+  <script src="js/data-loader.js"></script>
+  <script src="js/utils/i18n.js"></script>
+  <script src="js/utils/helpers.js"></script>
+  <script src="js/utils/calculator.js"></script>
+  <script src="js/components/navbar.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/pages/news.js"></script>
+</body>
+</html>

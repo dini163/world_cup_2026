@@ -11,16 +11,19 @@ const DataLoader = (() => {
     teams: `${DATA_DIR}/teams.json`,
     matches: `${DATA_DIR}/matches.json`,
     predictions: `${DATA_DIR}/predictions.json`,
+    news: `${DATA_DIR}/news.json`,
   };
 
-  async function load(key) {
-    if (cache[key]) return cache[key];
+  async function load(key, forceReload = false) {
+    if (cache[key] && !forceReload) return cache[key];
 
     const url = files[key];
     if (!url) throw new Error(`Unknown data key: ${key}`);
 
     try {
-      const res = await fetch(url);
+      // Append random query parameter to bypass browser caching when forceReload is true
+      const fetchUrl = forceReload ? `${url}?t=${Date.now()}` : url;
+      const res = await fetch(fetchUrl);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
       cache[key] = data;

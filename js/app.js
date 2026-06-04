@@ -40,6 +40,7 @@ const App = (() => {
             <a href="teams.html" data-i18n="nav_teams">球队全景</a>
             <a href="standings.html" data-i18n="nav_standings">积分排名</a>
             <a href="schedule.html" data-i18n="nav_schedule">完整赛程</a>
+            <a href="news.html" data-i18n="nav_news">新闻中心</a>
           </div>
         </div>
         <div class="footer-section">

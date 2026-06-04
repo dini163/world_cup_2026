@@ -1,0 +1,520 @@
+/**
+ * 2026 FIFA World Cup — News Center Styles
+ */
+
+/* News Controls Layout */
+.news-controls {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  margin-bottom: var(--space-8);
+  padding: var(--space-4);
+  background: var(--color-bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  backdrop-filter: blur(10px);
+}
+
+@media (min-width: 992px) {
+  .news-controls {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+.news-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.bookmark-filter-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  user-select: none;
+  padding: 6px 12px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  transition: all 0.2s ease;
+}
+
+[data-theme="light"] .bookmark-filter-wrapper {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+.bookmark-filter-wrapper:hover {
+  border-color: var(--color-gold-light);
+  color: var(--color-gold);
+}
+
+.bookmark-filter-wrapper input {
+  cursor: pointer;
+  accent-color: var(--color-gold);
+}
+
+.news-search-submit {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  width: 100%;
+}
+
+@media (min-width: 992px) {
+  .news-search-submit {
+    width: auto;
+  }
+}
+
+.news-search-submit .search-filter-box {
+  flex-grow: 1;
+  margin: 0;
+}
+
+.news-search-submit .search-filter-box input {
+  width: 100%;
+  min-width: 250px;
+}
+
+/* News Grid */
+.news-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-6);
+  margin-bottom: var(--space-12);
+}
+
+@media (min-width: 768px) {
+  .news-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+  .news-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* News Card */
+.news-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--color-bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: var(--space-5);
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), 
+              border-color 0.3s ease, 
+              box-shadow 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  animation: fadeInUp 0.5s ease both;
+}
+
+.news-card:hover {
+  transform: translateY(-6px);
+  border-color: var(--color-gold-light);
+  box-shadow: 0 10px 20px -5px rgba(197, 168, 128, 0.15);
+}
+
+/* Tags & Categories */
+.news-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--space-3);
+}
+
+.news-card-tag {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: var(--space-1) var(--space-2);
+  border-radius: var(--radius-sm);
+}
+
+.news-card-tag.tag-official {
+  background: rgba(16, 185, 129, 0.15);
+  color: #10B981;
+  border: 1px solid rgba(16, 185, 129, 0.25);
+}
+
+.news-card-tag.tag-gossip {
+  background: rgba(245, 158, 11, 0.15);
+  color: #F59E0B;
+  border: 1px solid rgba(245, 158, 11, 0.25);
+}
+
+.news-card-tag.tag-user {
+  background: rgba(139, 92, 246, 0.15);
+  color: #a78bfa;
+  border: 1px solid rgba(139, 92, 246, 0.25);
+}
+
+[data-theme="light"] .news-card-tag.tag-user {
+  color: #6d28d9;
+}
+
+.news-card-date {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+/* Title & Content */
+.news-card-title {
+  font-family: var(--font-title);
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: var(--space-3);
+  color: var(--text-main);
+  transition: color 0.2s ease;
+}
+
+.news-card:hover .news-card-title {
+  color: var(--color-gold-light);
+}
+
+.news-card-summary {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text-secondary);
+  flex-grow: 1;
+  margin-bottom: var(--space-5);
+}
+
+/* Footer / Actions */
+.news-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--border-color);
+  font-size: 0.85rem;
+}
+
+.news-card-source {
+  color: var(--text-muted);
+  font-style: italic;
+  max-width: 50%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.news-card-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+}
+
+.news-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  padding: 4px var(--space-2);
+  border-radius: var(--radius-sm);
+  transition: all 0.2s ease;
+}
+
+.news-action-btn:hover {
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-main);
+}
+
+[data-theme="light"] .news-action-btn:hover {
+  background: rgba(0, 0, 0, 0.03);
+}
+
+.news-action-btn.like-btn:hover {
+  color: #EF4444;
+}
+
+.news-action-btn.like-btn.active {
+  color: #EF4444;
+  animation: pulse 0.3s ease;
+}
+
+.news-action-btn.bookmark-btn:hover {
+  color: var(--color-gold-light);
+}
+
+.news-action-btn.bookmark-btn.active {
+  color: var(--color-gold);
+}
+
+/* Modal Styling */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(8px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.modal-overlay.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.modal-card {
+  background: var(--color-bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  width: 90%;
+  max-width: 500px;
+  box-shadow: var(--shadow-lg);
+  overflow: hidden;
+  transform: scale(0.9);
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.modal-overlay.active .modal-card {
+  transform: scale(1);
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--space-4) var(--space-5);
+  background: rgba(255, 255, 255, 0.02);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.modal-header h3 {
+  font-family: var(--font-title);
+  color: var(--text-main);
+  margin: 0;
+}
+
+.modal-close {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.modal-close:hover {
+  color: var(--text-main);
+}
+
+.modal-body {
+  padding: var(--space-5);
+}
+
+.modal-description {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: var(--space-4);
+  line-height: 1.5;
+}
+
+.form-group {
+  margin-bottom: var(--space-4);
+}
+
+.form-group label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  margin-bottom: 6px;
+}
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+  width: 100%;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  color: var(--text-main);
+  padding: 10px var(--space-3);
+  font-family: inherit;
+  font-size: 0.95rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+[data-theme="light"] .form-group input,
+[data-theme="light"] .form-group textarea,
+[data-theme="light"] .form-group select {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+.form-group input:focus,
+.form-group textarea:focus,
+.form-group select:focus {
+  outline: none;
+  border-color: var(--color-gold-light);
+  box-shadow: 0 0 0 2px rgba(197, 168, 128, 0.2);
+}
+
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--space-4);
+}
+
+@media (min-width: 576px) {
+  .form-row {
+    grid-template-columns: 1.5fr 1fr;
+  }
+}
+
+.form-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: var(--space-6);
+}
+
+.form-actions button {
+  min-width: 120px;
+}
+
+/* Toast Notification */
+.toast-container {
+  position: fixed;
+  bottom: var(--space-6);
+  right: var(--space-6);
+  z-index: 1100;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  pointer-events: none;
+}
+
+.toast {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-gold-light);
+  border-radius: var(--radius-sm);
+  padding: 12px 20px;
+  color: var(--text-main);
+  font-size: 0.9rem;
+  box-shadow: var(--shadow-md);
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  transform: translateY(20px);
+  opacity: 0;
+  animation: slideInUp 0.3s forwards, fadeOut 0.3s 2.7s forwards;
+  pointer-events: auto;
+  min-width: 250px;
+  backdrop-filter: blur(10px);
+}
+
+@keyframes slideInUp {
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  to {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+}
+
+/* Empty state styling */
+.news-empty-state {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: var(--space-12) var(--space-6);
+  background: var(--color-bg-card);
+  border: 1px dashed var(--border-color);
+  border-radius: var(--radius-md);
+}
+
+.news-empty-state p {
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+  margin-bottom: var(--space-2);
+}
+
+.news-empty-state span {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+/* Live stream toggle styling */
+.live-stream-toggle-wrapper {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  user-select: none;
+  padding: 6px 12px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  transition: all 0.2s ease;
+}
+
+[data-theme="light"] .live-stream-toggle-wrapper {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+.live-stream-toggle-wrapper:hover {
+  border-color: #EF4444;
+  color: #EF4444;
+}
+
+.live-stream-toggle-wrapper input {
+  cursor: pointer;
+  accent-color: #EF4444;
+}
+
+/* Animation for new live arrivals */
+@keyframes borderFlash {
+  0% {
+    border-color: var(--color-gold-light);
+    box-shadow: 0 0 15px rgba(197, 168, 128, 0.6);
+  }
+  100% {
+    border-color: var(--border-color);
+    box-shadow: var(--shadow-sm);
+  }
+}
+
+.news-card.new-arrival {
+  animation: slideInDown 0.6s cubic-bezier(0.34, 1.56, 0.64, 1) both, borderFlash 3s ease-out forwards;
+}
+
+@keyframes slideInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
