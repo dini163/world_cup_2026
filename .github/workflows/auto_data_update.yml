@@ -2,8 +2,8 @@ name: Auto Data Update
 
 on:
   schedule:
-    # Runs every 12 hours (at 00:00 and 12:00 UTC)
-    - cron: '0 */12 * * *'
+    # Runs every hour (at the start of every hour)
+    - cron: '0 * * * *'
   workflow_dispatch:
     # Allows manual trigger from the GitHub Actions UI
 
