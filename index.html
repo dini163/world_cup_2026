@@ -25,6 +25,7 @@
   <link rel="stylesheet" href="css/components.css">
   <link rel="stylesheet" href="css/layout.css">
   <link rel="stylesheet" href="css/pages/home.css">
+  <link rel="stylesheet" href="css/pages/news.css">
 </head>
 <body>
   <div id="navPlaceholder"></div>
@@ -114,6 +115,19 @@
           <div class="skeleton skeleton-card"></div>
           <div class="skeleton skeleton-card"></div>
           <div class="skeleton skeleton-card"></div>
+        </div>
+      </section>
+
+      <!-- Trending News Section -->
+      <section class="section scroll-animate" style="border-top: 1px solid var(--border-color); padding-top: var(--space-8); margin-top: var(--space-8);">
+        <div class="section-header">
+          <h2 data-i18n="home_trending_news_title">最热资讯</h2>
+          <a href="news.html" class="view-all" data-i18n="view_all">查看全部 →</a>
+        </div>
+        <div class="news-grid" id="trendingNewsGrid">
+          <div class="skeleton skeleton-card" style="height:220px"></div>
+          <div class="skeleton skeleton-card" style="height:220px"></div>
+          <div class="skeleton skeleton-card" style="height:220px"></div>
         </div>
       </section>
     </div>

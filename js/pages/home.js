@@ -14,12 +14,14 @@ const HomePage = (() => {
       renderCountdown();
       renderTicker();
       renderTodayMatches();
+      await renderTrendingNews();
       
       // Listen for language changes to re-render
       window.addEventListener('lang-change', () => {
         renderCountdown();
         renderTicker();
         renderTodayMatches();
+        renderTrendingNews();
       });
     } catch (err) {
       console.error('[HomePage] Init failed:', err);
@@ -84,7 +86,7 @@ const HomePage = (() => {
 
     if (dayMatches.length === 0) return;
 
-    const items = dayMatches.map(m => {
+    const singleSet = dayMatches.map(m => {
       const home = DataLoader.getTeamById(teams, m.home);
       const away = DataLoader.getTeamById(teams, m.away);
       if (!home || !away) return '';
@@ -109,8 +111,32 @@ const HomePage = (() => {
         </div>`;
     }).join('');
 
-    // Duplicate for seamless scrolling
-    track.innerHTML = items + items;
+    // Determine repeating multiplier to ensure width exceeds screen width
+    let K = 2;
+    if (dayMatches.length === 1) {
+      K = 20;
+    } else if (dayMatches.length === 2) {
+      K = 10;
+    } else if (dayMatches.length === 3) {
+      K = 8;
+    } else if (dayMatches.length === 4) {
+      K = 6;
+    } else {
+      K = Math.max(2, Math.ceil(20 / dayMatches.length));
+    }
+
+    let halfContent = '';
+    for (let i = 0; i < K; i++) {
+      halfContent += singleSet;
+    }
+
+    // Set animation duration dynamically based on item count to maintain constant speed
+    const totalItemsInHalf = dayMatches.length * K;
+    const duration = Math.max(20, Math.round(totalItemsInHalf * 2.5));
+    track.style.animationDuration = `${duration}s`;
+
+    // Seamless scroll content
+    track.innerHTML = halfContent + halfContent;
   }
 
   function renderTodayMatches() {
@@ -166,6 +192,100 @@ const HomePage = (() => {
     // Sort by time
     dayMatches.sort((a, b) => (a.time || '').localeCompare(b.time || ''));
     MatchCard.renderList(dayMatches, teams, container);
+  }
+
+  async function renderTrendingNews() {
+    const grid = document.getElementById('trendingNewsGrid');
+    if (!grid) return;
+
+    try {
+      // Load base news
+      const newsData = await DataLoader.load('news');
+      
+      // Load user tips from localStorage
+      const userTipsRaw = localStorage.getItem('wc_user_tips');
+      const userTips = userTipsRaw ? JSON.parse(userTipsRaw) : [];
+      
+      // Merge
+      const mergedList = [...userTips, ...newsData];
+      
+      // De-duplicate by ID
+      const uniqueList = [];
+      const seenIds = new Set();
+      for (const item of mergedList) {
+        if (!seenIds.has(item.id)) {
+          seenIds.add(item.id);
+          uniqueList.push(item);
+        }
+      }
+
+      // Calculate total likes (base likes + localStorage offset count)
+      const likedOffsetRaw = localStorage.getItem('wc_news_likes_map');
+      const likedOffsetMap = likedOffsetRaw ? JSON.parse(likedOffsetRaw) : {};
+      
+      // Add totalLikes field to each item
+      uniqueList.forEach(item => {
+        const base = item.likes || 0;
+        const offset = likedOffsetMap[item.id] || 0;
+        item.totalLikes = base + offset;
+      });
+
+      // Sort by likes descending, then take top 3
+      uniqueList.sort((a, b) => b.totalLikes - a.totalLikes);
+      const topNews = uniqueList.slice(0, 3);
+
+      if (topNews.length === 0) {
+        grid.innerHTML = '<p style="color:var(--text-secondary); text-align:center;">No news available.</p>';
+        return;
+      }
+
+      const lang = typeof I18n !== 'undefined' ? I18n.getLanguage() : 'zh-CN';
+      
+      const getTranslatedText = (obj) => {
+        if (!obj) return '';
+        if (typeof obj === 'string') return obj;
+        return obj[lang] || obj['en'] || obj['zh-CN'] || '';
+      };
+
+      const sourceLabel = typeof I18n !== 'undefined' ? I18n.t('news_source') : '来源';
+
+      grid.innerHTML = topNews.map(item => {
+        const title = getTranslatedText(item.title);
+        const summary = getTranslatedText(item.summary);
+        
+        let tagClass = 'tag-gossip';
+        let tagLabel = typeof I18n !== 'undefined' ? I18n.t('news_tag_gossip') : '花边传闻';
+
+        if (item.isUserContributed) {
+          tagClass = 'tag-user';
+          tagLabel = typeof I18n !== 'undefined' ? I18n.t('news_tag_user') : '球迷投递';
+        } else if (item.type === 'official') {
+          tagClass = 'tag-official';
+          tagLabel = typeof I18n !== 'undefined' ? I18n.t('news_tag_official') : '官方报道';
+        }
+
+        return `
+        <div class="news-card" onclick="window.location.href='news.html?id=${item.id}'">
+          <div class="news-card-header">
+            <span class="news-card-tag ${tagClass}">${tagLabel}</span>
+            <span class="news-card-date">${item.date}</span>
+          </div>
+          <h3 class="news-card-title">${title}</h3>
+          <p class="news-card-summary">${summary}</p>
+          <div class="news-card-footer">
+            <span class="news-card-source">${sourceLabel}: ${item.source}</span>
+            <div style="display:flex; align-items:center; gap:4px; color:#EF4444; font-weight:600;">
+              <span>❤️</span>
+              <span>${item.totalLikes}</span>
+            </div>
+          </div>
+        </div>`;
+      }).join('');
+
+    } catch (err) {
+      console.error('[HomePage] Failed to render trending news:', err);
+      grid.innerHTML = `<p style="color:var(--text-secondary); text-align:center;">Failed to load trending news.</p>`;
+    }
   }
 
   return { init };

@@ -1,24 +1,5 @@
 [
   {
-    "id": "N_LIVE_3461",
-    "type": "official",
-    "date": "2026-06-04",
-    "likes": 54,
-    "title": {
-      "zh-CN": "官方：FIFA确认本届世界杯将为各队提供专门的康复理疗基地",
-      "en": "Official: FIFA confirms specialized recovery centers for teams in all base camps",
-      "es": "Oficial: La FIFA confirma centros de recuperación en todos los campamentos de base",
-      "fr": "Officiel : La FIFA confirme des centres de récupération spécialisés dans tous les camps de base"
-    },
-    "summary": {
-      "zh-CN": "为了缓解跨国旅行带来的疲劳，国际足联宣布为所有48支参赛队伍配备独立的高科技康复中心，保障球员的身体竞技状态。",
-      "en": "To combat fatigue from long-distance flights, FIFA announced high-tech recovery centers for all 48 qualified teams to ensure player fitness.",
-      "es": "Para combatir la fatiga por vuelos largos, la FIFA anunció centros de recuperación de alta tecnología para los 48 equipos clasificados.",
-      "fr": "Pour lutter contre la fatigue liée aux vols longue distance, la FIFA a annoncé des centres de récupération de haute technologie pour les 48 équipes."
-    },
-    "source": "FIFA Press Center"
-  },
-  {
     "id": "N01",
     "type": "official",
     "date": "2026-06-11",
@@ -35,6 +16,12 @@
       "es": "Como primer recinto en albergar tres partidos inaugurales de la Copa del Mundo, el Estadio Azteca de la Ciudad de México ha completado su renovación para recibir la ola del fútbol mundial.",
       "fr": "En tant que premier site à accueillir trois matchs d'ouverture de la Coupe du monde, l'Estadio Azteca de Mexico a achevé sa rénovation pour accueillir la vague du football mondial."
     },
+    "content": {
+      "zh-CN": "作为世界上首个三次承办世界杯揭幕战的标志性场馆，墨西哥城阿兹特克球场已完成全面翻新，准备迎接来自全球的足球浪潮。\n\n据悉，本次改建不仅升级了草坪灌溉系统，还引入了最先进的LED照明和环保再生水循环系统。球场座位也进行了重新调整以优化观赛视线，同时保留了这座球场最引以为傲的历史神韵。\n\n揭幕战当日，现场将迎来超过8.5万名球迷，共同见证这一载入史册的体育盛事。",
+      "en": "As the first venue to host three World Cup opening matches, Mexico City's Estadio Azteca has completed its renovation to welcome the global football wave.\n\nThe renovation upgrades the pitch irrigation system, integrates advanced LED floodlights, and features an eco-friendly water recycling system. Seat layouts were reconfigured to maximize sightlines while preserving the iconic arena's historic legacy.\n\nOn opening day, over 85,000 spectators will pack the stadium to witness a monumental chapter in football history.",
+      "es": "Como primer recinto en albergar tres partidos inaugurales de la Copa del Mundo, el Estadio Azteca de la Ciudad de México ha completado su renovación para recibir la ola del fútbol mundial.\n\nLa remodelación incluye mejoras en el sistema de riego, iluminación LED avanzada y un sistema ecológico de reciclaje de agua. Los asientos se reconfiguraron para mejorar la visibilidad de los espectadores.\n\nEl día de la inauguración, más de 85,000 fanáticos llenarán el coloso para presenciar un capítulo dorado de la historia del fútbol.",
+      "fr": "En tant que premier site à accueillir trois matchs d'ouverture de la Coupe du monde, l'Estadio Azteca de Mexico a achevé sa rénovation pour accueillir la vague du football mondial.\n\nLes travaux améliorent le système d'irrigation, intègrent des projecteurs LED avancés et disposent d'un système de recyclage d'eau. La disposition des sièges a été revue pour optimiser la visibilité tout en préservant l'histoire mythique du stade.\n\nLe jour de l'ouverture, plus de 85 000 spectateurs rempliront l'arène pour vivre un moment historique."
+    },
     "source": "FIFA Media"
   },
   {
@@ -43,7 +30,7 @@
     "date": "2026-06-12",
     "likes": 512,
     "title": {
-      "zh-CN": "超级计算机预测：B组爆冷指数上升，瑞士队晋级告急",
+      "zh-CN": "超级计算机预测：B组爆冷指数上升，瑞士队预警告急",
       "en": "Supercomputer Predicts Group B Shock: Switzerland in Danger",
       "es": "Supercomputadora predice sorpresas en Grupo B: Suiza en peligro",
       "fr": "Le superordinateur prédit un choc dans le Groupe B : La Suisse en danger"
@@ -53,6 +40,12 @@
       "en": "In a sports algorithm run 100,000 times, a supercomputer projects Bosnia & Herzegovina has a higher-than-expected probability of qualifying, leaving Swiss fans worried.",
       "es": "En un algoritmo deportivo ejecutado 100,000 veces, una supercomputadora proyecta que Bosnia y Herzegovina tiene una probabilidad de clasificar mayor a la esperada, preocupando a los suizos.",
       "fr": "Dans un algorithme sportif exécuté 100 000 fois, un superordinateur projette que la Bosnie-Herzégovine a une probabilité de qualification plus élevée que prévu, inquiétant les fans suisses."
+    },
+    "content": {
+      "zh-CN": "在一项运行了10万次模拟的体育算法中，超级计算机得出波黑队有望力压瑞士队出线，爆冷指数名列本届小组赛之最。\n\n超级计算机通过分析两队近三年的国际赛绩、球员伤病报告和主办城市气候适应性，得出瑞士队本届杯赛慢热可能性极高。波黑锋线核心状态正佳，极有可能在首轮交锋中抢占出线先机。\n\n本组的形势预测在社交媒体上引发了热烈讨论，瑞士球迷对此深感焦虑。",
+      "en": "In a sports algorithm run 100,000 times, a supercomputer projects Bosnia & Herzegovina has a higher-than-expected probability of qualifying, leaving Swiss fans worried.\n\nThe algorithm computed historical matches, team fitness indexes, and weather adaptability at local venues. Switzerland is expected to start slow, giving Bosnia's lethal attack a clear window to secure early group points.\n\nThis prediction has ignited massive debates on social media, with Swiss forums in high anxiety.",
+      "es": "En un algoritmo deportivo ejecutado 100,000 veces, una supercomputadora proyecta que Bosnia y Herzegovina tiene una probabilidad de clasificar mayor a la esperada, preocupando a los suizos.\n\nEl sistema analizó partidos previos, estado físico y adaptabilidad al clima de las sedes. Se prevé un inicio lento para Suiza, lo que daría ventaja a Bosnia para liderar el grupo.\n\nLa predicción desató debates intensos en redes sociales y preocupación en la afición helvética.",
+      "fr": "Dans un algorithme sportif exécuté 100 000 fois, un superordinateur projette que la Bosnie-Herzégovine a une probabilité de qualification plus élevée que prévu, inquiétant les fans suisses.\n\nLe modèle a analysé l'historique des confrontations, la forme des joueurs et l'adaptation climatique. La Suisse devrait démarrer lentement, offrant à l'attaque de la Bosnie une occasion en or d'engranger des points.\n\nCette prédiction a déclenché de vifs débats sur les réseaux sociaux, inquiétant le public suisse."
     },
     "source": "Opta Analyst"
   },
@@ -73,6 +66,12 @@
       "es": "El nuevo sistema de seguimiento presenta cámaras más densas y un microchip integrado en el balón oficial, resolviendo jugadas en 0.5 segundos.",
       "fr": "Le nouveau système de suivi comprend des réseaux de caméras plus denses et une puce intégrée au ballon officiel, rendant des décisions en 0.5 seconde."
     },
+    "content": {
+      "zh-CN": "全新越位追踪系统将采用更密集的摄像头阵列与内置芯片比赛球，能够在0.5秒内得出判定结论，最大化减少误判与比赛中断。\n\n该技术已在多次测试中取得令人满意的准确度。通过在每座球场顶部安装16个高精摄像头，结合球内传感器，系统可以实时生成球员三维骨骼图像，并将判定动画实时推送至电视广播和球场大屏幕上。\n\n“我们的目标是保证比赛流畅性的同时追求极致的公平，”国际足联裁判委员会主席表示。",
+      "en": "The new tracking system features denser camera arrays and an embedded microchip in the official match ball, delivering rulings in 0.5 seconds to minimize game disruptions.\n\nThe system utilizes 16 specialized tracking cameras mounted under the roof of each stadium, synced with a sensor inside the ball to track 29 skeleton points on each player. The 3D render animation will be broadcasted live to TV and stadium screens.\n\n'Our goal is to ensure extreme fairness while keeping the game flowing smoothly,' the FIFA Referees Committee chairman stated.",
+      "es": "El nuevo sistema de seguimiento presenta cámaras más densas y un microchip integrado en el balón oficial, resolviendo jugadas en 0.5 segundos.\n\nEl sistema utiliza 16 cámaras montadas bajo la cubierta del estadio, sincronizadas con un sensor en el balón que rastrea 29 puntos del cuerpo de cada jugador. La animación 3D se transmitirá en vivo por TV y pantallas del estadio.\n\n'Nuestro objetivo es garantizar la máxima justicia sin cortar el flujo del juego', declaró el presidente del Comité de Árbitros de la FIFA.",
+      "fr": "Le nouveau système de suivi comprend des réseaux de caméras plus denses et une puce intégrée au ballon officiel, rendant des décisions en 0.5 seconde.\n\nLe système utilise 16 caméras de suivi montées sous le toit du stade, synchronisées avec un capteur dans le ballon pour suivre 29 points squelettiques par joueur. L'animation 3D sera diffusée en direct à la TV et sur les écrans géants.\n\n'Notre but est d'assurer une équité maximale tout en maintenant le rythme du match', a déclaré le président de la commission des arbitres de la FIFA."
+    },
     "source": "FIFA Tech Department"
   },
   {
@@ -91,6 +90,12 @@
       "en": "During a closed-door training session, an unregistered drone hovered over the pitch for 15 minutes. The CBF has formally requested a security investigation.",
       "es": "Durante un entrenamiento a puerta cerrada, un dron no registrado sobrevoló el campo por 15 minutos. La CBF ha solicitado una investigación formal de seguridad.",
       "fr": "Pendant un entraînement à huis clos, un drone non enregistré a survolé le terrain pendant 15 minutes. La CBF a officiellement demandé une enquête."
+    },
+    "content": {
+      "zh-CN": "在里约热内卢的闭门训练期间，一台未登记的无人机在训练场上空盘旋了15分钟。巴西足协表示已要求当地安保介入调查。\n\n当时主教练正在排练秘密定位球战术。发现无人机后，教练组立即中止了演练，指示球员返回更衣室。虽然尚不清楚这台无人机属于哪个对手或媒体，但巴西队已在基地周围部署了电磁反无人机防线，以防泄密。\n\n“这是极不道德的行为，我们已经提高了警惕，”随队官员透露。",
+      "en": "During a closed-door training session, an unregistered drone hovered over the pitch for 15 minutes. The CBF has formally requested a security investigation.\n\nThe head coach was drilling secret set-piece routines when the drone was spotted. Training was instantly halted, and players were sent to the locker room. While the owner of the drone remains unknown, Brazil has installed electromagnetic anti-drone shields around their camp.\n\n'This is highly unprofessional, and we have increased our security measures,' a team official confirmed.",
+      "es": "Durante un entrenamiento a puerta cerrada, un dron no registrado sobrevoló el campo por 15 minutos. La CBF ha solicitado una investigación formal de seguridad.\n\nEl seleccionador ensayaba jugadas a balón parado cuando se detectó el dron. La práctica se detuvo de inmediato. Aunque se desconoce el dueño del dron, Brasil ha instalado inhibidores electromagnéticos alrededor del complejo.\n\n'Esto es muy poco profesional, hemos incrementado las medidas de seguridad', confirmó un portavoz del equipo.",
+      "fr": "Pendant un entraînement à huis clos, un drone non enregistré a survolé le terrain pendant 15 minutes. La CBF a officiellement demandé une enquête.\n\nLe coach préparait des combinaisons sur coup franc quand le drone a été repéré. L'entraînement a été arrêté et les joueurs renvoyés aux vestiaires. L'identité du propriétaire reste inconnue, mais le Brésil a installé des boucliers anti-drone électromagnétiques.\n\n'C'est un manque de professionnalisme total. Nous avons renforcé nos mesures de sécurité', a confirmé un officiel."
     },
     "source": "Globo Esporte"
   },
@@ -111,6 +116,12 @@
       "es": "Con partidos repartidos en tres países, los viajes de ciudades costeras a zonas de gran altitud como la Ciudad de México preocupan a los entrenadores.",
       "fr": "Avec des matchs répartis sur trois pays, les trajets des villes côtières vers des sites en haute altitude comme Mexico inquiètent les staffs."
     },
+    "content": {
+      "zh-CN": "由于赛事分布在美加墨三国，从沿海城市飞往高原（如墨西哥城）的赛程引发教练组对球员体能恢复和高反问题的普遍担忧。\n\n海拔高达2240米的墨西哥城不仅空气稀薄，对有氧耐力提出严苛挑战，极长的飞行时间也极大压缩了各队的备战期。多支欧洲和非洲强队的主帅在发布会上呼吁，希望国际足联未来在赛程编排上能更合理地规划地理分区，以减轻球员的旅途负累。\n\n目前，英格兰和法国已引进了专业的高原模拟训练帐篷来帮助队员进行适应性调节。",
+      "en": "With matches scattered across three nations, traveling from coastal cities to high-altitude venues like Mexico City raises recovery concerns among coaching staffs.\n\nAt 2,240 meters above sea level, Mexico City poses a severe aerobic challenge, while transcontinental flights restrict crucial rest intervals. European and African managers have called for geographical localization of group schedules in future tournaments to alleviate player fatigue.\n\nEngland and France have reportedly integrated simulated altitude chambers in their training complexes to accelerate adaptation.",
+      "es": "Con partidos repartidos en tres países, los viajes de ciudades costeras a zonas de gran altitud como la Ciudad de México preocupan a los entrenadores.\n\nA 2,240 metros sobre el nivel del mar, la Ciudad de México exige gran resistencia aeróbica, y los vuelos transcontinentales limitan el descanso. Técnicos de Europa y África piden agrupar sedes geográficamente en el futuro para aliviar el desgaste.\n\nInglaterra y Francia han incorporado cámaras de altitud simulada en sus entrenamientos para acelerar la aclimatación.",
+      "fr": "Avec des matchs répartis sur trois pays, les trajets des villes côtières vers des sites en haute altitude comme Mexico inquiètent les staffs.\n\nÀ 2 240 mètres d'altitude, Mexico impose un défi physique intense, et les longs trajets réduisent les temps de repos. Des sélectionneurs européens et africains demandent une meilleure répartition géographique des groupes à l'avenir.\n\nL'Angleterre et la France ont installé des tentes d'altitude simulée dans leurs camps pour accélérer l'acclimatation des joueurs."
+    },
     "source": "L'Equipe"
   },
   {
@@ -129,6 +140,12 @@
       "en": "Leaked photos of Messi's custom golden boots for the 2026 campaign feature the Argentine three stars and custom details paying tribute to his 2006 debut.",
       "es": "Fotos filtradas de las botas doradas de Messi para el Mundial 2026 muestran detalles personalizados que rinden homenaje a su debut de 2006.",
       "fr": "Des photos fuitées des chaussures dorées de Messi pour 2026 montrent des détails personnalisés rendant hommage à ses débuts en 2006."
+    },
+    "content": {
+      "zh-CN": "互联网上流出了梅西备战美加墨世界杯的定制版金黄色球鞋谍照，后跟印有阿根廷三星图腾，设计向2006年首秀致敬。\n\n这双专为球王39岁传奇生涯“最后一舞”打造的黄金战靴采用轻量化碳纤维底板，鞋身两侧点缀阿根廷标志性天蓝白条纹。最引人瞩目的是鞋跟处的三个金色星星徽章，代表阿根廷夺得的三届世界杯冠军，以及右侧刻有的2006年首秀日期。\n\n球迷们纷纷惊呼其为艺术品，预售登记人数在短短一小时内突破百万。",
+      "en": "Leaked photos of Messi's custom golden boots for the 2026 campaign feature the Argentine three stars and custom details paying tribute to his 2006 debut.\n\nDesigned for the 39-year-old maestro's final campaign, these lightweight carbon-fiber boots feature Argentina's iconic sky blue stripes on a golden upper. The heel displays three gold stars representing Argentina's World Cup titles, next to a printed date commemorating his first tournament match in 2006.\n\nFans call it a masterpiece, with preorder registrations surpassing one million in just one hour.",
+      "es": "Fotos filtradas de las botas doradas de Messi para el Mundial 2026 muestran detalles personalizados que rinden homenaje a su debut de 2006.\n\nDiseñados para el mundial final del astro de 39 años, los botines de fibra de carbono combinan franjas albicelestes con un chasis dorado. En el talón brillan las tres estrellas oficiales y la fecha de su debut mundialista en Alemania 2006.\n\nLa afición los considera una obra de arte, registrando más de un millón de reservas en apenas una hora.",
+      "fr": "Des photos fuitées des chaussures dorées de Messi pour 2026 montrent des détails personnalisés rendant hommage à ses débuts en 2006.\n\nConçues pour l'ultime tournoi du maestro de 39 ans, ces chaussures en fibre de carbone associent des rayures bleu ciel à une structure dorée. Le talon arbore trois étoiles d'or et la date de ses débuts en Coupe du monde en 2006.\n\nLes supporters saluent un chef-d'œuvre, les préinscriptions dépassant le million en une heure."
     },
     "source": "Footy Headlines"
   }

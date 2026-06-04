@@ -189,7 +189,9 @@ const I18n = (() => {
       news_likes: '赞',
       news_source: '来源',
       news_only_bookmarks: '只看收藏',
-      news_live_stream: '🔴 实时播报'
+      news_live_stream: '🔴 实时播报',
+      news_comments_title: '球迷评论',
+      home_trending_news_title: '最热资讯'
     },
     'en': {
       nav_home: 'Home',
@@ -368,7 +370,9 @@ const I18n = (() => {
       news_likes: 'Likes',
       news_source: 'Source',
       news_only_bookmarks: 'Starred Only',
-      news_live_stream: '🔴 Live Stream'
+      news_live_stream: '🔴 Live Stream',
+      news_comments_title: 'Fan Comments',
+      home_trending_news_title: 'Trending News'
     },
     'es': {
       nav_home: 'Inicio',
@@ -547,7 +551,9 @@ const I18n = (() => {
       news_likes: 'Me gusta',
       news_source: 'Fuente',
       news_only_bookmarks: 'Solo Favoritos',
-      news_live_stream: '🔴 En Vivo'
+      news_live_stream: '🔴 En Vivo',
+      news_comments_title: 'Comentarios',
+      home_trending_news_title: 'Noticias Destacadas'
     },
     'fr': {
       nav_home: 'Accueil',
@@ -727,7 +733,9 @@ const I18n = (() => {
       news_likes: 'J\'aime',
       news_source: 'Source',
       news_only_bookmarks: 'Favoris Uniquement',
-      news_live_stream: '🔴 En Direct'
+      news_live_stream: '🔴 En Direct',
+      news_comments_title: 'Commentaires',
+      home_trending_news_title: 'Actualités Chaudes'
     },
   };
 
