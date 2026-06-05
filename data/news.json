@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_6171",
+    "type": "official",
+    "date": "2026-06-05",
+    "likes": 194,
+    "title": {
+      "zh-CN": "世界杯公共交通指南发布：持球票可免费乘坐地铁轻轨",
+      "en": "World Cup Travel Guide: Free public transport for match ticket holders",
+      "es": "Guía del Mundial: Transporte público gratuito para poseedores de entradas",
+      "fr": "Guide de Voyage : Transports publics gratuits pour les détenteurs de billets de match"
+    },
+    "summary": {
+      "zh-CN": "联合组委会正式宣布，世界杯期间所有主办城市将开辟绿色通道。球迷凭比赛日门票和电子球迷卡可免费使用当地地铁、公交和城铁服务。",
+      "en": "The joint committee announced that fans with a valid matchday ticket and digital Fan ID can ride subways, light rails, and buses for free during the tournament.",
+      "es": "El comité organizador anunció transporte gratuito en metro y autobuses para aficionados con entrada válida el día del partido.",
+      "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
+    },
+    "source": "Local Organizing Committee"
+  },
+  {
     "id": "N_LIVE_8240",
     "type": "official",
     "date": "2026-06-05",
@@ -270,30 +289,5 @@
       "fr": "En tant que premier site à accueillir trois matchs d'ouverture de la Coupe du monde, l'Estadio Azteca de Mexico a achevé sa rénovation pour accueillir la vague du football mondial.\n\nLes travaux améliorent le système d'irrigation, intègrent des projecteurs LED avancés et disposent d'un système de recyclage d'eau. La disposition des sièges a été revue pour optimiser la visibilité tout en préservant l'histoire mythique du stade.\n\nLe jour de l'ouverture, plus de 85 000 spectateurs rempliront l'arène pour vivre un moment historique."
     },
     "source": "FIFA Media"
-  },
-  {
-    "id": "N02",
-    "type": "gossip",
-    "date": "2026-06-01",
-    "likes": 512,
-    "title": {
-      "zh-CN": "超级计算机预测：B组爆冷指数上升，瑞士队预警告急",
-      "en": "Supercomputer Predicts Group B Shock: Switzerland in Danger",
-      "es": "Supercomputadora predice sorpresas en Grupo B: Suiza en peligro",
-      "fr": "Le superordinateur prédit un choc dans le Groupe B : La Suisse en danger"
-    },
-    "summary": {
-      "zh-CN": "在一项运行了10万次模拟的体育算法中，超级计算机得出波黑队有望力压瑞士队出线，爆冷指数名列本届小组赛之最。",
-      "en": "In a sports algorithm run 100,000 times, a supercomputer projects Bosnia & Herzegovina has a higher-than-expected probability of qualifying, leaving Swiss fans worried.",
-      "es": "En un algoritmo deportivo ejecutado 100,000 veces, una supercomputadora proyecta que Bosnia y Herzegovina tiene una probabilidad de clasificar mayor a la esperada, preocupando a los suizos.",
-      "fr": "Dans un algorithme sportif exécuté 100 000 fois, un superordinateur projette que la Bosnie-Herzégovine a une probabilité de qualification plus élevée que prévu, inquiétant les fans suisses."
-    },
-    "content": {
-      "zh-CN": "在一项运行了10万次模拟的体育算法中，超级计算机得出波黑队有望力压瑞士队出线，爆冷指数名列本届小组赛之最。\n\n超级计算机通过分析两队近三年的国际赛绩、球员伤病报告和主办城市气候适应性，得出瑞士队本届杯赛慢热可能性极高。波黑锋线核心状态正佳，极有可能在首轮交锋中抢占出线先机。\n\n本组的形势预测在社交媒体上引发了热烈讨论，瑞士球迷对此深感焦虑。",
-      "en": "In a sports algorithm run 100,000 times, a supercomputer projects Bosnia & Herzegovina has a higher-than-expected probability of qualifying, leaving Swiss fans worried.\n\nThe algorithm computed historical matches, team fitness indexes, and weather adaptability at local venues. Switzerland is expected to start slow, giving Bosnia's lethal attack a clear window to secure early group points.\n\nThis prediction has ignited massive debates on social media, with Swiss forums in high anxiety.",
-      "es": "En un algoritmo deportivo ejecutado 100,000 veces, una supercomputadora proyecta que Bosnia y Herzegovina tiene una probabilidad de clasificar mayor a la esperada, preocupando a los suizos.\n\nEl sistema analizó partidos previos, estado físico y adaptabilidad al clima de las sedes. Se prevé un inicio lento para Suiza, lo que daría ventaja a Bosnia para liderar el grupo.\n\nLa predicción desató debates intensos en redes sociales y preocupación en la afición helvética.",
-      "fr": "Dans un algorithme sportif exécuté 100 000 fois, un superordinateur projette que la Bosnie-Herzégovine a une probabilité de qualification plus élevée que prévu, inquiétant les fans suisses.\n\nLe modèle a analysé l'historique des confrontations, la forme des joueurs et l'adaptation climatique. La Suisse devrait démarrer lentement, offrant à l'attaque de la Bosnie une occasion en or d'engranger des points.\n\nCette prédiction a déclenché de vifs débats sur les réseaux sociaux, inquiétant le public suisse."
-    },
-    "source": "Opta Analyst"
   }
 ]
