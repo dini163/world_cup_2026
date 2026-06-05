@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_6940",
+    "type": "gossip",
+    "date": "2026-06-05",
+    "likes": 393,
+    "title": {
+      "zh-CN": "更衣室趣闻：哥伦比亚主帅Néstor Lorenzo在生日宴会上为全队大秀热舞",
+      "en": "Locker Room Fun: Colombia head coach Néstor Lorenzo dances for the team on birthday party",
+      "es": "Diversión en Vestuario: El técnico de Colombia, Néstor Lorenzo, baila ante su equipo por su cumpleaños",
+      "fr": "Vestiaire Insolite : Le sélectionneur d' Colombia, Néstor Lorenzo, danse pour l'équipe pour son anniversaire"
+    },
+    "summary": {
+      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Néstor Lorenzo带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
+      "en": "A short video leaked from the locker room showing the strict manager Néstor Lorenzo showing off dance moves during a team dinner, reflecting excellent team chemistry.",
+      "es": "Un video filtrado muestra al estricto entrenador Néstor Lorenzo mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
+      "fr": "Une courte vidéo montre l'entraîneur strict Néstor Lorenzo exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
+    },
+    "source": "Social Media Leak"
+  },
+  {
     "id": "N_LIVE_2786",
     "type": "official",
     "date": "2026-06-05",
@@ -288,30 +307,5 @@
       "fr": "Pendant un entraînement à huis clos, un drone non enregistré a survolé le terrain pendant 15 minutes. La CBF a officiellement demandé une enquête.\n\nLe coach préparait des combinaisons sur coup franc quand le drone a été repéré. L'entraînement a été arrêté et les joueurs renvoyés aux vestiaires. L'identité du propriétaire reste inconnue, mais le Brésil a installé des boucliers anti-drone électromagnétiques.\n\n'C'est un manque de professionnalisme total. Nous avons renforcé nos mesures de sécurité', a confirmé un officiel."
     },
     "source": "Globo Esporte"
-  },
-  {
-    "id": "N05",
-    "type": "official",
-    "date": "2026-06-03",
-    "likes": 302,
-    "title": {
-      "zh-CN": "高海拔与跨国长途旅行成为多国主帅主要担忧",
-      "en": "Coaches Express Concern Over High Altitudes and Long Travel",
-      "es": "Entrenadores expresan preocupación por altitud y viajes largos",
-      "fr": "Les sélectionneurs inquiets de l'altitude et des longs trajets"
-    },
-    "summary": {
-      "zh-CN": "由于赛事分布在美加墨三国，从沿海城市飞往高原（如墨西哥城）的赛程引发教练组对球员体能恢复和高反问题的普遍担忧。",
-      "en": "With matches scattered across three nations, traveling from coastal cities to high-altitude venues like Mexico City raises recovery concerns among coaching staffs.",
-      "es": "Con partidos repartidos en tres países, los viajes de ciudades costeras a zonas de gran altitud como la Ciudad de México preocupan a los entrenadores.",
-      "fr": "Avec des matchs répartis sur trois pays, les trajets des villes côtières vers des sites en haute altitude comme Mexico inquiètent les staffs."
-    },
-    "content": {
-      "zh-CN": "由于赛事分布在美加墨三国，从沿海城市飞往高原（如墨西哥城）的赛程引发教练组对球员体能恢复和高反问题的普遍担忧。\n\n海拔高达2240米的墨西哥城不仅空气稀薄，对有氧耐力提出严苛挑战，极长的飞行时间也极大压缩了各队的备战期。多支欧洲和非洲强队的主帅在发布会上呼吁，希望国际足联未来在赛程编排上能更合理地规划地理分区，以减轻球员的旅途负累。\n\n目前，英格兰和法国已引进了专业的高原模拟训练帐篷来帮助队员进行适应性调节。",
-      "en": "With matches scattered across three nations, traveling from coastal cities to high-altitude venues like Mexico City raises recovery concerns among coaching staffs.\n\nAt 2,240 meters above sea level, Mexico City poses a severe aerobic challenge, while transcontinental flights restrict crucial rest intervals. European and African managers have called for geographical localization of group schedules in future tournaments to alleviate player fatigue.\n\nEngland and France have reportedly integrated simulated altitude chambers in their training complexes to accelerate adaptation.",
-      "es": "Con partidos repartidos en tres países, los viajes de ciudades costeras a zonas de gran altitud como la Ciudad de México preocupan a los entrenadores.\n\nA 2,240 metros sobre el nivel del mar, la Ciudad de México exige gran resistencia aeróbica, y los vuelos transcontinentales limitan el descanso. Técnicos de Europa y África piden agrupar sedes geográficamente en el futuro para aliviar el desgaste.\n\nInglaterra y Francia han incorporado cámaras de altitud simulada en sus entrenamientos para acelerar la aclimatación.",
-      "fr": "Avec des matchs répartis sur trois pays, les trajets des villes côtières vers des sites en haute altitude comme Mexico inquiètent les staffs.\n\nÀ 2 240 mètres d'altitude, Mexico impose un défi physique intense, et les longs trajets réduisent les temps de repos. Des sélectionneurs européens et africains demandent une meilleure répartition géographique des groupes à l'avenir.\n\nL'Angleterre et la France ont installé des tentes d'altitude simulée dans leurs camps pour accélérer l'acclimatation des joueurs."
-    },
-    "source": "L'Equipe"
   }
 ]
