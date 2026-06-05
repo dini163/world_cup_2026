@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_2786",
+    "type": "official",
+    "date": "2026-06-05",
+    "likes": 305,
+    "title": {
+      "zh-CN": "世界杯公共交通指南发布：持球票可免费乘坐地铁轻轨",
+      "en": "World Cup Travel Guide: Free public transport for match ticket holders",
+      "es": "Guía del Mundial: Transporte público gratuito para poseedores de entradas",
+      "fr": "Guide de Voyage : Transports publics gratuits pour les détenteurs de billets de match"
+    },
+    "summary": {
+      "zh-CN": "联合组委会正式宣布，世界杯期间所有主办城市将开辟绿色通道。球迷凭比赛日门票和电子球迷卡可免费使用当地地铁、公交和城铁服务。",
+      "en": "The joint committee announced that fans with a valid matchday ticket and digital Fan ID can ride subways, light rails, and buses for free during the tournament.",
+      "es": "El comité organizador anunció transporte gratuito en metro y autobuses para aficionados con entrada válida el día del partido.",
+      "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
+    },
+    "source": "Local Organizing Committee"
+  },
+  {
     "id": "N_LIVE_9795",
     "type": "gossip",
     "date": "2026-06-05",
@@ -294,30 +313,5 @@
       "fr": "Avec des matchs répartis sur trois pays, les trajets des villes côtières vers des sites en haute altitude comme Mexico inquiètent les staffs.\n\nÀ 2 240 mètres d'altitude, Mexico impose un défi physique intense, et les longs trajets réduisent les temps de repos. Des sélectionneurs européens et africains demandent une meilleure répartition géographique des groupes à l'avenir.\n\nL'Angleterre et la France ont installé des tentes d'altitude simulée dans leurs camps pour accélérer l'acclimatation des joueurs."
     },
     "source": "L'Equipe"
-  },
-  {
-    "id": "N06",
-    "type": "gossip",
-    "date": "2026-06-04",
-    "likes": 1205,
-    "title": {
-      "zh-CN": "球王最后一舞专属战靴曝光！经典金星闪耀设计",
-      "en": "Messi's Final World Cup Boot Design Leaked Online",
-      "es": "Se filtran las botas especiales para el 'Último Baile' de Messi",
-      "fr": "Les chaussures de la dernière danse de Messi ont fui en ligne"
-    },
-    "summary": {
-      "zh-CN": "互联网上流出了梅西备战美加墨世界杯的定制版金黄色球鞋谍照，后跟印有阿根廷三星图腾，设计向2006年首秀致敬。",
-      "en": "Leaked photos of Messi's custom golden boots for the 2026 campaign feature the Argentine three stars and custom details paying tribute to his 2006 debut.",
-      "es": "Fotos filtradas de las botas doradas de Messi para el Mundial 2026 muestran detalles personalizados que rinden homenaje a su debut de 2006.",
-      "fr": "Des photos fuitées des chaussures dorées de Messi pour 2026 montrent des détails personnalisés rendant hommage à ses débuts en 2006."
-    },
-    "content": {
-      "zh-CN": "互联网上流出了梅西备战美加墨世界杯的定制版金黄色球鞋谍照，后跟印有阿根廷三星图腾，设计向2006年首秀致敬。\n\n这双专为球王39岁传奇生涯“最后一舞”打造的黄金战靴采用轻量化碳纤维底板，鞋身两侧点缀阿根廷标志性天蓝白条纹。最引人瞩目的是鞋跟处的三个金色星星徽章，代表阿根廷夺得的三届世界杯冠军，以及右侧刻有的2006年首秀日期。\n\n球迷们纷纷惊呼其为艺术品，预售登记人数在短短一小时内突破百万。",
-      "en": "Leaked photos of Messi's custom golden boots for the 2026 campaign feature the Argentine three stars and custom details paying tribute to his 2006 debut.\n\nDesigned for the 39-year-old maestro's final campaign, these lightweight carbon-fiber boots feature Argentina's iconic sky blue stripes on a golden upper. The heel displays three gold stars representing Argentina's World Cup titles, next to a printed date commemorating his first tournament match in 2006.\n\nFans call it a masterpiece, with preorder registrations surpassing one million in just one hour.",
-      "es": "Fotos filtradas de las botas doradas de Messi para el Mundial 2026 muestran detalles personalizados que rinden homenaje a su debut de 2006.\n\nDiseñados para el mundial final del astro de 39 años, los botines de fibra de carbono combinan franjas albicelestes con un chasis dorado. En el talón brillan las tres estrellas oficiales y la fecha de su debut mundialista en Alemania 2006.\n\nLa afición los considera una obra de arte, registrando más de un millón de reservas en apenas una hora.",
-      "fr": "Des photos fuitées des chaussures dorées de Messi pour 2026 montrent des détails personnalisés rendant hommage à ses débuts en 2006.\n\nConçues pour l'ultime tournoi du maestro de 39 ans, ces chaussures en fibre de carbone associent des rayures bleu ciel à une structure dorée. Le talon arbore trois étoiles d'or et la date de ses débuts en Coupe du monde en 2006.\n\nLes supporters saluent un chef-d'œuvre, les préinscriptions dépassant le million en une heure."
-    },
-    "source": "Footy Headlines"
   }
 ]
