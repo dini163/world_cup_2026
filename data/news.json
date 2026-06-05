@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_7895",
+    "type": "official",
+    "date": "2026-06-05",
+    "likes": 427,
+    "title": {
+      "zh-CN": "官方：FIFA确认本届世界杯将为各队提供专门的康复理疗基地",
+      "en": "Official: FIFA confirms specialized recovery centers for teams in all base camps",
+      "es": "Oficial: La FIFA confirma centros de recuperación en todos los campamentos de base",
+      "fr": "Officiel : La FIFA confirme des centres de récupération spécialisés dans tous les camps de base"
+    },
+    "summary": {
+      "zh-CN": "为了缓解跨国旅行带来的疲劳，国际足联宣布为所有48支参赛队伍配备独立的高科技康复中心，保障球员的身体竞技状态。",
+      "en": "To combat fatigue from long-distance flights, FIFA announced high-tech recovery centers for all 48 qualified teams to ensure player fitness.",
+      "es": "Para combatir la fatiga por vuelos largos, la FIFA anunció centros de recuperación de alta tecnología para los 48 equipos clasificados.",
+      "fr": "Pour lutter contre la fatigue liée aux vols longue distance, la FIFA a annoncé des centres de récupération de haute technologie pour les 48 équipes."
+    },
+    "source": "FIFA Press Center"
+  },
+  {
     "id": "N_LIVE_6940",
     "type": "gossip",
     "date": "2026-06-05",
@@ -282,30 +301,5 @@
       "fr": "Le nouveau système de suivi comprend des réseaux de caméras plus denses et une puce intégrée au ballon officiel, rendant des décisions en 0.5 seconde.\n\nLe système utilise 16 caméras de suivi montées sous le toit du stade, synchronisées avec un capteur dans le ballon pour suivre 29 points squelettiques par joueur. L'animation 3D sera diffusée en direct à la TV et sur les écrans géants.\n\n'Notre but est d'assurer une équité maximale tout en maintenant le rythme du match', a déclaré le président de la commission des arbitres de la FIFA."
     },
     "source": "FIFA Tech Department"
-  },
-  {
-    "id": "N04",
-    "type": "gossip",
-    "date": "2026-06-03",
-    "likes": 841,
-    "title": {
-      "zh-CN": "战术泄露？巴西队训练营附近疑似发现对手侦察无人机",
-      "en": "Tactics Leaked? Rival Drone Spotted Near Brazil's Base Camp",
-      "es": "¿Tácticas Filtradas? Dron sospechoso avistado cerca del campamento brasileño",
-      "fr": "Tactique Fuilée ? Un drone espion repéré près du camp de base du Brésil"
-    },
-    "summary": {
-      "zh-CN": "在里约热内卢的闭门训练期间，一台未登记的无人机在训练场上空盘旋了15分钟。巴西足协表示已要求当地安保介入调查。",
-      "en": "During a closed-door training session, an unregistered drone hovered over the pitch for 15 minutes. The CBF has formally requested a security investigation.",
-      "es": "Durante un entrenamiento a puerta cerrada, un dron no registrado sobrevoló el campo por 15 minutos. La CBF ha solicitado una investigación formal de seguridad.",
-      "fr": "Pendant un entraînement à huis clos, un drone non enregistré a survolé le terrain pendant 15 minutes. La CBF a officiellement demandé une enquête."
-    },
-    "content": {
-      "zh-CN": "在里约热内卢的闭门训练期间，一台未登记的无人机在训练场上空盘旋了15分钟。巴西足协表示已要求当地安保介入调查。\n\n当时主教练正在排练秘密定位球战术。发现无人机后，教练组立即中止了演练，指示球员返回更衣室。虽然尚不清楚这台无人机属于哪个对手或媒体，但巴西队已在基地周围部署了电磁反无人机防线，以防泄密。\n\n“这是极不道德的行为，我们已经提高了警惕，”随队官员透露。",
-      "en": "During a closed-door training session, an unregistered drone hovered over the pitch for 15 minutes. The CBF has formally requested a security investigation.\n\nThe head coach was drilling secret set-piece routines when the drone was spotted. Training was instantly halted, and players were sent to the locker room. While the owner of the drone remains unknown, Brazil has installed electromagnetic anti-drone shields around their camp.\n\n'This is highly unprofessional, and we have increased our security measures,' a team official confirmed.",
-      "es": "Durante un entrenamiento a puerta cerrada, un dron no registrado sobrevoló el campo por 15 minutos. La CBF ha solicitado una investigación formal de seguridad.\n\nEl seleccionador ensayaba jugadas a balón parado cuando se detectó el dron. La práctica se detuvo de inmediato. Aunque se desconoce el dueño del dron, Brasil ha instalado inhibidores electromagnéticos alrededor del complejo.\n\n'Esto es muy poco profesional, hemos incrementado las medidas de seguridad', confirmó un portavoz del equipo.",
-      "fr": "Pendant un entraînement à huis clos, un drone non enregistré a survolé le terrain pendant 15 minutes. La CBF a officiellement demandé une enquête.\n\nLe coach préparait des combinaisons sur coup franc quand le drone a été repéré. L'entraînement a été arrêté et les joueurs renvoyés aux vestiaires. L'identité du propriétaire reste inconnue, mais le Brésil a installé des boucliers anti-drone électromagnétiques.\n\n'C'est un manque de professionnalisme total. Nous avons renforcé nos mesures de sécurité', a confirmé un officiel."
-    },
-    "source": "Globo Esporte"
   }
 ]
