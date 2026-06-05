@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_8240",
+    "type": "official",
+    "date": "2026-06-05",
+    "likes": 82,
+    "title": {
+      "zh-CN": "官方：FIFA确认本届世界杯将为各队提供专门的康复理疗基地",
+      "en": "Official: FIFA confirms specialized recovery centers for teams in all base camps",
+      "es": "Oficial: La FIFA confirma centros de recuperación en todos los campamentos de base",
+      "fr": "Officiel : La FIFA confirme des centres de récupération spécialisés dans tous les camps de base"
+    },
+    "summary": {
+      "zh-CN": "为了缓解跨国旅行带来的疲劳，国际足联宣布为所有48支参赛队伍配备独立的高科技康复中心，保障球员的身体竞技状态。",
+      "en": "To combat fatigue from long-distance flights, FIFA announced high-tech recovery centers for all 48 qualified teams to ensure player fitness.",
+      "es": "Para combatir la fatiga por vuelos largos, la FIFA anunció centros de recuperación de alta tecnología para los 48 equipos clasificados.",
+      "fr": "Pour lutter contre la fatigue liée aux vols longue distance, la FIFA a annoncé des centres de récupération de haute technologie pour les 48 équipes."
+    },
+    "source": "FIFA Press Center"
+  },
+  {
     "id": "N_LIVE_7895",
     "type": "official",
     "date": "2026-06-05",
@@ -276,30 +295,5 @@
       "fr": "Dans un algorithme sportif exécuté 100 000 fois, un superordinateur projette que la Bosnie-Herzégovine a une probabilité de qualification plus élevée que prévu, inquiétant les fans suisses.\n\nLe modèle a analysé l'historique des confrontations, la forme des joueurs et l'adaptation climatique. La Suisse devrait démarrer lentement, offrant à l'attaque de la Bosnie une occasion en or d'engranger des points.\n\nCette prédiction a déclenché de vifs débats sur les réseaux sociaux, inquiétant le public suisse."
     },
     "source": "Opta Analyst"
-  },
-  {
-    "id": "N03",
-    "type": "official",
-    "date": "2026-06-02",
-    "likes": 189,
-    "title": {
-      "zh-CN": "FIFA发布2026世界杯升级版半自动越位技术",
-      "en": "FIFA Unveils Upgraded Semi-Automated Offside Technology",
-      "es": "FIFA presenta tecnología mejorada de fuera de juego semiautomatizado",
-      "fr": "La FIFA dévoile une technologie améliorée de hors-jeu semi-automatique"
-    },
-    "summary": {
-      "zh-CN": "全新越位追踪系统将采用更密集的摄像头阵列与内置芯片比赛球，能够在0.5秒内得出判定结论，最大化减少误判与比赛中断。",
-      "en": "The new tracking system features denser camera arrays and an embedded microchip in the official match ball, delivering rulings in 0.5 seconds to minimize game disruptions.",
-      "es": "El nuevo sistema de seguimiento presenta cámaras más densas y un microchip integrado en el balón oficial, resolviendo jugadas en 0.5 segundos.",
-      "fr": "Le nouveau système de suivi comprend des réseaux de caméras plus denses et une puce intégrée au ballon officiel, rendant des décisions en 0.5 seconde."
-    },
-    "content": {
-      "zh-CN": "全新越位追踪系统将采用更密集的摄像头阵列与内置芯片比赛球，能够在0.5秒内得出判定结论，最大化减少误判与比赛中断。\n\n该技术已在多次测试中取得令人满意的准确度。通过在每座球场顶部安装16个高精摄像头，结合球内传感器，系统可以实时生成球员三维骨骼图像，并将判定动画实时推送至电视广播和球场大屏幕上。\n\n“我们的目标是保证比赛流畅性的同时追求极致的公平，”国际足联裁判委员会主席表示。",
-      "en": "The new tracking system features denser camera arrays and an embedded microchip in the official match ball, delivering rulings in 0.5 seconds to minimize game disruptions.\n\nThe system utilizes 16 specialized tracking cameras mounted under the roof of each stadium, synced with a sensor inside the ball to track 29 skeleton points on each player. The 3D render animation will be broadcasted live to TV and stadium screens.\n\n'Our goal is to ensure extreme fairness while keeping the game flowing smoothly,' the FIFA Referees Committee chairman stated.",
-      "es": "El nuevo sistema de seguimiento presenta cámaras más densas y un microchip integrado en el balón oficial, resolviendo jugadas en 0.5 segundos.\n\nEl sistema utiliza 16 cámaras montadas bajo la cubierta del estadio, sincronizadas con un sensor en el balón que rastrea 29 puntos del cuerpo de cada jugador. La animación 3D se transmitirá en vivo por TV y pantallas del estadio.\n\n'Nuestro objetivo es garantizar la máxima justicia sin cortar el flujo del juego', declaró el presidente del Comité de Árbitros de la FIFA.",
-      "fr": "Le nouveau système de suivi comprend des réseaux de caméras plus denses et une puce intégrée au ballon officiel, rendant des décisions en 0.5 seconde.\n\nLe système utilise 16 caméras de suivi montées sous le toit du stade, synchronisées avec un capteur dans le ballon pour suivre 29 points squelettiques par joueur. L'animation 3D sera diffusée en direct à la TV et sur les écrans géants.\n\n'Notre but est d'assurer une équité maximale tout en maintenant le rythme du match', a déclaré le président de la commission des arbitres de la FIFA."
-    },
-    "source": "FIFA Tech Department"
   }
 ]
