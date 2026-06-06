@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_6954",
+    "type": "gossip",
+    "date": "2026-06-06",
+    "likes": 134,
+    "title": {
+      "zh-CN": "爆料：荷兰核心Cody Gakpo在训练中完成半场吊门，惊呆队友",
+      "en": "Tip: Netherlands star Cody Gakpo scores half-field lob in training, teammates stunned",
+      "es": "Cotilleo: La estrella de Netherlands, Cody Gakpo, anota gol desde media cancha en práctica",
+      "fr": "Info : La star d' Netherlands, Cody Gakpo, marque un lob de 50 mètres à l'entraînement"
+    },
+    "summary": {
+      "zh-CN": "在今早的战术演练中，Cody Gakpo在己方半场突然起脚，皮球划出美妙弧线直接飞进球门死角。门将直接高举双手表示无奈，现场响起一阵掌声。",
+      "en": "During tactical drills this morning, Cody Gakpo spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
+      "es": "En la práctica de esta mañana, Cody Gakpo vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
+      "fr": "À la séance de ce matin, Cody Gakpo a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
+    },
+    "source": "Locker Room Gossip"
+  },
+  {
     "id": "N_LIVE_1482",
     "type": "gossip",
     "date": "2026-06-06",
@@ -251,25 +270,6 @@
     "type": "official",
     "date": "2026-06-05",
     "likes": 134,
-    "title": {
-      "zh-CN": "官方：FIFA确认本届世界杯将为各队提供专门的康复理疗基地",
-      "en": "Official: FIFA confirms specialized recovery centers for teams in all base camps",
-      "es": "Oficial: La FIFA confirma centros de recuperación en todos los campamentos de base",
-      "fr": "Officiel : La FIFA confirme des centres de récupération spécialisés dans tous les camps de base"
-    },
-    "summary": {
-      "zh-CN": "为了缓解跨国旅行带来的疲劳，国际足联宣布为所有48支参赛队伍配备独立的高科技康复中心，保障球员的身体竞技状态。",
-      "en": "To combat fatigue from long-distance flights, FIFA announced high-tech recovery centers for all 48 qualified teams to ensure player fitness.",
-      "es": "Para combatir la fatiga por vuelos largos, la FIFA anunció centros de recuperación de alta tecnología para los 48 equipos clasificados.",
-      "fr": "Pour lutter contre la fatigue liée aux vols longue distance, la FIFA a annoncé des centres de récupération de haute technologie pour les 48 équipes."
-    },
-    "source": "FIFA Press Center"
-  },
-  {
-    "id": "N_LIVE_9015",
-    "type": "official",
-    "date": "2026-06-04",
-    "likes": 202,
     "title": {
       "zh-CN": "官方：FIFA确认本届世界杯将为各队提供专门的康复理疗基地",
       "en": "Official: FIFA confirms specialized recovery centers for teams in all base camps",
