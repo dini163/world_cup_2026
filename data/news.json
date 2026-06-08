@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_7482",
+    "type": "gossip",
+    "date": "2026-06-08",
+    "likes": 300,
+    "title": {
+      "zh-CN": "更衣室趣闻：苏格兰主帅Steve Clarke在生日宴会上为全队大秀热舞",
+      "en": "Locker Room Fun: Scotland head coach Steve Clarke dances for the team on birthday party",
+      "es": "Diversión en Vestuario: El técnico de Scotland, Steve Clarke, baila ante su equipo por su cumpleaños",
+      "fr": "Vestiaire Insolite : Le sélectionneur d' Scotland, Steve Clarke, danse pour l'équipe pour son anniversaire"
+    },
+    "summary": {
+      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Steve Clarke带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
+      "en": "A short video leaked from the locker room showing the strict manager Steve Clarke showing off dance moves during a team dinner, reflecting excellent team chemistry.",
+      "es": "Un video filtrado muestra al estricto entrenador Steve Clarke mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
+      "fr": "Une courte vidéo montre l'entraîneur strict Steve Clarke exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
+    },
+    "source": "Social Media Leak"
+  },
+  {
     "id": "N_LIVE_9688",
     "type": "gossip",
     "date": "2026-06-07",
@@ -264,24 +283,5 @@
       "fr": "À la séance de ce matin, Cody Gakpo a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
     },
     "source": "Locker Room Gossip"
-  },
-  {
-    "id": "N_LIVE_1482",
-    "type": "gossip",
-    "date": "2026-06-06",
-    "likes": 376,
-    "title": {
-      "zh-CN": "更衣室趣闻：新西兰主帅Darren Bazeley在生日宴会上为全队大秀热舞",
-      "en": "Locker Room Fun: New Zealand head coach Darren Bazeley dances for the team on birthday party",
-      "es": "Diversión en Vestuario: El técnico de New Zealand, Darren Bazeley, baila ante su equipo por su cumpleaños",
-      "fr": "Vestiaire Insolite : Le sélectionneur d' New Zealand, Darren Bazeley, danse pour l'équipe pour son anniversaire"
-    },
-    "summary": {
-      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Darren Bazeley带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
-      "en": "A short video leaked from the locker room showing the strict manager Darren Bazeley showing off dance moves during a team dinner, reflecting excellent team chemistry.",
-      "es": "Un video filtrado muestra al estricto entrenador Darren Bazeley mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
-      "fr": "Une courte vidéo montre l'entraîneur strict Darren Bazeley exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
-    },
-    "source": "Social Media Leak"
   }
 ]
