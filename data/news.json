@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_5861",
+    "type": "gossip",
+    "date": "2026-06-08",
+    "likes": 446,
+    "title": {
+      "zh-CN": "传闻：豪门星探云集！阿根廷锋线新星被多家俱乐部密切关注",
+      "en": "Rumor: Scouts Swarm! Argentina young forward tracked by top European clubs",
+      "es": "Rumor: ¡Cazatalentos al acecho! El joven delantero de Argentina seguido por grandes clubes",
+      "fr": "Rumeur : Les recruteurs s'activent ! Le jeune attaquant de l'équipe d' Argentina suivi par les grands clubs"
+    },
+    "summary": {
+      "zh-CN": "据知情人士透露，来自英超和西甲的六家豪门俱乐部已经派遣球探前往阿根廷的集训大本营，意图抢先签下这位潜力无限的年轻锋线小将。",
+      "en": "According to insiders, scouts from six major Premier League and La Liga clubs have arrived at Argentina's base camp to monitor the promising youngster.",
+      "es": "Según informes, cazatalentos de seis clubes de la Premier League y La Liga han llegado al campamento de Argentina para seguir al joven talento.",
+      "fr": "Selon des indiscrétions, des recruteurs de six clubs de Premier League et de La Liga sont arrivés au camp de l'équipe d' Argentina pour suivre le jeune joueur."
+    },
+    "source": "World Football Insider"
+  },
+  {
     "id": "N_LIVE_9509",
     "type": "gossip",
     "date": "2026-06-08",
@@ -262,25 +281,6 @@
       "en": "A short video leaked from the locker room showing the strict manager Carlos Queiroz showing off dance moves during a team dinner, reflecting excellent team chemistry.",
       "es": "Un video filtrado muestra al estricto entrenador Carlos Queiroz mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
       "fr": "Une courte vidéo montre l'entraîneur strict Carlos Queiroz exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
-    },
-    "source": "Social Media Leak"
-  },
-  {
-    "id": "N_LIVE_4746",
-    "type": "gossip",
-    "date": "2026-06-06",
-    "likes": 220,
-    "title": {
-      "zh-CN": "更衣室趣闻：波黑主帅Sergej Barbarež在生日宴会上为全队大秀热舞",
-      "en": "Locker Room Fun: Bosnia & Herzegovina head coach Sergej Barbarež dances for the team on birthday party",
-      "es": "Diversión en Vestuario: El técnico de Bosnia & Herzegovina, Sergej Barbarež, baila ante su equipo por su cumpleaños",
-      "fr": "Vestiaire Insolite : Le sélectionneur d' Bosnia & Herzegovina, Sergej Barbarež, danse pour l'équipe pour son anniversaire"
-    },
-    "summary": {
-      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Sergej Barbarež带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
-      "en": "A short video leaked from the locker room showing the strict manager Sergej Barbarež showing off dance moves during a team dinner, reflecting excellent team chemistry.",
-      "es": "Un video filtrado muestra al estricto entrenador Sergej Barbarež mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
-      "fr": "Une courte vidéo montre l'entraîneur strict Sergej Barbarež exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
     },
     "source": "Social Media Leak"
   }
