@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_8754",
+    "type": "official",
+    "date": "2026-06-09",
+    "likes": 63,
+    "title": {
+      "zh-CN": "世界杯公共交通指南发布：持球票可免费乘坐地铁轻轨",
+      "en": "World Cup Travel Guide: Free public transport for match ticket holders",
+      "es": "Guía del Mundial: Transporte público gratuito para poseedores de entradas",
+      "fr": "Guide de Voyage : Transports publics gratuits pour les détenteurs de billets de match"
+    },
+    "summary": {
+      "zh-CN": "联合组委会正式宣布，世界杯期间所有主办城市将开辟绿色通道。球迷凭比赛日门票和电子球迷卡可免费使用当地地铁、公交和城铁服务。",
+      "en": "The joint committee announced that fans with a valid matchday ticket and digital Fan ID can ride subways, light rails, and buses for free during the tournament.",
+      "es": "El comité organizador anunció transporte gratuito en metro y autobuses para aficionados con entrada válida el día del partido.",
+      "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
+    },
+    "source": "Local Organizing Committee"
+  },
+  {
     "id": "N_LIVE_6264",
     "type": "gossip",
     "date": "2026-06-09",
@@ -262,25 +281,6 @@
       "en": "According to insiders, scouts from six major Premier League and La Liga clubs have arrived at Japan's base camp to monitor the promising youngster.",
       "es": "Según informes, cazatalentos de seis clubes de la Premier League y La Liga han llegado al campamento de Japan para seguir al joven talento.",
       "fr": "Selon des indiscrétions, des recruteurs de six clubs de Premier League et de La Liga sont arrivés au camp de l'équipe d' Japan pour suivre le jeune joueur."
-    },
-    "source": "World Football Insider"
-  },
-  {
-    "id": "N_LIVE_7122",
-    "type": "gossip",
-    "date": "2026-06-07",
-    "likes": 380,
-    "title": {
-      "zh-CN": "传闻：豪门星探云集！葡萄牙锋线新星被多家俱乐部密切关注",
-      "en": "Rumor: Scouts Swarm! Portugal young forward tracked by top European clubs",
-      "es": "Rumor: ¡Cazatalentos al acecho! El joven delantero de Portugal seguido por grandes clubes",
-      "fr": "Rumeur : Les recruteurs s'activent ! Le jeune attaquant de l'équipe d' Portugal suivi par les grands clubs"
-    },
-    "summary": {
-      "zh-CN": "据知情人士透露，来自英超和西甲的六家豪门俱乐部已经派遣球探前往葡萄牙的集训大本营，意图抢先签下这位潜力无限的年轻锋线小将。",
-      "en": "According to insiders, scouts from six major Premier League and La Liga clubs have arrived at Portugal's base camp to monitor the promising youngster.",
-      "es": "Según informes, cazatalentos de seis clubes de la Premier League y La Liga han llegado al campamento de Portugal para seguir al joven talento.",
-      "fr": "Selon des indiscrétions, des recruteurs de six clubs de Premier League et de La Liga sont arrivés au camp de l'équipe d' Portugal pour suivre le jeune joueur."
     },
     "source": "World Football Insider"
   }
