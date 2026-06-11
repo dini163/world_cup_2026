@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_1779",
+    "type": "gossip",
+    "date": "2026-06-11",
+    "likes": 217,
+    "title": {
+      "zh-CN": "爆料：科特迪瓦核心Franck Kessié在训练中完成半场吊门，惊呆队友",
+      "en": "Tip: Ivory Coast star Franck Kessié scores half-field lob in training, teammates stunned",
+      "es": "Cotilleo: La estrella de Ivory Coast, Franck Kessié, anota gol desde media cancha en práctica",
+      "fr": "Info : La star d' Ivory Coast, Franck Kessié, marque un lob de 50 mètres à l'entraînement"
+    },
+    "summary": {
+      "zh-CN": "在今早的战术演练中，Franck Kessié在己方半场突然起脚，皮球划出美妙弧线直接飞进球门死角。门将直接高举双手表示无奈，现场响起一阵掌声。",
+      "en": "During tactical drills this morning, Franck Kessié spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
+      "es": "En la práctica de esta mañana, Franck Kessié vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
+      "fr": "À la séance de ce matin, Franck Kessié a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
+    },
+    "source": "Locker Room Gossip"
+  },
+  {
     "id": "N_LIVE_3308",
     "type": "official",
     "date": "2026-06-11",
@@ -264,24 +283,5 @@
       "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
     },
     "source": "Local Organizing Committee"
-  },
-  {
-    "id": "N_LIVE_6264",
-    "type": "gossip",
-    "date": "2026-06-09",
-    "likes": 234,
-    "title": {
-      "zh-CN": "更衣室趣闻：克罗地亚主帅Zlatko Dalić在生日宴会上为全队大秀热舞",
-      "en": "Locker Room Fun: Croatia head coach Zlatko Dalić dances for the team on birthday party",
-      "es": "Diversión en Vestuario: El técnico de Croatia, Zlatko Dalić, baila ante su equipo por su cumpleaños",
-      "fr": "Vestiaire Insolite : Le sélectionneur d' Croatia, Zlatko Dalić, danse pour l'équipe pour son anniversaire"
-    },
-    "summary": {
-      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Zlatko Dalić带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
-      "en": "A short video leaked from the locker room showing the strict manager Zlatko Dalić showing off dance moves during a team dinner, reflecting excellent team chemistry.",
-      "es": "Un video filtrado muestra al estricto entrenador Zlatko Dalić mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
-      "fr": "Une courte vidéo montre l'entraîneur strict Zlatko Dalić exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
-    },
-    "source": "Social Media Leak"
   }
 ]
