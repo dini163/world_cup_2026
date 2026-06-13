@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_3526",
+    "type": "official",
+    "date": "2026-06-13",
+    "likes": 283,
+    "title": {
+      "zh-CN": "官方：FIFA确认本届世界杯将为各队提供专门的康复理疗基地",
+      "en": "Official: FIFA confirms specialized recovery centers for teams in all base camps",
+      "es": "Oficial: La FIFA confirma centros de recuperación en todos los campamentos de base",
+      "fr": "Officiel : La FIFA confirme des centres de récupération spécialisés dans tous les camps de base"
+    },
+    "summary": {
+      "zh-CN": "为了缓解跨国旅行带来的疲劳，国际足联宣布为所有48支参赛队伍配备独立的高科技康复中心，保障球员的身体竞技状态。",
+      "en": "To combat fatigue from long-distance flights, FIFA announced high-tech recovery centers for all 48 qualified teams to ensure player fitness.",
+      "es": "Para combatir la fatiga por vuelos largos, la FIFA anunció centros de recuperación de alta tecnología para los 48 equipos clasificados.",
+      "fr": "Pour lutter contre la fatigue liée aux vols longue distance, la FIFA a annoncé des centres de récupération de haute technologie pour les 48 équipes."
+    },
+    "source": "FIFA Press Center"
+  },
+  {
     "id": "N_LIVE_3177",
     "type": "gossip",
     "date": "2026-06-12",
@@ -264,24 +283,5 @@
       "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
     },
     "source": "Local Organizing Committee"
-  },
-  {
-    "id": "N_LIVE_9431",
-    "type": "gossip",
-    "date": "2026-06-10",
-    "likes": 392,
-    "title": {
-      "zh-CN": "更衣室趣闻：伊朗主帅Amir Ghalenoei在生日宴会上为全队大秀热舞",
-      "en": "Locker Room Fun: Iran head coach Amir Ghalenoei dances for the team on birthday party",
-      "es": "Diversión en Vestuario: El técnico de Iran, Amir Ghalenoei, baila ante su equipo por su cumpleaños",
-      "fr": "Vestiaire Insolite : Le sélectionneur d' Iran, Amir Ghalenoei, danse pour l'équipe pour son anniversaire"
-    },
-    "summary": {
-      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Amir Ghalenoei带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
-      "en": "A short video leaked from the locker room showing the strict manager Amir Ghalenoei showing off dance moves during a team dinner, reflecting excellent team chemistry.",
-      "es": "Un video filtrado muestra al estricto entrenador Amir Ghalenoei mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
-      "fr": "Une courte vidéo montre l'entraîneur strict Amir Ghalenoei exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
-    },
-    "source": "Social Media Leak"
   }
 ]
