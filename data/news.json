@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_9583",
+    "type": "official",
+    "date": "2026-06-13",
+    "likes": 73,
+    "title": {
+      "zh-CN": "世界杯公共交通指南发布：持球票可免费乘坐地铁轻轨",
+      "en": "World Cup Travel Guide: Free public transport for match ticket holders",
+      "es": "Guía del Mundial: Transporte público gratuito para poseedores de entradas",
+      "fr": "Guide de Voyage : Transports publics gratuits pour les détenteurs de billets de match"
+    },
+    "summary": {
+      "zh-CN": "联合组委会正式宣布，世界杯期间所有主办城市将开辟绿色通道。球迷凭比赛日门票和电子球迷卡可免费使用当地地铁、公交和城铁服务。",
+      "en": "The joint committee announced that fans with a valid matchday ticket and digital Fan ID can ride subways, light rails, and buses for free during the tournament.",
+      "es": "El comité organizador anunció transporte gratuito en metro y autobuses para aficionados con entrada válida el día del partido.",
+      "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
+    },
+    "source": "Local Organizing Committee"
+  },
+  {
     "id": "N_LIVE_9210",
     "type": "gossip",
     "date": "2026-06-13",
@@ -264,24 +283,5 @@
       "fr": "Une courte vidéo montre l'entraîneur strict Sergej Barbarež exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
     },
     "source": "Social Media Leak"
-  },
-  {
-    "id": "N_LIVE_3288",
-    "type": "gossip",
-    "date": "2026-06-11",
-    "likes": 360,
-    "title": {
-      "zh-CN": "爆料：刚果民主共和国核心Cédric Bakambu在训练中完成半场吊门，惊呆队友",
-      "en": "Tip: DR Congo star Cédric Bakambu scores half-field lob in training, teammates stunned",
-      "es": "Cotilleo: La estrella de DR Congo, Cédric Bakambu, anota gol desde media cancha en práctica",
-      "fr": "Info : La star d' DR Congo, Cédric Bakambu, marque un lob de 50 mètres à l'entraînement"
-    },
-    "summary": {
-      "zh-CN": "在今早的战术演练中，Cédric Bakambu在己方半场突然起脚，皮球划出美妙弧线直接飞进球门死角。门将直接高举双手表示无奈，现场响起一阵掌声。",
-      "en": "During tactical drills this morning, Cédric Bakambu spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
-      "es": "En la práctica de esta mañana, Cédric Bakambu vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
-      "fr": "À la séance de ce matin, Cédric Bakambu a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
-    },
-    "source": "Locker Room Gossip"
   }
 ]
