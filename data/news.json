@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_9298",
+    "type": "gossip",
+    "date": "2026-06-14",
+    "likes": 106,
+    "title": {
+      "zh-CN": "爆料：卡塔尔核心Akram Afif在训练中完成半场吊门，惊呆队友",
+      "en": "Tip: Qatar star Akram Afif scores half-field lob in training, teammates stunned",
+      "es": "Cotilleo: La estrella de Qatar, Akram Afif, anota gol desde media cancha en práctica",
+      "fr": "Info : La star d' Qatar, Akram Afif, marque un lob de 50 mètres à l'entraînement"
+    },
+    "summary": {
+      "zh-CN": "在今早的战术演练中，Akram Afif在己方半场突然起脚，皮球划出美妙弧线直接飞进球门死角。门将直接高举双手表示无奈，现场响起一阵掌声。",
+      "en": "During tactical drills this morning, Akram Afif spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
+      "es": "En la práctica de esta mañana, Akram Afif vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
+      "fr": "À la séance de ce matin, Akram Afif a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
+    },
+    "source": "Locker Room Gossip"
+  },
+  {
     "id": "N_LIVE_3460",
     "type": "official",
     "date": "2026-06-14",
@@ -262,25 +281,6 @@
       "en": "A short video leaked from the locker room showing the strict manager Sergej Barbarež showing off dance moves during a team dinner, reflecting excellent team chemistry.",
       "es": "Un video filtrado muestra al estricto entrenador Sergej Barbarež mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
       "fr": "Une courte vidéo montre l'entraîneur strict Sergej Barbarež exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
-    },
-    "source": "Social Media Leak"
-  },
-  {
-    "id": "N_LIVE_2065",
-    "type": "gossip",
-    "date": "2026-06-13",
-    "likes": 181,
-    "title": {
-      "zh-CN": "更衣室趣闻：瑞典主帅Jon Dahl Tomasson在生日宴会上为全队大秀热舞",
-      "en": "Locker Room Fun: Sweden head coach Jon Dahl Tomasson dances for the team on birthday party",
-      "es": "Diversión en Vestuario: El técnico de Sweden, Jon Dahl Tomasson, baila ante su equipo por su cumpleaños",
-      "fr": "Vestiaire Insolite : Le sélectionneur d' Sweden, Jon Dahl Tomasson, danse pour l'équipe pour son anniversaire"
-    },
-    "summary": {
-      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Jon Dahl Tomasson带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
-      "en": "A short video leaked from the locker room showing the strict manager Jon Dahl Tomasson showing off dance moves during a team dinner, reflecting excellent team chemistry.",
-      "es": "Un video filtrado muestra al estricto entrenador Jon Dahl Tomasson mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
-      "fr": "Une courte vidéo montre l'entraîneur strict Jon Dahl Tomasson exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
     },
     "source": "Social Media Leak"
   }
