@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_5367",
+    "type": "gossip",
+    "date": "2026-06-17",
+    "likes": 74,
+    "title": {
+      "zh-CN": "爆料：哥伦比亚核心James Rodríguez在训练中完成半场吊门，惊呆队友",
+      "en": "Tip: Colombia star James Rodríguez scores half-field lob in training, teammates stunned",
+      "es": "Cotilleo: La estrella de Colombia, James Rodríguez, anota gol desde media cancha en práctica",
+      "fr": "Info : La star d' Colombia, James Rodríguez, marque un lob de 50 mètres à l'entraînement"
+    },
+    "summary": {
+      "zh-CN": "在今早的战术演练中，James Rodríguez在己方半场突然起脚，皮球划出美妙弧线直接飞进球门死角。门将直接高举双手表示无奈，现场响起一阵掌声。",
+      "en": "During tactical drills this morning, James Rodríguez spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
+      "es": "En la práctica de esta mañana, James Rodríguez vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
+      "fr": "À la séance de ce matin, James Rodríguez a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
+    },
+    "source": "Locker Room Gossip"
+  },
+  {
     "id": "N_LIVE_4343",
     "type": "gossip",
     "date": "2026-06-17",
@@ -262,25 +281,6 @@
       "en": "A short video leaked from the locker room showing the strict manager Hajime Moriyasu showing off dance moves during a team dinner, reflecting excellent team chemistry.",
       "es": "Un video filtrado muestra al estricto entrenador Hajime Moriyasu mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
       "fr": "Une courte vidéo montre l'entraîneur strict Hajime Moriyasu exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
-    },
-    "source": "Social Media Leak"
-  },
-  {
-    "id": "N_LIVE_8477",
-    "type": "gossip",
-    "date": "2026-06-15",
-    "likes": 337,
-    "title": {
-      "zh-CN": "更衣室趣闻：土耳其主帅Vincenzo Montella在生日宴会上为全队大秀热舞",
-      "en": "Locker Room Fun: Türkiye head coach Vincenzo Montella dances for the team on birthday party",
-      "es": "Diversión en Vestuario: El técnico de Türkiye, Vincenzo Montella, baila ante su equipo por su cumpleaños",
-      "fr": "Vestiaire Insolite : Le sélectionneur d' Türkiye, Vincenzo Montella, danse pour l'équipe pour son anniversaire"
-    },
-    "summary": {
-      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Vincenzo Montella带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
-      "en": "A short video leaked from the locker room showing the strict manager Vincenzo Montella showing off dance moves during a team dinner, reflecting excellent team chemistry.",
-      "es": "Un video filtrado muestra al estricto entrenador Vincenzo Montella mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
-      "fr": "Une courte vidéo montre l'entraîneur strict Vincenzo Montella exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
     },
     "source": "Social Media Leak"
   }
