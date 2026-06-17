@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_4343",
+    "type": "gossip",
+    "date": "2026-06-17",
+    "likes": 164,
+    "title": {
+      "zh-CN": "更衣室趣闻：库拉索主帅Dick Advocaat在生日宴会上为全队大秀热舞",
+      "en": "Locker Room Fun: Curaçao head coach Dick Advocaat dances for the team on birthday party",
+      "es": "Diversión en Vestuario: El técnico de Curaçao, Dick Advocaat, baila ante su equipo por su cumpleaños",
+      "fr": "Vestiaire Insolite : Le sélectionneur d' Curaçao, Dick Advocaat, danse pour l'équipe pour son anniversaire"
+    },
+    "summary": {
+      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Dick Advocaat带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
+      "en": "A short video leaked from the locker room showing the strict manager Dick Advocaat showing off dance moves during a team dinner, reflecting excellent team chemistry.",
+      "es": "Un video filtrado muestra al estricto entrenador Dick Advocaat mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
+      "fr": "Une courte vidéo montre l'entraîneur strict Dick Advocaat exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
+    },
+    "source": "Social Media Leak"
+  },
+  {
     "id": "N_LIVE_3942",
     "type": "official",
     "date": "2026-06-17",
@@ -262,25 +281,6 @@
       "en": "A short video leaked from the locker room showing the strict manager Vincenzo Montella showing off dance moves during a team dinner, reflecting excellent team chemistry.",
       "es": "Un video filtrado muestra al estricto entrenador Vincenzo Montella mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
       "fr": "Une courte vidéo montre l'entraîneur strict Vincenzo Montella exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
-    },
-    "source": "Social Media Leak"
-  },
-  {
-    "id": "N_LIVE_8176",
-    "type": "gossip",
-    "date": "2026-06-14",
-    "likes": 144,
-    "title": {
-      "zh-CN": "更衣室趣闻：英格兰主帅Thomas Tuchel在生日宴会上为全队大秀热舞",
-      "en": "Locker Room Fun: England head coach Thomas Tuchel dances for the team on birthday party",
-      "es": "Diversión en Vestuario: El técnico de England, Thomas Tuchel, baila ante su equipo por su cumpleaños",
-      "fr": "Vestiaire Insolite : Le sélectionneur d' England, Thomas Tuchel, danse pour l'équipe pour son anniversaire"
-    },
-    "summary": {
-      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Thomas Tuchel带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
-      "en": "A short video leaked from the locker room showing the strict manager Thomas Tuchel showing off dance moves during a team dinner, reflecting excellent team chemistry.",
-      "es": "Un video filtrado muestra al estricto entrenador Thomas Tuchel mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
-      "fr": "Une courte vidéo montre l'entraîneur strict Thomas Tuchel exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
     },
     "source": "Social Media Leak"
   }
