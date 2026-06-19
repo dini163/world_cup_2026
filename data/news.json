@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_4012",
+    "type": "gossip",
+    "date": "2026-06-19",
+    "likes": 392,
+    "title": {
+      "zh-CN": "传闻：豪门星探云集！德国锋线新星被多家俱乐部密切关注",
+      "en": "Rumor: Scouts Swarm! Germany young forward tracked by top European clubs",
+      "es": "Rumor: ¡Cazatalentos al acecho! El joven delantero de Germany seguido por grandes clubes",
+      "fr": "Rumeur : Les recruteurs s'activent ! Le jeune attaquant de l'équipe d' Germany suivi par les grands clubs"
+    },
+    "summary": {
+      "zh-CN": "据知情人士透露，来自英超和西甲的六家豪门俱乐部已经派遣球探前往德国的集训大本营，意图抢先签下这位潜力无限的年轻锋线小将。",
+      "en": "According to insiders, scouts from six major Premier League and La Liga clubs have arrived at Germany's base camp to monitor the promising youngster.",
+      "es": "Según informes, cazatalentos de seis clubes de la Premier League y La Liga han llegado al campamento de Germany para seguir al joven talento.",
+      "fr": "Selon des indiscrétions, des recruteurs de six clubs de Premier League et de La Liga sont arrivés au camp de l'équipe d' Germany pour suivre le jeune joueur."
+    },
+    "source": "World Football Insider"
+  },
+  {
     "id": "N_LIVE_1194",
     "type": "official",
     "date": "2026-06-19",
@@ -264,24 +283,5 @@
       "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
     },
     "source": "Local Organizing Committee"
-  },
-  {
-    "id": "N_LIVE_2211",
-    "type": "gossip",
-    "date": "2026-06-17",
-    "likes": 99,
-    "title": {
-      "zh-CN": "爆料：乌拉圭核心Federico Valverde在训练中完成半场吊门，惊呆队友",
-      "en": "Tip: Uruguay star Federico Valverde scores half-field lob in training, teammates stunned",
-      "es": "Cotilleo: La estrella de Uruguay, Federico Valverde, anota gol desde media cancha en práctica",
-      "fr": "Info : La star d' Uruguay, Federico Valverde, marque un lob de 50 mètres à l'entraînement"
-    },
-    "summary": {
-      "zh-CN": "在今早的战术演练中，Federico Valverde在己方半场突然起脚，皮球划出美妙弧线直接飞进球门死角。门将直接高举双手表示无奈，现场响起一阵掌声。",
-      "en": "During tactical drills this morning, Federico Valverde spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
-      "es": "En la práctica de esta mañana, Federico Valverde vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
-      "fr": "À la séance de ce matin, Federico Valverde a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
-    },
-    "source": "Locker Room Gossip"
   }
 ]
