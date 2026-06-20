@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_8247",
+    "type": "gossip",
+    "date": "2026-06-20",
+    "likes": 179,
+    "title": {
+      "zh-CN": "爆料：澳大利亚核心Harry Souttar在训练中完成半场吊门，惊呆队友",
+      "en": "Tip: Australia star Harry Souttar scores half-field lob in training, teammates stunned",
+      "es": "Cotilleo: La estrella de Australia, Harry Souttar, anota gol desde media cancha en práctica",
+      "fr": "Info : La star d' Australia, Harry Souttar, marque un lob de 50 mètres à l'entraînement"
+    },
+    "summary": {
+      "zh-CN": "在今早的战术演练中，Harry Souttar在己方半场突然起脚，皮球划出美妙弧线直接飞进球门死角。门将直接高举双手表示无奈，现场响起一阵掌声。",
+      "en": "During tactical drills this morning, Harry Souttar spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
+      "es": "En la práctica de esta mañana, Harry Souttar vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
+      "fr": "À la séance de ce matin, Harry Souttar a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
+    },
+    "source": "Locker Room Gossip"
+  },
+  {
     "id": "N_LIVE_4834",
     "type": "official",
     "date": "2026-06-20",
@@ -262,25 +281,6 @@
       "en": "During tactical drills this morning, Xherdan Shaqiri spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
       "es": "En la práctica de esta mañana, Xherdan Shaqiri vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
       "fr": "À la séance de ce matin, Xherdan Shaqiri a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
-    },
-    "source": "Locker Room Gossip"
-  },
-  {
-    "id": "N_LIVE_7240",
-    "type": "gossip",
-    "date": "2026-06-18",
-    "likes": 394,
-    "title": {
-      "zh-CN": "爆料：美国核心Weston McKennie在训练中完成半场吊门，惊呆队友",
-      "en": "Tip: United States star Weston McKennie scores half-field lob in training, teammates stunned",
-      "es": "Cotilleo: La estrella de United States, Weston McKennie, anota gol desde media cancha en práctica",
-      "fr": "Info : La star d' United States, Weston McKennie, marque un lob de 50 mètres à l'entraînement"
-    },
-    "summary": {
-      "zh-CN": "在今早的战术演练中，Weston McKennie在己方半场突然起脚，皮球划出美妙弧线直接飞进球门死角。门将直接高举双手表示无奈，现场响起一阵掌声。",
-      "en": "During tactical drills this morning, Weston McKennie spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
-      "es": "En la práctica de esta mañana, Weston McKennie vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
-      "fr": "À la séance de ce matin, Weston McKennie a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
     },
     "source": "Locker Room Gossip"
   }
