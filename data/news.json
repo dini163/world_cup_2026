@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_5815",
+    "type": "gossip",
+    "date": "2026-06-21",
+    "likes": 444,
+    "title": {
+      "zh-CN": "爆料：英格兰核心Harry Kane在训练中完成半场吊门，惊呆队友",
+      "en": "Tip: England star Harry Kane scores half-field lob in training, teammates stunned",
+      "es": "Cotilleo: La estrella de England, Harry Kane, anota gol desde media cancha en práctica",
+      "fr": "Info : La star d' England, Harry Kane, marque un lob de 50 mètres à l'entraînement"
+    },
+    "summary": {
+      "zh-CN": "在今早的战术演练中，Harry Kane在己方半场突然起脚，皮球划出美妙弧线直接飞进球门死角。门将直接高举双手表示无奈，现场响起一阵掌声。",
+      "en": "During tactical drills this morning, Harry Kane spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
+      "es": "En la práctica de esta mañana, Harry Kane vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
+      "fr": "À la séance de ce matin, Harry Kane a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
+    },
+    "source": "Locker Room Gossip"
+  },
+  {
     "id": "N_LIVE_3828",
     "type": "gossip",
     "date": "2026-06-21",
@@ -264,24 +283,5 @@
       "fr": "Pour lutter contre la fatigue liée aux vols longue distance, la FIFA a annoncé des centres de récupération de haute technologie pour les 48 équipes."
     },
     "source": "FIFA Press Center"
-  },
-  {
-    "id": "N_LIVE_8247",
-    "type": "gossip",
-    "date": "2026-06-20",
-    "likes": 179,
-    "title": {
-      "zh-CN": "爆料：澳大利亚核心Harry Souttar在训练中完成半场吊门，惊呆队友",
-      "en": "Tip: Australia star Harry Souttar scores half-field lob in training, teammates stunned",
-      "es": "Cotilleo: La estrella de Australia, Harry Souttar, anota gol desde media cancha en práctica",
-      "fr": "Info : La star d' Australia, Harry Souttar, marque un lob de 50 mètres à l'entraînement"
-    },
-    "summary": {
-      "zh-CN": "在今早的战术演练中，Harry Souttar在己方半场突然起脚，皮球划出美妙弧线直接飞进球门死角。门将直接高举双手表示无奈，现场响起一阵掌声。",
-      "en": "During tactical drills this morning, Harry Souttar spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
-      "es": "En la práctica de esta mañana, Harry Souttar vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
-      "fr": "À la séance de ce matin, Harry Souttar a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
-    },
-    "source": "Locker Room Gossip"
   }
 ]
