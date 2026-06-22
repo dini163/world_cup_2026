@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_2716",
+    "type": "gossip",
+    "date": "2026-06-22",
+    "likes": 399,
+    "title": {
+      "zh-CN": "更衣室趣闻：厄瓜多尔主帅Sebastián Beccacece在生日宴会上为全队大秀热舞",
+      "en": "Locker Room Fun: Ecuador head coach Sebastián Beccacece dances for the team on birthday party",
+      "es": "Diversión en Vestuario: El técnico de Ecuador, Sebastián Beccacece, baila ante su equipo por su cumpleaños",
+      "fr": "Vestiaire Insolite : Le sélectionneur d' Ecuador, Sebastián Beccacece, danse pour l'équipe pour son anniversaire"
+    },
+    "summary": {
+      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Sebastián Beccacece带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
+      "en": "A short video leaked from the locker room showing the strict manager Sebastián Beccacece showing off dance moves during a team dinner, reflecting excellent team chemistry.",
+      "es": "Un video filtrado muestra al estricto entrenador Sebastián Beccacece mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
+      "fr": "Une courte vidéo montre l'entraîneur strict Sebastián Beccacece exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
+    },
+    "source": "Social Media Leak"
+  },
+  {
     "id": "N_LIVE_2563",
     "type": "gossip",
     "date": "2026-06-22",
@@ -264,24 +283,5 @@
       "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
     },
     "source": "Local Organizing Committee"
-  },
-  {
-    "id": "N_LIVE_8188",
-    "type": "gossip",
-    "date": "2026-06-20",
-    "likes": 354,
-    "title": {
-      "zh-CN": "更衣室趣闻：卡塔尔主帅Carlos Queiroz在生日宴会上为全队大秀热舞",
-      "en": "Locker Room Fun: Qatar head coach Carlos Queiroz dances for the team on birthday party",
-      "es": "Diversión en Vestuario: El técnico de Qatar, Carlos Queiroz, baila ante su equipo por su cumpleaños",
-      "fr": "Vestiaire Insolite : Le sélectionneur d' Qatar, Carlos Queiroz, danse pour l'équipe pour son anniversaire"
-    },
-    "summary": {
-      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Carlos Queiroz带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
-      "en": "A short video leaked from the locker room showing the strict manager Carlos Queiroz showing off dance moves during a team dinner, reflecting excellent team chemistry.",
-      "es": "Un video filtrado muestra al estricto entrenador Carlos Queiroz mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
-      "fr": "Une courte vidéo montre l'entraîneur strict Carlos Queiroz exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
-    },
-    "source": "Social Media Leak"
   }
 ]
