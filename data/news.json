@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_1688",
+    "type": "gossip",
+    "date": "2026-06-23",
+    "likes": 111,
+    "title": {
+      "zh-CN": "更衣室趣闻：捷克主帅Ivan Hašek在生日宴会上为全队大秀热舞",
+      "en": "Locker Room Fun: Czechia head coach Ivan Hašek dances for the team on birthday party",
+      "es": "Diversión en Vestuario: El técnico de Czechia, Ivan Hašek, baila ante su equipo por su cumpleaños",
+      "fr": "Vestiaire Insolite : Le sélectionneur d' Czechia, Ivan Hašek, danse pour l'équipe pour son anniversaire"
+    },
+    "summary": {
+      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Ivan Hašek带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
+      "en": "A short video leaked from the locker room showing the strict manager Ivan Hašek showing off dance moves during a team dinner, reflecting excellent team chemistry.",
+      "es": "Un video filtrado muestra al estricto entrenador Ivan Hašek mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
+      "fr": "Une courte vidéo montre l'entraîneur strict Ivan Hašek exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
+    },
+    "source": "Social Media Leak"
+  },
+  {
     "id": "N_LIVE_1368",
     "type": "gossip",
     "date": "2026-06-23",
@@ -262,25 +281,6 @@
       "en": "During tactical drills this morning, Harry Kane spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
       "es": "En la práctica de esta mañana, Harry Kane vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
       "fr": "À la séance de ce matin, Harry Kane a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
-    },
-    "source": "Locker Room Gossip"
-  },
-  {
-    "id": "N_LIVE_3828",
-    "type": "gossip",
-    "date": "2026-06-21",
-    "likes": 341,
-    "title": {
-      "zh-CN": "爆料：克罗地亚核心Luka Modrić在训练中完成半场吊门，惊呆队友",
-      "en": "Tip: Croatia star Luka Modrić scores half-field lob in training, teammates stunned",
-      "es": "Cotilleo: La estrella de Croatia, Luka Modrić, anota gol desde media cancha en práctica",
-      "fr": "Info : La star d' Croatia, Luka Modrić, marque un lob de 50 mètres à l'entraînement"
-    },
-    "summary": {
-      "zh-CN": "在今早的战术演练中，Luka Modrić在己方半场突然起脚，皮球划出美妙弧线直接飞进球门死角。门将直接高举双手表示无奈，现场响起一阵掌声。",
-      "en": "During tactical drills this morning, Luka Modrić spotted the goalkeeper off his line and lobbed the ball from his own half into the top corner, prompting cheers.",
-      "es": "En la práctica de esta mañana, Luka Modrić vio al portero adelantado y anotó desde media cancha, asombrando a todos sus compañeros.",
-      "fr": "À la séance de ce matin, Luka Modrić a vu le gardien avancé et a marqué du milieu de terrain, émerveillant ses partenaires."
     },
     "source": "Locker Room Gossip"
   }
