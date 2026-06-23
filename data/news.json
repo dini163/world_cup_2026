@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_1234",
+    "type": "official",
+    "date": "2026-06-23",
+    "likes": 413,
+    "title": {
+      "zh-CN": "世界杯公共交通指南发布：持球票可免费乘坐地铁轻轨",
+      "en": "World Cup Travel Guide: Free public transport for match ticket holders",
+      "es": "Guía del Mundial: Transporte público gratuito para poseedores de entradas",
+      "fr": "Guide de Voyage : Transports publics gratuits pour les détenteurs de billets de match"
+    },
+    "summary": {
+      "zh-CN": "联合组委会正式宣布，世界杯期间所有主办城市将开辟绿色通道。球迷凭比赛日门票和电子球迷卡可免费使用当地地铁、公交和城铁服务。",
+      "en": "The joint committee announced that fans with a valid matchday ticket and digital Fan ID can ride subways, light rails, and buses for free during the tournament.",
+      "es": "El comité organizador anunció transporte gratuito en metro y autobuses para aficionados con entrada válida el día del partido.",
+      "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
+    },
+    "source": "Local Organizing Committee"
+  },
+  {
     "id": "N_LIVE_9053",
     "type": "official",
     "date": "2026-06-23",
@@ -264,24 +283,5 @@
       "fr": "Pour lutter contre la fatigue liée aux vols longue distance, la FIFA a annoncé des centres de récupération de haute technologie pour les 48 équipes."
     },
     "source": "FIFA Press Center"
-  },
-  {
-    "id": "N_LIVE_9988",
-    "type": "official",
-    "date": "2026-06-21",
-    "likes": 216,
-    "title": {
-      "zh-CN": "世界杯公共交通指南发布：持球票可免费乘坐地铁轻轨",
-      "en": "World Cup Travel Guide: Free public transport for match ticket holders",
-      "es": "Guía del Mundial: Transporte público gratuito para poseedores de entradas",
-      "fr": "Guide de Voyage : Transports publics gratuits pour les détenteurs de billets de match"
-    },
-    "summary": {
-      "zh-CN": "联合组委会正式宣布，世界杯期间所有主办城市将开辟绿色通道。球迷凭比赛日门票和电子球迷卡可免费使用当地地铁、公交和城铁服务。",
-      "en": "The joint committee announced that fans with a valid matchday ticket and digital Fan ID can ride subways, light rails, and buses for free during the tournament.",
-      "es": "El comité organizador anunció transporte gratuito en metro y autobuses para aficionados con entrada válida el día del partido.",
-      "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
-    },
-    "source": "Local Organizing Committee"
   }
 ]
