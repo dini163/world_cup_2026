@@ -1,5 +1,24 @@
 [
   {
+    "id": "N_LIVE_5176",
+    "type": "official",
+    "date": "2026-06-24",
+    "likes": 279,
+    "title": {
+      "zh-CN": "世界杯公共交通指南发布：持球票可免费乘坐地铁轻轨",
+      "en": "World Cup Travel Guide: Free public transport for match ticket holders",
+      "es": "Guía del Mundial: Transporte público gratuito para poseedores de entradas",
+      "fr": "Guide de Voyage : Transports publics gratuits pour les détenteurs de billets de match"
+    },
+    "summary": {
+      "zh-CN": "联合组委会正式宣布，世界杯期间所有主办城市将开辟绿色通道。球迷凭比赛日门票和电子球迷卡可免费使用当地地铁、公交和城铁服务。",
+      "en": "The joint committee announced that fans with a valid matchday ticket and digital Fan ID can ride subways, light rails, and buses for free during the tournament.",
+      "es": "El comité organizador anunció transporte gratuito en metro y autobuses para aficionados con entrada válida el día del partido.",
+      "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
+    },
+    "source": "Local Organizing Committee"
+  },
+  {
     "id": "N_LIVE_6766",
     "type": "gossip",
     "date": "2026-06-24",
@@ -264,24 +283,5 @@
       "fr": "Le comité d'organisation a annoncé la gratuité des métros et bus pour les supporters munis d'un billet de match valide."
     },
     "source": "Local Organizing Committee"
-  },
-  {
-    "id": "N_LIVE_2716",
-    "type": "gossip",
-    "date": "2026-06-22",
-    "likes": 399,
-    "title": {
-      "zh-CN": "更衣室趣闻：厄瓜多尔主帅Sebastián Beccacece在生日宴会上为全队大秀热舞",
-      "en": "Locker Room Fun: Ecuador head coach Sebastián Beccacece dances for the team on birthday party",
-      "es": "Diversión en Vestuario: El técnico de Ecuador, Sebastián Beccacece, baila ante su equipo por su cumpleaños",
-      "fr": "Vestiaire Insolite : Le sélectionneur d' Ecuador, Sebastián Beccacece, danse pour l'équipe pour son anniversaire"
-    },
-    "summary": {
-      "zh-CN": "有球员在社交平台发布了一段更衣室短视频，镜头中一向严厉的Sebastián Beccacece带头跳起了动感舞蹈，全队笑成一片，展现出极佳的备战氛围。",
-      "en": "A short video leaked from the locker room showing the strict manager Sebastián Beccacece showing off dance moves during a team dinner, reflecting excellent team chemistry.",
-      "es": "Un video filtrado muestra al estricto entrenador Sebastián Beccacece mostrando pasos de baile durante la cena, reflejando un ambiente de armonía.",
-      "fr": "Une courte vidéo montre l'entraîneur strict Sebastián Beccacece exécutant des pas de danse lors du dîner, reflétant la bonne humeur du groupe."
-    },
-    "source": "Social Media Leak"
   }
 ]
