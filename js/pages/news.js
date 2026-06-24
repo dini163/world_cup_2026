@@ -11,7 +11,6 @@ const NewsPage = (() => {
 
   // Timers
   let pollingTimer = null;
-  let simulationTimer = null;
   let isPolling = false;
   const newArrivals = new Set(); // Stores IDs of newly arrived news to apply flash styles
 
@@ -20,76 +19,6 @@ const NewsPage = (() => {
   const LIKED_NEWS_KEY = 'wc_news_liked_ids';
   const BOOKMARKED_NEWS_KEY = 'wc_news_bookmarked_ids';
   const LIKES_COUNT_KEY = 'wc_news_likes_map';
-
-  // Live Stream Simulation Pool
-  const SIMULATION_POOL = [
-    {
-      source: "L'Equipe",
-      type: "official",
-      title: {
-        "zh-CN": "最新消息：姆巴佩已恢复全队合练，首发概率增至90%",
-        "en": "Breaking: Mbappe returns to full training, start probability rises to 90%",
-        "es": "Última Hora: Mbappé entrena al 100%, titularidad al 90%",
-        "fr": "Dernière Minute : Mbappé de retour à l'entraînement collectif, 90% de chances de débuter"
-      },
-      summary: {
-        "zh-CN": "法国队前锋姆巴佩今天顺利参与了全部战术演练，主教练表示其脚踝伤势恢复良好，有望首发打满全场。",
-        "en": "France forward Kylian Mbappe fully participated in team tactics today. The coach confirmed his ankle recovery is on track for a full start.",
-        "es": "El atacante francés Kylian Mbappé completó la sesión táctica. El DT confirmó que su tobillo está recuperado para iniciar el duelo.",
-        "fr": "L'attaquant français Kylian Mbappé a participé à toute la séance tactique. Le sélectionneur a terminé son aptitude à débuter le match."
-      },
-      content: {
-        "zh-CN": "法国队前锋姆巴佩今天顺利参与了全部战术演练，主教练表示其脚踝伤势恢复良好，有望首发打满全场。\n\n在早些时候的小组赛首秀中，姆巴佩曾因轻微扭伤被换下，引发法国球迷广泛关注。在经过三天密集的理疗后，今天的公开对抗训练显示他状态优异，在中前场的跑位和突破极具威胁。\n\n“姆巴佩是不可替代的，我们很高兴能迎来他的全面复出，”法国队助理教练在接受本报专访时表示。",
-        "en": "France forward Kylian Mbappe fully participated in team tactics today. The coach confirmed his ankle recovery is on track for a full start.\n\nMbappe was subbed off during the opening group match due to a minor sprain, sparking concern among French fans. Following three days of intensive physiotherapy, today's training demonstrated he is back to full fitness.\n\n'Mbappe is irreplaceable, and we are thrilled to have him back at 100%,' the assistant manager confirmed.",
-        "es": "El atacante francés Kylian Mbappé completó la sesión táctica. El DT confirmó que su tobillo está recuperado para iniciar el duelo.\n\nMbappé abandonó el juego anterior por una torcedura menor de tobillo. Tras tres días de intensa fisioterapia, la práctica de hoy evidenció su excelente condición física.\n\n'Kylian es irremplazable, nos alegra tenerlo de vuelta al 100%', comentó el entrenador asistente.",
-        "fr": "L'attaquant français Kylian Mbappé a participé à toute la séance tactique. Le sélectionneur a terminé son aptitude à débuter le match.\n\nSorti sur blessure lors du premier match de poule suite à une entorse mineure, le buteur a suivi trois jours de soins intenses. La séance du jour montre qu'il a retrouvé toute sa vivacité.\n\n'Kylian est indispensable et nous sommes ravis de le retrouver au top', a déclaré l'entraîneur adjoint."
-      }
-    },
-    {
-      source: "La Gazzetta",
-      type: "gossip",
-      title: {
-        "zh-CN": "爆料：神秘中东财团意图以天价合约签约阿根廷新星",
-        "en": "Leak: Middle East investors plan astronomical bid for Argentina talent",
-        "es": "Cotilleo: Inversores de Medio Oriente planean oferta astronómica por la joya argentina",
-        "fr": "Info : Des investisseurs du Moyen-Orient préparent une offre record pour la pépite argentine"
-      },
-      summary: {
-        "zh-CN": "一份来自多哈的超级报价正在酝酿，准备开出五年2.5亿欧元的天价合同，以期在世界杯后立刻将这位中场新核收入麾下。",
-        "en": "An astronomical contract offer is being prepared in Doha, offering 250M euros over five years to sign the midfield playmaker after the World Cup.",
-        "es": "Se prepara una oferta de contrato de 250 millones de euros desde Doha por cinco temporadas para fichar al mediocampista tras la Copa del Mundo.",
-        "fr": "Un contrat record de 250 millions d'euros sur cinq ans se prépare à Doha pour s'attacher les services du milieu de terrain après le Mondial."
-      },
-      content: {
-        "zh-CN": "一份来自多哈的超级报价正在酝酿，准备开出五年2.5亿欧元的天价合同，以期在世界杯后立刻将这位中场新核收入麾下。\n\n这名年轻中场在小组赛两轮过后送出了3次助攻和1次进球，是阿根廷中前场的绝对节拍器。虽然有传言称球员目前在马德里过得很开心，但这份无法拒绝的报价依然引发了其经纪团队的密切接洽。\n\n有专家分析，如果这笔巨额交易在世界杯后达成，它将直接打破全球中场球员的最高转会费纪录。",
-        "en": "An astronomical contract offer is being prepared in Doha, offering 250M euros over five years to sign the midfield playmaker after the World Cup.\n\nThe young midfielder has put up a spectacular display with 3 assists and 1 goal in the first two group fixtures. While rumors suggest the player is happy in Madrid, the financial weight of this bid has forced his agents to the negotiating table.\n\nTactical analysts point out that if completed, this record deal would shatter the world-record transfer fee for a midfielder.",
-        "es": "Se prepara una oferta de contrato de 250 millones de euros desde Doha por cinco temporadas para fichar al mediocampista tras la Copa del Mundo.\n\nLa joya albiceleste brilla en el torneo con 3 asistencias y 1 gol en la fase de grupos. Pese a rumores sobre su comodidad en Madrid, las cifras de la oferta han llevado a su agente a iniciar conversaciones.\n\nAnalistas señalan que de concretarse, esta transferencia rompería todos los récords históricos de su posición.",
-        "fr": "Un contrat record de 250 millions d'euros sur cinq ans se prépare à Doha pour s'attacher les services du milieu de terrain après le Mondial.\n\nLe prodige argentin impressionne avec 3 passes décisives et 1 but en phase de poules. Malgré des rumeurs de satisfaction à Madrid, l'offre colossale a forcé son agent à ouvrir les négociations.\n\nSelon plusieurs experts, ce transfert exceptionnel briserait le record du monde pour un milieu de terrain."
-      }
-    },
-    {
-      source: "Estadio Diario",
-      type: "gossip",
-      title: {
-        "zh-CN": "传闻：墨西哥队秘密演练高空轰炸，揭幕战意在空中突击",
-        "en": "Rumor: Mexico secretly drills aerial crossing to counter South Africa in opener",
-        "es": "Rumor: México entrena juego aéreo en secreto para contrarrestar a Sudáfrica",
-        "fr": "Rumeur : Le Mexique prépare des centres en secret pour surprendre l'Afrique du Sud"
-      },
-      summary: {
-        "zh-CN": "根据基地附近的知情人员爆料，墨西哥主帅秘密召开了越位和高空球战术会，意在利用身高优势突破南非的空中防线。",
-        "en": "Insiders close to the training ground report that the Mexico coach is focusing heavily on high crosses and set-pieces to exploit South Africa's defense.",
-        "es": "Fuentes cercanas al campamento informan que el técnico mexicano ensaya centros y balón parado para explotar las debilidades defensivas de Sudáfrica.",
-        "fr": "Des sources proches du camp révèlent que le coach mexicain insiste sur les centres et ballons arrêtés pour surprendre la défense sud-africaine."
-      },
-      content: {
-        "zh-CN": "根据基地附近的知情人员爆料，墨西哥主帅秘密召开了越位和高空球战术会，意在利用身高优势突破南非的空中防线。\n\n墨西哥队在开幕战上面临极大的出线舆论压力，主帅希望通过边路快速下底、传中落点打击对手防区的结合部。助理教练在训练场边放置了多个特定落点的标靶，并安排了数名身材魁梧的前锋进行反复抢点冲顶测试。\n\n“南非的空中争顶效率稍有欠缺，这就是我们要强攻的地方，”一名随队球探透露。",
-        "en": "Insiders close to the training ground report that the Mexico coach is focusing heavily on high crosses and set-pieces to exploit South Africa's defense.\n\nUnder pressure to perform on opening day, the coaching staff is designing routes targeting South Africa's central center-backs. Precision targets were set up for crosses today, with tall forwards rehearsing repetitive header drills.\n\n'South Africa has struggled slightly with aerial duels, and that is exactly where we intend to put pressure,' a team analyst confirmed.",
-        "es": "Fuentes cercanas al campamento informan que el técnico mexicano ensaya centros y balón parado para explotar las debilidades defensivas de Sudáfrica.\n\nCon alta presión para ganar el partido de apertura, el staff técnico del tri entrena jugadas para dañar la zaga central. El delantero titular ensayó remates de cabeza con centros de precisión.\n\n'Sudáfrica ha mostrado dificultades en duelos aéreos, y ahí es donde buscaremos hacer daño', apuntó un analista táctico.",
-        "fr": "Des sources proches du camp révèlent que le coach mexicain insiste sur les centres et ballons arrêtés pour surprendre la défense sud-africaine.\n\nSous pression pour le match d'ouverture, l'équipe technique mexicaine prépare des plans pour transpercer l'axe adverse. L'attaquant vedette a multiplié les têtes sur des centres précis.\n\n'L'Afrique du Sud a connu des difficultés dans les airs, et c'est exactement là que nous allons appuyer', a rapporté un analyste."
-      }
-    }
-  ];
 
   // Mock comments database based on active language
   const MOCK_COMMENTS_POOL = {
@@ -283,58 +212,15 @@ const NewsPage = (() => {
     if (enabled) {
       pollNewsUpdates();
       pollingTimer = setInterval(pollNewsUpdates, 5000);
-      simulationTimer = setInterval(simulateLiveArrival, 15000);
 
       const onMsg = typeof I18n !== 'undefined' ? I18n.t('news_live_stream') + ' ON' : '🔴 Live Feed Activated';
       showToast(onMsg);
     } else {
       if (pollingTimer) clearInterval(pollingTimer);
-      if (simulationTimer) clearInterval(simulationTimer);
       
       pollingTimer = null;
-      simulationTimer = null;
       showToast('Live Feed Deactivated');
     }
-  }
-
-  // Simulate a live article arrival in memory
-  function simulateLiveArrival() {
-    const unsimulatedTemplates = SIMULATION_POOL.filter(tpl => 
-      !allNews.some(item => getTranslatedText(item.title) === getTranslatedText(tpl.title))
-    );
-
-    if (unsimulatedTemplates.length === 0) {
-      clearInterval(simulationTimer);
-      simulationTimer = null;
-      return;
-    }
-
-    const template = unsimulatedTemplates[Math.floor(Math.random() * unsimulatedTemplates.length)];
-    const storyId = 'SIM_' + Date.now();
-
-    const simulatedStory = {
-      id: storyId,
-      type: template.type,
-      date: new Date().toISOString().split('T')[0],
-      likes: Math.floor(80 + Math.random() * 400),
-      title: template.title,
-      summary: template.summary,
-      content: template.content || template.summary,
-      source: template.source
-    };
-
-    newArrivals.add(storyId);
-    allNews.unshift(simulatedStory);
-
-    renderNewsFeed();
-    
-    const breakingPrefix = typeof I18n !== 'undefined' && I18n.getLanguage() === 'zh-CN' ? '突发新闻: ' : 'BREAKING: ';
-    showToast(`🔴 ${breakingPrefix}${getTranslatedText(simulatedStory.title)}`);
-
-    setTimeout(() => {
-      newArrivals.delete(storyId);
-      renderNewsFeed();
-    }, 3500);
   }
 
   // Retrieve user contributed tips from localStorage
@@ -430,8 +316,9 @@ const NewsPage = (() => {
       if (dateA.getTime() !== dateB.getTime()) {
         return dateB.getTime() - dateA.getTime();
       }
-      const aScore = (a.isUserContributed ? 2 : 0) + (a.id.startsWith('SIM_') ? 1 : 0);
-      const bScore = (b.isUserContributed ? 2 : 0) + (b.id.startsWith('SIM_') ? 1 : 0);
+      // User-contributed tips float to the top within the same date
+      const aScore = a.isUserContributed ? 1 : 0;
+      const bScore = b.isUserContributed ? 1 : 0;
       return bScore - aScore;
     });
 
