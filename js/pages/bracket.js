@@ -47,29 +47,29 @@ const BracketPage = (() => {
 
   function getProgression(matchId) {
     const mapping = {
-      'M73': { nextId: 'M89', slot: 'home' },
-      'M74': { nextId: 'M89', slot: 'away' },
-      'M75': { nextId: 'M90', slot: 'home' },
-      'M76': { nextId: 'M90', slot: 'away' },
-      'M77': { nextId: 'M91', slot: 'home' },
+      'M73': { nextId: 'M90', slot: 'home' },
+      'M74': { nextId: 'M89', slot: 'home' },
+      'M75': { nextId: 'M90', slot: 'away' },
+      'M76': { nextId: 'M91', slot: 'home' },
+      'M77': { nextId: 'M89', slot: 'away' },
       'M78': { nextId: 'M91', slot: 'away' },
       'M79': { nextId: 'M92', slot: 'home' },
       'M80': { nextId: 'M92', slot: 'away' },
-      'M81': { nextId: 'M93', slot: 'home' },
-      'M82': { nextId: 'M93', slot: 'away' },
-      'M83': { nextId: 'M94', slot: 'home' },
-      'M84': { nextId: 'M94', slot: 'away' },
-      'M85': { nextId: 'M95', slot: 'home' },
-      'M86': { nextId: 'M95', slot: 'away' },
-      'M87': { nextId: 'M96', slot: 'home' },
-      'M88': { nextId: 'M96', slot: 'away' },
+      'M81': { nextId: 'M94', slot: 'home' },
+      'M82': { nextId: 'M94', slot: 'away' },
+      'M83': { nextId: 'M93', slot: 'home' },
+      'M84': { nextId: 'M93', slot: 'away' },
+      'M85': { nextId: 'M96', slot: 'home' },
+      'M86': { nextId: 'M95', slot: 'home' },
+      'M87': { nextId: 'M96', slot: 'away' },
+      'M88': { nextId: 'M95', slot: 'away' },
 
       'M89': { nextId: 'M97', slot: 'home' },
       'M90': { nextId: 'M97', slot: 'away' },
-      'M91': { nextId: 'M98', slot: 'home' },
-      'M92': { nextId: 'M98', slot: 'away' },
-      'M93': { nextId: 'M99', slot: 'home' },
-      'M94': { nextId: 'M99', slot: 'away' },
+      'M91': { nextId: 'M99', slot: 'home' },
+      'M92': { nextId: 'M99', slot: 'away' },
+      'M93': { nextId: 'M98', slot: 'home' },
+      'M94': { nextId: 'M98', slot: 'away' },
       'M95': { nextId: 'M100', slot: 'home' },
       'M96': { nextId: 'M100', slot: 'away' },
 
@@ -86,18 +86,18 @@ const BracketPage = (() => {
 
   function getPrevMatches(matchId) {
     const mapping = {
-      'M89': { homeId: 'M73', awayId: 'M74' },
-      'M90': { homeId: 'M75', awayId: 'M76' },
-      'M91': { homeId: 'M77', awayId: 'M78' },
+      'M89': { homeId: 'M74', awayId: 'M77' },
+      'M90': { homeId: 'M73', awayId: 'M75' },
+      'M91': { homeId: 'M76', awayId: 'M78' },
       'M92': { homeId: 'M79', awayId: 'M80' },
-      'M93': { homeId: 'M81', awayId: 'M82' },
-      'M94': { homeId: 'M83', awayId: 'M84' },
-      'M95': { homeId: 'M85', awayId: 'M86' },
-      'M96': { homeId: 'M87', awayId: 'M88' },
+      'M93': { homeId: 'M83', awayId: 'M84' },
+      'M94': { homeId: 'M81', awayId: 'M82' },
+      'M95': { homeId: 'M86', awayId: 'M88' },
+      'M96': { homeId: 'M85', awayId: 'M87' },
 
       'M97': { homeId: 'M89', awayId: 'M90' },
-      'M98': { homeId: 'M91', awayId: 'M92' },
-      'M99': { homeId: 'M93', awayId: 'M94' },
+      'M98': { homeId: 'M93', awayId: 'M94' },
+      'M99': { homeId: 'M91', awayId: 'M92' },
       'M100': { homeId: 'M95', awayId: 'M96' },
 
       'M101': { homeId: 'M97', awayId: 'M98' },
@@ -111,22 +111,22 @@ const BracketPage = (() => {
 
   function getR32Teams(matchId, groupWinners, groupRunnersUp, bestThirds) {
     const pairings = {
-      'M73': { home: '1A', away: 'T1' },
-      'M74': { home: '1B', away: 'T2' },
-      'M75': { home: '1C', away: 'T3' },
-      'M76': { home: '1D', away: 'T4' },
-      'M77': { home: '1E', away: 'T5' },
-      'M78': { home: '1F', away: 'T6' },
-      'M79': { home: '1G', away: 'T7' },
-      'M80': { home: '1H', away: 'T8' },
-      'M81': { home: '1I', away: '2A' },
-      'M82': { home: '1J', away: '2B' },
-      'M83': { home: '1K', away: '2C' },
-      'M84': { home: '1L', away: '2D' },
-      'M85': { home: '2E', away: '2I' },
-      'M86': { home: '2F', away: '2J' },
-      'M87': { home: '2G', away: '2K' },
-      'M88': { home: '2H', away: '2L' }
+      'M73': { home: '2A', away: '2B' },
+      'M74': { home: '1E', away: 'T1' },
+      'M75': { home: '1F', away: '2C' },
+      'M76': { home: '1C', away: '2F' },
+      'M77': { home: '1I', away: 'T2' },
+      'M78': { home: '2E', away: '2I' },
+      'M79': { home: '1A', away: 'T3' },
+      'M80': { home: '1L', away: 'T4' },
+      'M81': { home: '1D', away: 'T5' },
+      'M82': { home: '1G', away: 'T6' },
+      'M83': { home: '2K', away: '2L' },
+      'M84': { home: '1H', away: '2J' },
+      'M85': { home: '1B', away: 'T7' },
+      'M86': { home: '1J', away: '2H' },
+      'M87': { home: '1K', away: 'T8' },
+      'M88': { home: '2D', away: '2G' }
     };
 
     const pair = pairings[matchId];
@@ -267,7 +267,7 @@ const BracketPage = (() => {
             ${['M89', 'M90', 'M91', 'M92'].map(renderCard).join('')}
           </div>
           <div class="bracket-round round-qf">
-            ${['M97', 'M98'].map(renderCard).join('')}
+            ${['M97', 'M99'].map(renderCard).join('')}
           </div>
           <div class="bracket-round round-sf">
             ${renderCard('M101')}
@@ -301,7 +301,7 @@ const BracketPage = (() => {
             ${renderCard('M102')}
           </div>
           <div class="bracket-round round-qf">
-            ${['M99', 'M100'].map(renderCard).join('')}
+            ${['M98', 'M100'].map(renderCard).join('')}
           </div>
           <div class="bracket-round round-16">
             ${['M93', 'M94', 'M95', 'M96'].map(renderCard).join('')}
