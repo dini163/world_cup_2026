@@ -61,7 +61,7 @@ def update_matches(target_date_str=None):
     teams_data = load_json(TEAMS_PATH)
     
     if not matches_data or not teams_data:
-        print("❌ Error: matches.json or teams.json not found")
+        print("[ERROR] matches.json or teams.json not found")
         return
         
     teams_dict = {t['id']: t for t in teams_data}
@@ -126,7 +126,7 @@ def update_matches(target_date_str=None):
             m['events'] = []
             
     save_json(MATCHES_PATH, matches_data)
-    print(f"✅ Successfully updated matches.json. Simulated scores for {updated_count} matches.")
+    print(f"[OK] Successfully updated matches.json. Simulated scores for {updated_count} matches.")
 
 if __name__ == '__main__':
     # We can fetch date dynamically or use June 24, 2026
