@@ -58,22 +58,24 @@ const GroupTable = (() => {
           ${groupText} ${group}
         </div>
       </div>
-      <table class="standings-table">
-        <thead>
-          <tr>
-            <th>${tTeam}</th>
-            <th data-tooltip="Played">${tP}</th>
-            <th data-tooltip="Won">${tW}</th>
-            <th data-tooltip="Drawn">${tD}</th>
-            <th data-tooltip="Lost">${tL}</th>
-            <th data-tooltip="Goals For">${tGF}</th>
-            <th data-tooltip="Goals Against">${tGA}</th>
-            <th data-tooltip="Goal Difference">${tGD}</th>
-            <th data-tooltip="Points">${tPts}</th>
-          </tr>
-        </thead>
-        <tbody>${rows}</tbody>
-      </table>
+      <div class="standings-table-wrap">
+        <table class="standings-table">
+          <thead>
+            <tr>
+              <th>${tTeam}</th>
+              <th data-tooltip="Played">${tP}</th>
+              <th data-tooltip="Won">${tW}</th>
+              <th data-tooltip="Drawn">${tD}</th>
+              <th data-tooltip="Lost">${tL}</th>
+              <th data-tooltip="Goals For">${tGF}</th>
+              <th data-tooltip="Goals Against">${tGA}</th>
+              <th data-tooltip="Goal Difference">${tGD}</th>
+              <th data-tooltip="Points">${tPts}</th>
+            </tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>
     </div>`;
   }
 
@@ -163,10 +165,12 @@ const GroupTable = (() => {
     return `
     <div class="third-place-section">
       <h3>${bestThirdTitle}</h3>
-      <table class="standings-table">
-        <thead><tr><th>${tTeam}</th><th>${tGroup}</th><th>${tP}</th><th>${tPts}</th><th>${tGD}</th><th>${tGF}</th><th>${tStatus}</th></tr></thead>
-        <tbody>${rows}</tbody>
-      </table>
+      <div class="standings-table-wrap">
+        <table class="standings-table">
+          <thead><tr><th>${tTeam}</th><th>${tGroup}</th><th>${tP}</th><th>${tPts}</th><th>${tGD}</th><th>${tGF}</th><th>${tStatus}</th></tr></thead>
+          <tbody>${rows}</tbody>
+        </table>
+      </div>
     </div>`;
   }
 
