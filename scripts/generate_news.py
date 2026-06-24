@@ -2,10 +2,15 @@
 """
 2026 FIFA World Cup — Real News Generator
 
-Fetches real World Cup news from reputable RSS feeds (BBC Sport Football),
-filters for World Cup relevance, and appends to data/news.json.
+Fetches real World Cup news from multiple reputable sources:
+  1. BBC Sport Football RSS
+  2. Sky Sports Football RSS
+  3. The Guardian Football RSS
+  4. FIFA official media releases (HTML scrape)
 
-Fallback: if all RSS fetches fail, uses a built-in pool of verified news
+Translates titles and summaries to Chinese via MyMemory API (free, no key).
+
+Fallback: if all live fetches fail, uses a built-in pool of verified news
 templates to ensure the news file always has fresh content.
 
 No API keys required. Designed to run in GitHub Actions cron.
@@ -14,8 +19,10 @@ import json
 import os
 import re
 import random
+import time
 import urllib.request
 import urllib.error
+import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
@@ -30,7 +37,23 @@ RSS_FEEDS = [
         'source': 'BBC Sport',
         'lang': 'en',
     },
+    {
+        'url': 'https://www.skysports.com/rss/11095',
+        'source': 'Sky Sports',
+        'lang': 'en',
+    },
+    {
+        'url': 'https://www.theguardian.com/football/rss',
+        'source': 'The Guardian',
+        'lang': 'en',
+    },
 ]
+
+# FIFA official media releases page (HTML, no RSS available)
+FIFA_MEDIA_URL = 'https://inside.fifa.com/organisation/media/all-media-releases'
+
+# MyMemory translation API (free, anonymous: 5000 words/day)
+TRANSLATE_API = 'https://api.mymemory.translated.net/get'
 
 # Keywords to match World Cup 2026 related articles
 WORLD_CUP_KEYWORDS = [
@@ -56,8 +79,7 @@ WORLD_CUP_KEYWORDS = [
     'toronto', 'vancouver', 'guadalajara', 'monterrey',
 ]
 
-# Fallback pool of verified real news (used only if RSS fetch fails)
-# Sourced from Xinhua, FIFA Media Release, The Athletic, etc.
+# Fallback pool of verified real news (used only if all live fetches fail)
 FALLBACK_NEWS_POOL = [
     {
         "type": "official",
@@ -140,8 +162,8 @@ def save_json(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def fetch_rss(url, timeout=15):
-    """Fetch RSS feed content with error handling."""
+def fetch_url(url, timeout=15):
+    """Fetch URL content with error handling."""
     try:
         req = urllib.request.Request(
             url,
@@ -184,13 +206,38 @@ def parse_rss_items(xml_text):
     return items
 
 
+def parse_fifa_html(html_text):
+    """Parse FIFA media releases HTML page and extract news items.
+
+    Structure: <a href="...media-releases/slug">
+                 ... <span>TITLE</span> ... <div>DD Mon YYYY</div>
+    """
+    items = []
+    if not html_text:
+        return items
+    pattern = (
+        r'href="(https://www\.inside\.fifa\.com/media-releases/[a-z0-9-]+)"[^>]*>'
+        r'.*?standard-card-module_title__vSY47"><span>([^<]+)</span>'
+        r'.*?standard-card-module_info__-oXKc">([^<]+)</div>'
+    )
+    matches = re.findall(pattern, html_text, re.DOTALL)
+    for link, title, date_str in matches:
+        items.append({
+            'title': title.strip(),
+            'summary': title.strip(),  # FIFA page has no per-card summary
+            'link': link,
+            'date': date_str.strip(),
+        })
+    return items
+
+
 def is_world_cup_related(item):
-    """Check if an RSS item is related to the 2026 World Cup."""
+    """Check if an item is related to the 2026 World Cup."""
     text = (item.get('title', '') + ' ' + item.get('summary', '')).lower()
     return any(kw in text for kw in WORLD_CUP_KEYWORDS)
 
 
-def parse_date(date_str):
+def parse_date_rfc822(date_str):
     """Parse RFC 822 date format (RSS pubDate) to YYYY-MM-DD."""
     if not date_str:
         return datetime.now().strftime('%Y-%m-%d')
@@ -201,6 +248,17 @@ def parse_date(date_str):
         return datetime.now().strftime('%Y-%m-%d')
 
 
+def parse_date_fifa(date_str):
+    """Parse FIFA date format 'DD Mon YYYY' to YYYY-MM-DD."""
+    if not date_str:
+        return datetime.now().strftime('%Y-%m-%d')
+    try:
+        dt = datetime.strptime(date_str, '%d %b %Y')
+        return dt.strftime('%Y-%m-%d')
+    except Exception:
+        return parse_date_rfc822(date_str)
+
+
 def truncate_summary(text, max_len=200):
     """Truncate summary to max_len characters, ending at word boundary."""
     if len(text) <= max_len:
@@ -209,23 +267,69 @@ def truncate_summary(text, max_len=200):
     return truncated + '...'
 
 
+def translate_text(text, source='en', target='zh-CN'):
+    """Translate text via MyMemory API (free, no key required).
+
+    Returns translated text, or original text if translation fails.
+    Anonymous quota: 5000 words/day — sufficient for ~30 news titles+summaries.
+    """
+    if not text or not text.strip():
+        return text
+    try:
+        url = TRANSLATE_API + '?' + urllib.parse.urlencode({
+            'q': text,
+            'langpair': f'{source}|{target}'
+        })
+        req = urllib.request.Request(
+            url,
+            headers={'User-Agent': 'Mozilla/5.0 (World Cup News Bot)'}
+        )
+        with urllib.request.urlopen(req, timeout=15) as r:
+            data = json.loads(r.read().decode('utf-8'))
+        translated = data.get('responseData', {}).get('translatedText', '')
+        # MyMemory sometimes returns error messages in translatedText
+        # Valid translations don't start with "PLEASE SELECT" or "MYMEMORY WARNING"
+        if translated and not translated.upper().startswith(('PLEASE SELECT', 'MYMEMORY WARNING')):
+            return translated
+        return text
+    except Exception as e:
+        print(f"[WARN] Translation failed: {e}")
+        return text
+
+
+def translate_news_item(news_item):
+    """Add zh-CN translations for title and summary."""
+    title_en = news_item.get('title', {}).get('en', '')
+    summary_en = news_item.get('summary', {}).get('en', '')
+
+    if title_en:
+        news_item['title']['zh-CN'] = translate_text(title_en)
+        # Be polite to the free API
+        time.sleep(0.3)
+    if summary_en and summary_en != title_en:
+        news_item['summary']['zh-CN'] = translate_text(summary_en)
+        time.sleep(0.3)
+    return news_item
+
+
 def fetch_real_news():
-    """Fetch and filter real World Cup news from RSS feeds."""
+    """Fetch and filter real World Cup news from all sources."""
     all_items = []
 
+    # --- RSS feeds ---
     for feed in RSS_FEEDS:
-        xml_text = fetch_rss(feed['url'])
+        xml_text = fetch_url(feed['url'])
         if not xml_text:
             continue
 
         items = parse_rss_items(xml_text)
-        print(f"[INFO] Fetched {len(items)} items from {feed['source']}")
+        print(f"[INFO] Fetched {len(items)} items from {feed['source']} (RSS)")
 
         for item in items:
             if not is_world_cup_related(item):
                 continue
 
-            date_str = parse_date(item['date'])
+            date_str = parse_date_rfc822(item['date'])
             # Only keep news from the last 7 days
             try:
                 news_date = datetime.strptime(date_str, '%Y-%m-%d')
@@ -250,12 +354,47 @@ def fetch_real_news():
             }
             all_items.append(news_item)
 
-    print(f"[INFO] Found {len(all_items)} World Cup-related items")
+    # --- FIFA official media releases (HTML scrape) ---
+    fifa_html = fetch_url(FIFA_MEDIA_URL)
+    if fifa_html:
+        fifa_items = parse_fifa_html(fifa_html)
+        print(f"[INFO] Fetched {len(fifa_items)} items from FIFA Media (HTML)")
+
+        for item in fifa_items:
+            if not is_world_cup_related(item):
+                continue
+
+            date_str = parse_date_fifa(item['date'])
+            # Only keep news from the last 30 days (FIFA releases are less frequent)
+            try:
+                news_date = datetime.strptime(date_str, '%Y-%m-%d')
+                if news_date < datetime.now() - timedelta(days=30):
+                    continue
+            except ValueError:
+                pass
+
+            news_item = {
+                "id": f"N_FIFA_{abs(hash(item['title'])) % 100000}",
+                "type": "official",
+                "date": date_str,
+                "likes": random.randint(80, 400),
+                "title": {
+                    "en": item['title']
+                },
+                "summary": {
+                    "en": truncate_summary(item['summary'])
+                },
+                "source": "FIFA Official",
+                "url": item.get('link', '')
+            }
+            all_items.append(news_item)
+
+    print(f"[INFO] Found {len(all_items)} World Cup-related items total")
     return all_items
 
 
 def generate_fallback_news(existing_titles):
-    """Generate a news item from the fallback pool (used if RSS fails)."""
+    """Generate a news item from the fallback pool (used if all live fetches fail)."""
     available = [
         tpl for tpl in FALLBACK_NEWS_POOL
         if tpl['title']['en'] not in existing_titles
@@ -285,21 +424,20 @@ def main():
         title = item.get('title', {})
         if isinstance(title, dict):
             existing_titles.add(title.get('en', ''))
-            existing_titles.add(title.get('zh-CN', ''))
 
-    # Try fetching real RSS news first
-    rss_news = fetch_real_news()
+    # Try fetching real news from all sources
+    real_news = fetch_real_news()
 
     new_items = []
-    for rss_item in rss_news:
-        title_en = rss_item['title'].get('en', '')
+    for real_item in real_news:
+        title_en = real_item['title'].get('en', '')
         if title_en and title_en not in existing_titles:
-            new_items.append(rss_item)
+            new_items.append(real_item)
             existing_titles.add(title_en)
 
-    # If RSS yielded no new items, use fallback pool
+    # If live fetches yielded no new items, use fallback pool
     if not new_items:
-        print("[WARN] No new RSS items found. Using fallback pool.")
+        print("[WARN] No new live items found. Using fallback pool.")
         fallback_item = generate_fallback_news(existing_titles)
         if fallback_item:
             new_items.append(fallback_item)
@@ -308,9 +446,17 @@ def main():
         print("[INFO] No new news to add. Skipping.")
         return
 
-    # Prepend new items (most recent first)
-    # Sort new items by date descending
+    # Sort new items by date descending (most recent first)
     new_items.sort(key=lambda x: x.get('date', ''), reverse=True)
+
+    # Translate new items to Chinese (title + summary)
+    # Skip translation if too many items to respect API quota
+    translate_count = min(len(new_items), 15)
+    print(f"[INFO] Translating {translate_count} items to Chinese via MyMemory API...")
+    for i in range(translate_count):
+        translate_news_item(new_items[i])
+
+    # Prepend new items
     news = new_items + news
 
     # Cap total news at 30 to prevent file size bloat
