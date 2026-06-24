@@ -192,7 +192,12 @@ const I18n = (() => {
       news_only_bookmarks: '只看收藏',
       news_live_stream: '🔴 实时播报',
       news_comments_title: '球迷评论',
-      home_trending_news_title: '最热资讯'
+      home_trending_news_title: '最热资讯',
+      bulletin_title: '比赛日公告板',
+      bulletin_desc: '上个比赛日战报 & 下个比赛日预告',
+      bulletin_prev: '上一个比赛日战报',
+      bulletin_next: '下一个比赛日赛程',
+      bulletin_rest: '今日休赛，球员休整中'
     },
     'en': {
       nav_home: 'Home',
@@ -374,7 +379,12 @@ const I18n = (() => {
       news_only_bookmarks: 'Starred Only',
       news_live_stream: '🔴 Live Stream',
       news_comments_title: 'Fan Comments',
-      home_trending_news_title: 'Trending News'
+      home_trending_news_title: 'Trending News',
+      bulletin_title: 'Match Day Bulletin',
+      bulletin_desc: 'Previous results & next schedule',
+      bulletin_prev: 'Previous Match Day Results',
+      bulletin_next: 'Next Match Day Schedule',
+      bulletin_rest: 'Rest Day — No matches scheduled today'
     },
     'es': {
       nav_home: 'Inicio',
@@ -556,7 +566,12 @@ const I18n = (() => {
       news_only_bookmarks: 'Solo Favoritos',
       news_live_stream: '🔴 En Vivo',
       news_comments_title: 'Comentarios',
-      home_trending_news_title: 'Noticias Destacadas'
+      home_trending_news_title: 'Noticias Destacadas',
+      bulletin_title: 'Boletín del Día',
+      bulletin_desc: 'Resultados anteriores y próximos horarios',
+      bulletin_prev: 'Resultados del Día Anterior',
+      bulletin_next: 'Próximo Día de Partidos',
+      bulletin_rest: 'Día de descanso — No hay partidos programados hoy'
     },
     'fr': {
       nav_home: 'Accueil',
@@ -739,7 +754,12 @@ const I18n = (() => {
       news_only_bookmarks: 'Favoris Uniquement',
       news_live_stream: '🔴 En Direct',
       news_comments_title: 'Commentaires',
-      home_trending_news_title: 'Actualités Chaudes'
+      home_trending_news_title: 'Actualités Chaudes',
+      bulletin_title: 'Bulletin du Jour',
+      bulletin_desc: 'Résultats précédents & prochains horaires',
+      bulletin_prev: 'Résultats du Jour Précédent',
+      bulletin_next: 'Prochaine Journée de Matchs',
+      bulletin_rest: 'Jour de repos — Aucun match prévu aujourd\'hui'
     },
   };
 

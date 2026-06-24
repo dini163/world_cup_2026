@@ -59,9 +59,10 @@ def update_matches(target_date_str=None):
     
     matches_data = load_json(MATCHES_PATH)
     teams_data = load_json(TEAMS_PATH)
+    predictions_data = load_json('data/predictions.json')
     
-    if not matches_data or not teams_data:
-        print("[ERROR] matches.json or teams.json not found")
+    if not matches_data or not teams_data or not predictions_data:
+        print("[ERROR] matches.json, teams.json, or predictions.json not found")
         return
         
     teams_dict = {t['id']: t for t in teams_data}
@@ -92,17 +93,28 @@ def update_matches(target_date_str=None):
         # Update match details
         if is_past:
             m['status'] = 'finished'
-            # Only generate score if it hasn't been set yet
-            if m['home_score'] is None or m['away_score'] is None:
-                home = teams_dict.get(m['home'])
-                away = teams_dict.get(m['away'])
-                hs = home['strength']['overall'] if home else 70
-                as_str = away['strength']['overall'] if away else 70
-                
-                h_score, a_score = simulate_match_score(hs, as_str)
-                m['home_score'] = h_score
-                m['away_score'] = a_score
-                updated_count += 1
+            # Overwrite score using the predicted score from predictions.json
+            pred = predictions_data.get(m['id'])
+            if pred and 'predictedScore' in pred:
+                try:
+                    p_home, p_away = map(int, pred['predictedScore'].split('-'))
+                    if m['home_score'] != p_home or m['away_score'] != p_away:
+                        m['home_score'] = p_home
+                        m['away_score'] = p_away
+                        updated_count += 1
+                except Exception as e:
+                    print(f"Error parsing predicted score for {m['id']}: {e}")
+            else:
+                # Fallback to simulation if prediction not found
+                if m['home_score'] is None or m['away_score'] is None:
+                    home = teams_dict.get(m['home'])
+                    away = teams_dict.get(m['away'])
+                    hs = home['strength']['overall'] if home else 70
+                    as_str = away['strength']['overall'] if away else 70
+                    h_score, a_score = simulate_match_score(hs, as_str)
+                    m['home_score'] = h_score
+                    m['away_score'] = a_score
+                    updated_count += 1
         elif is_live:
             m['status'] = 'live'
             # Simulate a live score in progress

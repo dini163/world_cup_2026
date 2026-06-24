@@ -21,8 +21,9 @@ const DataLoader = (() => {
     if (!url) throw new Error(`Unknown data key: ${key}`);
 
     try {
-      // Append random query parameter to bypass browser caching when forceReload is true
-      const fetchUrl = forceReload ? `${url}?t=${Date.now()}` : url;
+      // Append random query parameter to bypass browser caching (force reload gets unique, default gets 10-minute block)
+      const t = forceReload ? Date.now() : Math.floor(Date.now() / 600000);
+      const fetchUrl = `${url}?t=${t}`;
       const res = await fetch(fetchUrl);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();

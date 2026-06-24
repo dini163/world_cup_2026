@@ -14,6 +14,7 @@ const HomePage = (() => {
       renderCountdown();
       renderTicker();
       renderTodayMatches();
+      renderBulletin();
       await renderTrendingNews();
       
       // Listen for language changes to re-render
@@ -21,6 +22,7 @@ const HomePage = (() => {
         renderCountdown();
         renderTicker();
         renderTodayMatches();
+        renderBulletin();
         renderTrendingNews();
       });
     } catch (err) {
@@ -286,6 +288,122 @@ const HomePage = (() => {
       console.error('[HomePage] Failed to render trending news:', err);
       grid.innerHTML = `<p style="color:var(--text-secondary); text-align:center;">Failed to load trending news.</p>`;
     }
+  }
+
+  function renderBulletin() {
+    const container = document.getElementById('matchDayBulletin');
+    if (!container) return;
+
+    const today = Helpers.getToday();
+    const allDates = DataLoader.getAllDates(matches);
+
+    // Find previous match date (closest date < today that has matches)
+    const pastDates = allDates.filter(d => d < today).sort((a, b) => b.localeCompare(a));
+    const prevDate = pastDates.find(d => DataLoader.getMatchesByDate(matches, d).length > 0) || null;
+
+    // Find next match date (closest date >= today that has matches)
+    const futureDates = allDates.filter(d => d >= today).sort((a, b) => a.localeCompare(b));
+    const nextDate = futureDates.find(d => DataLoader.getMatchesByDate(matches, d).length > 0) || null;
+
+    const tTitle = typeof I18n !== 'undefined' ? I18n.t('bulletin_title') : '比赛日公告板';
+    const tDesc = typeof I18n !== 'undefined' ? I18n.t('bulletin_desc') : '上个比赛日战报 & 下个比赛日预告';
+    const tPrev = typeof I18n !== 'undefined' ? I18n.t('bulletin_prev') : '上一个比赛日战报';
+    const tNext = typeof I18n !== 'undefined' ? I18n.t('bulletin_next') : '下一个比赛日赛程';
+    const tRest = typeof I18n !== 'undefined' ? I18n.t('bulletin_rest') : '今日休赛，球员休整中';
+
+    let prevContentHtml = '';
+    if (prevDate) {
+      const prevMatches = DataLoader.getMatchesByDate(matches, prevDate);
+      prevMatches.sort((a, b) => (a.time || '').localeCompare(b.time || ''));
+      prevContentHtml = `
+        <div class="bulletin-column">
+          <div class="bulletin-col-header">
+            <span class="bulletin-badge badge-prev">${tPrev}</span>
+            <span class="bulletin-date">${typeof I18n !== 'undefined' && I18n.getLanguage() === 'zh-CN' ? Helpers.formatDateCN(prevDate) : Helpers.formatDate(prevDate, 'short')}</span>
+          </div>
+          <div class="bulletin-match-list">
+            ${prevMatches.map(m => {
+              const home = DataLoader.getTeamById(teams, m.home);
+              const away = DataLoader.getTeamById(teams, m.away);
+              const homeName = Helpers.getTeamName(home);
+              const awayName = Helpers.getTeamName(away);
+              const score = m.home_score !== null ? `${m.home_score} - ${m.away_score}` : 'vs';
+              return `
+                <div class="bulletin-match-row">
+                  <div class="bulletin-team home-team">
+                    <span class="team-name">${homeName}</span>
+                    <img src="${Helpers.getFlagUrl(home.flag_code, 'w40')}" class="flag-icon flag-icon-sm" alt="${homeName}">
+                  </div>
+                  <div class="bulletin-score">${score}</div>
+                  <div class="bulletin-team away-team">
+                    <img src="${Helpers.getFlagUrl(away.flag_code, 'w40')}" class="flag-icon flag-icon-sm" alt="${awayName}">
+                    <span class="team-name">${awayName}</span>
+                  </div>
+                </div>
+              `;
+            }).join('')}
+          </div>
+        </div>
+      `;
+    }
+
+    let nextContentHtml = '';
+    if (nextDate) {
+      const nextMatches = DataLoader.getMatchesByDate(matches, nextDate);
+      nextMatches.sort((a, b) => (a.time || '').localeCompare(b.time || ''));
+      nextContentHtml = `
+        <div class="bulletin-column">
+          <div class="bulletin-col-header">
+            <span class="bulletin-badge badge-next">${tNext}</span>
+            <span class="bulletin-date">${typeof I18n !== 'undefined' && I18n.getLanguage() === 'zh-CN' ? Helpers.formatDateCN(nextDate) : Helpers.formatDate(nextDate, 'short')}</span>
+          </div>
+          <div class="bulletin-match-list">
+            ${nextMatches.map(m => {
+              const home = DataLoader.getTeamById(teams, m.home);
+              const away = DataLoader.getTeamById(teams, m.away);
+              const homeName = Helpers.getTeamName(home);
+              const awayName = Helpers.getTeamName(away);
+              return `
+                <div class="bulletin-match-row">
+                  <div class="bulletin-team home-team">
+                    <span class="team-name">${homeName}</span>
+                    <img src="${Helpers.getFlagUrl(home.flag_code, 'w40')}" class="flag-icon flag-icon-sm" alt="${homeName}">
+                  </div>
+                  <div class="bulletin-time-badge">${m.time}</div>
+                  <div class="bulletin-team away-team">
+                    <img src="${Helpers.getFlagUrl(away.flag_code, 'w40')}" class="flag-icon flag-icon-sm" alt="${awayName}">
+                    <span class="team-name">${awayName}</span>
+                  </div>
+                </div>
+              `;
+            }).join('')}
+          </div>
+        </div>
+      `;
+    }
+
+    // Check if today is a rest day (i.e. no matches today)
+    const todayMatches = DataLoader.getMatchesByDate(matches, today);
+    const restDayBanner = todayMatches.length === 0 ? `
+      <div class="bulletin-rest-banner">
+        <span class="rest-icon">📅</span>
+        <span class="rest-text">${tRest}</span>
+      </div>
+    ` : '';
+
+    container.innerHTML = `
+      <div class="bulletin-card">
+        <div class="bulletin-header">
+          <h3 class="bulletin-title">${tTitle}</h3>
+          <p class="bulletin-subtitle">${tDesc}</p>
+        </div>
+        ${restDayBanner}
+        <div class="bulletin-grid">
+          ${prevContentHtml}
+          ${nextContentHtml}
+        </div>
+      </div>
+    `;
   }
 
   return { init };
