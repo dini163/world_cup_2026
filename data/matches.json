@@ -831,9 +831,9 @@
       "city": "Miami",
       "home": "SCO",
       "away": "BRA",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "live",
       "events": []
     },
     {
@@ -848,9 +848,9 @@
       "city": "Atlanta",
       "home": "MAR",
       "away": "HAI",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "live",
       "events": []
     },
     {
@@ -865,9 +865,9 @@
       "city": "Vancouver",
       "home": "SUI",
       "away": "CAN",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "live",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "finished",
       "events": []
     },
     {
@@ -882,9 +882,9 @@
       "city": "Seattle",
       "home": "BIH",
       "away": "QAT",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "live",
+      "home_score": 3,
+      "away_score": 1,
+      "status": "finished",
       "events": []
     },
     {
