@@ -105,13 +105,8 @@
         </div>
       </section>
 
-      <!-- Match Day Bulletin Board -->
-      <section class="section scroll-animate" style="padding-top:0">
-        <div id="matchDayBulletin"></div>
-      </section>
-
       <!-- Today's Matches -->
-      <section class="section" style="padding-top:0">
+      <section class="section" style="padding-top:var(--space-10)">
         <div class="section-header">
           <h2 id="matchDayLabel" data-i18n="match_day">比赛日</h2>
           <a href="schedule.html" class="view-all" data-i18n="view_all">查看全部 →</a>
@@ -121,6 +116,11 @@
           <div class="skeleton skeleton-card"></div>
           <div class="skeleton skeleton-card"></div>
         </div>
+      </section>
+
+      <!-- Match Day Bulletin Board -->
+      <section class="section scroll-animate" style="padding-top:0">
+        <div id="matchDayBulletin"></div>
       </section>
 
       <!-- Trending News Section -->
@@ -147,7 +147,7 @@
   <script src="js/components/navbar.js"></script>
   <script src="js/components/match-card.js"></script>
   <script src="js/app.js"></script>
-  <script src="js/pages/home.js?v=1.1"></script>
+  <script src="js/pages/home.js?v=1.2"></script>
   <script>
     // Generate decorative particles
     const particlesEl = document.getElementById('particles');

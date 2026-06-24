@@ -25,9 +25,42 @@ const HomePage = (() => {
         renderBulletin();
         renderTrendingNews();
       });
+
+      // Poll for live score updates every 5 minutes (GitHub Pages compatible)
+      startLivePolling();
     } catch (err) {
       console.error('[HomePage] Init failed:', err);
     }
+  }
+
+  /**
+   * Periodically re-fetches matches data to pick up score updates pushed by
+   * the GitHub Action. Only runs when the tab is visible to avoid wasted
+   * requests. GitHub Pages serves static JSON, so we force a cache-busting
+   * reload via DataLoader.load('matches', true).
+   */
+  let pollTimer = null;
+  const POLL_INTERVAL_MS = 5 * 60 * 1000; // 5 minutes
+
+  function startLivePolling() {
+    if (pollTimer) clearInterval(pollTimer);
+    pollTimer = setInterval(async () => {
+      if (document.visibilityState !== 'visible') return;
+      try {
+        const freshMatches = await DataLoader.load('matches', true);
+        const newMatches = freshMatches.matches || freshMatches;
+        // Only re-render if something actually changed
+        if (JSON.stringify(newMatches) !== JSON.stringify(matches)) {
+          matches = newMatches;
+          renderTicker();
+          renderTodayMatches();
+          renderBulletin();
+          console.log('[HomePage] Live data updated');
+        }
+      } catch (err) {
+        console.warn('[HomePage] Live poll failed:', err);
+      }
+    }, POLL_INTERVAL_MS);
   }
 
   function renderCountdown() {
@@ -301,8 +334,8 @@ const HomePage = (() => {
     const pastDates = allDates.filter(d => d < today).sort((a, b) => b.localeCompare(a));
     const prevDate = pastDates.find(d => DataLoader.getMatchesByDate(matches, d).length > 0) || null;
 
-    // Find next match date (closest date >= today that has matches)
-    const futureDates = allDates.filter(d => d >= today).sort((a, b) => a.localeCompare(b));
+    // Find next match date (closest date > today that has matches, to avoid duplicating today's matches)
+    const futureDates = allDates.filter(d => d > today).sort((a, b) => a.localeCompare(b));
     const nextDate = futureDates.find(d => DataLoader.getMatchesByDate(matches, d).length > 0) || null;
 
     const tTitle = typeof I18n !== 'undefined' ? I18n.t('bulletin_title') : '比赛日公告板';
