@@ -934,8 +934,8 @@
       "home": "CUW",
       "away": "CIV",
       "home_score": 0,
-      "away_score": 0,
-      "status": "live",
+      "away_score": 2,
+      "status": "finished",
       "events": []
     },
     {
@@ -950,9 +950,9 @@
       "city": "New York/New Jersey",
       "home": "ECU",
       "away": "GER",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "live",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "finished",
       "events": []
     },
     {
@@ -967,9 +967,9 @@
       "city": "Dallas",
       "home": "JPN",
       "away": "SWE",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "live",
       "events": []
     },
     {
@@ -984,9 +984,9 @@
       "city": "Kansas City",
       "home": "TUN",
       "away": "NED",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "live",
       "events": []
     },
     {
