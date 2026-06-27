@@ -1103,9 +1103,9 @@
       "city": "Houston",
       "home": "CPV",
       "away": "KSA",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "live",
       "events": []
     },
     {
@@ -1120,9 +1120,9 @@
       "city": "Guadalajara",
       "home": "URU",
       "away": "ESP",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "live",
       "events": []
     },
     {
