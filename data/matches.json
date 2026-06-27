@@ -1138,8 +1138,8 @@
       "home": "PAN",
       "away": "ENG",
       "home_score": 0,
-      "away_score": 0,
-      "status": "live",
+      "away_score": 2,
+      "status": "finished",
       "events": []
     },
     {
@@ -1154,9 +1154,9 @@
       "city": "Philadelphia",
       "home": "CRO",
       "away": "GHA",
-      "home_score": 0,
-      "away_score": 0,
-      "status": "live",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "finished",
       "events": []
     },
     {
@@ -1205,9 +1205,9 @@
       "city": "Miami",
       "home": "COL",
       "away": "POR",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "live",
       "events": []
     },
     {
@@ -1222,9 +1222,9 @@
       "city": "Atlanta",
       "home": "COD",
       "away": "UZB",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "live",
       "events": []
     },
     {
