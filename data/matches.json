@@ -1069,9 +1069,9 @@
       "city": "Seattle",
       "home": "EGY",
       "away": "IRN",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "live",
       "events": []
     },
     {
@@ -1086,9 +1086,9 @@
       "city": "Vancouver",
       "home": "NZL",
       "away": "BEL",
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 0,
+      "away_score": 0,
+      "status": "live",
       "events": []
     },
     {
@@ -1105,7 +1105,7 @@
       "away": "KSA",
       "home_score": 0,
       "away_score": 0,
-      "status": "live",
+      "status": "finished",
       "events": []
     },
     {
@@ -1121,8 +1121,8 @@
       "home": "URU",
       "away": "ESP",
       "home_score": 0,
-      "away_score": 0,
-      "status": "live",
+      "away_score": 1,
+      "status": "finished",
       "events": []
     },
     {
