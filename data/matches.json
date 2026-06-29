@@ -1293,9 +1293,9 @@
       "city": "Houston",
       "home": null,
       "away": null,
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 2,
+      "away_score": 2,
+      "status": "finished",
       "events": [],
       "bracket": "R32-4"
     },
