@@ -1,265 +1,172 @@
 [
   {
-    "id": "N_RSS_6499",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 239,
-    "title": {
-      "en": "Africa's World Cup success leaves Asia looking for answers",
-      "zh-CN": "非洲世界杯的成功让亚洲寻找答案"
-    },
-    "summary": {
-      "en": "The 2026 World Cup has been an amazing story for African football - while Asia has been left to reflect on failure.",
-      "zh-CN": "2026年世界杯对非洲足球来说是一个令人惊叹的故事，而亚洲则需要反思失败。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c2ey1pwkz3wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_44037",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 272,
-    "title": {
-      "en": "Martinelli scores stoppage-time winner to send Brazil through to last 16",
-      "zh-CN": "马蒂内利得分停赛时获胜者，将巴西队送到最后16名"
-    },
-    "summary": {
-      "en": "Gabriel Martinelli scores a dramatic 95th-minute winner with Brazil coming from behind to beat Japan, set up a World Cup last-16 tie against Norway or Ivory Coast.",
-      "zh-CN": "加布里埃尔·马蒂内利（ Gabriel Martinelli ）以戏剧性的第95分钟获胜，巴西队从后面击败日本队，与挪威队或科特迪瓦队并列世界杯16强。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cdjknkplkr2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_6202",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 240,
-    "title": {
-      "en": "'Brilliant finish' - but should Sano have been on the pitch?",
-      "zh-CN": "“精彩的完成” -但佐野应该在球场上吗？"
-    },
-    "summary": {
-      "en": "Kaishu Sano gives Japan the lead over Brazil moments after escaping a second yellow card for a challenge on Matheus Cunha during their round of 32 game in Houston.",
-      "zh-CN": "Kaishu Sano在休斯顿的32轮比赛中逃脱了第二张黄牌，在Matheus Cunha的挑战之后，日本队领先于巴西队。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c30y12v9g0qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_70004",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 270,
-    "title": {
-      "en": "Martinelli scores late winner to send Brazil through",
-      "zh-CN": "马丁内利得分晚赢家，送巴西通过"
-    },
-    "summary": {
-      "en": "Gabriel Martinelli scores in the 96 minute to knock out Japan, and send Brazil into the round of 16.",
-      "zh-CN": "加布里埃尔·马蒂内利（ Gabriel Martinelli ）在第96分钟淘汰日本，并让巴西进入16强。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c04y1yr3xwko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_37990",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 154,
-    "title": {
-      "en": "Casemiro equalises for Brazil with powerful header",
-      "zh-CN": "Casemiro通过强大的标头为巴西扳平比分"
-    },
-    "summary": {
-      "en": "Casemiro heads in Brazil's equaliser against Japan in Houston after a brilliant cross by Gabriel during their round of 32 encounter.",
-      "zh-CN": "在加布里埃尔在32轮比赛中精彩交叉后，卡塞米罗在休斯敦参加巴西对阵日本的扳平比分。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/ckg0l0225n7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_34761",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 54,
-    "title": {
-      "en": "Kane will sign new Bayern deal - Tuesday's gossip",
-      "zh-CN": "凯恩将签署新的拜仁协议-周二的八卦"
-    },
-    "summary": {
-      "en": "Harry Kane will extend his Bayern Munich contract, Manchester City plan major rebuild, while Rayo Vallecano left-back Pep Chavarria is a target for Chelsea.",
-      "zh-CN": "哈里·凯恩（ Harry Kane ）将延长他在拜仁慕尼黑的合同，曼城计划进行重大重建，而雷奥·瓦列卡诺（ Rayo Vallecano ）左后卫佩普·查瓦里亚（ Pep Chavarria ）是切尔西的目标。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cdjknmk894eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_14837",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 288,
-    "title": {
-      "en": "A new Brazil is taking shape - and Cunha is key",
-      "zh-CN": "一个新的巴西正在成形- Cunha是关键"
-    },
-    "summary": {
-      "en": "Former Brazil midfielder Lucas Leiva explains why Manchester United striker Matheus Cunha is so important to Brazil's adaptable system under Carlo Ancelotti.",
-      "zh-CN": "前巴西中场球员卢卡斯·莱瓦（ Lucas Leiva ）解释了为什么曼联前锋马修斯·库尼亚（ Matheus Cunha ）对卡洛·安切洛蒂（ Carlo Ancelotti ）领导下的巴西适应系统如此重要。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clywddlrykdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_92222",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 263,
-    "title": {
-      "en": "Kerr joins NWSL side Gotham FC",
-      "zh-CN": "科尔加入NWSL高谭足球俱乐部"
-    },
-    "summary": {
-      "en": "Australian international Sam Kerr has joined Gotham FC on a four-year deal following her departure from Chelsea.",
-      "zh-CN": "澳大利亚国脚山姆·克尔（ Sam Kerr ）在离开切尔西后加入了高谭市足球俱乐部，为期四年。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckg5n027vrgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_76545",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 120,
-    "title": {
-      "en": "'Big brother' Van Dijk key to Dutch World Cup dreams",
-      "zh-CN": "“大哥”范迪克是荷兰世界杯梦想的关键"
-    },
-    "summary": {
-      "en": "France's World Cup winner Olivier Giroud explains why Netherlands defender Virgil van Dijk is still the main man for his national team.",
-      "zh-CN": "法国世界杯冠军奥利维尔·吉鲁（ Olivier Giroud ）解释了为什么荷兰后卫维吉尔·范迪克（ Virgil van Dijk ）仍然是他国家队的主力。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c9927m2jlx0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_59791",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 175,
-    "title": {
-      "en": "Great stories, little jeopardy - does the new World Cup format work?",
-      "zh-CN": "精彩的故事，小小的危险--新的世界杯模式行得通吗？"
-    },
-    "summary": {
-      "en": "New format, new teams and fascinating storylines. But did the new World Cup group stage really work?",
-      "zh-CN": "新格式、新团队和引人入胜的故事情节。但是，新的世界杯小组赛真的有效吗？"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clyr1rwp5e3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_15210",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 109,
-    "title": {
-      "en": "Who am I? Guess World Cup star No 22",
-      "zh-CN": "我是谁？猜猜世界杯明星22号"
-    },
-    "summary": {
-      "en": "Will you get today's player in as few attempts as possible?",
-      "zh-CN": "你会在尽可能少的尝试中获得今天的玩家吗？"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1d2677d495o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_30560",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 183,
-    "title": {
-      "en": "World Cup exit leaves South Korean football in crisis",
-      "zh-CN": "世界杯退出使韩国足球陷入危机"
-    },
-    "summary": {
-      "en": "After crashing out of the World Cup, BBC Sport investigates the rise and fall of South Korean football.",
-      "zh-CN": "退出世界杯后，英国广播公司体育台调查了韩国足球的兴衰。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cy049pen9q5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_94349",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 190,
-    "title": {
-      "en": "Football Daily",
-      "zh-CN": "足球日报"
-    },
-    "summary": {
-      "en": "Former Chelsea & Spain captain Azpilicueta in conversation with Steve Crossman",
-      "zh-CN": "前切尔西和西班牙队队长Azpilicueta与Steve Crossman对话"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0ntgrlb?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_7933",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 153,
-    "title": {
-      "en": "South Korea football coach quits as president calls for probe into World Cup loss",
-      "zh-CN": "韩国足球教练辞职，总统呼吁调查世界杯失利"
-    },
-    "summary": {
-      "en": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
-      "zh-CN": "韩国队在八支最好的第三名球队中缺席后被淘汰出局。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_28175",
-    "type": "official",
-    "date": "2026-06-29",
-    "likes": 193,
-    "title": {
-      "en": "Pampered, protected & primed - so why didn't Scotland players perform?",
-      "zh-CN": "宠爱、保护和引导-那么为什么苏格兰球员没有表现出色？"
-    },
-    "summary": {
-      "en": "Scotland's players got everything they asked for at this World Cup. So why did they not perform on the pitch in the US?",
-      "zh-CN": "苏格兰的球员们在这届世界杯上得到了他们所要求的一切。那么，他们为什么不在美国的球场上表演呢？"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cdr4nz0m74go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_86556",
+    "id": "N_RSS_31660",
     "type": "official",
     "date": "2026-06-29",
     "likes": 226,
     "title": {
-      "en": "'Ferguson to assess Bologna future' - gossip"
+      "en": "45 minutes from Brazil 'humiliation' - but 'Crafty Carlo' does it again",
+      "zh-CN": "距离巴西“羞辱” 45分钟路程，但“狡猾的卡洛”又来了"
     },
     "summary": {
-      "en": "Scotland's Lewis Ferguson reportedly told Bologna he will assess his future after the World Cup, while Wolfsburg are said to be closing in on Celtic-linked goalkeeper Tjark Ernst."
+      "en": "Half-time in Houston and Brazil's players trudged off facing another early World Cup exit. But we should have known better than to doubt Carlo Ancelotti.",
+      "zh-CN": "在休斯顿上半场，巴西的球员们又一次面对世界杯的早期退出。但我们应该知道不要怀疑卡洛·安切洛蒂。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cn4d2xp017vo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c17yzyy8ldko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_74836",
+    "id": "N_RSS_88492",
     "type": "official",
     "date": "2026-06-29",
-    "likes": 59,
+    "likes": 179,
     "title": {
-      "en": "Enciso gives Paraguay lead after Germany dominate possession LIVE!"
+      "en": "How Tuchel is still searching for solutions out wide - Shearer",
+      "zh-CN": "Tuchel如何仍在广泛寻找解决方案- Shearer"
+    },
+    "summary": {
+      "en": "Former England captain Alan Shearer explains why there are lots of reasons to be positive about the Three Lions at this World Cup, but having a settled side is not one of them.",
+      "zh-CN": "前英格兰队队长艾伦·希勒（ Alan Shearer ）解释了为什么在这届世界杯上有很多理由对三狮队持积极态度，但拥有稳定的一面并不是其中之一。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_31329",
+    "type": "official",
+    "date": "2026-06-29",
+    "likes": 161,
+    "title": {
+      "en": "'They needed that' - Havertz levels for Germany with header",
+      "zh-CN": "“他们需要那个” -德国的Havertz级别（带标题）"
+    },
+    "summary": {
+      "en": "Kai Havertz equalises for Germany against Paraquay in their last-32 tie.",
+      "zh-CN": "Kai Havertz在最后32场比赛中为德国对阵Paraquay扳平比分。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cvgdpyeejjlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_49982",
+    "type": "official",
+    "date": "2026-06-29",
+    "likes": 109,
+    "title": {
+      "en": "'That might just wake Germany up' - Paraguay take shock lead through Enciso",
+      "zh-CN": "“这可能只是唤醒德国” -巴拉圭通过Enciso取得了惊人的领先优势"
+    },
+    "summary": {
+      "en": "Julio Enciso gives Paraguay the lead as they look to upset the odds by defeating Germany in the round of 32.",
+      "zh-CN": "胡里奥·恩西索（ Julio Enciso ）让巴拉圭领先，因为他们希望通过在32轮中击败德国来打破赔率。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c0kyemyzzdzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_71305",
+    "type": "official",
+    "date": "2026-06-29",
+    "likes": 147,
+    "title": {
+      "en": "Move over Messi and Ronaldo - the new generation shining at World Cup",
+      "zh-CN": "超越梅西和罗纳尔多--在世界杯上闪耀的新一代"
+    },
+    "summary": {
+      "en": "BBC Sport looks at five young players who are making a big impression on the same World Cup stage as veterans Lionel Messi and Cristiano Ronaldo.",
+      "zh-CN": "BBC Sport观察了五名年轻球员，他们与老将莱昂内尔·梅西和克里斯蒂亚诺·罗纳尔多在同一个世界杯舞台上留下了深刻的印象。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gy9yd8lgwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_56279",
+    "type": "official",
+    "date": "2026-06-29",
+    "likes": 160,
+    "title": {
+      "en": "Why Netherlands v Morocco is more than just a match",
+      "zh-CN": "为什么荷兰对摩洛哥不仅仅是一场比赛"
+    },
+    "summary": {
+      "en": "Morocco’s World Cup meeting with the Netherlands tells a story about migration, identity and the battle for Dutch-born talent.",
+      "zh-CN": "摩洛哥与荷兰的世界杯会面讲述了一个关于移民、身份认同和争夺荷兰出生人才的故事。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/clye1l3m9k4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_21426",
+    "type": "official",
+    "date": "2026-06-29",
+    "likes": 85,
+    "title": {
+      "en": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+      "zh-CN": "“你们是加拿大的英雄” --被遗忘的东道主创造了世界杯的历史"
+    },
+    "summary": {
+      "en": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.",
+      "zh-CN": "加拿大正在本届世界杯上创造历史，这场比赛可能会永远改变该国足球的面貌。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_90577",
+    "type": "official",
+    "date": "2026-06-29",
+    "likes": 271,
+    "title": {
+      "en": "Clarke says standing down 'easy' decision after World Cup exit",
+      "zh-CN": "克拉克说，在世界杯退出后放弃“轻松”的决定"
+    },
+    "summary": {
+      "en": "Steve Clarke says it was an easy decision to step down as Scotland head coach because he always planned to depart if they did not reach the knockout stage.",
+      "zh-CN": "史蒂夫·克拉克（ Steve Clarke ）表示，辞去苏格兰主教练一职很容易，因为如果他们没有达到淘汰赛阶段，他总是计划离开。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c3ry1jyzpejo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_82725",
+    "type": "official",
+    "date": "2026-06-29",
+    "likes": 135,
+    "title": {
+      "en": "Sheff Utd's Cusack feared mental health stigma - inquest",
+      "zh-CN": "Sheff Utd的Cusack担心心理健康耻辱-调查"
+    },
+    "summary": {
+      "en": "The former Sheffield United player had feared being ridiculed and stigmatised, her inquest hears.",
+      "zh-CN": "她的调查听到，这位前谢菲尔德联队球员害怕被嘲笑和污名化。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/news/articles/cgqjek3zxjlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_20267",
+    "type": "official",
+    "date": "2026-06-29",
+    "likes": 207,
+    "title": {
+      "en": "World Cup quiz: How well do you know the group stage in numbers?",
+      "zh-CN": "世界杯测验：您对小组赛的数字有多了解？"
+    },
+    "summary": {
+      "en": "The biggest ever group stage at a World Cup is over - test yourself on the numbers of the first round of games.",
+      "zh-CN": "世界杯有史以来最大的小组赛阶段已经结束-对第一轮比赛的数字进行测试。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy8wvqp4w2wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_94180",
+    "type": "official",
+    "date": "2026-06-29",
+    "likes": 99,
+    "title": {
+      "en": "Germany goal controversially ruled out in extra time vs Paraguay LIVE!",
+      "zh-CN": "与巴拉圭现场相比，德国的目标在加时赛中有争议地被排除在外！"
     },
     "summary": {
       "en": ""
@@ -268,40 +175,45 @@
     "url": "https://www.skysports.com/football/germany-vs-paraguay/live/549840"
   },
   {
-    "id": "N_RSS_7903",
+    "id": "N_RSS_53302",
     "type": "official",
     "date": "2026-06-29",
-    "likes": 146,
+    "likes": 169,
     "title": {
-      "en": "90+5! Martinelli sends Brazil through in comeback win vs Japan"
+      "en": "Neville: England have disrespected full-back role",
+      "zh-CN": "内维尔：英格兰不尊重边后卫角色"
     },
     "summary": {
-      "en": "Gabriel Martinelli's 95th-minute winner saw Brazil dramatically come from behind to win 2-1 and advance to the World Cup last 16, cruelly denying Japan a first-ever knockout stage victory in the..."
+      "en": "England have once again disrespected the full-back position at a major tournament leaving them short of cover at right back heading into Wednesday's World Cup round-of-32 clash with DR Congo, says...",
+      "zh-CN": "英格兰再次不尊重在重大比赛中的边后卫位置，使他们在右后卫的掩护下缺席，进入周三与刚果民主共和国的32轮世界杯比赛。"
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/brazil-vs-japan/report/549839"
+    "url": "https://www.skysports.com/football/news/11095/13558970/world-cup-2026-england-have-disrespected-full-back-role-thomas-tuchel-must-make-brave-declan-rice-call-says-gary-neville"
   },
   {
-    "id": "N_RSS_56611",
+    "id": "N_RSS_25823",
     "type": "official",
     "date": "2026-06-29",
-    "likes": 274,
+    "likes": 208,
     "title": {
-      "en": "Brazil vs Japan: All the action and rate the players"
+      "en": "Kane likely to sign new Bayern deal despite Barcelona interest",
+      "zh-CN": "尽管巴塞罗那有兴趣，凯恩仍有可能签署新的拜仁协议"
     },
     "summary": {
-      "en": ""
+      "en": "England captain Harry Kane is likely to sign a new deal to extend his stay at Bayern Munich despite interest from Barcelona.",
+      "zh-CN": "尽管巴塞罗那有兴趣，但英格兰队队长哈里·凯恩可能会签署一项新协议，延长他在拜仁慕尼黑的逗留时间。"
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/brazil-vs-japan/live/549839"
+    "url": "https://www.skysports.com/football/news/11095/13559005/harry-kane-transfer-news-england-captain-set-to-sign-new-bayern-munich-deal-despite-barcelona-interest"
   },
   {
-    "id": "N_RSS_90616",
+    "id": "N_RSS_88916",
     "type": "official",
     "date": "2026-06-29",
-    "likes": 118,
+    "likes": 234,
     "title": {
-      "en": "England latest: 'I'm always ready to take a penalty,' says Madueke"
+      "en": "England latest: We're taking penalty practice extremely seriously - Madueke",
+      "zh-CN": "英格兰最新消息：我们非常认真地对待罚球练习- Madueke"
     },
     "summary": {
       "en": ""
@@ -310,143 +222,229 @@
     "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
   },
   {
-    "id": "N_RSS_27469",
+    "id": "N_RSS_70152",
     "type": "official",
     "date": "2026-06-29",
-    "likes": 116,
+    "likes": 57,
     "title": {
-      "en": "Brazil into last 16 as Martinelli strikes in stoppage time to break Japan hearts"
+      "en": "Germany v Paraguay goes to extra time: World Cup 2026 last 32 – live",
+      "zh-CN": "德国v巴拉圭加时赛： 2026年世界杯最后32场–直播"
     },
     "summary": {
-      "en": "Not for the first time in this tournament, there were long periods when Brazil did not impress. And not for the first time in this tournament, they got away with it. It may be inexplicable but the..."
+      "en": "⚽ Kick-off time: 4.30pm EDT/9.30pm BST/6.30am AET⚽ Bracketology | Player guide | Golden Boot standingsMatch report: Brazil 2-1 JapanNot for the first time in this tournament, there were long periods...",
+      "zh-CN": "⚽ 开球时间：美国东部夏令时下午4:30/英国夏令时晚上9:30/美国⚽东部夏令时上午6:30 Bracketology |球员指南|金靴积分榜比赛报告：巴西2-1日本不是第一次参加本场比赛，而是很长一段时间......"
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/29/brazil-japan-world-cup-2026-last-32-match-report"
+    "url": "https://www.theguardian.com/football/live/2026/jun/29/germany-v-paraguay-world-cup-2026-last-32-live"
   },
   {
-    "id": "N_RSS_50245",
+    "id": "N_RSS_28339",
     "type": "official",
     "date": "2026-06-29",
-    "likes": 222,
+    "likes": 87,
     "title": {
-      "en": "Fluency the key for Noni Madueke before England’s ‘difficult’ DR Congo test"
+      "en": "Robert Lewandowski makes MLS move to Chicago Fire on deal till 2028"
     },
     "summary": {
-      "en": "Arsenal star says squad has practised penaltiesBukayo Saka provides ‘healthy competition’ for placeNoni Madueke has warned that England must not take the Democratic Republic of the Congo (DRC)..."
+      "en": "Former Barcelona striker joins for two and a half seasons37-year-old’s 697 goals is third best total for current playersThe Chicago Fire on Monday officially announced their acquisition of Robert..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/29/noni-madueke-england-democratic-republic-congo-world-cup-2026"
+    "url": "https://www.theguardian.com/football/2026/jun/29/robert-lewandowski-mls-chicago-fire-2028"
   },
   {
-    "id": "N_RSS_91409",
+    "id": "N_RSS_63650",
     "type": "official",
     "date": "2026-06-29",
-    "likes": 62,
+    "likes": 262,
     "title": {
-      "en": "Deschamps hopes France’s ‘capacity for danger’ continues in Sweden World Cup test"
+      "en": "How link between Bellingham and Kane has unlocked England’s stodgy attack"
     },
     "summary": {
-      "en": "Teams meet in round of 32 in New York on Tuesday‘We’ve been labelled as favourites … we are confident’Didier Deschamps has warned France’s rivals that the team will not change their attacking..."
+      "en": "Thomas Tuchel’s side have struggled in open play in the US but midfielder’s partnership with his captain has started to change thatThomas Tuchel faces an attacking conundrum. England have to extract..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/29/didier-deschamps-france-sweden-world-cup-2026-round-of-32"
+    "url": "https://www.theguardian.com/football/2026/jun/29/jude-bellingham-harry-kane-england-attack-world-cup-2026"
   },
   {
-    "id": "N_RSS_16577",
+    "id": "N_RSS_95199",
     "type": "official",
     "date": "2026-06-29",
-    "likes": 231,
+    "likes": 229,
     "title": {
-      "en": "The World Cup’s two competing realities: brilliant action and off-field injustices | Jonathan Wilson"
+      "en": "O Canada! The knockouts begin with a win for Marsch’s men: World Cup Daily – podcast"
     },
     "summary": {
-      "en": "All of the critiques of this tournament have proven valid and warranted, even as the action on the pitch has delighted us • Predict the winner | Daily podcast | Download our appThe football has taken..."
+      "en": "Max Rushden is joined by Barry Glendenning, Mark Langdon and Jonathan Wilson as the knockout stages commence with a late, late winner for Canada over South AfricaRate, review, share on Apple Podcasts..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/29/world-cup-criticism"
+    "url": "https://www.theguardian.com/football/audio/2026/jun/29/o-canada-the-knockouts-begin-win-for-jesse-marsch-men-south-africa-world-cup-daily-podcast"
   },
   {
-    "id": "N_RSS_76503",
+    "id": "N_RSS_6102",
     "type": "official",
     "date": "2026-06-29",
-    "likes": 189,
+    "likes": 143,
     "title": {
-      "en": "Maddy Cusack’s father tells inquest she was dismayed at Sheffield United manager’s return"
+      "en": "Football Daily | Canada see off South Africa but fail to quench our endless World Cup thirst"
     },
     "summary": {
-      "en": "Jonathan Morgan claims he provided player welfareDoctor says Maddy feared mental health stigmaThe most significant cause of the deterioration of the late Sheffield United footballer Maddy Cusack’s..."
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Following the bumper end to the record-breaking group stage in which a whopping 16 Geopolitics World Cup matches were completed over 54 hours,..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/29/maddy-cusack-inquest-sheffield-united"
+    "url": "https://www.theguardian.com/football/2026/jun/29/canada-south-africa-brazil-netherlands-world-cup"
   },
   {
-    "id": "N_RSS_66072",
+    "id": "N_RSS_2555",
     "type": "official",
-    "date": "2026-06-29",
-    "likes": 175,
+    "date": "2026-06-28",
+    "likes": 289,
     "title": {
-      "en": "NWSL all-time record goalscorer Sam Kerr confirms league return by joining Gotham"
+      "en": "How to win a World Cup penalty shootout"
     },
     "summary": {
-      "en": "Australia captain back in league she left in 2019Striker won 11 major trophies in spell at ChelseaSam Kerr is joining Gotham FC in the National Women’s Soccer League (NWSL) after spending the past..."
+      "en": "We have a look at what can be learned from every World Cup penalty taken in a shootout ever."
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/29/nwsl-all-time-record-goalscorer-sam-kerr-confirms-league-return-by-joining-gotham"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cd9px47g8jlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_76186",
+    "id": "N_RSS_61930",
     "type": "official",
-    "date": "2026-06-29",
-    "likes": 124,
+    "date": "2026-06-28",
+    "likes": 167,
     "title": {
-      "en": "Follow Pep and find scoring options: Maresca’s Manchester City in-tray"
+      "en": "Where to watch the World Cup on the BBC and ITV"
     },
     "summary": {
-      "en": "New manager needs to gain true backing from the hierarchy by stepping out from Guardiola’s shadowHow Enzo Maresca follows Pep Guardiola is the searing question he has to answer – from fans, pundits,..."
+      "en": "All the TV and radio details for each of the 2026 World Cup knockout games."
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/29/follow-pep-and-find-scoring-options-marescas-manchester-city-in-tray"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c20y4ppqy94o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_57830",
+    "id": "N_RSS_23419",
     "type": "official",
-    "date": "2026-06-29",
-    "likes": 119,
+    "date": "2026-06-28",
+    "likes": 92,
     "title": {
-      "en": "How Victor Montagliani rose to the Fifa elite despite past controversies"
+      "en": "Eustaquio scores in injury-time to take Canada through to the last 16"
     },
     "summary": {
-      "en": "The Concacaf president has done much to bring the World Cup to North America, and could be the man to succeed Gianni InfantinoDonald Trump may have been awarded the Fifa Peace Prize but the president..."
+      "en": "Stephen Eustaquio scores the only goal of the match against South Africa as Canada progresses to the last 16 of the 2026 World Cup."
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/29/how-victor-montagliani-rose-to-the-fifa-elite-despite-past-controversies"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/videos/c79yr8npv9go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_12360",
+    "id": "N_RSS_24300",
     "type": "official",
-    "date": "2026-06-29",
-    "likes": 79,
+    "date": "2026-06-28",
+    "likes": 171,
     "title": {
-      "en": "What hosting the World Cup means for Canadian soccer: ‘The stakes are absolutely massive’"
+      "en": "Maestro Messi scores again and breaks another record in the process"
     },
     "summary": {
-      "en": "Of the trio of World Cup hosts, only Canada is hosting the tournament for the first time – local soccer officials hope it can be transformativeToronto’s Front Street, which loosely tethers the city’s..."
+      "en": "Lionel Messi comes off the bench to score his sixth goal of the 2026 World Cup as Argentina beat Jordan 3-1 in Dallas and becomes the first player to score in seven World Cup games in a row."
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/29/canada-world-cup-2026-hosting-impact"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cpwek9kryj1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_39275",
+    "id": "N_RSS_4913",
     "type": "official",
-    "date": "2026-06-29",
-    "likes": 129,
+    "date": "2026-06-28",
+    "likes": 284,
     "title": {
-      "en": "World Cup quiz: were you paying attention during the group stage?"
+      "en": "Austria score dramatic late equaliser against Algeria as both progress"
     },
     "summary": {
-      "en": "There were 16 host cities, 48 teams, 72 matches and 215 goals, but did you notice the little details?This is a quiz by Richard Foster, who presents the It Started With A Kick podcast and is writing a..."
+      "en": "Algeria and Austria produce an incredible finish to their Group J meeting, with both teams scoring in injury time to secure the point they need to reach the World Cup knockout stages - and send home..."
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/29/world-cup-quiz-group-stage-teams-matches-goals-cities"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/czxqdylvv16o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_72556",
+    "type": "official",
+    "date": "2026-06-28",
+    "likes": 70,
+    "title": {
+      "en": "Algeria and Austria both qualify for last 32 after dramatic injury-time goals"
+    },
+    "summary": {
+      "en": "Algeria and Austria each score injury-time goals in a 3-3 draw, a result which sees both sides qualify from Group J and into the last 32 of the FIFA World Cup."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ce8jne01mn2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_301",
+    "type": "official",
+    "date": "2026-06-28",
+    "likes": 121,
+    "title": {
+      "en": "Messi comes off the bench to score as Argentina beat Jordan"
+    },
+    "summary": {
+      "en": "Lionel Messi comes off the bench to become the first player in FIFA World Cup history to score in seven consecutive matches, as Argentina defeat Jordan 3-1 in their final game in Group J."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cy49de3rp12o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_74814",
+    "type": "official",
+    "date": "2026-06-28",
+    "likes": 148,
+    "title": {
+      "en": "BBC Sport expert Sutton predicts World Cup's last-32 matches"
+    },
+    "summary": {
+      "en": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_11632",
+    "type": "official",
+    "date": "2026-06-28",
+    "likes": 216,
+    "title": {
+      "en": "Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw"
+    },
+    "summary": {
+      "en": "The 'Disgrace of Gijon' - an infamous match at the 1982 World Cup in Spain - has followed Austria and Algeria for 44 years. Did history repeat itself in Algeria's 3-3 draw with Austria on Sunday?"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_90697",
+    "type": "official",
+    "date": "2026-06-28",
+    "likes": 101,
+    "title": {
+      "en": "Knockouts are here - what is England's path to the final?"
+    },
+    "summary": {
+      "en": "BBC Sport takes a look at what England will need to do to reach the final after qualifying for the knockout stages."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_19122",
+    "type": "official",
+    "date": "2026-06-28",
+    "likes": 212,
+    "title": {
+      "en": "How Bellingham became Tuchel's most important player"
+    },
+    "summary": {
+      "en": "His starting place was the subject of much debate in Thomas Tuchel's England team, but Jude Bellingham has become integral to the manager's style of play."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss"
   }
 ]
