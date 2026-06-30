@@ -1275,9 +1275,9 @@
       "city": "Monterrey",
       "home": null,
       "away": null,
-      "home_score": null,
-      "away_score": null,
-      "status": "upcoming",
+      "home_score": 1,
+      "away_score": 1,
+      "status": "finished",
       "events": [],
       "bracket": "R32-3"
     },
