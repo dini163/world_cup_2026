@@ -1,293 +1,390 @@
 [
   {
-    "id": "N_RSS_72922",
+    "id": "N_RSS_95692",
     "type": "official",
-    "date": "2026-06-30",
-    "likes": 88,
+    "date": "2026-07-01",
+    "likes": 296,
     "title": {
-      "en": "Koeman resigns, while Netherlands report racist abuse",
-      "zh-CN": "Koeman辞职，而荷兰报告种族主义虐待"
+      "en": "United, free and brilliant - can anyone stop France masterclass?",
+      "zh-CN": "团结、自由、才华横溢--有人能阻止法国大师班吗？"
     },
     "summary": {
-      "en": "Ronald Koeman resigns as Netherlands manager after their World Cup exit, which led to \"appalling\" racist abuse aimed at players who missed penalties.",
-      "zh-CN": "罗纳德·科曼（ Ronald Koeman ）在世界杯退出后辞去了荷兰经理的职务，这导致了针对错过点球的球员的“骇人听闻”的种族主义虐待。"
+      "en": "France boss Didier Deschamps urges caution despite watching his side dismantle Sweden to leave Les Bleus fans dreaming of winning the World Cup.",
+      "zh-CN": "法国主教练迪迪埃·德尚（ Didier Deschamps ）敦促谨慎行事，尽管他看着自己的球队拆除瑞典队，让蓝军球迷梦想着赢得世界杯。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cly0g1y3v00o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_55064",
+    "id": "N_RSS_6286",
     "type": "official",
-    "date": "2026-06-30",
-    "likes": 96,
+    "date": "2026-07-01",
+    "likes": 153,
     "title": {
-      "en": "Quansah and James miss England training as right-back problems mount",
-      "zh-CN": "Quansah和James因右后卫问题而错过英格兰训练"
+      "en": "England right-backs Quansah and James out of DR Congo game",
+      "zh-CN": "英格兰右后卫昆萨和詹姆斯退出刚果民主共和国比赛"
     },
     "summary": {
-      "en": "Jarell Quansah and Reece James miss training as England's right-back issues mount before their World Cup last-32 match against DR Congo on Wednesday.",
-      "zh-CN": "贾雷尔·昆萨（ Jarell Quansah ）和里斯·詹姆斯（ Reece James ）错过了训练，因为英格兰的右后卫问题在他们周三对阵刚果民主共和国的世界杯上次"
+      "en": "Right-backs Jarell Quansah and Reece James will miss England's World Cup last-32 match against DR Congo because of injury.",
+      "zh-CN": "右后卫贾雷尔·昆萨（ Jarell Quansah ）和里斯·詹姆斯（ Reece James ）因伤缺席英格兰世界杯最后32场对阵刚果民主共和国的比"
     },
     "source": "BBC Sport",
     "url": "https://www.bbc.co.uk/sport/football/articles/c23yz02rrkgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_5935",
+    "id": "N_RSS_76577",
     "type": "official",
-    "date": "2026-06-30",
-    "likes": 293,
+    "date": "2026-07-01",
+    "likes": 265,
     "title": {
-      "en": "Mbappe scores twice as France beat Sweden",
-      "zh-CN": "姆巴佩的得分是法国击败瑞典的两倍"
+      "en": "Tuchel will stick to Southgate's penalty plan",
+      "zh-CN": "Tuchel将坚持Southgate的罚款计划"
     },
     "summary": {
-      "en": "Kylian Mbappe scores twice as France cruise to a comfortable win over Sweden  in their World Cup round of 32 match at the New York New Jersey Stadium.",
-      "zh-CN": "凯利安·姆巴佩（ Kylian Mbappe ）在纽约新泽西体育场举行的世界杯32轮比赛中得分是法国巡航的两倍，可以轻松战胜瑞典。"
+      "en": "England manager Thomas Tuchel had revealed that his team will follow his predecessor Sir Gareth Southgate's penalty shootout blueprint at the World Cup.",
+      "zh-CN": "英格兰主教练托马斯·图切尔（ Thomas Tuchel ）透露，他的球队将效仿他的前任加雷斯·索斯盖特爵士（ Sir Gareth Southgate ）在世界杯上的点"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cz9lq5y9pj2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_69012",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 179,
+    "title": {
+      "en": "Mexico blowing Ecuador away after storm delay LIVE!",
+      "zh-CN": "墨西哥在风暴延迟直播后吹走厄瓜多尔！"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/mexico-vs-ecuador/live/549842"
+  },
+  {
+    "id": "N_RSS_7276",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 246,
+    "title": {
+      "en": "France breeze past Sweden as Mbappe matches Messi",
+      "zh-CN": "随着姆巴佩与梅西的比赛，法国轻松超越瑞典"
+    },
+    "summary": {
+      "en": "Kylian Mbappe helped book France's place in the World Cup round of 16 by taking his tournament total to six goals in a slick 3-0 victory over Sweden.",
+      "zh-CN": "基利安·姆巴佩（ Kylian Mbappe ）以3比0击败瑞典队，将比赛总进6球，帮助法国队在世界杯16强赛中排名第一。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/france-vs-sweden/report/549844"
+  },
+  {
+    "id": "N_RSS_94671",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 93,
+    "title": {
+      "en": "Neville: France ‘a level above’ and Mbappe ‘on verge of greatness’",
+      "zh-CN": "内维尔：法国“领先一步” ，姆巴佩“濒临伟大”"
+    },
+    "summary": {
+      "en": "Gary Neville says France are \"a level above\" any other team at the World Cup after they cruised to a 3-0 win against Sweden in the round of 32.",
+      "zh-CN": "加里·内维尔（ Gary Neville ）表示，法国队在32轮比赛中以3-0战胜瑞典队后，在世界杯上“高于”任何其他球队。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13559386/france-3-0-sweden-les-bleus-a-level-above-other-world-cup-teams-with-kylian-mbappe-on-verge-of-greatness-says-gary-neville"
+  },
+  {
+    "id": "N_RSS_9006",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 161,
+    "title": {
+      "en": "Tuchel: We're prepared for difficult DR Congo clash despite right-back woes",
+      "zh-CN": "Tuchel ：尽管存在右后卫问题，但我们已经准备好应对困难的刚果民主共和国冲突"
+    },
+    "summary": {
+      "en": "England manager Thomas Tuchel has said his side are prepared for DR Congo \"to make their lives difficult\" in Wednesday's World Cup last-32 clash in Atlanta.",
+      "zh-CN": "英格兰主教练托马斯·图切尔（ Thomas Tuchel ）表示，他的球队已准备好在周三在亚特兰大举行的世界杯最后32场比赛中“让刚果民主共和国的生活变得困难”。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13559387/thomas-tuchel-england-are-prepared-for-difficult-world-cup-last-32-clash-with-dr-congo-despite-right-back-woes"
+  },
+  {
+    "id": "N_RSS_80364",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 167,
+    "title": {
+      "en": "Mexico v Ecuador: World Cup 2026 last 32 updates – live",
+      "zh-CN": "墨西哥v厄瓜多尔： 2026年世界杯最新32项更新–现场"
+    },
+    "summary": {
+      "en": "⚽️ Kick-off time: 8pm local/12pm AEST/3am BST/10pm EDT⚽️ Player guide | Bracketology | Golden Boot | Mail JonathanMexico’s football culture dates back to the early 20th century, and the country has a...",
+      "zh-CN": "⚽️ 开球时间：当地时间晚上8点/美国东部夏令时中午12点/英国夏令时凌晨3点/美国东部夏令时晚上10点⚽️球员指南| Bracketology | Golden Boot | Mail Jonathan墨西哥的足球文化可以追溯到20世纪初，该国有一个..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jul/01/fifa-world-cup-2026-live-mexico-v-ecuador-updates-mex-vs-ecu-last-round-32-match-score-latest"
+  },
+  {
+    "id": "N_RSS_23113",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 147,
+    "title": {
+      "en": "Kylian Mbappé at the double as France swat aside Sweden in World Cup masterclass",
+      "zh-CN": "Kylian Mbappé参加双打比赛，法国队在世界杯大师班上击败瑞典队"
+    },
+    "summary": {
+      "en": "When people form memories of the World Cup, it’s matches like this that do it. France once again won comprehensively, and against decent opposition, but the quality of their attacking play, and the...",
+      "zh-CN": "当人们对世界杯产生回忆时，就是这样的比赛。法国再次全面获胜，并与体面的对手对抗，但他们的进攻比赛的质量，以及……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/01/france-sweden-world-cup-2026-last-32-match-report"
+  },
+  {
+    "id": "N_RSS_94093",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 227,
+    "title": {
+      "en": "DR Congo manager’s tactics may provide tougher challenge for England than Opta stats suggest",
+      "zh-CN": "刚果民主共和国经理的战术可能为英格兰带来比Opta统计数据所暗示的更严峻的挑战"
+    },
+    "summary": {
+      "en": "Despite the chances of victory in normal time being 73.9%, Sébastien Desabre has changed his approach for stronger teams such as EnglandEngland head into their match against the Democratic Republic...",
+      "zh-CN": "尽管塞巴斯蒂安·德萨布尔（ Sébastien Desabre ）在正常时间获胜的几率为73.9% ，但他已经改变了他的方法，让英格兰等更强大的球队进入他们对阵民主共和国的比赛……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/01/dr-congo-tactics-england-sebastien-desabre-world-cup-last-32"
+  },
+  {
+    "id": "N_RSS_68480",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 247,
+    "title": {
+      "en": "How USMNT prepare for World Cup penalty drama: confidence, composure and consultants",
+      "zh-CN": "USMNT如何为世界杯点球赛做准备：自信、镇定和顾问"
+    },
+    "summary": {
+      "en": "The US have used outside companies, including one measuring players’ brainwaves, to help them determine who will shoot in a shootoutWho would the US need to beat to win the World Cup?There is perhaps...",
+      "zh-CN": "美国利用外部公司（包括一家测量球员脑电波的公司）来帮助他们确定谁将在枪战中射门。美国需要击败谁才能赢得世界杯？或许有……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jun/30/usmnt-penalty-kicks-mauricio-pochettino-world-cup"
+  },
+  {
+    "id": "N_RSS_47155",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 278,
+    "title": {
+      "en": "Belgium’s leaders backed to disprove ‘has beens’ tag in Senegal challenge",
+      "zh-CN": "比利时领导人支持在塞内加尔挑战中反驳“has beens”标签"
+    },
+    "summary": {
+      "en": "Rudi Garcia railed against criticism of his side, who face Senegal in the last 32 with a spring in their step after the 5-1 hammering of New ZealandBelgium had just beaten New Zealand 5-1 to secure...",
+      "zh-CN": "鲁迪·加西亚（ Rudi Garcia ）抨击了对他的球队的批评，后者在过去的32场比赛中面对塞内加尔，在5-1击败新西兰后，比利时队刚刚以5-1击败新西兰队以确保......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/01/belgium-senegal-world-cup-match-preview"
+  },
+  {
+    "id": "N_RSS_61926",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 138,
+    "title": {
+      "en": "Penalty shootouts: how Australia can avoid the cruellest World Cup fate | Jack Snape",
+      "zh-CN": "点球大战：澳大利亚如何避免最残酷的世界杯命运|杰克·斯内普"
+    },
+    "summary": {
+      "en": "The Socceroos have never gone to spot kicks in a men’s World Cup but can turn to strategies as they prepare for the last-32 clash with Egypt⚽️ How and where to watch the Socceroos games in...",
+      "zh-CN": "Socceroos从未在男子世界杯上发现过踢球，但在准备与埃及的最后32场比赛时，他们可以转向策略⚽️如何以及在哪里观看Socceroos比赛......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/01/socceroos-world-cup-penalty-shoot-out-chances-strategies"
+  },
+  {
+    "id": "N_RSS_61847",
+    "type": "official",
+    "date": "2026-06-30",
+    "likes": 229,
+    "title": {
+      "en": "Mbappe scores twice as France dominate Sweden",
+      "zh-CN": "姆巴佩的得分是法国主导瑞典的两倍"
+    },
+    "summary": {
+      "en": "Kylian Mbappe becomes the all-time leading goalscorer in World Cup knockout matches with after scoring twice as France crusie past Sweden 3-0 to set up a last-16 tie with Paraguay.",
+      "zh-CN": "基利安·姆巴佩（ Kylian Mbappe ）在世界杯淘汰赛中成为历史领先的射手，他在法国队以3比0击败瑞典队，与巴拉圭队并列16强。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c6216q7d62ro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_54388",
+    "type": "official",
+    "date": "2026-06-30",
+    "likes": 161,
+    "title": {
+      "en": "Bigger than Rumble in the Jungle? DR Congo bid for World Cup history",
+      "zh-CN": "比丛林中的隆隆声还要大？刚果民主共和国申办世界杯历史"
+    },
+    "summary": {
+      "en": "DR Congo's run at the 2026 World Cup comes 52 years on from both their disastrous debut at the finals and one of sport's greatest occasions held in Kinshasa.",
+      "zh-CN": "刚果民主共和国参加2026年世界杯，距离他们在决赛中灾难性的首次亮相和在金沙萨举行的体育盛会之一已经过去了52年。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn8k75j9epzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_16716",
+    "type": "official",
+    "date": "2026-06-30",
+    "likes": 68,
+    "title": {
+      "en": "Mbappe scores twice against Sweden for France"
+    },
+    "summary": {
+      "en": "Kylian Mbappe scores twice as France cruise to a comfortable win over Sweden  in their World Cup round of 32 match at the New York New Jersey Stadium."
     },
     "source": "BBC Sport",
     "url": "https://www.bbc.co.uk/sport/football/videos/c892k0de2j3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_86497",
+    "id": "N_RSS_60490",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 199,
+    "likes": 294,
     "title": {
-      "en": "Haaland the late hero as Norway knock out resilient Ivory Coast",
-      "zh-CN": "哈兰德，已故英雄，挪威击败坚韧的象牙海岸"
+      "en": "Netherlands crumble in penalty shootout as Morocco progress"
     },
     "summary": {
-      "en": "Manchester City striker Erling Haaland scores a late winner as Norway beat Ivory Coast 2-1 to book their place in the last 16 in the 2026 World Cup.",
-      "zh-CN": "曼城前锋埃尔林·哈兰德（ Erling Haaland ）以2比1击败象牙海岸，在2026年世界杯的最后16场比赛中获胜。"
+      "en": "Netherlands miss three spot kicks as Morocco come from behind to beat the Dutch on penalties in Monterrey to reach the last 16 of the 2026 World Cup."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c2ky8qk2gl9o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/c4gy5gmd7mjo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_23905",
+    "id": "N_RSS_58453",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 277,
+    "likes": 203,
     "title": {
-      "en": "Barcola 'emphatically' doubles France's lead over Sweden",
-      "zh-CN": "巴尔科拉“坚定地”将法国的领先优势加倍于瑞典"
+      "en": "England fans' behaviour 'excellent' at World Cup"
     },
     "summary": {
-      "en": "Bradley Barcola \"empahatically\" fires home France's second goal in their World Cup round of 32 match against Sweden at the New York New Jersey Stadium.",
-      "zh-CN": "布拉德利·巴科拉（ Bradley Barcola ） “同情地”在纽约新泽西体育场（ New York New Jersey Stadium ）对阵瑞典的世界杯32场比赛中击中了法国队的第二个进球"
+      "en": "England supporters in the United States are praised for their \"excellent\" behaviour during the group stage of the World Cup, but domestic incidents are up on recent tournaments."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c8e2g18l4k9o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c75ye7lz347o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_31204",
+    "id": "N_RSS_45463",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 197,
+    "likes": 217,
     "title": {
-      "en": "'A moment of real quality' - Nusa's sensational strike puts Norway ahead",
-      "zh-CN": "“真正品质的时刻” -努沙岛的轰动一时的罢工使挪威领先"
+      "en": "Pick Mainoo over Anderson against DR Congo - Rooney"
     },
     "summary": {
-      "en": "Norway take the lead in their round of 32 tie against Ivory Coast after a brilliant strike from forward Antonio Nusa.",
-      "zh-CN": "在前锋安东尼奥·努萨（ Antonio Nusa ）的精彩罢工之后，挪威在对象牙海岸的32轮比赛中领先。"
+      "en": "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cj0gd9q322zo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_1059",
+    "id": "N_RSS_40283",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 140,
+    "likes": 82,
     "title": {
-      "en": "France superstars thriving thanks to Deschamps' bold changes",
-      "zh-CN": "得益于Deschamps的大胆改变，法国超级巨星蓬勃发展"
+      "en": "'Germany play one way - and it doesn't work any more'"
     },
     "summary": {
-      "en": "Why Didier Deschamps' changes to personnel and formation could propel 2022 runners-up France to go one better in this World Cup.",
-      "zh-CN": "为什么迪迪埃·德尚（ Didier Deschamps ）对人员和阵型的改变可能会推动2022年法国亚军在本届世界杯上取得更好的成绩。"
+      "en": "The team in the studio talk about what went wrong for Germany as they go out of the World Cup to Paraguay"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cg53ggg03nno?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/c04y10n6wqeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_63321",
+    "id": "N_RSS_83698",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 222,
+    "likes": 123,
     "title": {
-      "en": "Germany fans in need of hope as prospect of Klopp looms",
-      "zh-CN": "由于克洛普的前景迫在眉睫，德国球迷需要希望"
+      "en": "Canale scores winning penalty after Tah blazes over as Germany knocked out"
     },
     "summary": {
-      "en": "As Germany again fail to progress at a World Cup BBC Sport looks at the fallout from their defeat by Paraguay and what happens next.",
-      "zh-CN": "由于德国再次未能在世界杯上取得进展， BBC Sport着眼于他们被巴拉圭击败的后果以及接下来会发生什么。"
+      "en": "Four-time winners Germany are knocked out of the 2026 World Cup on penalties as Jonathan Tah blazes over in sudden death before Jose Canale scores the winning penalty."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cvgqnxw12eko?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_95566",
+    "id": "N_RSS_26901",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 173,
+    "likes": 285,
     "title": {
-      "en": "Coach played mind games with Cusack before death, inquest told",
-      "zh-CN": "调查告知，教练在死前与库萨克玩了心理游戏"
+      "en": "AC Milan sign PSG's Portugal striker Ramos for £60m"
     },
     "summary": {
-      "en": "A team-mate tells an inquest Maddy Cusack was \"anxious\" about Jonathan Morgan joining Sheffield United.",
-      "zh-CN": "一名队友告诉调查员， Maddy Cusack对Jonathan Morgan加入谢菲尔德联队感到“焦虑”。"
+      "en": "AC Milan sign Paris St-Germain striker Goncalo Ramos for a reported club record transfer fee of about £60m."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/news/articles/c4gy529xwdro?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn4r8y819z1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_69670",
+    "id": "N_RSS_12182",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 213,
+    "likes": 272,
     "title": {
-      "en": "The Paraguay hero who sold his kit when his son was born",
-      "zh-CN": "这位巴拉圭英雄在儿子出生时卖掉了他的工具包"
+      "en": "'Germany no longer first-class team ' - is this the end for Nagelsmann?"
     },
     "summary": {
-      "en": "Orlando Gill has become Paraguay's World Cup hero but was in football obscurity 18 months ago and had to sell his kit to support his family after the premature birth of his son.",
-      "zh-CN": "奥兰多·吉尔（ Orlando Gill ）已成为巴拉圭的世界杯英雄，但18个月前他还默默无闻，不得不在儿子早产后出售他的套件来养家糊口。"
+      "en": "Germany make a shock last-32 exit against Paraguay, losing a World Cup penalty shootout for the first time to pile pressure on boss Julian Nagelsmann."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c75yelwge25o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c992kzk00kzo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_79783",
+    "id": "N_RSS_91465",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 136,
+    "likes": 279,
     "title": {
-      "en": "Ecuador make Mexico fans hotel noise complaint",
-      "zh-CN": "厄瓜多尔让墨西哥球迷投诉酒店噪音"
+      "en": "Who has been eliminated from the World Cup?"
     },
     "summary": {
-      "en": "Ecuador make a complaint to World Cup organisers over noisy local fans outside their team hotel before their last-32 match against co-hosts Mexico.",
-      "zh-CN": "厄瓜多尔向世界杯组织者投诉，在32场比赛的最后一场比赛之前，当地球迷在球队酒店外吵闹不堪。"
+      "en": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clyrgng719eo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_97863",
+    "id": "N_RSS_55532",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 132,
+    "likes": 295,
     "title": {
-      "en": "Relive thrilling penalty shootout between Germany and Paraguay",
-      "zh-CN": "重温德国和巴拉圭之间激动人心的点球大战"
+      "en": "Rangers buy Hull goalkeeper Pandur - what will he bring?"
     },
     "summary": {
-      "en": "Watch every penalty from Germany's last 32 match against Paraguay in the 2026 World Cup.",
-      "zh-CN": "观看德国在2026年世界杯对阵巴拉圭的最后32场比赛中的每一次点球。"
+      "en": "Rangers sign Croatian goalkeeper Ivor Pandur from Hull City for an undisclosed fee - what will he bring to Ibrox?"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c20ygrv112vo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cr5jl46y3dqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_62540",
+    "id": "N_RSS_35468",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 251,
+    "likes": 62,
     "title": {
-      "en": "Who am I? Guess World Cup star No 23",
-      "zh-CN": "我是谁？猜猜世界杯明星23号"
-    },
-    "summary": {
-      "en": "Will you get today's player in as few attempts as possible?",
-      "zh-CN": "你会在尽可能少的尝试中获得今天的玩家吗？"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4g85gg5128o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_74456",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 234,
-    "title": {
-      "en": "Emotional Gakpo scores days after loss of unborn son",
-      "zh-CN": "情感Gakpo在失去未出生的儿子后几天得分"
-    },
-    "summary": {
-      "en": "Liverpool forward Cody Gakpo scores for the Netherlands days after the loss of his unborn son, as they are knocked out on penalties by Morocco.",
-      "zh-CN": "利物浦前锋科迪·加克波（ Cody Gakpo ）在失去未出生的儿子几天后为荷兰队得分，因为他们在摩洛哥的处罚中被淘汰出局。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5yz3yjgp5yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_71208",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 157,
-    "title": {
-      "en": "US security chief 'danced happy dance' after Iran exit",
-      "zh-CN": "美国安全局局长在伊朗退出后“跳快乐舞蹈”"
-    },
-    "summary": {
-      "en": "The United States' head of homeland security says he \"danced a happy dance\" when Iran's elimination from the World Cup was confirmed.",
-      "zh-CN": "美国国土安全部负责人表示，当伊朗从世界杯上被淘汰时，他“跳了一支快乐的舞”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/crr8x5qkly1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_90249",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 244,
-    "title": {
-      "en": "'Indescribably hurt' Son apologises for South Korea World Cup exit"
-    },
-    "summary": {
-      "en": "Son Heung-min apologises for South Korea's early World Cup exit and says he will \"run to death\" for the nation's football fans."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c20ylry6py1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_44502",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 191,
-    "title": {
-      "en": "Ranking 10 stars who could be at their last World Cup"
-    },
-    "summary": {
-      "en": "A number of the world's best players are likely playing in their last World Cup. Here's how I think they rank."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c04yvw3w1w6o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_15327",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 132,
-    "title": {
-      "en": "Coach called Cusack a 'psycho', inquest told"
-    },
-    "summary": {
-      "en": "A team-mate tells an inquest Maddy Cusack was \"anxious\" about Jonathan Morgan joining Sheffield United."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/news/articles/c4gy529xwdro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_74390",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 298,
-    "title": {
-      "en": "France dismiss Sweden to set up last 16 tie with Paraguay LIVE!"
+      "en": "Key moments and rate the players as France dismiss Sweden"
     },
     "summary": {
       "en": ""
@@ -296,157 +393,59 @@
     "url": "https://www.skysports.com/football/france-vs-sweden/live/549844"
   },
   {
-    "id": "N_RSS_41737",
+    "id": "N_RSS_15810",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 210,
+    "likes": 50,
     "title": {
-      "en": "Haaland scores late winner to set up Norway vs Brazil"
-    },
-    "summary": {
-      "en": "Erling Haaland scored an 86th-minute winner to send Norway to a dramatic 2-1 win over Ivory Coast - and set up a mouth-watering World Cup last-16 clash with Brazil."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/ivory-coast-vs-norway/report/549843"
-  },
-  {
-    "id": "N_RSS_2495",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 235,
-    "title": {
-      "en": "Koeman parts ways with Netherlands after World Cup exit"
-    },
-    "summary": {
-      "en": "Ronald Koeman has left his role as head coach of the Netherlands."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13559131/ronald-koeman-netherlands-head-coach-leaves-role-for-a-second-time-following-world-cup-exit-to-morocco"
-  },
-  {
-    "id": "N_RSS_24374",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 112,
-    "title": {
-      "en": "Papers: Klopp frontrunner for Germany job if Nagelsmann sacked"
-    },
-    "summary": {
-      "en": "The top stories and transfer rumours from Wednesday's newspapers..."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13559341/jurgen-klopp-frontrunner-for-germany-job-if-julian-nagelsmann-is-sacked-paper-talk"
-  },
-  {
-    "id": "N_RSS_96046",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 185,
-    "title": {
-      "en": "England latest: 'James and Quansah getting closer and closer,' says Tuchel"
+      "en": "Haaland reunited with arch-rival Gabriel as Brazil face Norway at World Cup"
     },
     "summary": {
       "en": ""
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+    "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
   },
   {
-    "id": "N_RSS_5881",
+    "id": "N_RSS_2751",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 187,
+    "likes": 216,
     "title": {
-      "en": "James and Quansah to miss England's last-32 clash with DR Congo"
+      "en": "Who starts at RB and how to beat low block? England vs DR Congo talking points"
     },
     "summary": {
-      "en": "Reece James and Jarell Quansah have been ruled out of England's World Cup last-32 game against DR Congo in Atlanta on Wednesday."
+      "en": "England face DR Congo in the last 32 of the World Cup with several key issues for Thomas Tuchel ahead of his first knockout game as boss."
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13559299/england-2026-world-cup-news-reece-james-and-jarell-quansah-to-miss-last-32-clash-vs-dr-congo-with-injury"
+    "url": "https://www.skysports.com/football/news/11095/13558788/england-vs-dr-congo-thomas-tuchel-battling-selection-dilemmas-fitness-issues-and-low-blocks-ahead-of-last-32-clash"
   },
   {
-    "id": "N_RSS_76380",
+    "id": "N_RSS_54679",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 247,
+    "likes": 179,
     "title": {
-      "en": "World Cup penalty misses - is this the end of the stutter?"
+      "en": "Why Tuchel should be worried about DR Congo's 'anti-England' formula"
     },
     "summary": {
-      "en": "The stutter. Like it or loathe it, it's a technique that has been increasingly adopted by penalty takers since the time of Pele in the 1960s. But after some faltering spot-kicks at this World Cup -..."
+      "en": "If you're looking for a dark horse in the knockout stages, don't look for one in DR Congo. Look for a Leopard - patient, relentless, and ready to pounce when it matters most."
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13559248/world-cup-2026-is-the-penalty-stutter-run-up-that-cost-germany-and-netherlands-at-the-end-of-its-lifespan"
+    "url": "https://www.skysports.com/football/news/11095/13558773/world-cup-2026-why-england-and-thomas-tuchel-should-be-worried-about-dr-congo-ahead-of-their-last-32-clash"
   },
   {
-    "id": "N_RSS_44655",
+    "id": "N_RSS_42404",
     "type": "official",
     "date": "2026-06-30",
-    "likes": 136,
+    "likes": 74,
     "title": {
-      "en": "Golden Boot race: Haaland closes on Messi - and Mbappe responds too!"
+      "en": "Merson: Bellingham's deeper role has given Tuchel midfield headache"
     },
     "summary": {
-      "en": "Lionel Messi, Erling Haaland and Kylian Mbappe continue to lead the way in what is shaping up to be one of the most hotly-contested World Cup Golden Boot battles in memory."
+      "en": "Paul Merson thinks England boss Thomas Tuchel has a bit of a midfield headache after Jude Bellingham's excellent performance in a deeper role in the 2-0 win over Panama."
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-erling-haaland-vinicius-junior-and-harry-kane-in-epic-battle-to-be-top-goalscorer"
-  },
-  {
-    "id": "N_RSS_8061",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 176,
-    "title": {
-      "en": "France 3-0 Sweden: World Cup 2026 last 32 – live reaction"
-    },
-    "summary": {
-      "en": "⚽️ Kick-off time: 5pm local/10pm BST/7am AEST⚽️ Player guide | Bracketology | Golden Boot | Mail WillWrap your eyeballs around Football Daily.France (4-2-3-1): Maignan; Kounde, Upamecano, Saliba,..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/live/2026/jun/30/france-v-sweden-world-cup-2026-last-32-live"
-  },
-  {
-    "id": "N_RSS_2753",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 109,
-    "title": {
-      "en": "Erling Haaland fires Norway into last 16 with dramatic winner against Côte d’Ivoire"
-    },
-    "summary": {
-      "en": "Decision vindicated. The Norway coach, Ståle Solbakken, had taken a major gamble in resting almost his entire side in the final group game against France, drawing stiff criticism, not least from..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/30/cote-d-ivoire-norway-world-cup-2026-last-32-match-report"
-  },
-  {
-    "id": "N_RSS_84302",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 297,
-    "title": {
-      "en": "Tottenham win race to sign West Ham’s Mateus Fernandes for club record £85m"
-    },
-    "summary": {
-      "en": "Spurs beat Manchester United to signing of midfielderFernandes due to have medical before completing dealTottenham are poised to break their transfer record after beating Manchester United to the..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/30/tottenham-west-ham-mateus-fernandes-club-record-85m-manchester-united-transfers"
-  },
-  {
-    "id": "N_RSS_92141",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 247,
-    "title": {
-      "en": "‘It’s going to be tough’: Declan Rice ready for DR Congo challenge in last 32"
-    },
-    "summary": {
-      "en": "England midfielder’s experience with Arsenal last season taught him the need to be patient against teams unwilling to attackDeclan Rice is reflecting on the pivotal moment of his season so far, the..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jun/30/declan-rice-england-dr-congo-world-cup-2026"
+    "url": "https://www.skysports.com/football/news/11095/13558843/paul-merson-jude-bellinghams-deeper-role-has-given-thomas-tuchel-midfield-headache-ahead-of-dr-congo-clash"
   }
 ]
