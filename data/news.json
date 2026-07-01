@@ -1,172 +1,405 @@
 [
   {
-    "id": "N_RSS_66702",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 117,
-    "title": {
-      "en": "Genuine superstar Kane produces his biggest England moment",
-      "zh-CN": "真正的超级巨星凯恩创造了他最大的英格兰时刻"
-    },
-    "summary": {
-      "en": "Harry Kane's England career is filled with great moments - his World Cup rescue act against DR Congo in Atlanta is his greatest, says chief football writer Phil McNulty.",
-      "zh-CN": "首席足球作家菲尔·麦克纳尔蒂（ Phil McNulty ）表示，哈里·凯恩（ Harry Kane ）在英格兰的职业生涯充满了美好的时刻--他在亚特兰大对阵刚果民主共和国的世界杯救"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_99597",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 128,
-    "title": {
-      "en": "All the angles of Kane's brilliant winner",
-      "zh-CN": "凯恩的辉煌胜利者的所有角度"
-    },
-    "summary": {
-      "en": "All the angles of Harry Kane's winning goal against DR Congo for England in their round of 32 game in Atlanta.",
-      "zh-CN": "哈里·凯恩在亚特兰大32轮比赛中为英格兰队对阵刚果民主共和国的胜利进球的所有角度。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cgev83898nzo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_34379",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 107,
-    "title": {
-      "en": "Four die in Mexico City World Cup celebrations",
-      "zh-CN": "墨西哥城世界杯庆祝活动中有四人死亡"
-    },
-    "summary": {
-      "en": "More than one million people took to the streets of Mexico's capital on Tuesday to mark the country's win over Ecuador.",
-      "zh-CN": "周二，超过一百万人走上墨西哥首都的街头，纪念该国战胜厄瓜多尔。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_13125",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 174,
-    "title": {
-      "en": "Concern over rise in online racist abuse at World Cup",
-      "zh-CN": "对世界杯期间在线种族主义虐待上升的担忧"
-    },
-    "summary": {
-      "en": "The Word Cup has suffered a 'significant increase' in the most serious examples of racist abuse online, Fifa's social media protection service (SMPS) has found.",
-      "zh-CN": "国际足联的社交媒体保护服务（ SMPS ）发现， Word Cup在网上最严重的种族主义虐待事件中“大幅增加”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1dy61921kko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_68934",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 94,
-    "title": {
-      "en": "United, free and brilliant - can anyone stop France masterclass?",
-      "zh-CN": "团结、自由、才华横溢--有人能阻止法国大师班吗？"
-    },
-    "summary": {
-      "en": "France boss Didier Deschamps urges caution despite watching his side dismantle Sweden to leave Les Bleus fans dreaming of winning the World Cup.",
-      "zh-CN": "法国主教练迪迪埃·德尚（ Didier Deschamps ）敦促谨慎行事，尽管他看着自己的球队拆除瑞典队，让蓝军球迷梦想着赢得世界杯。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cp8r1zdj9k5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_84967",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 153,
-    "title": {
-      "en": "'Wonderful finish' - Cipenga gives DR Congo shock lead against England",
-      "zh-CN": "“精彩的结局” - Cipenga让刚果民主共和国在对阵英格兰的比赛中领先"
-    },
-    "summary": {
-      "en": "Brian Cipenga gives DR Congo an early lead against England during their World Cup last-32 match in Atlanta.",
-      "zh-CN": "布莱恩·西彭加（ Brian Cipenga ）在亚特兰大的世界杯最后32场比赛中让刚果民主共和国队早早领先英格兰队"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cjdg9vp3m1po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_34557",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 124,
-    "title": {
-      "en": "Beccacece reign as Ecuador manager  over after exit",
-      "zh-CN": "Beccacece在退出后担任厄瓜多尔经理"
-    },
-    "summary": {
-      "en": "Ecuador manager Sebastian Beccacece says he is leaving his role following his side's World Cup exit against Mexico.",
-      "zh-CN": "厄瓜多尔主教练塞巴斯蒂安·贝卡塞斯（ Sebastian Beccacece ）表示，在他的球队对阵墨西哥的世界杯退出后，他将"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c932jj0d25no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_88871",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 194,
-    "title": {
-      "en": "Villa sign Denmark striker Vangsgaard",
-      "zh-CN": "丹麦前锋Vangsgaard的别墅标志"
-    },
-    "summary": {
-      "en": "Amalie Vangsgaard says she is \"very excited for this new adventure\" after joining Aston Villa from Juventus.",
-      "zh-CN": "Amalie Vangsgaard表示，从尤文图斯加入阿斯顿维拉后，她“对这次新的冒险感到非常兴奋”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c862yegveq2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_8101",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 159,
-    "title": {
-      "en": "Who has been eliminated from the World Cup?",
-      "zh-CN": "谁被淘汰出世界杯？"
-    },
-    "summary": {
-      "en": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
-      "zh-CN": "BBC Sport的Ask Me Anything团队列出了迄今为止被2026年世界杯淘汰的全部国家"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_73469",
+    "id": "N_RSS_84525",
     "type": "official",
     "date": "2026-07-01",
     "likes": 90,
     "title": {
-      "en": "Harry Kane: Special, saviour, England's greatest and Ballon D'Or contender",
-      "zh-CN": "哈里·凯恩：特别、救世主、英格兰最伟大的金球奖竞争者"
+      "en": "Kane scores twice as England come from behind to reach last 16",
+      "zh-CN": "凯恩得分是英格兰队从后面到最后16分的两倍"
     },
     "summary": {
-      "en": "Yes, England have issues. They put you through the mill, they're struggling for a right-back. But one problem they don't have is having a world-class matchwinner in their team.",
-      "zh-CN": "是的，英格兰有问题。他们让你穿过磨坊，他们正在努力争取右后卫。但他们没有一个问题，那就是在他们的团队中拥有一个世界级的匹配者。"
+      "en": "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter in Atlanta, and set up a last-16 meeting with Mexico.",
+      "zh-CN": "在亚特兰大的一场紧张的世界杯比赛中，哈里·凯恩（ Harry Kane ）的得分是英格兰队从后面击败刚果民主共和国的两倍，并安排了与墨西哥的最后16场会议。"
     },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13559651/harry-kane-england-captain-shows-why-he-is-greatest-every-striker-and-ballon-dor-contender-after-two-goal-heroics-against-dr-congo"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_59672",
+    "id": "N_RSS_82777",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 185,
+    "title": {
+      "en": "No time for England to adapt to altitude - Tuchel",
+      "zh-CN": "英格兰没有时间适应海拔高度- Tuchel"
+    },
+    "summary": {
+      "en": "Mexico will have a \"huge advantage\" against England in the World Cup last-16 tie because of the altitude of the Azteca Stadium in Mexico City, says head coach Thomas Tuchel.",
+      "zh-CN": "主教练托马斯·图切尔（ Thomas Tuchel ）表示，由于墨西哥城阿兹特克体育场的高度，墨西哥将在世界杯16强中对阵英格兰队时拥有“巨大优势”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_52573",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 70,
+    "title": {
+      "en": "'Why not take advantage?' - did hydration breaks spark England comeback?",
+      "zh-CN": "“为什么不善加利用？” --水合作用是否会引发英格兰卷土重来？"
+    },
+    "summary": {
+      "en": "England came from behind to beat DR Congo and reach the last 16 of the World Cup, but did the momentum noticeably swing their way after the hydration breaks?",
+      "zh-CN": "英格兰队从后面击败了刚果民主共和国队，进入了世界杯的最后16场比赛，但是在水合作用中断后，这种势头是否明显改变了？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gy8nrny19o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_69374",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 146,
+    "title": {
+      "en": "England sneak through - but who had a nightmare start? Player ratings",
+      "zh-CN": "英格兰悄悄通过-但谁有噩梦般的开始？球员评级"
+    },
+    "summary": {
+      "en": "BBC Sport England reporter Alex Howell rates the players after the World Cup comeback win over DR Congo - plus have your say.",
+      "zh-CN": "英国广播公司体育英格兰记者亚历克斯·豪威尔（ Alex Howell ）在世界杯复出战胜刚果民主共和国后对球员进行了评分，并发表了"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckg5x35zx04o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_36156",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 273,
+    "title": {
+      "en": "England into last 16 - what is their path to the final?",
+      "zh-CN": "英格兰队进入16强-他们进入决赛的道路是什么？"
+    },
+    "summary": {
+      "en": "BBC Sport takes a look at what England will need to do to reach the final after progressing the last 16",
+      "zh-CN": "英国广播公司体育台（ BBC Sport ）了解英格兰队在晋级16强后需要做些什么才能进入决赛"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_41561",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 208,
+    "title": {
+      "en": "Should England have had a penalty for challenge on Kane?",
+      "zh-CN": "英格兰是否应该对凯恩的挑战进行处罚？"
+    },
+    "summary": {
+      "en": "Should England have been awarded a penalty in their World Cup last-32 tie against DR Congo?",
+      "zh-CN": "英格兰是否应该在他们上次32岁的世界杯对阵刚果民主共和国的比赛中被判点球？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cg53nlder6zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_24842",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 263,
+    "title": {
+      "en": "Tielemans & Trossard go from heated row to rescuing Belgium",
+      "zh-CN": "Tielemans和Trossard从激烈争吵到拯救比利时"
+    },
+    "summary": {
+      "en": "Belgium's Leandro Trossard and Youri Tielemans go from arguing with each other during the hydration break to combining to get a crucial equalising goal against Senegal in Seattle.",
+      "zh-CN": "比利时的莱安德罗·特罗萨德（ Leandro Trossard ）和尤里·蒂勒曼斯（ Youri Tielemans ）在补水休息期间互相争吵，最终在西雅图对阵塞内加尔的比赛中取得了关键的均衡目标"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cvg512g38g4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_13462",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 176,
+    "title": {
+      "en": "Win over DR Congo 'our best game of the tournament' - Kane",
+      "zh-CN": "赢得刚果民主共和国“我们锦标赛中最好的比赛” -凯恩"
+    },
+    "summary": {
+      "en": "England captain Harry Kane believes the Three Lions' attacking play against DR Congo was the best they have shown so far in the World Cup after their 2-1 win in Atlanta.",
+      "zh-CN": "英格兰队队长哈里·凯恩（ Harry Kane ）认为，三狮队对阵刚果民主共和国的进攻比赛是他们在亚特兰大2-1获胜后迄今为止在世界杯上表现最好的比赛。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c802jzd528eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_72037",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 214,
+    "title": {
+      "en": "'That was a rocket' - Kane scores winner for England",
+      "zh-CN": "“那是一枚火箭” -凯恩为英格兰队得分"
+    },
+    "summary": {
+      "en": "A \"rocket\" of a strike from Harry Kane gives England a late lead against DR Congo in Atlanta.",
+      "zh-CN": "哈里·凯恩（ Harry Kane ）罢工的“火箭”让英格兰队在亚特兰大对阵刚果民主共和国的比赛中取得了后"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cz9lq8n04k0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_664",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 84,
+    "title": {
+      "en": "Energy and team spirit at highest level - Tuchel",
+      "zh-CN": "最高级别的精力和团队精神- Tuchel"
+    },
+    "summary": {
+      "en": "England manager Thomas Tuchel praises his sides team spirit as they come from behind to beat DR Congo 2-1 and advance to the round of 16.",
+      "zh-CN": "英格兰主教练托马斯·图切尔（ Thomas Tuchel ）赞扬了他的球队精神，他们从后面以2比1击败刚果民主共和国，并晋级16强。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cg53njjvnljo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_60860",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 146,
+    "title": {
+      "en": "Relief for England as Kane heads in equalising goal against DR Congo",
+      "zh-CN": "对英格兰的救济，因为凯恩在对刚果民主共和国的均衡目标中处于领先地位"
+    },
+    "summary": {
+      "en": "Harry Kane heads in from Anthony Gordon's cross as England equalise against DR Congo in their round of 32 game in Atlanta.",
+      "zh-CN": "哈里·凯恩（ Harry Kane ）从安东尼·戈登（ Anthony Gordon ）的十字架上进入，因为英格兰队在亚特兰大的第32轮比赛中对"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cg4wg7lee1vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_42313",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 124,
+    "title": {
+      "en": "What you need to know about England's last-16 opponents Mexico",
+      "zh-CN": "您需要了解的英格兰最后16名对手墨西哥的信息"
+    },
+    "summary": {
+      "en": "England will face Mexico in the World Cup round of 16. Here is what you need to know about them.",
+      "zh-CN": "英格兰队将在世界杯16强赛中对阵墨西哥队。以下是您需要了解的有关他们的信息。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8d25v111r6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_54933",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 255,
+    "title": {
+      "en": "World Cup: Kane rescues England - 5 Live reaction",
+      "zh-CN": "世界杯：凯恩拯救英格兰- 5现场反应"
+    },
+    "summary": {
+      "en": "Harry Kane scores twice to see off DR Congo and send England to the Azteca Stadium.",
+      "zh-CN": "哈里·凯恩（ Harry Kane ）得分两次，将刚果民主共和国送走，并将英格兰送到阿兹特克体育场。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/p0nw81yr?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_76124",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 62,
+    "title": {
+      "en": "Has football fever taken hold in the US?",
+      "zh-CN": "足球热在美国蔓延了吗？"
+    },
+    "summary": {
+      "en": "With the World Cup now three weeks old, BBC Sport's reporters in the US look at how their perceptions have changed.",
+      "zh-CN": "随着世界杯现在已经举办了三周， BBC体育在美国的记者们着眼于他们的看法是如何改变的。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gyr0y37ndo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_44490",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 137,
+    "title": {
+      "en": "Quiz: Name every team England have played in World Cup knockouts",
+      "zh-CN": "测验：列出英格兰队在世界杯淘汰赛中打过的每支球队"
+    },
+    "summary": {
+      "en": "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifted the World Cup trophy in 1966. Can you name every side they have ever faced in the knockouts?",
+      "zh-CN": "英格兰和托马斯·图切尔（ Thomas Tuchel ）将希望与1966年举起世界杯奖杯的国家著名球队的成就相提并论。你能说出他们在淘汰赛中遇到的每一方吗？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/clyp4eprn22o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_35643",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 177,
+    "title": {
+      "en": "'He is ridiculous' - Rice praise for match-winner Kane"
+    },
+    "summary": {
+      "en": "Declan Rice describes England captain Harry Kane as \"ridiculous\" after he scores twice during their World Cup victory over DR Congo in Atlanta."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cgmdlrrgezjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_32072",
     "type": "official",
     "date": "2026-07-01",
     "likes": 182,
     "title": {
-      "en": "Ismaila Sarr smashes in Senegal second vs Belgium LIVE!",
-      "zh-CN": "伊斯梅拉·萨尔（ Ismaila Sarr ）在塞内加尔与比利时的比赛中取得第二名！"
+      "en": "Gordon was 'already celebrating' before Kane had scored the winner"
+    },
+    "summary": {
+      "en": "Anthony Gordon praises England's \"togetherness\" in their 2-1 victory over DR Congo in their round of 32 match in Atlanta."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c6210y2y2zdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_53402",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 104,
+    "title": {
+      "en": "Pundits split on Kane penalty claim"
+    },
+    "summary": {
+      "en": "Micah Richards, Joe Hart, Wayne Rooney and Darren Cann debate whether England should have had a penalty after Harry Kane went down under a challenge from DR Congo goalkeeper Lionel Mpasi-Nzau."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/crlw4ykp3x3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_2657",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 210,
+    "title": {
+      "en": "Should England have been awarded a penalty?"
+    },
+    "summary": {
+      "en": "England's appeals for a penalty are waved away after DR Congo goalkeeper Lionel Mpasi appears to bring down Harry Kane."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cx23dzznk0go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_11286",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 258,
+    "title": {
+      "en": "'What a save!' - Rashford's effort blocked on line by Wan-Bissaka"
+    },
+    "summary": {
+      "en": "Marcus Rashford's effort is cleared off the line by Aaron Wan-Bissaka as England go close to an equaliser against DR Congo in their round of 32 game in Atlanta."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cwyl8z0de7xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_78577",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 250,
+    "title": {
+      "en": "Mexico set up potential England tie with win over 10-man Ecuador"
+    },
+    "summary": {
+      "en": "Mexico cruise into the last 16 of the World Cup with a comfortable victory over Ecuador in a weather-delayed contest at the Azteca Stadium."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c2ky840z4wqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_29098",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 68,
+    "title": {
+      "en": "Hincapie becomes second player sent off for covering mouth"
+    },
+    "summary": {
+      "en": "Ecuador defender Piero Hincapie became the second player at the World Cup to be dismissed for covering his mouth while confronting an opponent."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvg45jg6qyno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_83251",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 271,
+    "title": {
+      "en": "Fifa explains decision to rule out Germany goal"
+    },
+    "summary": {
+      "en": "Fifa says coaches and players were told before the World Cup referees will punish the type of foul that saw Germany's extra-time goal against Paraguay ruled out."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c862yvvd2qdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_42848",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 95,
+    "title": {
+      "en": "More than the Score"
+    },
+    "summary": {
+      "en": "Cape Verde defender Sidny Lopes Cabral discusses his excitement ahead of playing Argentina"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/p0nw44g5?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_46885",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 184,
+    "title": {
+      "en": "Egypt optimistic Salah will be fit to face Australia"
+    },
+    "summary": {
+      "en": "Sources inside the Egypt camp say Mohamed Salah is winning his race to overcome a hamstring injury and play in Friday's last-32 game in Dallas."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ce8kwpgkpeno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_90408",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 291,
+    "title": {
+      "en": "Mexico rampant at fortress Azteca - and England could be next"
+    },
+    "summary": {
+      "en": "Mexico have won all four games and not conceded a goal at this World Cup. Their last-16 opponents must also contend with playing at the Azteca Stadium."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy9rg5n3380o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_27743",
+    "type": "official",
+    "date": "2026-07-01",
+    "likes": 207,
+    "title": {
+      "en": "INCREDIBLE! Tielemans scores last-gasp extra-time winner for Belgium vs Senegal LIVE!"
     },
     "summary": {
       "en": ""
@@ -175,276 +408,45 @@
     "url": "https://www.skysports.com/football/belgium-vs-senegal/live/549846"
   },
   {
-    "id": "N_RSS_98890",
+    "id": "N_RSS_42507",
     "type": "official",
     "date": "2026-07-01",
-    "likes": 112,
+    "likes": 236,
     "title": {
-      "en": "Is Rice the solution to England's right-back problem?",
-      "zh-CN": "赖斯是英格兰右后卫问题的解决方案吗？"
+      "en": "Pure elation! How fans celebrated Kane's STUNNING winner vs DR Congo!"
     },
     "summary": {
-      "en": "England are through to the last 16 of the World Cup. Nobody will remember that they flirted with disaster in the round of 32 if they go on and lift the trophy. But Thomas Tuchel will be aware of the...",
-      "zh-CN": "英格兰队进入了世界杯的最后16场比赛。如果他们继续举起奖杯，没有人会记得他们在32轮比赛中遇到了灾难。但托马斯·图切尔（ Thomas Tuchel ）会意识到……"
+      "en": "A look at how fans in Manchester, Brighton and London celebrated Harry Kane's winner for England against DR Congo."
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13559645/declan-rice-could-be-best-solution-to-thomas-tuchels-right-back-issue-after-cameo-in-england-win-over-dr-congo"
+    "url": "https://www.skysports.com/watch/video/13559618/england-how-fans-celebrated-harry-kanes-stunning-winner-vs-dr-congo"
   },
   {
-    "id": "N_RSS_47328",
+    "id": "N_RSS_79855",
     "type": "official",
     "date": "2026-07-01",
-    "likes": 300,
+    "likes": 62,
     "title": {
-      "en": "World Cup latest: Nagelsmann's future in doubt with Klopp 'dream candidate'",
-      "zh-CN": "世界杯最新消息：纳格尔斯曼的未来受到克洛普“梦想候选人”的质疑"
+      "en": "England ratings: Spence struggles as Kane, Gordon save the day"
     },
     "summary": {
-      "en": ""
+      "en": "Harry Kane and Anthony Gordon saved England as they beat DR Congo 2-1 in the round of 32, but - unsurprisingly - right-back remains a problem area as Djed Spence struggled in Atlanta."
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
+    "url": "https://www.skysports.com/football/news/11095/13559562/england-2-1-dr-congo-player-ratings-harry-kane-and-anthony-gordon-save-the-day-as-djed-spence-struggles-at-right-back"
   },
   {
-    "id": "N_RSS_21595",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 298,
-    "title": {
-      "en": "Belgium v Senegal: World Cup last 32 – live",
-      "zh-CN": "比利时v塞内加尔：世界杯最后32场–直播"
-    },
-    "summary": {
-      "en": "⚽️ Kick-off time: 4pm EDT/9pm BST/6am AEST⚽️ Player guide | Bracketology | Golden Boot“Well, I’m going to come right out and say that I’ve never heard of Sparklehorse,” says Charles Antaki. “There;...",
-      "zh-CN": "⚽️ 开⚽️球时间：美国东部夏令时下午4点/英国夏令时晚上9点/美国东部夏令时上午6点球员指南| Bracketology | Golden Boot “好吧，我要出来说我从来没有听说过Sparklehorse ，” Charles Antaki说。“那儿……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/live/2026/jul/01/belgium-v-senegal-world-cup-last-32-live"
-  },
-  {
-    "id": "N_RSS_83426",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 210,
-    "title": {
-      "en": "German police raid national football HQ over Euro 2024 corruption allegations",
-      "zh-CN": "德国警方突击搜查了2024年欧洲杯腐败指控的国家足球总部"
-    },
-    "summary": {
-      "en": "Operation concerns ‘unauthorised favours’ in host citiesBribery involving tickets is suspected, Bild reportsPolice in Germany have raided the national football federation headquarters and other sites...",
-      "zh-CN": "主办城市的运营担忧“未经授权的恩惠”涉嫌涉及门票的贿赂、《图片报》报道德国警方突袭了国家足球联合会总部和其他场所……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/german-police-raid-national-football-hq-over-euro-2024-corruption-allegations"
-  },
-  {
-    "id": "N_RSS_77724",
+    "id": "N_RSS_87757",
     "type": "official",
     "date": "2026-07-01",
     "likes": 205,
     "title": {
-      "en": "‘An artist who captures hearts’: France is falling in love with Michael Olise"
+      "en": "Kane keeps England's World Cup dream alive as DR Congo beaten"
     },
     "summary": {
-      "en": "Bayern Munich forward is yet to score at this World Cup, but his style and assists are bringing joy back homeBy Get French Football News“Go on, feel free to find the issues,” Didier Deschamps..."
+      "en": "Harry Kane scored a brilliant double to inspire England to a come-from-behind 2-1 win over DR Congo and set up a World Cup last-16 showdown with co-hosts Mexico."
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/michael-olise-artist-hearts-france-love-world-cup-bayern-munich"
-  },
-  {
-    "id": "N_RSS_78894",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 180,
-    "title": {
-      "en": "Fabián Ruiz: ‘It’s not important who plays, it’s important we support each other’ | Sid Lowe"
-    },
-    "summary": {
-      "en": "On the eve of their last-32 game with Austria, Spain’s unassuming midfielder explains their team spirit and about finding his rhythm after injuryAt the Embassy Suites on Broad Street, downtown..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/fabian-ruiz-spain-austria-world-cup-2026-round-32"
-  },
-  {
-    "id": "N_RSS_20305",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 183,
-    "title": {
-      "en": "England 2-1 DR Congo: World Cup last 32 player ratings"
-    },
-    "summary": {
-      "en": "Anthony Gordon showed why he is joining Barcelona but a brilliant Lionel Mpasi in goal could not stop Harry KaneJordan Pickford Got a hand to Cipenga’s strike but could have done better. Will be..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/england-2-1-dr-congo-world-cup-last-32-player-ratings"
-  },
-  {
-    "id": "N_RSS_21069",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 281,
-    "title": {
-      "en": "Four people die in mass fan celebrations in Mexico City after World Cup victory"
-    },
-    "summary": {
-      "en": "Three of the victims died from suffocationMore than a million people gathered in Mexico CityFour people died, three ⁠from suffocation, as thousands of fans crowded Mexico City streets during World..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/deaths-mexico-world-cup-fan-celebrations"
-  },
-  {
-    "id": "N_RSS_12452",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 249,
-    "title": {
-      "en": "In ceding the reins to Mbappé, Olise and Dembélé, France look as under control as ever"
-    },
-    "summary": {
-      "en": "Didier Deschamps used to manage with an iron fist. This time, he’s letting his stars run the show – to Les Bleus’ benefitWhen a cat has cornered a mouse and appears to be toying with its prey, it..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/france-world-cup-mbappe-olise-dembele"
-  },
-  {
-    "id": "N_RSS_37288",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 84,
-    "title": {
-      "en": "‘It’s like being close to home’: World Cup vibes immaculate in richly diverse New York"
-    },
-    "summary": {
-      "en": "Fans of all stripes pack the bars to sing, cheer and commiserate in city where more than 3m people were born outside USAlmost 200,000 Ecuadorians and Ecuadorian Americans live in New York City, and..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/world-cup-new-york"
-  },
-  {
-    "id": "N_RSS_67979",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 201,
-    "title": {
-      "en": "England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg"
-    },
-    "summary": {
-      "en": "It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of AztecaIt was looking bleak out there. Ten years on, it was looking like Iceland all..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/england-avert-disaster-against-dr-congo-but-they-must-be-better-in-mexico-city"
-  },
-  {
-    "id": "N_RSS_32924",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 127,
-    "title": {
-      "en": "‘Would you say it to someone’s face?’ Ellen White on going from player to pundit"
-    },
-    "summary": {
-      "en": "In this week’s newsletter we speak to the Lionesses’ record scorer, who has been inducted to the hall of fame at the National Football MuseumFor a generation of England fans she was the talismanic..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/ellen-white-england-lionesses-player-to-pundit"
-  },
-  {
-    "id": "N_RSS_57338",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 59,
-    "title": {
-      "en": "Mexico end World Cup knockout drought with last-32 win over Ecuador in Azteca cauldron"
-    },
-    "summary": {
-      "en": "They were held up by an electric storm but, after the skies had cleared, Mexico kept the lightning bolts coming. This was a climactic night that utterly engulfed the senses and its ramifications will..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/mexico-ecuador-world-cup-2026-last-32-match-report"
-  },
-  {
-    "id": "N_RSS_83622",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 280,
-    "title": {
-      "en": "Kylian Mbappé at the double as France swat aside Sweden in World Cup masterclass"
-    },
-    "summary": {
-      "en": "When people form memories of the World Cup, it’s matches like this that do it. France once again won comprehensively, and against decent opposition, but the quality of their attacking play, and the..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/france-sweden-world-cup-2026-last-32-match-report"
-  },
-  {
-    "id": "N_RSS_62416",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 216,
-    "title": {
-      "en": "Haaland is inevitable for Norway but are France unstoppable? | World Cup Daily"
-    },
-    "summary": {
-      "en": "Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt and Dan Bardell as France breeze past Sweden and Haaland wins it late for Norway Continue reading..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/video/2026/jul/01/haaland-is-inevitable-for-norway-but-are-france-unstoppable-world-cup-daily"
-  },
-  {
-    "id": "N_RSS_66393",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 157,
-    "title": {
-      "en": "Who has scored the most goals at a World Cup without winning the Golden Boot?"
-    },
-    "summary": {
-      "en": "Plus: World Cup teams stuck on nul points and teams who broke their duck with a drubbingMail us with your all of your questions and answers“Who has scored the most goals at a World Cup finals without..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/knowledge-world-cup-most-goals-without-golden-boot"
-  },
-  {
-    "id": "N_RSS_69848",
-    "type": "official",
-    "date": "2026-07-01",
-    "likes": 223,
-    "title": {
-      "en": "Football Daily | France’s fab front four make them incomparable World Cup favourites"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!We can all agree the Geopolitics World Cup has gone on far too long, so Football Daily is pleased to announce it is over. It monopolises everyone’s..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/01/frances-fab-front-four-make-them-incomparable-world-cup-favourites"
-  },
-  {
-    "id": "N_RSS_94015",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 294,
-    "title": {
-      "en": "Mbappe scores twice as France dominate Sweden"
-    },
-    "summary": {
-      "en": "Kylian Mbappe becomes the all-time leading goalscorer in World Cup knockout matches with after scoring twice as France crusie past Sweden 3-0 to set up a last-16 tie with Paraguay."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c6216q7d62ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_54487",
-    "type": "official",
-    "date": "2026-06-30",
-    "likes": 118,
-    "title": {
-      "en": "The Paraguay hero who sold his kit when his son was born"
-    },
-    "summary": {
-      "en": "Orlando Gill has become Paraguay's World Cup hero but was in football obscurity 18 months ago and had to sell his kit to support his family after the premature birth of his son."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c75yelwge25o?at_medium=RSS&at_campaign=rss"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/england-vs-dr-congo/report/549847"
   }
 ]
