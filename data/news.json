@@ -1,172 +1,377 @@
 [
   {
-    "id": "N_RSS_41518",
+    "id": "N_RSS_61420",
     "type": "official",
     "date": "2026-07-03",
-    "likes": 283,
+    "likes": 237,
     "title": {
-      "en": "Argentina v Cape Verde: Breaking down biggest World Cup knockout mismatch",
-      "zh-CN": "阿根廷对佛得角：打破世界杯最大的淘汰赛错位"
+      "en": "England, Mexico & Fifa locked in kick-off time talks",
+      "zh-CN": "英格兰、墨西哥和国际足联锁定开球时间谈判"
     },
     "summary": {
-      "en": "Lionel Messi versus Vozinha. It is the World Cup battle no-one knew they wanted, but which fans now cannot wait to see.",
-      "zh-CN": "莱昂内尔·梅西对阵沃齐尼亚。这是一场没有人知道他们想要的世界杯比赛，但球迷们现在迫不及待地想看看。"
+      "en": "England's World Cup last-16 tie with Mexico is set to be moved to 19:00 BST on Sunday.",
+      "zh-CN": "英格兰世界杯与墨西哥的最后16场比赛将于周日英国夏令时移至19:00。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c17y82qyjj4o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvgmz3jyq9qo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_54829",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 80,
-    "title": {
-      "en": "Mexico's unlikely hero who England could fear most",
-      "zh-CN": "英格兰最害怕的墨西哥不太可能的英雄"
-    },
-    "summary": {
-      "en": "Julian Quinones' path to being a Mexican hero has been unorthodox - and he will hope to become a legend against England on Monday morning.",
-      "zh-CN": "朱利安·奎诺内斯（ Julian Quinones ）成为墨西哥英雄的道路是非正统的-他希望在周一早上成为对阵英格兰的传奇。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqx1l3n9dj5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_70342",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 159,
-    "title": {
-      "en": "Huge 'Snicko' VAR call prolongs Ronaldo's last dance but ends Modric's",
-      "zh-CN": "巨大的“Snicko” VAR调用延长了罗纳尔多的最后一支舞，但结束了莫德里奇的"
-    },
-    "summary": {
-      "en": "Veteran forward Cristiano Ronaldo gets another day on the World Cup stage after Croatia are denied a late equaliser by a huge VAR call.",
-      "zh-CN": "老将前锋克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）在世界杯舞台上又获得了一天，因为克罗地亚队被一个巨大的VAR电话拒绝了迟到的均衡器。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cz0jee3vy39o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_70340",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 76,
-    "title": {
-      "en": "Man City's Ake in talks over £7m Fenerbahce move",
-      "zh-CN": "曼城的Ake正在就£ 700万Fenerbahce的举动进行谈判"
-    },
-    "summary": {
-      "en": "Manchester City are in talks with Fenerbahce over a £7m deal for Netherlands defender Nathan Ake.",
-      "zh-CN": "曼城正在与费内巴切就荷兰后卫内森·阿克700 £的交易进行谈判。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_41029",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 55,
-    "title": {
-      "en": "Chelsea sign Japan midfielder Matsukubo",
-      "zh-CN": "切尔西签约日本中场松久保"
-    },
-    "summary": {
-      "en": "Chelsea sign Japan international Manaka Matsukubo on a five-year contract from North Carolina Courage.",
-      "zh-CN": "切尔西签下日本国脚Manaka Matsukubo ，与北卡罗来纳州勇气队签订了一份为期五年的合同。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c0ry2g0d579o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_89363",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 77,
-    "title": {
-      "en": "Who am I? Guess World Cup star No 26",
-      "zh-CN": "我是谁？猜猜世界杯明星26号"
-    },
-    "summary": {
-      "en": "Will you get today's player in as few attempts as possible?",
-      "zh-CN": "你会在尽可能少的尝试中获得今天的玩家吗？"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cd0px78zrj1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_73916",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 296,
-    "title": {
-      "en": "How to turn BBC Sport alerts on or off for England v Mexico",
-      "zh-CN": "如何打开或关闭英格兰对墨西哥的BBC体育警报"
-    },
-    "summary": {
-      "en": "Find out how to turn BBC Sport alerts off (or on!) for England's World Cup last-16 match against Mexico.",
-      "zh-CN": "了解如何在英格兰世界杯最后16场对阵墨西哥的比赛中关闭（或打开！ ） BBC体育警报。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2wv22v93zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_27922",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 122,
-    "title": {
-      "en": "World Cup: David Villa on Spain, Messi & World Cup glory",
-      "zh-CN": "世界杯：西班牙大卫·维拉、梅西和世界杯荣耀"
-    },
-    "summary": {
-      "en": "David Villa on Spain, Messi and winning the World Cup.",
-      "zh-CN": "大卫·维拉在西班牙，梅西和赢得世界杯。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0ns84j8?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_79784",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 283,
-    "title": {
-      "en": "Explained: Why England vs Mexico kick-off time could be changed",
-      "zh-CN": "解释：为什么英格兰与墨西哥的开球时间可能会改变"
-    },
-    "summary": {
-      "en": "Sky Sports' Rob Dorsett explains how England's World Cup last-16 tie with Mexico could be moved from its current 1am (UK time) kick-off.",
-      "zh-CN": "天空体育的Rob Dorsett解释了英格兰世界杯与墨西哥的最后16场比赛如何从目前的凌晨1点（英国时间）开球中移开。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/watch/video/13560263/how-will-england-adapt-and-cope-with-revised-kick-off-time"
-  },
-  {
-    "id": "N_RSS_97088",
+    "id": "N_RSS_67767",
     "type": "official",
     "date": "2026-07-03",
     "likes": 181,
     "title": {
-      "en": "'We will be ready regardless!' | Rashford and Rogers defiant amid kick-off time chaos",
-      "zh-CN": "（无论如何，我们都会做好准备！ '|拉什福德和罗杰斯在开球时间混乱中反抗"
+      "en": "Rice likely to be available for England v Mexico",
+      "zh-CN": "大米可能适用于英格兰v墨西哥"
     },
     "summary": {
-      "en": "Morgan Rogers and Marcus Rashford spoke to the media after it was announced that England's kick-off time could be moved.",
-      "zh-CN": "摩根·罗杰斯（ Morgan Rogers ）和马库斯·拉什福德（ Marcus Rashford ）在宣布英格兰的开球时间可能会改变后向媒体发表讲话。"
+      "en": "Declan Rice is likely to be available to start England's World Cup tie against Mexico despite an ongoing injury issue.",
+      "zh-CN": "尽管伤病问题持续存在，德克兰·赖斯仍有可能参加英格兰世界杯对阵墨西哥的比赛。"
     },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/watch/video/13560269/we-will-be-ready-regardless-rashford-and-rogers-confident-despite-kick-off-change"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crm0pnnldeyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_20641",
+    "id": "N_RSS_60088",
     "type": "official",
     "date": "2026-07-03",
-    "likes": 62,
+    "likes": 228,
     "title": {
-      "en": "Messi starts for Argentina vs Cape Verde LIVE!",
-      "zh-CN": "梅西在阿根廷对佛得角的比赛现场直播！"
+      "en": "England fan tickets for Mexico on resale for up to £26K",
+      "zh-CN": "转售墨西哥英格兰球迷票高达£ 26,000"
+    },
+    "summary": {
+      "en": "Tickets originally bought by England fans for the World Cup last-16 game against Mexico are relisted for thousands of pounds on Fifa's official resale portal.",
+      "zh-CN": "英格兰球迷最初为世界杯最后16场对阵墨西哥的比赛购买的门票在国际足联的官方转售门户网站上以数千英镑的价格重新上市。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cj3g7dxlvexo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_2793",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 287,
+    "title": {
+      "en": "Egypt into last 16 after shootout victory against Australia",
+      "zh-CN": "埃及在对阵澳大利亚的枪战胜利后进入最后16名"
+    },
+    "summary": {
+      "en": "Egypt defeated Australia on penalties to claim their first ever win in the World Cup knockout stage and set up a last-16 tie with either Argentina or Cape Verde.",
+      "zh-CN": "埃及在点球大战中击败澳大利亚，声称他们在世界杯淘汰赛阶段首次获胜，并与阿根廷或佛得角建立了16强平局。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/czde25nmq6no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_1367",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 243,
+    "title": {
+      "en": "Germany want Klopp talks as Nagelsmann resigns",
+      "zh-CN": "纳格尔斯曼辞职后，德国希望克洛普会谈"
+    },
+    "summary": {
+      "en": "The German football association is seeking talks with Jurgen Klopp about becoming their men's national team coach after Julian Nagelsmann resigned.",
+      "zh-CN": "德国足球协会正在寻求与尤尔根·克洛普（ Jurgen Klopp ）就朱利安·纳格尔斯曼（ Julian Nagelsmann ）辞职后成为他们的男子国家队教练"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8x272kyp4wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_32663",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 239,
+    "title": {
+      "en": "After World Cup goals are last year's signings finally set to deliver for Newcastle?",
+      "zh-CN": "在世界杯进球之后，去年的签约最终将为纽卡斯尔带来什么？"
+    },
+    "summary": {
+      "en": "Anthony Elanga and Yoane Wissa both struggled in their first season at Newcastle, but five goals between at the World Cup them suggest things will be different next term.",
+      "zh-CN": "安东尼·埃兰加（ Anthony Elanga ）和约恩·维萨（ Yoane Wissa ）在纽卡斯尔的第一个赛季都很挣扎，但在世界杯之间的五个进球表明下赛季情况会有所不同。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy8dg9nry4xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_23640",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 100,
+    "title": {
+      "en": "Ex-Spurs boss Postecoglou takes over at Ronaldo's Al-Nassr",
+      "zh-CN": "前热刺老板Postecoglou接管罗纳尔多的Al-Nassr"
+    },
+    "summary": {
+      "en": "Former Tottenham boss Ange Postecoglou is appointed as head coach of Al-Nassr in the Saudi Pro League - where he will manage Cristiano Ronaldo.",
+      "zh-CN": "前托特纳姆热刺老板Ange Postecoglou被任命为沙特职业联赛Al-Nassr的主教练，在那里他将管理克里斯蒂亚诺·罗纳尔多。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cr47p07wk67o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_22937",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 247,
+    "title": {
+      "en": "'I decided last minute!' - Salah on Panenka penalty",
+      "zh-CN": "（我是在最后一刻决定的！ '- Salah对Panenka的处罚"
+    },
+    "summary": {
+      "en": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup.",
+      "zh-CN": "Mo Salah解释说，这是最后一刻决定“Panenka”他对埃及的点球，因为他们在枪战中击败了澳大利亚，进入了2026年世界杯的最后16场比赛。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_57629",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 245,
+    "title": {
+      "en": "Watch the full shootout as Egypt hold nerve to make World Cup last 16",
+      "zh-CN": "观看完整的枪战，埃及勇敢地让世界杯进入16强"
+    },
+    "summary": {
+      "en": "Egypt defeat Australia on penalties to claim their first ever win in the World Cup knockout stage, and make it through to the last 16.",
+      "zh-CN": "埃及在世界杯淘汰赛阶段首次击败澳大利亚，并进入16强。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c5yz8gqpdddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_75204",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 184,
+    "title": {
+      "en": "'History for the Pharaohs' - Egypt celebrate after winning shootout",
+      "zh-CN": "“法老的历史” -埃及在赢得枪战后庆祝"
+    },
+    "summary": {
+      "en": "Egypt celebrate as they win a World Cup knockout match for the first time after beating Australia 4-2 on penalties in Dallas to reach the last 16.",
+      "zh-CN": "埃及队在达拉斯以4比2击败澳大利亚队，打入16强，首次赢得世界杯淘汰赛。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c621r4e4xpjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_48281",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 75,
+    "title": {
+      "en": "Ashour heads Egypt into lead against Australia",
+      "zh-CN": "阿舒尔率领埃及对阵澳大利亚"
+    },
+    "summary": {
+      "en": "Emam Ashour heads Egypt into the lead against Australia in their 2026 World Cup round of 32 match in Dallas.",
+      "zh-CN": "Emam Ashour在达拉斯举行的2026年世界杯32场比赛中领先埃及对阵澳大利亚。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c8923lk4n02o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_89029",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 141,
+    "title": {
+      "en": "'You can't breathe' - what is it like playing at altitude?",
+      "zh-CN": "“你无法呼吸” -在海拔高度玩游戏是什么感觉？"
+    },
+    "summary": {
+      "en": "BBC pundits Rachel Corsie and Lucas Leiva explain their experiences of playing football at altitude, ahead of England's game at Estadio Azteca against Mexico which sits 2,240 metres above sea level.",
+      "zh-CN": "英国广播公司专家雷切尔·科西（ Rachel Corsie ）和卢卡斯·莱瓦（ Lucas Leiva ）在英格兰阿兹特克体育场（ Estadio Azteca ）对阵海拔2240米的墨西哥队比赛之前，介绍了他们在高空踢足球的经历。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cvgle8rgj3vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_18132",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 134,
+    "title": {
+      "en": "Arsenal sign Lioness Stanway from Bayern",
+      "zh-CN": "来自拜仁的阿森纳标志Lioness Stanway"
+    },
+    "summary": {
+      "en": "England midfielder Georgia Stanway says she is joining Arsenal to \"win trophies and grow as a player\".",
+      "zh-CN": "英格兰中场球员乔治亚·斯坦威（ Georgia Stanway ）表示，她将加入阿森纳，以“赢得奖杯并成长为一名球员”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy9r153pe31o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_21248",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 158,
+    "title": {
+      "en": "Victorious Portugal pay emotional tribute to Jota",
+      "zh-CN": "胜利的葡萄牙向Jota致敬"
+    },
+    "summary": {
+      "en": "One year after his death, Portugal are using Diogo Jota's memory to help inspire them at the 2026 World Cup.",
+      "zh-CN": "在他去世一年后，葡萄牙正在利用Diogo Jota的记忆来帮助他们在2026年世界杯上获得灵感。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1kyl71wxw9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_77996",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 256,
+    "title": {
+      "en": "Portugal through to last 16 after dramatic victory over Croatia",
+      "zh-CN": "在克罗地亚取得戏剧性胜利后，葡萄牙队取得了16强的成绩"
+    },
+    "summary": {
+      "en": "Portugal beat Croatia 2-1 with goals from Cristiano Ronaldo and Goncalo Ramos after a chaotic second-half in Toronto to set up a last 16 tie with Iberian rivals Spain.",
+      "zh-CN": "在多伦多下半场混乱之后，葡萄牙以克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）和贡萨洛·拉莫斯（ Goncalo Ramos ）的进球以2比1击败克罗地亚，与伊比利亚对手西班牙建立了最后16个平局。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cy9r11gj8lzo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_2539",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 71,
+    "title": {
+      "en": "The friends who drove from Ghana to the World Cup"
+    },
+    "summary": {
+      "en": "Six fans of the Black Stars are living proof of how football can drive supporters to extreme lengths to follow their team."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cvgmz5jnr37o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_74253",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 211,
+    "title": {
+      "en": "Late VAR drama as Croatia denied equaliser"
+    },
+    "summary": {
+      "en": "Josko Gvardiol's stoppage-time goal is ruled out for offside after a VAR review, denying Croatia an equaliser against Portugal in their World Cup knockout match in Toronto."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ckg7eerdx6go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_6629",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 275,
+    "title": {
+      "en": "Ronaldo levels from penalty spot for Portugal"
+    },
+    "summary": {
+      "en": "Portugal captain Cristiano Ronaldo draws his side level from the penalty spot against Croatia during their round of 32 game in Toronto."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cdx7ddr5n7qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_62082",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 186,
+    "title": {
+      "en": "Ronaldo has equaliser ruled out for offside"
+    },
+    "summary": {
+      "en": "Cristiano Ronaldo has an equalising goal ruled out for offside during Portugal's round of 32 game with Croatia in Toronto."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ce3edkv33kvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_80364",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 53,
+    "title": {
+      "en": "Mahrez retires from Algeria duty after World Cup exit"
+    },
+    "summary": {
+      "en": "Algeria captain Riyad Mahrez announces his retirement from international football after the Desert Foxes’ 2-0 defeat by Switzerland in the World Cup round of 32."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn0vwn78n8do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_8399",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 243,
+    "title": {
+      "en": "Denmark defender Thomsen signs two-year London City deal"
+    },
+    "summary": {
+      "en": "London City Lionesses sign Denmark international defender Janni Thomsen from Utah Royals FC."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c77ym71vn50o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_84025",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 102,
+    "title": {
+      "en": "Aston Villa sign Norway midfielder Kielland"
+    },
+    "summary": {
+      "en": "Norway midfielder Justine Kielland joins Aston Villa from German club Wolfsburg, subject to visa approval.\nKielland joined Norwegian side Brann in 2023. During her time there, she helped the club..."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cp8r4dp1l6wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_17489",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 93,
+    "title": {
+      "en": "England into last 16 - what is their path to the final?"
+    },
+    "summary": {
+      "en": "BBC Sport takes a look at what England will need to do to reach the final after progressing the last 16"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_14238",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 148,
+    "title": {
+      "en": "Former Celtic boss Postecoglou takes over at Ronaldo's Al-Nassr"
+    },
+    "summary": {
+      "en": "Former Tottenham boss Ange Postecoglou is appointed as head coach of Al-Nassr in the Saudi Pro League - where he will manage Cristiano Ronaldo."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cr47p07wk67o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_41894",
+    "type": "official",
+    "date": "2026-07-03",
+    "likes": 211,
+    "title": {
+      "en": "Argentina vs Cape Verde LIVE!"
     },
     "summary": {
       "en": ""
@@ -175,277 +380,73 @@
     "url": "https://www.skysports.com/football/argentina-vs-cape-verde/live/549852"
   },
   {
-    "id": "N_RSS_87411",
+    "id": "N_RSS_84196",
     "type": "official",
     "date": "2026-07-03",
-    "likes": 174,
+    "likes": 135,
     "title": {
-      "en": "Postecoglou to coach Ronaldo after being named new Al Nassr boss",
-      "zh-CN": "Postecoglou被任命为新任Al Nassr老板后，将成为罗纳尔多的教练"
+      "en": "Egypt eliminate Australia from World Cup after penalty shoot-out drama"
     },
     "summary": {
-      "en": "Ange Postecoglou&#160;has been named as the new&#160;Al Nassr&#160;boss in the&#160;Saudi Pro League,&#160;where he will coach&#160;Cristiano Ronaldo.&#160;",
-      "zh-CN": "Ange Postecoglou被任命为沙特职业联赛的新任Al Nassr老板，在那里他将执教克里斯蒂亚诺·罗纳尔多。 "
+      "en": "Egypt are into the last 16 of the World Cup after beating Australia in a dramatic penalty shoot-out in Dallas."
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13560228/cristiano-ronaldo-to-be-coached-by-ange-postecoglou-after-australian-appointed-by-al-nassr"
+    "url": "https://www.skysports.com/football/australia-vs-egypt/report/549851"
   },
   {
-    "id": "N_RSS_92163",
+    "id": "N_RSS_55720",
     "type": "official",
     "date": "2026-07-03",
-    "likes": 160,
+    "likes": 237,
     "title": {
-      "en": "Australia v Egypt: World Cup 2026 last-32 tie goes to penalties – live",
-      "zh-CN": "澳大利亚对埃及： 2026年世界杯最后32场比赛罚球–现场"
+      "en": "Key moments and rate the players as Egypt beat Australia on penalties"
     },
     "summary": {
-      "en": "⚽️ Kick-off time: 1pm local/2pm EDT/7pm BST/4am AEST⚽️ Player guide | Bracketology | Golden Boot | Mail ScottA message to all Australian fans who have got up early / talked the whole night through....",
-      "zh-CN": "⚽️ 开球时间：当地时间下午1点/美国东部夏令时下午2点/英国夏令时晚上7点/美国东部时间凌晨4点⚽️球员指南| Bracketology | Golden Boot | Mail Scott给所有早起/通宵交谈的澳大利亚球迷发消息...."
+      "en": ""
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/australia-vs-egypt/live/549851"
   },
   {
-    "id": "N_RSS_6876",
+    "id": "N_RSS_87603",
     "type": "official",
     "date": "2026-07-03",
-    "likes": 279,
+    "likes": 227,
     "title": {
-      "en": "England’s game against Mexico could be moved to noon local time, 7pm UK time Sunday",
-      "zh-CN": "英格兰对阵墨西哥的比赛可能会移至当地时间中午，英国时间周日晚上7点"
+      "en": "Stones to start? Rice at right-back? England XIs to face Mexico"
     },
     "summary": {
-      "en": "Game originally set to kick off at 6pm local timeCould be rescheduled due to risk of thunderstormsFifa is in discussions over moving the kick-off time of Mexico v England to earlier in day on Sunday...",
-      "zh-CN": "比赛原定于当地时间下午6点开始。由于雷暴的风险，可能会重新安排比赛。国际足联正在讨论将墨西哥对英格兰的比赛时间提前到周日的早些时候..."
+      "en": "England are preparing to face Mexico in the last 16 of the 2026 World Cup in the early hours of Monday - but who should be in the team at the Azteca Stadium?"
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/03/england-mexico-match-timing"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13559759/mexico-vs-england-predicted-line-ups-sky-sports-writers-pick-their-xis-with-declan-rice-anthony-gordon-and-john-stones-among-players-debated"
   },
   {
-    "id": "N_RSS_14958",
+    "id": "N_RSS_69045",
     "type": "official",
     "date": "2026-07-03",
-    "likes": 116,
+    "likes": 65,
     "title": {
-      "en": "Argentina v Cape Verde: World Cup 2026 last 32 – live",
-      "zh-CN": "阿根廷v佛得角： 2026年世界杯最后32场–直播"
+      "en": "Will Tuchel's in-game management be the difference for England?"
     },
     "summary": {
-      "en": "⚽️ Kick-off time: 6pm local/8am AEST/11pm BST⚽️ Player guide | Bracketology | World Cup draw | Mail TomAand we’re going to penalties in Australia v Egypt. Follow along here. I am now liveblogging a...",
-      "zh-CN": "⚽️ 开球时间：当地时间下午6点/美国东部时间上午8点/英国夏令时晚上11点⚽️球员指南| Bracketology |世界杯抽签| Mail TomA ，我们将在澳大利亚对埃及进行处罚。跟着这里，我现在正在直播……"
+      "en": "England did not hire Thomas Tuchel to negotiate the group stage of a major tournament and safely take them through to the round of 16. His predecessor Gareth Southgate managed to do that four times..."
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/live/2026/jul/03/argentina-v-cape-verde-world-cup-2026-last-32-live"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13559215/thomas-tuchels-in-game-management-england-coach-here-to-make-a-difference-in-big-moments-there-are-positive-signs"
   },
   {
-    "id": "N_RSS_18419",
+    "id": "N_RSS_48153",
     "type": "official",
     "date": "2026-07-03",
-    "likes": 206,
+    "likes": 229,
     "title": {
-      "en": "Football Daily | Time waits for no man, nor Cristiano Ronaldo’s football legacy"
+      "en": "Man Utd latest: Summerville talks held as Rashford focuses on England"
     },
     "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Before Football Daily’s inbox is flooded by an angry reader with fingers busier than Arsenal fans at a Viktor Gyökores lookalike contest, we would..."
+      "en": ""
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/03/football-daily-gwc-cristiano-ronaldo-portugal"
-  },
-  {
-    "id": "N_RSS_98473",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 178,
-    "title": {
-      "en": "Facing Mexico at the Azteca? Suddenly our expectations of England are unusually realistic | Max Rushden"
-    },
-    "summary": {
-      "en": "Thomas Tuchel’s side have problems aside from the altitude: defeat in a Mexican haze would be no embarrassmentIt’s a warm June afternoon in 2009. The teams look uneven. At 30, I am the second-oldest..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/03/world-cup-mexico-azteca-altitude-england-thomas-tuchel-tactics"
-  },
-  {
-    "id": "N_RSS_12751",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 189,
-    "title": {
-      "en": "Get a grip on Mora and take aerial route: what England can do to contain Mexico"
-    },
-    "summary": {
-      "en": "Thomas Tuchel’s team can tame the co-hosts by slowing things down and isolating Raúl Jiménez One of the question marks over Mexico’s team before this World Cup centred on a shortage of obvious star..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/03/tactical-test-what-england-must-do-to-handle-mexicos-threat"
-  },
-  {
-    "id": "N_RSS_23186",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 144,
-    "title": {
-      "en": "Mbappé becomes leader of France’s collective under Deschamps’ regime of trust"
-    },
-    "summary": {
-      "en": "Les Bleus’ thrilling front four is built on the spirit the head coach has fostered in his squad, allowing them to be both secure and adventurousIt was a striking image, the picture that best captured..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/03/mbappe-becomes-leader-of-frances-collective-under-deschamps-regime-of-trust"
-  },
-  {
-    "id": "N_RSS_93759",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 117,
-    "title": {
-      "en": "‘It’s been surreal’: USMNT’s Folarin Balogun moves on from controversial red card"
-    },
-    "summary": {
-      "en": "Striker’s one-match ban will not be increasedBalogun says yellow card would have been fairPepi and Wright among options against BelgiumFolarin Balogun fielded questions on the morning of his 25th..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/03/folarin-balogun-red-card-suspension-belgium-world-cup"
-  },
-  {
-    "id": "N_RSS_60451",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 236,
-    "title": {
-      "en": "Norway have finally lived up to World Cup billing – a reunion with Brazil is perfect timing | Lars Sivertsen"
-    },
-    "summary": {
-      "en": "Ståle Solbakken’s side have surpassed previous golden generation as they prepare to meet team they beat in 1998For a country of 5.6 million people, Norway’s list of competitive achievements is..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/03/norway-have-finally-lived-up-to-world-cup-billing-a-reunion-with-brazil-is-perfect-timing"
-  },
-  {
-    "id": "N_RSS_76313",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 235,
-    "title": {
-      "en": "Manzambi dazzles as Switzerland stroll into last 16 with win over Algeria"
-    },
-    "summary": {
-      "en": "No wonder Newcastle United are working overtime to wrap up a deal for Johan Manzambi. The secret, if there was such a thing, is well and truly out when it comes to the 20-year-old Freiburg forward..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/03/manzambi-switzerland-world-cup-algeria-match-report"
-  },
-  {
-    "id": "N_RSS_14460",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 91,
-    "title": {
-      "en": "Ramos sends Portugal into last 16 as VAR drama caps wild finish against Croatia"
-    },
-    "summary": {
-      "en": "Rafael Leão dropped to his knees. His cross had just been flicked into the net by Gonçalo Ramos to take Portugal to the last 16 of the World Cup. Leão’s expression was not one of delight, but..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/02/portugal-croatia-world-cup-2026-last-32-match-report"
-  },
-  {
-    "id": "N_RSS_48128",
-    "type": "official",
-    "date": "2026-07-03",
-    "likes": 95,
-    "title": {
-      "en": "Germany hold Jürgen Klopp talks after Julian Nagelsmann quits as head coach"
-    },
-    "summary": {
-      "en": "Nagelsmann agrees to quit following World Cup exitKlopp to begin discussions over return to managementJulian Nagelsmann will step down as Germany’s head coach after the team’s disappointing showing..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/03/germany-hold-jurgen-klopp-talks-after-julian-nagelsmann-quits-as-head-coach"
-  },
-  {
-    "id": "N_RSS_95256",
-    "type": "official",
-    "date": "2026-07-02",
-    "likes": 134,
-    "title": {
-      "en": "The one club man who is Spain's under-the-radar hero"
-    },
-    "summary": {
-      "en": "Mikel Oyarzabal is perhaps not the biggest name in Spain's World Cup squad, but the one who has so far shone brightest."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvgd0jz1xq7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_76890",
-    "type": "official",
-    "date": "2026-07-02",
-    "likes": 129,
-    "title": {
-      "en": "Secret location & sleep devices: England bid to combat noisy Mexico fans"
-    },
-    "summary": {
-      "en": "England are taking precautions to ensure boisterous locals do not disrupt their preparations in Mexico."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c74y7jwj30eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_75063",
-    "type": "official",
-    "date": "2026-07-02",
-    "likes": 235,
-    "title": {
-      "en": "'Premier League goalkeepers will be throwing food at TV'"
-    },
-    "summary": {
-      "en": "Joe Hart analyses the decision to rule out Marc Cucurella's goal against Austria for a foul on Austrian goalkeeper Alexander Schlager during their last-32 game in Los Angeles, with Hart believing the..."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cvgm419701no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_36368",
-    "type": "official",
-    "date": "2026-07-02",
-    "likes": 233,
-    "title": {
-      "en": "'Spain are furious' - Cucurella has goal ruled out"
-    },
-    "summary": {
-      "en": "Marc Cucurella sees his goal ruled out for a foul on Austrian goalkeeper Alexander Schlager during their round of 32 game in Los Angeles."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c5yzx952jy3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_10472",
-    "type": "official",
-    "date": "2026-07-02",
-    "likes": 283,
-    "title": {
-      "en": "'He's been really good' - Oyarzabal nets twice for Spain"
-    },
-    "summary": {
-      "en": "Mikel Oyarzabal scores twice for Spain as they beat Austria 3-0 in Los Angeles to advance to the last 16."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cvge042v5k7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_78387",
-    "type": "official",
-    "date": "2026-07-02",
-    "likes": 133,
-    "title": {
-      "en": "England, France & Spain v Portugal on BBC in last 16"
-    },
-    "summary": {
-      "en": "England's meeting with Mexico is one of four World Cup last-16 matches to be broadcast live on BBC One, BBC iPlayer and across BBC Sport."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckg4wvn1ke9o?at_medium=RSS&at_campaign=rss"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
   }
 ]
