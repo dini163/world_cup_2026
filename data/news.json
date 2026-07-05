@@ -1,250 +1,139 @@
 [
   {
-    "id": "N_RSS_92272",
+    "id": "N_RSS_52936",
     "type": "official",
     "date": "2026-07-05",
-    "likes": 130,
+    "likes": 283,
     "title": {
-      "en": "Who am I? Guess World Cup star No 28",
-      "zh-CN": "我是谁？猜猜世界杯明星28号"
+      "en": "England enter the Azteca - where football kings are crowned",
+      "zh-CN": "英格兰进入阿兹特克--足球之王加冕之地"
     },
     "summary": {
-      "en": "Will you get today's player in as few attempts as possible?",
-      "zh-CN": "你会在尽可能少的尝试中获得今天的玩家吗？"
+      "en": "BBC Sport explores the history and cultural power of the Azteca, one of the great cathedrals of world football, as England prepare to face Mexico there in the last 16 of the World Cup.",
+      "zh-CN": "英国广播公司体育频道探索世界足球大教堂之一阿兹特克的历史和文化力量，因为英格兰准备在世界杯的最后16场比赛中面对墨西哥。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx21k039r7qo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cg74e324835o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_1419",
+    "id": "N_RSS_79255",
     "type": "official",
     "date": "2026-07-05",
-    "likes": 287,
+    "likes": 211,
     "title": {
-      "en": "The Norway story - 28-year wait for their biggest-ever party",
-      "zh-CN": "挪威的故事-等待他们有史以来规模最大的派对28年"
+      "en": "Stay humble - the Premier League feud about to hit world stage",
+      "zh-CN": "保持谦逊-英超联赛争吵即将登上世界舞台"
     },
     "summary": {
-      "en": "Norway have waited 28 years for an appearance at the World Cup - now they face Brazil hoping to make history by reaching the quarter-finals for the first time.",
-      "zh-CN": "挪威已经等待了28年才能参加世界杯-现在他们面对巴西，希望通过首次进入四分之一决赛来创造历史。"
+      "en": "The Premier League between Manchester City's Erling Haaland and Arsenal defender Erling Haaland goes global as Norway meet Brazil at the World Cup.",
+      "zh-CN": "随着挪威在世界杯上与巴西队比赛，曼城的埃尔林·哈兰德和阿森纳后卫埃尔林·哈兰德之间的英超联赛走向全球。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cpq3pgdp500o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c2ky2x52kwlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_11196",
+    "id": "N_RSS_2941",
     "type": "official",
-    "date": "2026-07-04",
-    "likes": 174,
+    "date": "2026-07-05",
+    "likes": 256,
     "title": {
-      "en": "Unbeaten in 34 matches - why Morocco are World Cup contenders",
-      "zh-CN": "在34场比赛中保持不败-为什么摩洛哥是世界杯的竞争者"
+      "en": "Tuchel praises respectful Mexico fans amid increased security",
+      "zh-CN": "Tuchel在提高安全性的同时赞扬尊重墨西哥球迷"
     },
     "summary": {
-      "en": "As  Morocco beat Canada to book their place in the last-8, their World Cup campaign can no longer be seen as a fairytale.",
-      "zh-CN": "由于摩洛哥在过去八场比赛中击败加拿大，他们的世界杯竞选活动不再被视为童话故事。"
+      "en": "Thomas Tuchel dismisses concerns over England's treatment in Mexico, saying it has been \"nicer than I expected\" and that home fans are \"friendly and respectful\".",
+      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）驳斥了对英格兰在墨西哥待遇的担忧，称这种待遇“比我预期的要好” ，而且主场球迷“友好而尊重”。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cy4e22gqe50o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8r2827pyxlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_13340",
+    "id": "N_RSS_31321",
     "type": "official",
-    "date": "2026-07-04",
-    "likes": 185,
+    "date": "2026-07-05",
+    "likes": 61,
     "title": {
-      "en": "In spotlight but shunning limelight - Olise's unique rise to top",
-      "zh-CN": "在聚光灯下避开聚光灯--Olise独一无二的拔得头筹"
+      "en": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+      "zh-CN": "法国在巴拉圭的“可耻”和“尴尬”的黑魔法中幸存下来"
     },
     "summary": {
-      "en": "A footballer who dislikes too much media attention, but Michael Olise might not have much choice if he carries on his World Cup heroics.",
-      "zh-CN": "一个不喜欢太多媒体关注的足球运动员，但如果迈克尔·奥利斯继续他的世界杯英雄事迹，他可能别无选择。"
+      "en": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.",
+      "zh-CN": "在本届世界杯上拆除了他们面前的所有人之后，法国不得不寻找一种新的方式来战胜巴拉圭方面，巴拉圭方面使用黑魔法激怒了许多观众。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzr42943lo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_97221",
+    "id": "N_RSS_2639",
     "type": "official",
-    "date": "2026-07-04",
-    "likes": 258,
+    "date": "2026-07-05",
+    "likes": 99,
     "title": {
-      "en": "Brazil going out? Chris Sutton predicts World Cup's last-16 matches",
-      "zh-CN": "巴西出局？克里斯·萨顿预测世界杯的最后16场比赛"
+      "en": "France overcome resolute Paraguay to reach quarter-final",
+      "zh-CN": "法国战胜坚定的巴拉圭，进入四分之一决赛"
     },
     "summary": {
-      "en": "BBC Sport's football expert Chris Sutton gives his predictions for the last-16 ties at the 2026 World Cup, including England against Mexico.",
-      "zh-CN": "英国广播公司体育台的足球专家克里斯·萨顿（ Chris Sutton ）对2026年世界杯的最后16场比赛进行了预测，其中包括英格兰对墨西哥的比赛。"
+      "en": "World Cup favourites France book their quarter-final place thanks to Kylian Mbappe's second-half penalty against a stubborn Paraguay side in Philadelphia.",
+      "zh-CN": "由于Kylian Mbappe对费城顽固的巴拉圭队的下半场点球，世界杯最受欢迎的法国队进入了四分之一决赛。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1my20zyn2eo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/c4gy7d7z122o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_46976",
+    "id": "N_RSS_35440",
     "type": "official",
-    "date": "2026-07-04",
-    "likes": 199,
+    "date": "2026-07-05",
+    "likes": 72,
     "title": {
-      "en": "Mbappe coolly fires France into lead from penalty spot",
-      "zh-CN": "Mbappe冷静地将法国从罚球点射入铅球"
+      "en": "Mexico return luxury watches gifted by YouTuber",
+      "zh-CN": "墨西哥回归YouTuber赠送的奢华腕表"
     },
     "summary": {
-      "en": "France's Kylian Mbappe keeps his cool to send Paraguay goalkeeper Orlando Gill the wrong way to score his seventh goal of the 2026 World Cup.",
-      "zh-CN": "法国的Kylian Mbappe保持冷静，让巴拉圭守门员奥兰多·吉尔（ Orlando Gill ）以错误的方式打进2026年世界杯的第七个进球。"
+      "en": "World Cup co-hosts Mexico - who play England on Sunday night - return luxury watches gifted to them by a content creator because Fifa rules prohibit expensive gifts.",
+      "zh-CN": "世界杯联合主办方墨西哥（周日晚上与英格兰队比赛）退回了内容创作者赠送给他们的奢侈手表，因为国际足联的规定禁止赠送昂贵的礼物。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c1dy2y6xyr5o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/clyrpy3kn9po?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_12359",
+    "id": "N_RSS_73521",
     "type": "official",
-    "date": "2026-07-04",
-    "likes": 293,
+    "date": "2026-07-05",
+    "likes": 188,
     "title": {
-      "en": "Why Europe's top clubs are eyeing Morocco's teenage sensation Bouaddi",
-      "zh-CN": "为什么欧洲顶级俱乐部正在关注摩洛哥的青少年轰动Bouaddi"
+      "en": "Mexico could bring the best out of  Tuchel's England",
+      "zh-CN": "墨西哥可以充分利用图赫尔的英格兰"
     },
     "summary": {
-      "en": "After lighting up the 2022 World Cup Morocco are once again shining on the global stage - but this time they have teenage sensation Ayyoub Bouaddi in their ranks.",
-      "zh-CN": "在点亮2022年世界杯之后，摩洛哥再次在全球舞台上熠熠生辉，但这一次，他们的队伍中出现了青春期的Ayyoub Bouaddi。"
+      "en": "BBC Sport World Cup pundits Thomas Hitzlsperger, Joe Hart and Micah Richards feel the way Mexico play could bring out the best of Thomas Tuchel's England side.",
+      "zh-CN": "英国广播公司体育世界杯专家托马斯·希茨尔斯佩格（ Thomas Hitzlsperger ）、乔·哈特（ Joe Hart ）和米卡·理查兹（ Micah Richards ）认为，墨西哥队的比赛方式可以发挥托马斯·图"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c802jp3lz13o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/clywpjjpze4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_4460",
+    "id": "N_RSS_34507",
     "type": "official",
-    "date": "2026-07-04",
-    "likes": 98,
+    "date": "2026-07-05",
+    "likes": 291,
     "title": {
-      "en": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
-      "zh-CN": "壁画、旗帜和牛肉菜肴：迈阿密的梅西狂热"
-    },
-    "summary": {
-      "en": "Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina against Cape Verde - and delighted the fans who were in Miami to see their hero.",
-      "zh-CN": "莱昂内尔·梅西（ Lionel Messi ）的世界杯进球路演继续进行，在阿根廷对佛得角的比赛中排名第七，他很高兴在迈阿密的球迷看到了他们的英雄。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_39464",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 122,
-    "title": {
-      "en": "Arias strike sends Colombia into last 16 with victory over Ghana",
-      "zh-CN": "阿里亚斯罢工使哥伦比亚进入最后16名，战胜加纳"
-    },
-    "summary": {
-      "en": "Jhon Arias scores the only goal of the game as Colombia become the last team to book their place in the last 16 following a 1-0 win over Ghana in Kansas City.",
-      "zh-CN": "乔恩·阿里亚斯（ Jhon Arias ）在堪萨斯城以1比0战胜加纳后，成为最后一支在过去16场比赛中预定位置的球队，这是比赛的唯一进球。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/crr8pz45409o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_61440",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 297,
-    "title": {
-      "en": "Listen: Sportsound with Lennon, Levein & Neilson",
-      "zh-CN": "聆听：与Lennon、Levein和Neilson一起体验Sportsound"
-    },
-    "summary": {
-      "en": "All the news from the World Cup plus Neil Lennon, Robbie Neilson, Craig McLeish and more",
-      "zh-CN": "来自世界杯以及Neil Lennon、Robbie Neilson、Craig McLeish等人的所有新闻"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0nwwwr8?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_79438",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 151,
-    "title": {
-      "en": "Mbappe scores again to send France past stubborn Paraguay",
-      "zh-CN": "姆巴佩再次得分，让法国超越顽固的巴拉圭"
-    },
-    "summary": {
-      "en": "Kylian Mbappe's 70th-minute penalty gave France a 1-0 victory over Paraguay in an ill-tempered World Cup last-16 tie in Philadelphia to set up a quarter-final meeting with Morocco.",
-      "zh-CN": "基利安·姆巴佩（ Kylian Mbappe ）的第70分钟点球让法国队以1比0击败巴拉圭，在费城举行的世界杯最后16场比赛中脾气暴躁，与摩洛哥队举行了四分之一决赛。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/paraguay-vs-france/report/549855"
-  },
-  {
-    "id": "N_RSS_94362",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 202,
-    "title": {
-      "en": "All the key moments and rate the players as France beat Paraguay",
-      "zh-CN": "法国击败巴拉圭的所有关键时刻和评分球员"
+      "en": "James could make England bench vs Mexico with Quansah available",
+      "zh-CN": "詹姆斯可以利用Quansah让英格兰板凳对墨西哥板凳"
     },
     "summary": {
       "en": ""
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/paraguay-vs-france/live/549855"
+    "url": "https://www.skysports.com/football/mexico-vs-england/live/549857"
   },
   {
-    "id": "N_RSS_48071",
+    "id": "N_RSS_7303",
     "type": "official",
-    "date": "2026-07-04",
-    "likes": 131,
+    "date": "2026-07-05",
+    "likes": 241,
     "title": {
-      "en": "Carra: Tuchel's created right-back problem with 'bizarre decision'",
-      "zh-CN": "卡拉：图切尔用“奇怪的决定”制造了右后卫问题"
-    },
-    "summary": {
-      "en": "Jamie Carragher believes England boss Thomas Tuchel is to blame for his side's right-back issue at the World Cup.",
-      "zh-CN": "杰米·卡拉格（ Jamie Carragher ）认为，英格兰主帅托马斯·图切尔（ Thomas Tuchel ）应对他的球队在世界杯上的右后卫问题"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13560384/england-boss-thomas-tuchel-has-created-world-cup-right-back-problem-ahead-of-mexico-last-16-game-says-jamie-carragher"
-  },
-  {
-    "id": "N_RSS_81430",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 164,
-    "title": {
-      "en": "Mexico will come out swinging as Tuchel faces more selection headaches",
-      "zh-CN": "随着Tuchel面临更多的选择难题，墨西哥将摆脱困境"
-    },
-    "summary": {
-      "en": "England will face their biggest test of the World Cup so far when they take on Mexico at the Azteca Stadium.",
-      "zh-CN": "英格兰队将在阿兹特克体育场迎战墨西哥队时，将面临迄今为止最大的世界杯考验。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13560378/mexico-vs-england-world-cup-last-16-thomas-tuchel-faces-another-right-back-dilemma-as-azteca-awaits"
-  },
-  {
-    "id": "N_RSS_14408",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 102,
-    "title": {
-      "en": "Forget high altitude! What other problems could Mexico pose England on the pitch?",
-      "zh-CN": "忘记高海拔！墨西哥在球场上还会给英格兰带来什么其他问题？"
-    },
-    "summary": {
-      "en": "England are playing at high altitude on Sunday. You may have heard. But what other challenges will Mexico bring to the last-16 World Cup tie?",
-      "zh-CN": "英格兰队周日在高海拔地区比赛。您可能听说过。但是，墨西哥在过去的16届世界杯比赛中还会面临哪些其他挑战？"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13560431/world-cup-2026-what-problems-could-mexico-pose-england-on-the-pitch-during-their-last-16-clash"
-  },
-  {
-    "id": "N_RSS_64077",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 174,
-    "title": {
-      "en": "Ancelotti: No such thing as 'anti-Haaland' plan for Brazil"
+      "en": "Henderson makes light of England Viagra claims to combat altitude",
+      "zh-CN": "亨德森轻视英格兰伟哥声称对抗海拔高度"
     },
     "summary": {
       "en": ""
@@ -253,199 +142,309 @@
     "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
   },
   {
-    "id": "N_RSS_44992",
+    "id": "N_RSS_25563",
     "type": "official",
-    "date": "2026-07-04",
-    "likes": 251,
+    "date": "2026-07-05",
+    "likes": 256,
     "title": {
-      "en": "Golden Boot race: Mbappe pulls back level with Messi in all-star race"
+      "en": "Will storms delay England vs Mexico? Tuchel 'confused' by kick-off reports",
+      "zh-CN": "暴风雨会推迟英格兰与墨西哥的比赛吗？ Tuchel对启动报告感到“困惑”"
     },
     "summary": {
-      "en": "Kylian Mbappe has pulled back level with Lionel Messi in the race for the Golden Boot at the 2026 World Cup."
+      "en": "Sky Sports' Rob Dorsett reports from Mexico City regarding the expected stormy weather surrounding England's clash with Mexico, whilst Three Lions boss Thomas Tuchel says there was 'confusion' over...",
+      "zh-CN": "天空体育的Rob Dorsett在墨西哥城报道了围绕英格兰与墨西哥冲突的预计暴风雨天气，而三狮队老板Thomas Tuchel表示，人们对..."
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13556951/world-cup-2026-golden-boot-race-lionel-messi-kylian-mbappe-harry-kane-and-erling-haaland-in-epic-battle"
+    "url": "https://www.skysports.com/watch/video/13560553/england-vs-mexico-tuchel-not-concerned-about-expected-stormy-weather-in-mexico"
   },
   {
-    "id": "N_RSS_31337",
+    "id": "N_RSS_3772",
     "type": "official",
-    "date": "2026-07-04",
-    "likes": 78,
+    "date": "2026-07-05",
+    "likes": 248,
     "title": {
-      "en": "England vs Mexico WILL kick-off at 1am Monday - but storm threat remains"
+      "en": "World Cup 2026: Mexico v England buildup, France battle past Paraguay, Morocco march on – live",
+      "zh-CN": "2026年世界杯：墨西哥对阵英格兰，法国战胜巴拉圭，摩洛哥继续前进–现场直播"
     },
     "summary": {
-      "en": "England's World Cup last-16 tie with Mexico will remain a 1am kick-off on Monday after confusion over a possible time move, but fears remain about predicted thunderstorms in the area."
+      "en": "⚽ All the latest news and reaction from the World Cup⚽ Player guide | Bracketology | Knockout draw | Email usKylian Mbappe has pulled level with Lionel Messi at the top of the Golden Boot charts....",
+      "zh-CN": "来自世界杯⚽球员指南⚽的所有最新消息和反应| Bracketology |淘汰赛平局|给我们发电子邮件Kylian Mbappe与莱昂内尔·梅西在金靴榜单的顶部拉平...."
     },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday"
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jul/05/world-cup-2026-live-last-16-concludes-morocco-france-paraguay"
   },
   {
-    "id": "N_RSS_71422",
+    "id": "N_RSS_27064",
+    "type": "official",
+    "date": "2026-07-05",
+    "likes": 74,
+    "title": {
+      "en": "‘Here to write our own chapters’: England not daunted by unique occasion of Mexico game, says Tuchel",
+      "zh-CN": "“在这里写下我们自己的篇章” ： Tuchel说，英格兰没有被墨西哥比赛的独特场合吓倒"
+    },
+    "summary": {
+      "en": "‘Impossible’ to adapt to altitude but players coping, says coach Aguirre trying to keep El Tri ‘grounded’ before Azteca matchThomas Tuchel has admitted England are enduring a challenging adaptation...",
+      "zh-CN": "教练Aguirre说， “不可能”适应海拔高度，但球员们正在应对，他试图在阿兹特克比赛之前让El Tri “接地”托马斯·图切尔（ Thomas Tuchel ）承认英格兰正在经历一个具有挑战性的适应……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/05/world-cup-last-16-england-thomas-tuchel-mexico-city-azteca"
+  },
+  {
+    "id": "N_RSS_27957",
+    "type": "official",
+    "date": "2026-07-05",
+    "likes": 168,
+    "title": {
+      "en": "Luis de la Fuente: ‘I say this with the greatest respect: we have the best midfield in the world’",
+      "zh-CN": "Luis de la Fuente ： “我以最崇高的敬意说：我们拥有世界上最好的中场。”"
+    },
+    "summary": {
+      "en": "Spain’s manager answers your questions on advice for Lamine Yamal, the hardest thing about being a coach and how the current team compares to the winners of 2010“You’ve filtered these, right?” Luis...",
+      "zh-CN": "西班牙的经理回答了您对Lamine Yamal的建议，作为一名教练最困难的事情，以及目前的球队与2010年获胜者相比如何“你已经过滤了这些，对吧？” Luis..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/05/luis-de-la-fuente-spain-world-cup-2026-lamine-yamal"
+  },
+  {
+    "id": "N_RSS_73924",
+    "type": "official",
+    "date": "2026-07-05",
+    "likes": 153,
+    "title": {
+      "en": "Manchester United target Andrey Santos but Chelsea value midfielder at £50m",
+      "zh-CN": "曼联的目标是安德烈·桑托斯，但切尔西价值5000万英镑的中场球员"
+    },
+    "summary": {
+      "en": "Newcastle also linked with £50m-rated BrazilianChelsea need to sell to help Xabi Alonso rebuild squadManchester United are targeting the Chelsea midfielder Andrey Santos, who is valued in the region...",
+      "zh-CN": "纽卡斯尔还与£ 5000万等级的巴西切尔西需要出售，以帮助哈比·阿隆索重建球队曼联的目标是切尔西中场安德烈·桑托斯，他在该地区受到重视......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/05/andrey-santos-manchester-united-chelsea-transfer"
+  },
+  {
+    "id": "N_RSS_23954",
+    "type": "official",
+    "date": "2026-07-05",
+    "likes": 138,
+    "title": {
+      "en": "Lionel Messi and football’s ageless wonders can excel into their 40s | Emma Hayes",
+      "zh-CN": "莱昂内尔·梅西（ Lionel Messi ）和足球的永恒奇迹可以在40多岁时脱颖而出|艾玛·海耶"
+    },
+    "summary": {
+      "en": "Argentina’s captain leads the way for veteran strikers at World Cup. They have different styles, but all have shown their worthI would be shocked if the record for the most goals scored by a player...",
+      "zh-CN": "阿根廷队队长在世界杯上引领了经验丰富的前锋。他们有不同的风格，但都表现出他们的价值如果球员进球最多的纪录......我会感到震惊"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/05/lionel-messi-ageless-wonders-world-cup"
+  },
+  {
+    "id": "N_RSS_89",
+    "type": "official",
+    "date": "2026-07-05",
+    "likes": 57,
+    "title": {
+      "en": "England at the Azteca Stadium: a potted history – in pictures"
+    },
+    "summary": {
+      "en": "England return to the Azteca Stadium for the first time in 40 years as they take on co-hosts Mexico in the last 16 of the World Cup. We take a look at the games the Three Lions have played in this..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/gallery/2026/jul/05/england-azteca-stadium-mexico-potted-history-in-pictures"
+  },
+  {
+    "id": "N_RSS_44888",
+    "type": "official",
+    "date": "2026-07-05",
+    "likes": 112,
+    "title": {
+      "en": "Football is at the centre of the universe in Brazil in a way it is not in the US | Rodrygo"
+    },
+    "summary": {
+      "en": "Huge parties take place when the national team play but people in Brazil cherish a good game, whoever is playingThe World Cup atmosphere, which, for many of us, is one of the most infectious feelings..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/05/football-centre-of-universe-brazil-not-in-us"
+  },
+  {
+    "id": "N_RSS_47888",
+    "type": "official",
+    "date": "2026-07-05",
+    "likes": 217,
+    "title": {
+      "en": "England braced for a Mexican whirlwind as Tuchel strives for calm amid the chaos"
+    },
+    "summary": {
+      "en": "After their frantic display against DR Congo, England head coach needs his side to remain composed in the Azteca cauldronIt was somehow in keeping with the bedlam that has gripped Mexico since..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/05/england-mexico-world-cup-last-16-azteca-preview"
+  },
+  {
+    "id": "N_RSS_56962",
+    "type": "official",
+    "date": "2026-07-05",
+    "likes": 227,
+    "title": {
+      "en": "French football chief condemns Chilavert’s remarks that Les Bleus are ‘a squad from Africa’"
+    },
+    "summary": {
+      "en": "Philippe Diallo: former goalkeeper has ‘fallen into disgrace’Remarks came in run-up to France v Paraguay matchThe French football federation president, Philippe Diallo, has condemned José Luis..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/04/french-football-chief-condemns-chilaverts-remarks-that-les-bleus-are-a-squad-from-africa"
+  },
+  {
+    "id": "N_RSS_97581",
+    "type": "official",
+    "date": "2026-07-05",
+    "likes": 63,
+    "title": {
+      "en": "France find a way past Paraguay and what awaits England in Mexico? | World Cup Daily – video"
+    },
+    "summary": {
+      "en": "Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt, Barney Ronay and Philippe Auclair as France beat a spiky Paraguay side to reach the quarter-finals Continue reading..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/video/2026/jul/05/france-paraguay-england-mexico-world-cup-daily-podcast-video"
+  },
+  {
+    "id": "N_RSS_78027",
+    "type": "official",
+    "date": "2026-07-04",
+    "likes": 135,
+    "title": {
+      "en": "Why England won't fear Mexico or the Azteca - Shearer"
+    },
+    "summary": {
+      "en": "Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_40504",
+    "type": "official",
+    "date": "2026-07-04",
+    "likes": 55,
+    "title": {
+      "en": "James doubtful for Mexico tie but Quansah fit again"
+    },
+    "summary": {
+      "en": "Reece James misses training on the eve of England's World Cup last-16 tie against Mexico but Jarell Quansah is available again."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ce8jpjx1dkvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_81397",
+    "type": "official",
+    "date": "2026-07-04",
+    "likes": 177,
+    "title": {
+      "en": "'Disgusting' Paraguay went 'way too far' against France"
+    },
+    "summary": {
+      "en": "BBC pundits Thomas Hitzlsperger, Joe Hart and Micah Richards discuss Paraguay's attempts to get under France's skin at the 2026 World Cup."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c24y2yej0dyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_42671",
     "type": "official",
     "date": "2026-07-04",
     "likes": 182,
     "title": {
-      "en": "Morocco knock out World Cup co-hosts Canada to reach last eight"
+      "en": "Morocco reach quarter-finals as co-hosts Canada knocked out"
     },
     "summary": {
-      "en": "Azzedine Ounahi scored a double before Soufiane Rahimi added a third to knock out World Cup co-hosts Canada and send Morocco into the last eight thanks to a 3-0 win in Houston."
+      "en": "Canada become the first of co-hosts to exit the 2026 World Cup, after being beaten 3-0 by Morocco in Houston."
     },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/canada-vs-morocco/report/549854"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cddlpql2e98o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_77089",
+    "id": "N_RSS_7474",
+    "type": "official",
+    "date": "2026-07-04",
+    "likes": 152,
+    "title": {
+      "en": "Lightning, hotel security and spying - issues England face in Mexico"
+    },
+    "summary": {
+      "en": "England are booed as they arrive at their Mexico City hotel to prepare for their World Cup last-16 game against Mexico - and it's not the only issue they face."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2x1gwwjego?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_95237",
+    "type": "official",
+    "date": "2026-07-04",
+    "likes": 138,
+    "title": {
+      "en": "Five and a half hours that left England's World Cup tie in chaos"
+    },
+    "summary": {
+      "en": "For several hours on Friday, no-one seemed to know when England's World Cup last-16 match against co-hosts Mexico would kick off. BBC Sport explains how a story of confusion and anger - culminating..."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c0ey24q42w2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_17694",
+    "type": "official",
+    "date": "2026-07-04",
+    "likes": 133,
+    "title": {
+      "en": "Farewell Cape Verde - the underdogs the World Cup will never forget"
+    },
+    "summary": {
+      "en": "Cape Verde may have been the World Cup's second-smallest nation but they leave the largest impact as they depart following defeat by defending champions Argentina in an epic."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqj1pd8lqw9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_65744",
     "type": "official",
     "date": "2026-07-04",
     "likes": 123,
     "title": {
-      "en": "Klopp to hold talks over Germany job after Nagelsmann's exit"
+      "en": "Eight of the 10 most populous countries are not in the World Cup"
     },
     "summary": {
-      "en": "Jurgen Klopp is set to hold talks with officials from the German FA in New York next week about becoming the national team boss, according to Sky in Germany.&#160;"
+      "en": "Many countries with massive populations consistently miss out on football’s biggest party. What can they do to change their sporting fortunes?"
     },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13559137/julian-nagelsmann-resigns-as-germany-head-coach-after-shock-world-cup-exit-with-jurgen-klopp-ready-to-take-over"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/news/articles/c621je3we82o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_73162",
+    "id": "N_RSS_76618",
     "type": "official",
     "date": "2026-07-04",
-    "likes": 50,
+    "likes": 140,
     "title": {
-      "en": "‘We were better than them’: Marsch bullish despite Canada’s World Cup exit to Morocco"
+      "en": "Fenerbahce complete deal to sign Ake from Man City"
     },
     "summary": {
-      "en": "Canada coach says his side ‘totally controlled the match’Ouahbi: ‘It takes some nerve to say when you lose 3-0’Jesse Marsch spoke of his pride in his Canada side after their last-16 exit to Morocco,..."
+      "en": "Fenerbahce sign Netherlands defender Nathan Ake from Manchester City in a deal that could be worth up to £8.5m."
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/04/jesse-marsch-canada-morocco-world-cup"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c20y27eqj13o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_68325",
+    "id": "N_RSS_15190",
     "type": "official",
     "date": "2026-07-04",
-    "likes": 199,
+    "likes": 127,
     "title": {
-      "en": "Survival is key for England in epic test or it will be a Mexican wave goodbye"
+      "en": "World Cup quiz: How well do you remember the last 32?"
     },
     "summary": {
-      "en": "Azteca tie is one of those World Cup occasions that transcend sport – and Tuchel’s side face a challenge all about progress, not processNausea, cramps, shortness of breath. Time-lagged,..."
+      "en": "The World Cup's last-32 ties were decided in a busy six-day spell. But how closely were you paying attention?"
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/04/england-survival-mexico-world-cup-2026-thomas-tuchel"
-  },
-  {
-    "id": "N_RSS_88801",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 287,
-    "title": {
-      "en": "Belgium players say they will need ‘balls’ to nullify home crowd against US"
-    },
-    "summary": {
-      "en": "Belgium play Americans in the last-16 on MondayUS have enjoyed strong support at home at the World CupA raucous, pro-US crowd is expected in Seattle for the Americans’ last-16 match against Belgium..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/04/belgium-united-states-world-cup-environment"
-  },
-  {
-    "id": "N_RSS_98400",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 111,
-    "title": {
-      "en": "‘An incredible man’: how Carlo Ancelotti has turned Brazil into potential World Cup winners"
-    },
-    "summary": {
-      "en": "Italian’s man-management and decisiveness has shielded the talented Seleção squad and made fans believe againBrazil arrived at the World Cup with several open wounds. Since Qatar in 2022 there were..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/04/brazil-carlo-ancelotti-world-cup"
-  },
-  {
-    "id": "N_RSS_40568",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 183,
-    "title": {
-      "en": "World Cup 2026 power rankings: undisputed No 1, co-hosts surge and giants fall"
-    },
-    "summary": {
-      "en": "We assess the standing of the nations who played in the tournament’s last 32 before the next round of games beginsLes Bleus look unstoppable – all six of our judges ranked them No 1. Sweden did their..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/04/world-cup-2026-power-rankings-last-32"
-  },
-  {
-    "id": "N_RSS_96657",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 176,
-    "title": {
-      "en": "‘This is a hellhole’: Aramco makes its presence hurt in the shadow of the World Cup"
-    },
-    "summary": {
-      "en": "The oil giant’s sponsorship deal with Fifa has featured prominently at matches in Houston. But 100 miles away in another Texas city, residents say the firm’s refinery is exposing them to poisonous..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/04/aramco-world-cup-fifa-port-arthur-texas-houston"
-  },
-  {
-    "id": "N_RSS_81962",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 207,
-    "title": {
-      "en": "Egypt coach Hossam Hassan says he has moved on after confrontation with Dallas police"
-    },
-    "summary": {
-      "en": "Egypt says Dallas hotel incident is resolvedHassan accepts police apology after clashCoach waves Palestine flag after victoryEgypt coach Hossam Hassan said he considered the matter resolved after he..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/04/egypt-hossam-hassan-dallas-police-incident-resolved"
-  },
-  {
-    "id": "N_RSS_90204",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 214,
-    "title": {
-      "en": "Canada’s World Cup exit revives questions over Alphonso Davies injury management"
-    },
-    "summary": {
-      "en": "Canada’s World Cup run ended without Alphonso Davies playing against Morocco, reviving debate over the injury that derailed the team’s biggest starComing into this World Cup, Canada’s hopes hinged on..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/04/canada-world-cup-alphonso-davies-injury-management"
-  },
-  {
-    "id": "N_RSS_2959",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 165,
-    "title": {
-      "en": "Jhon Arias goal sends Colombia into last 16 as Ghana bow out of World Cup"
-    },
-    "summary": {
-      "en": "Ghana can only have feared the worst when Luis Suárez’s number came up in the seventh minute. A day on from the 16th anniversary of one of the most infamous episodes in World Cup history, the..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/04/colombia-ghana-world-cup-2026-last-32-match-report"
-  },
-  {
-    "id": "N_RSS_13784",
-    "type": "official",
-    "date": "2026-07-04",
-    "likes": 253,
-    "title": {
-      "en": "Cape Verde threaten shock for the ages before Argentina break hearts in World Cup classic"
-    },
-    "summary": {
-      "en": "What a game, what a series of moments, what a display of spirit and skill from Cape Verde, a tiny island nation with a far-flung diaspora team, who took Argentina right to the brink of one of the..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/04/argentina-cape-verde-world-cup-2026-last-32-match-report"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ce8j485z1ppo?at_medium=RSS&at_campaign=rss"
   }
 ]
