@@ -1,108 +1,204 @@
 [
   {
-    "id": "N_RSS_76361",
+    "id": "N_RSS_10294",
     "type": "official",
     "date": "2026-07-07",
-    "likes": 83,
+    "likes": 265,
     "title": {
-      "en": "Can Scotland learn from history-making Norway?",
-      "zh-CN": "苏格兰能从历史悠久的挪威学习吗？"
+      "en": "England players to get hoarding warning after freak Henderson injury",
+      "zh-CN": "英格兰球员在亨德森受伤后获得囤积警告"
     },
     "summary": {
-      "en": "Norway, a nation of a similar size to Scotland, are through to the World Cup quarter-finals, so can lessons be learned from their neighbours from across the North Sea?",
-      "zh-CN": "挪威是一个与苏格兰规模相似的国家，已经进入世界杯四分之一决赛，那么可以从北海对面的邻国那里吸取教训吗？"
+      "en": "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffered a freak injury.",
+      "zh-CN": "在乔丹·亨德森（ Jordan Henderson ）受伤后，英格兰球员将被建议不要跳过广告囤积。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cr7xk8r9xl4o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/czx5qev7nqno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_4165",
+    "id": "N_RSS_55196",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 282,
+    "title": {
+      "en": "The superstar double act that became England's Wonderwall",
+      "zh-CN": "成为英格兰Wonderwall的超级明星双人表演"
+    },
+    "summary": {
+      "en": "With 10 of England's 11 goals at the World Cup scored by either Harry Kane or Jude Bellingham, BBC Sport looks at how dependent on them the team is.",
+      "zh-CN": "哈里·凯恩（ Harry Kane ）或裘德·贝灵汉姆（ Jude Bellingham ）在世界杯上打进了英格兰11个进球中的10个， BBC Sport着眼于球队对他们的依赖程度。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c24yym25rgjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_21229",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 114,
+    "title": {
+      "en": "Qarabag's Duran poised for Celtic medical",
+      "zh-CN": "Qarabag的Duran为凯尔特医疗做好准备"
+    },
+    "summary": {
+      "en": "Colombian forward Camilo Duran is poised to become Celtic's first summer signing, arriving for an undisclosed fee from Qarabag, manager Martin O'Neill confirms.",
+      "zh-CN": "经理马丁·奥尼尔（ Martin O'Neill ）证实，哥伦比亚前锋卡米洛·杜兰（ Camilo Duran ）有望成为凯尔特人首次夏季签约，从卡拉巴格（ Qarabag ）获得未公开的费用。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzxv8yw0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_12537",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 127,
+    "title": {
+      "en": "9.1m watch England's epic win over Mexico",
+      "zh-CN": "910万观看英格兰对墨西哥的史诗般的胜利"
+    },
+    "summary": {
+      "en": "A peak audience of 9.1 million tuned in overnight to watch England beat Mexico to reach the quarter-finals of the World Cup.",
+      "zh-CN": "910万的高峰观众在一夜之间观看了英格兰击败墨西哥进入世界杯四分之一决赛。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cdejw7xxe23o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_86980",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 125,
+    "title": {
+      "en": "La Liga chief critical of 'complicit silence' surrounding Fifa",
+      "zh-CN": "西甲联赛主席批评国际足联周围的“同谋沉默”"
+    },
+    "summary": {
+      "en": "La Liga president Javier Tebas has criticised the \"complicit silence\" which surrounds Fifa after the Folarin Balogun controversy.",
+      "zh-CN": "西甲主席哈维尔·特巴斯（ Javier Tebas ）批评了Folarin Balogun争议后围绕国际足联的“同谋沉默”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c0ly51j7grxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_80753",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 112,
+    "title": {
+      "en": "A shambolic end for the American dream - did Balogun saga play a part?",
+      "zh-CN": "美国梦的混乱结局- Balogun传奇是否扮演了一个角色？"
+    },
+    "summary": {
+      "en": "Mauricio Pochettino says he feels \"disappointed with too many people\" who brought \"politics and manipulation\" into the game as the US exit World Cup.",
+      "zh-CN": "毛里西奥·波切蒂诺（ Mauricio Pochettino ）表示，随着美国退出世界杯，他对太多人将“政治和操纵”带入比赛感到“失望”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_10290",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 59,
+    "title": {
+      "en": "Fernandez header seals dramatic Argentina comeback",
+      "zh-CN": "费尔南德斯头封戏剧性的阿根廷卷土重来"
+    },
+    "summary": {
+      "en": "Enzo Fernandez scores late to give Argentina the lead against Egypt in their last 16 match at the 2026 World Cup.",
+      "zh-CN": "恩佐·费尔南德斯（ Enzo Fernandez ）在2026年世界杯的最后16场比赛中得分较晚，让阿根廷队领先埃及队。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cdjk02y8133o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_93712",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 109,
+    "title": {
+      "en": "Messi rescues Argentina with equaliser against Egypt",
+      "zh-CN": "梅西用对埃及的均衡器拯救阿根廷"
+    },
+    "summary": {
+      "en": "Lionel Messi scores a late equaliser for Argentina against Egypt to level the game at 2-2 during their match in Atlanta.",
+      "zh-CN": "莱昂内尔·梅西（ Lionel Messi ）在亚特兰大比赛中为阿根廷对阵埃及的比赛取得了后期扳平比分，比分为2-2。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c20yd7wp134o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_7822",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 137,
+    "title": {
+      "en": "Did VAR correctly rule out this Egypt goal?",
+      "zh-CN": "VAR是否正确地排除了这个埃及目标？"
+    },
+    "summary": {
+      "en": "Mostafa Zico has his goal for Egypt ruled out following a VAR review, for a foul on Lisandro Martinez in the build up, during their World Cup last 16 match in Atlanta.",
+      "zh-CN": "莫斯塔法·齐科（ Mostafa Zico ）在VAR审查后排除了他对埃及的进球，因为他们在亚特兰大的世界杯最后16场比赛中对利桑德罗·马丁内斯（ Lisandro Martinez ）犯规。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cddlj37zej7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_3400",
     "type": "official",
     "date": "2026-07-07",
     "likes": 121,
     "title": {
-      "en": "Messi v Salah: A World Cup meeting of two national icons",
-      "zh-CN": "梅西诉萨拉赫：两位国家偶像的世界杯比赛"
+      "en": "Messi denied from penalty spot by 'brilliant' Shobeir save",
+      "zh-CN": "梅西被“出色”的Shobeir SAVE拒绝进入点球位置"
     },
     "summary": {
-      "en": "Mohamed Salah and Lionel Messi will meet in the last 16 of the World Cup on Tuesday with their nations' hopes resting firmly on their shoulders.",
-      "zh-CN": "穆罕默德·萨拉赫（ Mohamed Salah ）和莱昂内尔·梅西（ Lionel Messi ）将于周二在世界杯的最后16场比赛中相遇，他们国家的希望牢牢地落在他们的肩"
+      "en": "Lionel Messi misses his second penalty of the 2026 World Cup, as his effort is saved by Egypt's Mostafa Shobeir in Atlanta.",
+      "zh-CN": "莱昂内尔·梅西（ Lionel Messi ）错过了2026年世界杯的第二个点球，因为他的努力得到了亚特兰大埃及选手穆斯塔法·舒贝尔（ Mostafa Shobeir ）"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvg55yl9xj4o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cwy0eqq40y2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_39020",
+    "id": "N_RSS_43498",
     "type": "official",
     "date": "2026-07-07",
-    "likes": 215,
+    "likes": 134,
     "title": {
-      "en": "Coach was 'happy' to have Maddy Cusack on team",
-      "zh-CN": "教练对马迪·库萨克（ Maddy Cusack ）的加入感到“高兴”"
+      "en": "Belgium make light work of US to set up quarter-final tie with Spain",
+      "zh-CN": "比利时在美国与西班牙建立四分之一决赛领带方面做得很轻松"
     },
     "summary": {
-      "en": "Jonathan Morgan, Maddy Cusack's coach at Sheffield United, gave evidence earlier on Tuesday.",
-      "zh-CN": "马迪·库萨克（ Maddy Cusack ）在谢菲尔德联队的教练乔纳森·摩根（ Jonathan Morgan ）周二早些时候"
+      "en": "Belgium ease past a defensively sloppy USA in a match shrouded in controversy surrounding Folarin Balogun's delayed suspension, a scandal that made little impact on the pitch.",
+      "zh-CN": "比利时在一场围绕Folarin Balogun延迟停赛的争议中笼罩着一场防守草率的美国比赛，这一丑闻对球场几乎没有影响。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/news/articles/cdx78912gx1o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cj0gg55613do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_80738",
+    "id": "N_RSS_28828",
     "type": "official",
     "date": "2026-07-07",
-    "likes": 130,
+    "likes": 264,
     "title": {
-      "en": "'Total calamity!' US gift Belgium a third goal",
-      "zh-CN": "“彻底灾难！”美国赠送比利时第三个进球"
+      "en": "Fifa's Balogun decision could lead to football 'cesspit' - McAllister",
+      "zh-CN": "国际足联的Balogun决定可能导致足球“粪坑” -麦卡利斯特"
     },
     "summary": {
-      "en": "USA goalkeeper Matt Freese with a huge error in judgement as he gifts Belgium's Hans Vanaken the ball, leaving him with an easy finish that defender Tim Ream could've done more to stop. Errors all...",
-      "zh-CN": "美国守门员马特·弗里斯（ Matt Freese ）在判断上犯了一个巨大的错误，因为他给了比利时的汉斯·瓦纳肯（ Hans Vanaken ）球，让他轻松完成，后卫蒂姆·雷姆（ Tim Ream ）本可以做更多的事情来阻止。错误全部..."
+      "en": "Uefa vice-president Laura McAllister says there is a risk of \"an absolute cesspit\" of political interference in football after USA striker Folarin Balogun avoided a ban at the World Cup.",
+      "zh-CN": "欧足联副主席劳拉·麦卡利斯特（ Laura McAllister ）表示，在美国前锋弗拉林·巴洛根（ Folarin Balogun ）避免世界杯禁赛后，存在政治干预足球的“绝对阴影”的风险。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cx266ee3v2mo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cgmdkjg9pkno?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_67030",
+    "id": "N_RSS_73896",
     "type": "official",
     "date": "2026-07-07",
-    "likes": 224,
+    "likes": 83,
     "title": {
-      "en": "Football Daily",
-      "zh-CN": "足球日报"
-    },
-    "summary": {
-      "en": "USA are out and Ronaldo bows out.",
-      "zh-CN": "美国退出，罗纳尔多退出。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0ns8bpy?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_86252",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 209,
-    "title": {
-      "en": "Who has been eliminated from the World Cup?",
-      "zh-CN": "谁被淘汰出世界杯？"
-    },
-    "summary": {
-      "en": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
-      "zh-CN": "BBC Sport的Ask Me Anything团队列出了迄今为止被2026年世界杯淘汰的全部国家"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_61374",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 274,
-    "title": {
-      "en": "Injustice drove Belgium to win over USA - Rangers' Raskin",
-      "zh-CN": "不公正驱使比利时赢得美国-流浪者的拉斯金"
+      "en": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
+      "zh-CN": "“推翻这个” -比利时嘲笑美国并说特朗普的举动解雇了他们"
     },
     "summary": {
       "en": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.",
@@ -112,13 +208,114 @@
     "url": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_26883",
+    "id": "N_RSS_12810",
     "type": "official",
     "date": "2026-07-07",
-    "likes": 194,
+    "likes": 235,
     "title": {
-      "en": "Egypt take the lead early on against Argentina LIVE!",
-      "zh-CN": "埃及在早期对阵阿根廷的比赛中领先！"
+      "en": "England's Best Since 1966 - Tuchel's Biggest Statement Yet?",
+      "zh-CN": "英格兰自1966年以来最好的-图切尔有史以来最伟大的声明？"
+    },
+    "summary": {
+      "en": "Is this what World Cup winners look like?",
+      "zh-CN": "这就是世界杯冠军的样子吗？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/p0nv991k?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_48113",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 121,
+    "title": {
+      "en": "Mbappe condemns racist posts from Paraguay senator",
+      "zh-CN": "姆巴佩谴责巴拉圭参议员的种族主义帖子"
+    },
+    "summary": {
+      "en": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
+      "zh-CN": "法国前锋基利安·姆巴佩（ Kylian Mbappe ）在嘲笑巴拉圭参议员的出身和教育后发表了一系列种族主义言论，谴责巴拉圭参议员“卑鄙” ，不值得她的立场。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_86038",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 143,
+    "title": {
+      "en": "Who am I? Guess World Cup star No 30"
+    },
+    "summary": {
+      "en": "Will you get today's player in as few attempts as possible?"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c0l2y4p59n9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_45395",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 179,
+    "title": {
+      "en": "Why European backlash over Trump intervention won't worry Infantino"
+    },
+    "summary": {
+      "en": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_37173",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 70,
+    "title": {
+      "en": "England into quarter-finals - what is their path to the final?"
+    },
+    "summary": {
+      "en": "BBC Sport takes a look at what England will need to do to reach the final after progressing the quarter-finals."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_17812",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 142,
+    "title": {
+      "en": "Argentina come from two down to beat Egypt in World Cup classic"
+    },
+    "summary": {
+      "en": "Argentina produced an astonishing comeback to keep their World Cup alive as they recovered from two down to beat Egypt 3-2 in stoppage-time."
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/argentina-vs-egypt/report/549861"
+  },
+  {
+    "id": "N_RSS_24343",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 236,
+    "title": {
+      "en": "Manzambi & Vargas both missing for Switzerland vs Colombia LIVE!"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/switzerland-vs-colombia/live/549860"
+  },
+  {
+    "id": "N_RSS_77976",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 99,
+    "title": {
+      "en": "Keane praises 'streetfighter' mentality from Argentina in historic comeback"
     },
     "summary": {
       "en": ""
@@ -127,324 +324,129 @@
     "url": "https://www.skysports.com/football/argentina-vs-egypt/live/549861"
   },
   {
-    "id": "N_RSS_16691",
+    "id": "N_RSS_80321",
     "type": "official",
     "date": "2026-07-07",
-    "likes": 177,
+    "likes": 220,
     "title": {
-      "en": "Why Ronaldo and Portugal must find new paths",
-      "zh-CN": "为什么罗纳尔多和葡萄牙必须找到新的道路"
+      "en": "Argentina semi-final remains on! England's route to the World Cup final..."
     },
     "summary": {
-      "en": "Cristiano Ronaldo's contribution to the game cannot be questioned. One of the greatest ever to do it on the pitch.",
-      "zh-CN": "克里斯蒂亚诺·罗纳尔多对比赛的贡献不容置疑。球场上有史以来最伟大的球员之一。"
+      "en": "What is England's potential path to World Cup glory?"
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13561145/cristiano-ronaldo-portugal-captain-meets-natural-end-with-national-team-and-goes-down-as-best-player-to-never-win-world-cup"
+    "url": "https://www.skysports.com/football/news/11095/13479783/englands-world-cup-2026-fixtures-schedule-and-tournament-route-to-final-how-three-lions-could-lift-trophy-on-july-19"
   },
   {
-    "id": "N_RSS_11006",
+    "id": "N_RSS_1035",
     "type": "official",
     "date": "2026-07-07",
+    "likes": 226,
+    "title": {
+      "en": "England trying to fast track James' recovery ahead of Norway"
+    },
+    "summary": {
+      "en": "England&#8217;s medics are working hard on Reece James in the hope that he may be able to help England&#8217;s right-back crisis and play some part in the World Cup quarter-final against Norway on..."
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13561150/england-world-cup-latest-reece-james-in-race-to-be-fit-for-quarter-final-clash-with-norway-to-ease-right-back-crisis"
+  },
+  {
+    "id": "N_RSS_99549",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 178,
+    "title": {
+      "en": "Tearful Messi inspires Argentina’s great escape in World Cup thriller with Egpyt"
+    },
+    "summary": {
+      "en": "The golden rule of football? Never write off Lionel Messi. Just when it looked like his dream of leading Argentina to the bicampeonato was in tatters, the 39-year-old came to his country’s rescue for..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/07/argentina-egypt-world-cup-2026-last-16-match-report"
+  },
+  {
+    "id": "N_RSS_80159",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 78,
+    "title": {
+      "en": "Switzerland v Colombia: World Cup 2026 last 16 – live"
+    },
+    "summary": {
+      "en": "⚽️ Kick-off time: 1pm local/4pm EDT//9pm BST/6am AEST⚽️ Player guide | Bracketology | Golden Boot | Mail BillyIván Bartón was the referee who came out with that booming voice when sending Miguel..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/jul/07/switzerland-v-colombia-world-cup-2026-last-16-live"
+  },
+  {
+    "id": "N_RSS_6653",
+    "type": "official",
+    "date": "2026-07-06",
     "likes": 168,
     "title": {
-      "en": "'Overturn this' - Belgium mock Trump and FIFA after USA World Cup exit",
-      "zh-CN": "“推翻这一点” -比利时在美国世界杯退出后模拟特朗普和国际足联"
+      "en": "Spain into quarter-finals after Merino's late winner against Portugal"
     },
     "summary": {
-      "en": "Belgium players appeared to mock US President Donald Trump and FIFA after eliminating co-hosts USA from the World Cup.",
-      "zh-CN": "比利时球员似乎嘲笑美国总统唐纳德·特朗普(Donald Trump)和国际足联(FIFA) ，因为他们将美国从世界杯上淘汰。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13561192/overturn-this-belgium-mock-usa-after-world-cup-exit"
-  },
-  {
-    "id": "N_RSS_10143",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 278,
-    "title": {
-      "en": "World Cup latest: Infantino faces resignation calls - but he's not going anywhere",
-      "zh-CN": "世界杯最新消息：因凡蒂诺面临辞职电话-但他哪儿也不去"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
-  },
-  {
-    "id": "N_RSS_33726",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 240,
-    "title": {
-      "en": "Argentina v Egypt: World Cup 2026 last 16 – live",
-      "zh-CN": "阿根廷v埃及： 2026年世界杯最后16场比赛–直播"
-    },
-    "summary": {
-      "en": "⚽️ World Cup kick-off time: 12pm EDT/5pm BST, 2am AEST⚽️ Player guide | Bracketology| Golden Boot | Email ScottYou wait all day for one Ed Aarons post … then two come along at once! Just as I was...",
-      "zh-CN": "⚽️ 世界杯开赛时间：美国东部夏令时中午12点/英国夏令时下午5点，美国东部时间凌晨2点⚽️球员指南| Bracketology | Golden Boot | Email Scott您一整天都在等待Ed Aarons的一个帖子……然后两个人同时出现！就像我一样……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/live/2026/jul/07/argentina-v-egypt-world-cup-2026-last-16-live"
-  },
-  {
-    "id": "N_RSS_17847",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 104,
-    "title": {
-      "en": "Why Jude Bellingham’s world is bigger than most of us can understand",
-      "zh-CN": "为什么Jude Bellingham的世界比我们大多数人所能理解的更大"
-    },
-    "summary": {
-      "en": "The boy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak DjokovicThere has never been an English footballer quite like Jude Bellingham. He has...",
-      "zh-CN": "拥有一切的男孩有野心扮演詹姆斯·邦德，但目前他更让人想起诺瓦克·德约科维奇从来没有像裘德·贝林汉姆这样的英国足球运动员。他有……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/07/genius-jude-bellingham-becoming-one-of-englands-leaders"
-  },
-  {
-    "id": "N_RSS_67267",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 224,
-    "title": {
-      "en": "The US had the biggest opportunity in the history of American soccer. They wasted it | Alexander Abnos",
-      "zh-CN": "美国拥有美国足球史上最大的机会。他们浪费了|亚历山大·阿布诺斯"
-    },
-    "summary": {
-      "en": "The USMNT’s run at a home World Cup had attracted people who usually ignore soccer. Instead of triumph, they saw a humbling at the hands of BelgiumIn the closing moments of the United States’ 3-2 win...",
-      "zh-CN": "USMNT在主场世界杯上的比赛吸引了通常忽视足球的人。他们看到的不是胜利，而是比利时的谦卑在美国3-2获胜的最后时刻……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/07/usmnt-world-cup-belgium"
-  },
-  {
-    "id": "N_RSS_47655",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 188,
-    "title": {
-      "en": "Belgium unites to enjoy national team’s World Cup success over USA and Trump",
-      "zh-CN": "比利时团结一致，享受国家队战胜美国和特朗普的世界杯胜利"
-    },
-    "summary": {
-      "en": "Fans across Belgium watched 4-1 win in early hoursVictory ‘a real slap in the face for Trump and Infantino’Belgium fans reacted with jubilation after the national team trounced the USA in a World Cup...",
-      "zh-CN": "比利时各地的球迷在凌晨时分观看了4-1的胜利胜利，在国家队在世界杯上击败美国后，特朗普和Infantino ‘Belgium的球迷兴高采烈地做出了反应..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/07/belgium-fans-celebrate-world-cup-usa-donald-trump"
-  },
-  {
-    "id": "N_RSS_87612",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 65,
-    "title": {
-      "en": "David Squires on … England’s World Cup classic in Mexico and a Trump novelty"
-    },
-    "summary": {
-      "en": "Our cartoonist looks at the big stories from the World Cup as England reach the last eight but the US slump outBuy David’s cartoons | Some of his favourite worksAnd his latest book, Chaos in the Box:..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/picture/2026/jul/07/david-squires-on-england-world-cup-classic-mexico-donald-trump-fifa-usa-belgium"
-  },
-  {
-    "id": "N_RSS_86048",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 200,
-    "title": {
-      "en": "Best fans at the World Cup? How Colombia’s support powered the team to success"
-    },
-    "summary": {
-      "en": "Néstor Lorenzo’s side face Switzerland in Vancouver on Tuesday and will be hoping for the same backing that has shocked opponents so farMexico City, Guadalajara, Miami, Kansas City – Colombia’s World..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/07/best-fans-at-the-world-cup-how-colombias-support-powered-the-team-to-success"
-  },
-  {
-    "id": "N_RSS_24184",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 105,
-    "title": {
-      "en": "Christian Pulisic’s World Cup of TV stardom and ‘little glimpses’ ends in disappointment"
-    },
-    "summary": {
-      "en": "For much of the star’s career, this tournament has been held as his potential pinnacle. Instead much of the USMNT’s success came without his involvementThere was a clear quiver in Christian Pulisic’s..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment"
-  },
-  {
-    "id": "N_RSS_89073",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 172,
-    "title": {
-      "en": "USA fall asleep in Seattle and it’s tchau Ronaldo | World Cup Daily – video"
-    },
-    "summary": {
-      "en": "Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt, Nick Ames and Sid Lowe as error-prone USA are picked off by Belgium and Cristiano Ronaldo bids farewell to the World Cup for good..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/video/2026/jul/07/usa-fall-asleep-in-seattle-and-its-tchau-ronaldo-world-cup-daily-video"
-  },
-  {
-    "id": "N_RSS_21127",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 197,
-    "title": {
-      "en": "Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs"
-    },
-    "summary": {
-      "en": "BBC Sport looks at the end of Cristiano Ronaldo's World Cup career as he fails to win football's biggest prize."
+      "en": "Spain leave it late as super-sub Mikel Merino scores a stoppage-time winner to send his side into the quarter-finals, ending Cristiano Ronaldo's hopes of World Cup glory."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cx2338eg1ndo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_76238",
+    "id": "N_RSS_78007",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 286,
+    "likes": 183,
     "title": {
-      "en": "Super-sub Merino delivers 'killer goal' for Spain"
+      "en": "How England's epic night at the Azteca unfolded"
     },
     "summary": {
-      "en": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup."
+      "en": "Relive all the drama from England’s 3-2 win over Mexico, as Thomas Tuchel’s team progressed to a quarter-final meeting with Norway on Saturday."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c6211egzyzlo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/c9q225nn0dqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_54304",
+    "id": "N_RSS_95594",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 271,
+    "likes": 154,
     "title": {
-      "en": "England win epic tie against Mexico to reach quarter-finals"
+      "en": "Bellingham scores two in 98 seconds to silence the Azteca"
     },
     "summary": {
-      "en": "Jude Bellingham scores twice and Harry Kane converts a penalty as 10-man England beat Mexico 3-2 in the World Cup."
+      "en": "Jude Bellingham scores two goals in 98 seconds to give England a 2-0 lead over Mexico during their last 16 match at the Mexico City Stadium."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_17975",
+    "id": "N_RSS_1741",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 264,
+    "likes": 163,
     "title": {
-      "en": "Spain's World Cup challenge built on record-breaking historic defence"
+      "en": "'Nasty, nasty challenge' - Quansah shown red card"
     },
     "summary": {
-      "en": "If Spain are to get their hands on the World Cup trophy again, they may have their defence, rather than their attack, to thank."
+      "en": "England are reduced to 10 men as Jarrel Quansah is shown a red card following a VAR review for a \"nasty\" challenge on Mexico's Jesus Gallardo."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cyv00rzd3lpo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cp8rrwk5624o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_97997",
+    "id": "N_RSS_21893",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 171,
+    "likes": 71,
     "title": {
-      "en": "FA considering appeal after Quansah red card"
+      "en": "'I'm speechless' - Kane reacts to England's victory over Mexico"
     },
     "summary": {
-      "en": "The Football Association is considering whether to appeal after England defender Jarell Quansah's red card against Mexico."
+      "en": "A very hoarse sounding England captain Harry Kane gives his reaction to England's 3-2 victory over Mexico and praises the fans support."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cz0jjz830g3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_5079",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 227,
-    "title": {
-      "en": "Henderson expected to have surgery on injured wrist"
-    },
-    "summary": {
-      "en": "Jordan Henderson is expected to have surgery on the wrist injury he sustained while celebrating England's win over Mexico on Monday."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_92803",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 242,
-    "title": {
-      "en": "An incredible night when England heroes were made"
-    },
-    "summary": {
-      "en": "On a spine-tingling night of drama, emotion and pure theatre in one of sport's most atmospheric arenas, England delivered one of their greatest performances."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_38102",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 70,
-    "title": {
-      "en": "Ronaldo: I won't make any rash decisions on Portugal future"
-    },
-    "summary": {
-      "en": "Cristiano Ronaldo has confirmed he has played in his last World Cup game - but says he won't make any \"rash decisions\" on whether he has played his final game for Portugal."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13561089/cristiano-ronaldo-portugal-captain-confirms-he-has-played-his-last-world-cup-match-but-wont-make-rash-decision-on-international-future"
-  },
-  {
-    "id": "N_RSS_7417",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 253,
-    "title": {
-      "en": "England latest: FA considering Quansah red card appeal"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
-  },
-  {
-    "id": "N_RSS_76492",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 197,
-    "title": {
-      "en": "All the key moments and rate the players as Belgium eliminate USA"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/united-states-of-america-vs-belgium/live/549859"
-  },
-  {
-    "id": "N_RSS_40543",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 131,
-    "title": {
-      "en": "Ronaldo bows out and Martinez steps down as Portugal beaten by Spain"
-    },
-    "summary": {
-      "en": "Spain laboured to an uninspiring 1-0 victory over Iberian rivals Portugal in their last-16 tie to set up a quarter-final meeting with resurgent Belgium."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/portugal-vs-spain/report/549858"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cvg55vne49do?at_medium=RSS&at_campaign=rss"
   }
 ]
