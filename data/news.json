@@ -1,28 +1,76 @@
 [
   {
-    "id": "N_RSS_15276",
+    "id": "N_RSS_61840",
     "type": "official",
     "date": "2026-07-07",
-    "likes": 176,
+    "likes": 165,
     "title": {
-      "en": "'Total calamity!' US gift Belgium a third goal",
-      "zh-CN": "“彻底灾难！”美国赠送比利时第三个进球"
+      "en": "A shambolic end for the American dream - did Balogun saga play a part?",
+      "zh-CN": "美国梦的混乱结局- Balogun传奇是否扮演了一个角色？"
     },
     "summary": {
-      "en": "USA goalkeeper Matt Freese with a huge error in judgement as he gifts Belgium's Hans Vanaken the ball, leaving him with an easy finish that defender Tim Ream could've done more to stop. Errors all...",
-      "zh-CN": "美国守门员马特·弗里斯（ Matt Freese ）在判断上犯了一个巨大的错误，因为他给了比利时的汉斯·瓦纳肯（ Hans Vanaken ）球，让他轻松完成，后卫蒂姆·雷姆（ Tim Ream ）本可以做更多的事情来阻止。错误全部..."
+      "en": "Mauricio Pochettino says he feels \"disappointed with too many people\" who brought \"politics and manipulation\" into the game as the US exit World Cup.",
+      "zh-CN": "毛里西奥·波切蒂诺（ Mauricio Pochettino ）表示，随着美国退出世界杯，他对太多人将“政治和操纵”带入比赛感到“失望”。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cx266ee3v2mo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gyxdeql5eo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_1454",
+    "id": "N_RSS_90983",
     "type": "official",
     "date": "2026-07-07",
-    "likes": 201,
+    "likes": 204,
     "title": {
-      "en": "Balogun reprieve ends in anti-climax as US dumped out by Belgium",
-      "zh-CN": "随着美国被比利时抛弃，巴洛根缓刑以反高潮结束"
+      "en": "'Overturn this' - Belgium taunt US and say Trump move fired them up",
+      "zh-CN": "“推翻这个” -比利时嘲笑美国并说特朗普的举动解雇了他们"
+    },
+    "summary": {
+      "en": "Belgium's Nicolas Raskin says Fifa's decision to allow US striker Folarin Balogun to play against them fired them up for the last-16 tie in Seattle.",
+      "zh-CN": "比利时的尼古拉斯·拉斯金（ Nicolas Raskin ）表示，国际足联决定允许美国前锋弗拉林·巴洛根（ Folarin Balogun ）与他们比赛，这让他们在西雅图的最后16场比赛中被解雇。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gyj50450go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_5319",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 243,
+    "title": {
+      "en": "Who am I? Guess World Cup star No 30",
+      "zh-CN": "我是谁？猜猜世界杯明星30号"
+    },
+    "summary": {
+      "en": "Will you get today's player in as few attempts as possible?",
+      "zh-CN": "你会在尽可能少的尝试中获得今天的玩家吗？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c0l2y4p59n9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_59916",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 96,
+    "title": {
+      "en": "Belgium make light work of US to set up quarter-final tie with Spain",
+      "zh-CN": "比利时在美国与西班牙建立四分之一决赛领带方面做得很轻松"
+    },
+    "summary": {
+      "en": "Belgium ease past a defensively sloppy USA in a match shrouded in controversy surrounding Folarin Balogun's delayed suspension, a scandal that made little impact on the pitch.",
+      "zh-CN": "比利时在一场围绕Folarin Balogun延迟停赛的争议中笼罩着一场防守草率的美国比赛，这一丑闻对球场几乎没有影响。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cj0gg55613do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_8547",
+    "type": "official",
+    "date": "2026-07-07",
+    "likes": 158,
+    "title": {
+      "en": "Balogun reprieve ends in anti-climax as Belgium dump USA out",
+      "zh-CN": "巴洛根缓刑以反高潮结束，因为比利时将美国抛弃"
     },
     "summary": {
       "en": "Folarin Balogun's red card reprieve appeared to hinder rather than help his country as an out-of-sorts USA side were thrashed 4-1 by Belgium to end the co-hosts' World Cup dreams.",
@@ -32,276 +80,340 @@
     "url": "https://www.skysports.com/football/united-states-of-america-vs-belgium/report/549859"
   },
   {
-    "id": "N_RSS_28005",
+    "id": "N_RSS_71907",
     "type": "official",
     "date": "2026-07-07",
-    "likes": 268,
+    "likes": 232,
     "title": {
-      "en": "Ragged USA crash out of World Cup with last-16 defeat to Belgium",
-      "zh-CN": "美国队在世界杯赛场失利，最后16场比赛输给比利时"
+      "en": "England trying to fast track James' recovery ahead of Norway",
+      "zh-CN": "英格兰试图在挪威之前快速追踪詹姆斯的复苏"
     },
     "summary": {
-      "en": "The United States are out of the World Cup as Belgium eliminated the co-hosts in the last 16 at Seattle Stadium on Monday night.The US were looking to reach the World Cup quarter-finals for the first...",
-      "zh-CN": "周一晚上，由于比利时在西雅图体育场的最后16场比赛中淘汰了联合主办方，美国退出了世界杯。美国希望进入世界杯四分之一决赛的第一场比赛......"
+      "en": "England&#8217;s medics are working hard on Reece James in the hope that he may be able to help England&#8217;s right-back crisis and play some part in the World Cup quarter-final against Norway on...",
+      "zh-CN": "英格兰的医务人员正在努力对付里斯·詹姆斯，希望他能够帮助英格兰的右后卫危机，并在世界杯四分之一决赛对阵挪威的比赛中发挥作用。"
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/06/usa-belgium-world-cup-2026-match-report"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13561150/england-world-cup-latest-reece-james-in-race-to-be-fit-for-quarter-final-clash-with-norway-to-ease-right-back-crisis"
   },
   {
-    "id": "N_RSS_89902",
-    "type": "official",
-    "date": "2026-07-07",
-    "likes": 214,
-    "title": {
-      "en": "‘They have Messi, but we have Salah’: Egypt prepare to take on Argentina",
-      "zh-CN": "“他们有梅西，但我们有萨拉赫” ：埃及准备迎战阿根廷"
-    },
-    "summary": {
-      "en": "Last 16 tie will be the first international meeting between two modern legends who may yet go on making historyAs Mohamed Salah savoured the feeling of Egypt’s historic victory over Australia, the...",
-      "zh-CN": "最后16个领带将是两个现代传奇人物之间的第一次国际会议，他们可能会继续创造历史，因为穆罕默德·萨拉赫（ Mohamed Salah ）品尝了埃及对澳大利亚历史性胜利的感觉。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/07/lionel-messi-mo-salah-egypt-argentina-world-cup"
-  },
-  {
-    "id": "N_RSS_56100",
+    "id": "N_RSS_2364",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 225,
+    "likes": 243,
     "title": {
-      "en": "Ronaldo's World Cup career ends in tears as 'pandering' Martinez departs",
-      "zh-CN": "当“迎合”马丁内斯离开时，罗纳尔多的世界杯生涯以泪水告终"
+      "en": "Why European backlash over Trump intervention won't worry Infantino",
+      "zh-CN": "为什么欧洲对特朗普干预的强烈反对不会让Infantino感到担忧"
     },
     "summary": {
-      "en": "BBC Sport looks at the end of Cristiano Ronaldo's World Cup career as he fails to win football's biggest prize.",
-      "zh-CN": "BBC Sport关注克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）世界杯生涯的结束，因为他未能赢得足球最大的奖项。"
+      "en": "After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.",
+      "zh-CN": "在担任国际足联主席10年后， Folarin Balogun的争议能否打破对Gianni Infantino的平衡？不要下注。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c3vyyq1kg5go?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_7749",
+    "id": "N_RSS_72146",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 256,
+    "likes": 297,
     "title": {
-      "en": "Spain's World Cup challenge built on record-breaking historic defence",
-      "zh-CN": "西班牙的世界杯挑战建立在破纪录的历史防守之上"
+      "en": "James expected to return for Norway quarter-final",
+      "zh-CN": "詹姆斯有望回归挪威四分之一决赛"
     },
     "summary": {
-      "en": "If Spain are to get their hands on the World Cup trophy again, they may have their defence, rather than their attack, to thank.",
-      "zh-CN": "如果西班牙再次获得世界杯奖杯，他们可能会感谢他们的防守，而不是他们的进攻。"
+      "en": "England manager Thomas Tuchel expects Reece James to be available for the World Cup quarter-final against Norway on Saturday.",
+      "zh-CN": "英格兰主教练托马斯·图切尔（ Thomas Tuchel ）预计，里斯·詹姆斯（ Reece James ）将在周六对阵挪威的世界杯四"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cyv00rzd3lpo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2xxl6772no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_98634",
+    "id": "N_RSS_64366",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 72,
+    "likes": 141,
     "title": {
-      "en": "FA considering appeal after Quansah red card",
-      "zh-CN": "英足总考虑在Quansah红牌后提出上诉"
+      "en": "Mbappe condemns racist posts from Paraguay senator",
+      "zh-CN": "姆巴佩谴责巴拉圭参议员的种族主义帖子"
     },
     "summary": {
-      "en": "The Football Association is considering whether to appeal after England defender Jarell Quansah's red card against Mexico.",
-      "zh-CN": "在英格兰后卫贾雷尔·昆萨（ Jarell Quansah ）对墨西哥的红牌之后，足球协会正在考虑是否上诉。"
+      "en": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
+      "zh-CN": "法国前锋基利安·姆巴佩（ Kylian Mbappe ）在嘲笑巴拉圭参议员的出身和教育后发表了一系列种族主义言论，谴责巴拉圭参议员“卑鄙” ，不值得她的立场。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cz0jjz830g3o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_62485",
+    "id": "N_RSS_22526",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 166,
+    "likes": 217,
     "title": {
-      "en": "Starmer intervened in row over Mexico-England kick-off time",
-      "zh-CN": "Starmer在墨西哥-英格兰开球时间进行了排队干预"
+      "en": "Spain into quarter-finals after Merino's late winner against Portugal",
+      "zh-CN": "西班牙在梅里诺战胜葡萄牙后进入四分之一决赛"
     },
     "summary": {
-      "en": "Fifa had been set to bring the match forward by six hours, due to a forecast of thunderstorms.",
-      "zh-CN": "由于雷暴的预测，国际足联原定将比赛提前六个小时。"
+      "en": "Spain leave it late as super-sub Mikel Merino scores a stoppage-time winner to send his side into the quarter-finals, ending Cristiano Ronaldo's hopes of World Cup glory.",
+      "zh-CN": "西班牙队离开得很晚，因为超级球员米克尔·梅里诺（ Mikel Merino ）获得了暂停赛冠军，将他的球队送入四分之一决赛，结束了克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）对世界杯"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/news/articles/cjwgggp28dlo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cx2338eg1ndo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_56478",
+    "id": "N_RSS_49490",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 144,
+    "likes": 220,
     "title": {
-      "en": "Super-sub Merino delivers 'killer goal' for Spain",
-      "zh-CN": "SUPER-SUB MERINO为西班牙带来“杀手级目标”"
+      "en": "How England's epic night at the Azteca unfolded",
+      "zh-CN": "英格兰史诗般的阿兹特克之夜是如何展开的"
     },
     "summary": {
-      "en": "Spain midfielder Mikel Merino coolly scores in added time to break Portuguese hearts, sending his side through to the quarter-finals of the 2026 World Cup.",
-      "zh-CN": "西班牙中场球员米克尔·梅里诺（ Mikel Merino ）在额外的时间内冷静地得分，打破了葡萄牙人的心，将他的球队送入了2026年世界杯的四分之一决赛。"
+      "en": "Relive all the drama from England’s 3-2 win over Mexico, as Thomas Tuchel’s team progressed to a quarter-final meeting with Norway on Saturday.",
+      "zh-CN": "周六，托马斯·图切尔（ Thomas Tuchel ）的球队与挪威队进行了四分之一决赛，重温了英格兰队以3比2战胜墨西哥队的所有戏剧性事件。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c6211egzyzlo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/c9q225nn0dqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_84739",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 293,
-    "title": {
-      "en": "England win epic tie against Mexico to reach quarter-finals",
-      "zh-CN": "英格兰队赢得与墨西哥队的史诗并列，进入四分之一决赛"
-    },
-    "summary": {
-      "en": "Jude Bellingham scores twice and Harry Kane converts a penalty as 10-man England beat Mexico 3-2 in the World Cup.",
-      "zh-CN": "裘德·贝林汉姆（ Jude Bellingham ）得分两次，哈里·凯恩（ Harry Kane ）在世界杯上以10人英格兰队3-2击败墨西哥队"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_71342",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 285,
-    "title": {
-      "en": "An incredible night when England heroes were made",
-      "zh-CN": "英格兰英雄诞生的美妙夜晚"
-    },
-    "summary": {
-      "en": "On a spine-tingling night of drama, emotion and pure theatre in one of sport's most atmospheric arenas, England delivered one of their greatest performances.",
-      "zh-CN": "在一个充满戏剧、情感和纯粹戏剧的激动人心的夜晚，在体育界最具氛围的舞台上，英格兰表演了他们最伟大的表演之一。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cjrgg07p8dlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_27686",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 194,
-    "title": {
-      "en": "Henderson expected to have surgery on injured wrist",
-      "zh-CN": "亨德森预计将对受伤的手腕进行手术"
-    },
-    "summary": {
-      "en": "Jordan Henderson is expected to have surgery on the wrist injury he sustained while celebrating England's win over Mexico on Monday.",
-      "zh-CN": "乔丹·亨德森（ Jordan Henderson ）预计将在周一庆祝英格兰队战胜墨西哥队时接受手腕损伤手术。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvgmmm5923yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_64786",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 269,
-    "title": {
-      "en": "Who am I? Guess World Cup star No 29",
-      "zh-CN": "我是谁？猜猜世界杯明星29号"
-    },
-    "summary": {
-      "en": "Will you get today's player in as few attempts as possible?",
-      "zh-CN": "你会在尽可能少的尝试中获得今天的玩家吗？"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4g4je2erl0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_64451",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 117,
-    "title": {
-      "en": "Coach told FA Maddy Cusack was a liar, inquest hears",
-      "zh-CN": "教练告诉FA Maddy Cusack是个骗子，调查听到"
-    },
-    "summary": {
-      "en": "Jonathan Morgan says she left out detail about their relationship when speaking to her family.",
-      "zh-CN": "乔纳森·摩根（ Jonathan Morgan ）说，在与家人交谈时，她忽略了有关他们关系的"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/news/articles/cj0ggn1214vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_43795",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 202,
-    "title": {
-      "en": "Neymar says Brazil career over after Norway defeat",
-      "zh-CN": "内马尔表示，在挪威失利后，巴西的职业生涯结束了"
-    },
-    "summary": {
-      "en": "An emotional Neymar says his international career for Brazil is \"over\" following his side's exit at the 2026 World Cup at the hands of Norway.",
-      "zh-CN": "情绪激动的内马尔表示，在他的球队在挪威手中退出2026年世界杯之后，他在巴西的国际生涯已经“结束”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clyww4w1rl8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_76577",
+    "id": "N_RSS_96454",
     "type": "official",
     "date": "2026-07-06",
     "likes": 99,
     "title": {
-      "en": "'Iconic match at iconic stadium' - England win down to 'pure will'"
+      "en": "How England used five mini games to beat Mexico",
+      "zh-CN": "英格兰如何用五场迷你比赛击败墨西哥"
     },
     "summary": {
-      "en": "England are praised for showing \"heart and belief\" as they beat Mexico in an \"iconic match at an iconic stadium\" to reach the World Cup quarter-finals."
+      "en": "The tactical breakdown of how Thomas Tuchel's 10-man England pulled off a remarkable World Cup win in a hostile Mexico City.",
+      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）的10人英格兰队在充满敌意的墨西哥城取得了非凡的世界杯胜利的战术崩溃。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cly00xq39n1o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_29041",
+    "id": "N_RSS_6762",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 104,
+    "title": {
+      "en": "Where does Mexico win rank among England's best results?",
+      "zh-CN": "墨西哥在哪里赢得英格兰最好的成绩？"
+    },
+    "summary": {
+      "en": "BBC Sport looks at some of England's most famous away victories after their epic win against Mexico at the Azteca - plus you can have your say.",
+      "zh-CN": "英国广播公司体育频道（ BBC Sport ）回顾了英格兰在阿兹特克（ Azteca ）战胜墨西哥后取得的一些最著名的客场胜利-此外，您还可以发表意见。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cgevv1r30w1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_4814",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 101,
+    "title": {
+      "en": "Who produced another iconic performance? England player ratings",
+      "zh-CN": "谁制作了另一场标志性的表演？英格兰球员评分"
+    },
+    "summary": {
+      "en": "BBC Sport England reporter Alex Howell rates how the Three Lions players performed in the last-16 win over Mexico.",
+      "zh-CN": "英国广播公司体育英格兰记者亚历克斯·豪威尔（ Alex Howell ）对三狮队球员在过去16场战胜墨西哥的比赛中的"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cp8r40y5r9eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_49609",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 245,
+    "title": {
+      "en": "Brentford set to sign Wilson after West Ham exit",
+      "zh-CN": "布伦特福德将在西汉姆退出后签下威尔逊"
+    },
+    "summary": {
+      "en": "Brentford are set to sign former England striker Callum Wilson on an initial 12-month contract after his exit from relegated West Ham.",
+      "zh-CN": "布伦特福德将在退出降级的西汉姆后签下前英格兰前锋卡勒姆·威尔逊，最初合同为12个月。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckg00p0vwgro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_17999",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 134,
+    "title": {
+      "en": "Arsenal sign Germany striker Cerci on free"
+    },
+    "summary": {
+      "en": "Arsenal have confirmed the signing of Germany striker Selina Cerci from Hoffenheim on a free transfer."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvg553rzprpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_96710",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 260,
+    "title": {
+      "en": "England into quarter-finals - what is their path to the final?"
+    },
+    "summary": {
+      "en": "BBC Sport takes a look at what England will need to do to reach the final after progressing the quarter-finals."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_15974",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 109,
+    "title": {
+      "en": "Bellingham scores two in 98 seconds to silence the Azteca"
+    },
+    "summary": {
+      "en": "Jude Bellingham scores two goals in 98 seconds to give England a 2-0 lead over Mexico during their last 16 match at the Mexico City Stadium."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_57901",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 61,
+    "title": {
+      "en": "'Nasty, nasty challenge' - Quansah shown red card"
+    },
+    "summary": {
+      "en": "England are reduced to 10 men as Jarrel Quansah is shown a red card following a VAR review for a \"nasty\" challenge on Mexico's Jesus Gallardo."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cp8rrwk5624o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_59765",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 283,
+    "title": {
+      "en": "'I'm speechless' - Kane reacts to England's victory over Mexico"
+    },
+    "summary": {
+      "en": "A very hoarse sounding England captain Harry Kane gives his reaction to England's 3-2 victory over Mexico and praises the fans support."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cvg55vne49do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_49322",
     "type": "official",
     "date": "2026-07-06",
     "likes": 165,
     "title": {
-      "en": "Red card system in disarray over Trump, Fifa and Balogun decision"
+      "en": "What Haaland's home town did when Norway beat Brazil"
     },
     "summary": {
-      "en": "The decision to effectively overturn the red card shown to United States forward Folarin Balogun leaves many unanswered questions."
+      "en": "Watch how Erling Haaland's hometown of Bryne reacted to their hero scoring both goals as Norway knocked out Brazil to advance to the quarter-final of the World Cup."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cd955kdlenxo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_21813",
+    "id": "N_RSS_35150",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 197,
+    "likes": 146,
     "title": {
-      "en": "Quiz: Name every team England have played in a World Cup quarter-final"
+      "en": "How 'remarkable' Haaland lead Norway to win over Brazil"
     },
     "summary": {
-      "en": "Norway will be the 11th team England will have faced in a World Cup quarter-final - so can you name the other 10?"
+      "en": "BBC Sport World Cup pundits Wayne Rooney, Joe Hart, and Micah Richards look at how \"absolute monster\" Erling Haaland inspired Norway to victory over Brazil in the last 16 of the World Cup."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c8j22mvdgp4o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/c6211d0vzm3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_35700",
+    "id": "N_RSS_11971",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 201,
+    "likes": 208,
     "title": {
-      "en": "Who has been eliminated from the World Cup?"
+      "en": "'Sportsmanship in question' after decision to suspend Balogun red card"
     },
     "summary": {
-      "en": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
+      "en": "BBC Sport World Cup pundits Wayne Rooney, Joe Hart, and Micah Richards react to the decision to suspend the red card shown to the USA's Florian Balogun during their round of 32 tie with..."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cp8rr2px3rwo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_50974",
+    "id": "N_RSS_81988",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 152,
+    "likes": 202,
     "title": {
-      "en": "Belgium cruise to victory amid Balogun drama to eliminate USA LIVE!"
+      "en": "The man England will fear most - Haaland fires Norway to history"
+    },
+    "summary": {
+      "en": "Erling Haaland has scored seven goals in four World Cup games and he is the striker that nobody wants to face as he fires Norway into an historic quarter-final."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwy006zywj8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_66275",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 156,
+    "title": {
+      "en": "Ageing Brazil need major surgery - but is Ancelotti the man to do it?"
+    },
+    "summary": {
+      "en": "There was nothing unlucky about Brazil's loss to Norway in the last 16 of the World Cup and their exit at this stage is an unmitigated disaster, writes Tim Vickery."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c20yywnqwl5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_16863",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 127,
+    "title": {
+      "en": "As Norway advance, is Wright correct about Scottish football's ills?"
+    },
+    "summary": {
+      "en": "From comparisons with Norway, undervalued broadcasting deals and unfulfilled potential, Ian Wright says he feels sorry for Scottish football fans - but is the former England striker right?"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yz9nnp2p1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_3270",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 143,
+    "title": {
+      "en": "Beever-Jones signs new contract until 2030 with Chelsea"
+    },
+    "summary": {
+      "en": "England forward Aggie Beever-Jones signs a new contract with Chelsea, extending her stay at the club she joined as a nine-year-old until 2030."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn599py6xvlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_16984",
+    "type": "official",
+    "date": "2026-07-06",
+    "likes": 176,
+    "title": {
+      "en": "All the key moments and rate the players as Belgium eliminate USA"
     },
     "summary": {
       "en": ""
@@ -310,143 +422,31 @@
     "url": "https://www.skysports.com/football/united-states-of-america-vs-belgium/live/549859"
   },
   {
-    "id": "N_RSS_35679",
+    "id": "N_RSS_7795",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 252,
+    "likes": 295,
     "title": {
-      "en": "Ronaldo: I won't make any rash decisions on Portugal future"
+      "en": "Ronaldo bows out and Martinez steps down as Portugal beaten by Spain"
     },
     "summary": {
-      "en": "Cristiano Ronaldo has confirmed he has played in his last World Cup game - but says he won't make any \"rash decisions\" on whether he has played his final game for Portugal."
+      "en": "Spain laboured to an uninspiring 1-0 victory over Iberian rivals Portugal in their last-16 tie to set up a quarter-final meeting with resurgent Belgium."
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13561089/cristiano-ronaldo-portugal-captain-confirms-he-has-played-his-last-world-cup-match-but-wont-make-rash-decision-on-international-future"
+    "url": "https://www.skysports.com/football/portugal-vs-spain/report/549858"
   },
   {
-    "id": "N_RSS_62595",
+    "id": "N_RSS_66357",
     "type": "official",
     "date": "2026-07-06",
-    "likes": 281,
+    "likes": 74,
     "title": {
-      "en": "Trump boasts, Infantino hits back and Belgium vow action as Balogun furore rages on"
+      "en": "Neville: England are favourites but should be wary of 'dangerous' Haaland and Norway"
     },
     "summary": {
-      "en": "President Donald Trump says he asked FIFA boss Gianni Infantino to \"review\" Folarin Balogun's red card and World Cup ban, which has since been suspended, allowing the USA striker to play in the..."
+      "en": "Gary Neville said England will be favourites against Norway but urged caution over Erling Haaland's potential impact despite the euphoria after their victory over Mexico in the World Cup last 16."
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13560915/world-cup-2026-uefa-hits-out-at-fifa-decision-to-allow-banned-folarin-balogun-to-play-usa-last-16-tie"
-  },
-  {
-    "id": "N_RSS_38854",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 283,
-    "title": {
-      "en": "Mbappe condemns racist remarks made by Paraguayan senator"
-    },
-    "summary": {
-      "en": "Kylian Mbappe has described a Paraguayan politician as \"despicable\" and unworthy of her position after she made several racist remarks toward the France star.&#160;"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13561115/kylian-mbappe-france-captain-condemns-racist-remarks-made-by-paraguayan-politician-celeste-amarilla-after-world-cup-round-of-16-clash"
-  },
-  {
-    "id": "N_RSS_74244",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 78,
-    "title": {
-      "en": "Jude's attitude can never be questioned again after colossal Mexico display"
-    },
-    "summary": {
-      "en": "There aren't enough superlatives to describe what Jude Bellingham produced in the cauldron that was the Azteca."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13560865/mexico-2-3-england-jude-bellinghams-world-cup-heroics-silence-remaining-doubters-of-superstars-commitment-to-thomas-tuchels-cause"
-  },
-  {
-    "id": "N_RSS_21900",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 279,
-    "title": {
-      "en": "Henderson to miss rest of World Cup after freak injury"
-    },
-    "summary": {
-      "en": "England midfielder Jordan Henderson has been ruled out for the remainder of the World Cup."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13560940/world-cup-2026-englands-jordan-henderson-out-of-tournament-after-freak-injury-against-mexico"
-  },
-  {
-    "id": "N_RSS_92969",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 153,
-    "title": {
-      "en": "Merino strikes at the death for Spain to send Portugal and Ronaldo limping out"
-    },
-    "summary": {
-      "en": "It ended with a goal from a tall, slightly ungainly figure driving through the centre-forward position – but perhaps not the one that the narrative demanded. In stoppage time, Mikel Merino ran on to..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/06/portugal-spain-world-cup-last-16-match-report"
-  },
-  {
-    "id": "N_RSS_44407",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 201,
-    "title": {
-      "en": "Uefa has put European football on war footing with Fifa over Balogun decision | Matt Hughes"
-    },
-    "summary": {
-      "en": "European governing body’s dramatic move could have major implications for the future of the sportPerhaps the only globally renowned figure who has been more conspicuous by his absence at this World..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/06/uefa-fifa-folarin-balogun-controversy-decision-usa-belgium-gianni-infantino-aleksander-ceferin"
-  },
-  {
-    "id": "N_RSS_90449",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 227,
-    "title": {
-      "en": "‘A despicable woman’: Kylian Mbappé hits out at Paraguayan senator over racist attack"
-    },
-    "summary": {
-      "en": "Celeste Amarilla called striker a ‘colonised Cameroonian’French Football Federation to file criminal chargesFrance’s Kylian Mbappé has hit back at a Paraguayan senator, describing her ⁠as a..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/06/a-despicable-women-kylian-mbappe-hits-out-at-paraguayan-senator-over-racist-attack"
-  },
-  {
-    "id": "N_RSS_18902",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 163,
-    "title": {
-      "en": "Haaland beats his own drum as Norway get set for England epic | Paul MacInnes"
-    },
-    "summary": {
-      "en": "Ståle Solbakken’s side have played with smiles on their faces – and none more so than the talismanic strikerErling Haaland saves his best content for Snapchat. Norway’s No 9, fresh off another..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/06/erling-haaland-norway-england-world-cup-quarter-finals"
-  },
-  {
-    "id": "N_RSS_37466",
-    "type": "official",
-    "date": "2026-07-06",
-    "likes": 274,
-    "title": {
-      "en": "Tuchel claims World Cup refereeing ‘not good enough’ but says England have belief to go all the way"
-    },
-    "summary": {
-      "en": "Tuchel critical of ‘unreliable’ officiating against MexicoFA could launch appeal against Quansah’s red cardThomas Tuchel called the standard of refereeing at the World Cup unreliable and erratic as..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/06/thomas-tuchel-england-mexico-norway-world-cup-2026"
+    "url": "https://www.skysports.com/football/news/11095/13561051/england-world-cup-2026-gary-neville-says-three-lions-are-favourites-against-norway-but-urges-caution-over-erling-haaland-in-quarter-final-clash"
   }
 ]
