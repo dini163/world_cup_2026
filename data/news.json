@@ -1,44 +1,156 @@
 [
   {
-    "id": "N_RSS_13096",
+    "id": "N_RSS_45103",
     "type": "official",
     "date": "2026-07-10",
-    "likes": 300,
+    "likes": 212,
     "title": {
-      "en": "Born in Leeds, crafted in Norway - Haaland's worlds about to collide",
-      "zh-CN": "出生于利兹，在挪威制作-哈兰的世界即将碰撞"
+      "en": "France cruise into semi-finals - could this be the best Les Bleus ever?",
+      "zh-CN": "法国队进入半决赛-这是有史以来最好的蓝天吗？"
     },
     "summary": {
-      "en": "Erling Haaland has guided Norway to their first World Cup since 1998. So what is it like being a global name from a nation with a population of just 5.5 million?",
-      "zh-CN": "Erling Haaland自1998年以来首次带领挪威参加世界杯。那么，作为一个人口只有550万的国家的全球知名品牌，是什么感觉呢？"
+      "en": "World Cup winners in 1998 and 2018, France have created another special team and in beating Morocco showed why they are favourites to win the 2026 competition.",
+      "zh-CN": "在1998年和2018年的世界杯冠军中，法国组建了另一支特别的球队，在击败摩洛哥的比赛中，他们展示了为什么他们最喜欢赢得2026年的比赛。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cd7pqdyy9v2o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gy74978myo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_25626",
+    "id": "N_RSS_8582",
     "type": "official",
     "date": "2026-07-10",
-    "likes": 265,
+    "likes": 83,
     "title": {
-      "en": "Who am I? Guess World Cup star No 33",
-      "zh-CN": "我是谁？猜猜世界杯明星33号"
+      "en": "Mexico boss' explicit heckle a bit of fun - Gordon",
+      "zh-CN": "墨西哥老板直言不讳的嘲笑-戈登"
     },
     "summary": {
-      "en": "Will you get today's player in as few attempts as possible?",
-      "zh-CN": "你会在尽可能少的尝试中获得今天的玩家吗？"
+      "en": "England winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of their World Cup match was \"just a bit of fun\".",
+      "zh-CN": "英格兰边锋安东尼·戈登（ Anthony Gordon ）表示，在世界杯比赛的病毒时刻，墨西哥老板哈维尔·阿吉雷（ Javier Aguirre ）宣誓就职“只是有点好玩”。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cwy20q7wd3go?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_31606",
+    "id": "N_RSS_43216",
     "type": "official",
     "date": "2026-07-10",
-    "likes": 285,
+    "likes": 277,
     "title": {
-      "en": "Guehi a serious doubt for quarter-final clash with Norway",
-      "zh-CN": "Guehi对与挪威的四分之一决赛冲突表示严重怀疑"
+      "en": "How De la Fuente's Spain are closing in on greatness",
+      "zh-CN": "De la Fuente的西班牙是如何接近伟大的"
+    },
+    "summary": {
+      "en": "Before Spain's World Cup quarter-final against Belgium, Guillem Balague talks to Spain boss Luis de la Fuente about their identity and Lamine Yamal.",
+      "zh-CN": "在西班牙世界杯四分之一决赛对阵比利时之前， Guillem Balague与西班牙老板Luis de la Fuente谈论了他们的身份和Lamine Yamal。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwyez8r7ve8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_94176",
+    "type": "official",
+    "date": "2026-07-10",
+    "likes": 151,
+    "title": {
+      "en": "What's going on with penalties - is it time to end the stutter?",
+      "zh-CN": "处罚是怎么回事--是时候结束口吃了吗？"
+    },
+    "summary": {
+      "en": "Kylian Mbappe's penalty miss in France's win against Morocco is the latest example of a player missing a penalty after stuttering in the run-up.",
+      "zh-CN": "基利安·姆巴佩（ Kylian Mbappe ）在法国对摩洛哥的胜利中的点球失误是球员在晋级赛中口吃后错过点球的最新例子。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cg74k39rp4vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_54984",
+    "type": "official",
+    "date": "2026-07-10",
+    "likes": 83,
+    "title": {
+      "en": "Duran completes switch to Celtic from Qarabag",
+      "zh-CN": "杜兰完成从卡拉巴格到凯尔特语的转换"
+    },
+    "summary": {
+      "en": "Celtic confirm the signing of Colombian forward Camilo Duran from Qarabag on a five-year deal.",
+      "zh-CN": "凯尔特人确认哥伦比亚前锋卡米洛·杜兰（ Camilo Duran ）从卡拉巴格（ Qarabag ）签下了一份为期五年"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crelrygnp0eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_78242",
+    "type": "official",
+    "date": "2026-07-10",
+    "likes": 133,
+    "title": {
+      "en": "Spurs make offer for Kolo Muani - Friday gossip",
+      "zh-CN": "马刺为Kolo Muani出价-周五八卦"
+    },
+    "summary": {
+      "en": "Tottenham make an offer for Randal Kolo Muani but Juventus remain favourites to sign the forward, Arsenal are ready to finalise a deal for Christos Tzolis, Marcus Rashford's future at Barcelona could...",
+      "zh-CN": "托特纳姆热刺向兰德尔·科洛·穆阿尼提出要约，但尤文图斯仍然是签下前锋的最爱，阿森纳已经准备好为克里斯托斯·佐利斯敲定一笔交易，马库斯·拉什福德在巴塞罗那的未来可能会..."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cz6vz91n7e5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_76648",
+    "type": "official",
+    "date": "2026-07-10",
+    "likes": 139,
+    "title": {
+      "en": "New Celtic arrival Duran eyes further Champions League impact",
+      "zh-CN": "新凯尔特人抵达杜兰进一步关注冠军联赛的影响"
+    },
+    "summary": {
+      "en": "Celtic confirm the signing of Colombian forward Camilo Duran from Qarabag on a five-year deal.",
+      "zh-CN": "凯尔特人确认哥伦比亚前锋卡米洛·杜兰（ Camilo Duran ）从卡拉巴格（ Qarabag ）签下了一份为期五年"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crelrygnp0eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_42782",
+    "type": "official",
+    "date": "2026-07-10",
+    "likes": 247,
+    "title": {
+      "en": "'A bit of a rebel' - what can Celtic expect from forward Duran?",
+      "zh-CN": "“有点叛逆” --凯尔特人对前锋杜兰有什么期望？"
+    },
+    "summary": {
+      "en": "Celtic are set to sign their first player in the transfer window - 24-year-old Colombian forward Camilo Duran from Qarabag - for a reported £5.5m. But who is he?",
+      "zh-CN": "凯尔特人将在转会窗口签下他们的第一名球员-来自卡拉巴格的24岁哥伦比亚前锋卡米洛·杜兰-据报道为550万美元£。但他是谁？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x3yep3po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_61058",
+    "type": "official",
+    "date": "2026-07-10",
+    "likes": 241,
+    "title": {
+      "en": "Rangers pursue midfielder Fosso - gossip",
+      "zh-CN": "流浪者追逐中场球员福索-八卦"
+    },
+    "summary": {
+      "en": "Rangers linked with midfielders in Austria and Serbia as Hearts hold talks with key player over a contract extension...",
+      "zh-CN": "流浪者与奥地利和塞尔维亚的中场球员联系在一起，因为心脏与关键球员就合同延期进行谈判..."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c9v29j8ee3yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_17874",
+    "type": "official",
+    "date": "2026-07-10",
+    "likes": 212,
+    "title": {
+      "en": "Guehi a serious doubt for quarter-final - could Burn start vs Norway?",
+      "zh-CN": "对于四分之一决赛来说， Guehi是一个严重的疑问- Burn能否首发对挪威？"
     },
     "summary": {
       "en": "Marc Guehi is a serious doubt for England&#8217;s World Cup quarter-final on Saturday against Norway as he battles a hamstring strain picked up in the win over Mexico.",
@@ -48,13 +160,13 @@
     "url": "https://www.skysports.com/football/news/11095/13562168/world-cup-2026-england-defender-marc-guehi-a-serious-doubt-for-quarter-final-clash-with-norway"
   },
   {
-    "id": "N_RSS_89914",
+    "id": "N_RSS_10858",
     "type": "official",
     "date": "2026-07-10",
-    "likes": 127,
+    "likes": 159,
     "title": {
-      "en": "England latest: Who should replace Guehi - Burn, Stones or Chalobah?",
-      "zh-CN": "英格兰最新：谁应该取代Guehi -燃烧，石头或Chalobah ？"
+      "en": "England latest: Who should replace Guehi?",
+      "zh-CN": "英格兰最新：谁应该取代盖希？"
     },
     "summary": {
       "en": ""
@@ -63,389 +175,276 @@
     "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
   },
   {
-    "id": "N_RSS_78447",
+    "id": "N_RSS_21328",
     "type": "official",
     "date": "2026-07-10",
-    "likes": 151,
-    "title": {
-      "en": "World Cup bracket: Who will join France in semi-finals?",
-      "zh-CN": "世界杯组别：谁将与法国队一起进入半决赛？"
-    },
-    "summary": {
-      "en": "The World Cup has entered the quarter-final stages - so how is the route to the final on July 19 now shaping up?",
-      "zh-CN": "世界杯已进入四分之一决赛阶段-那么7月19日决赛的路线现在如何形成？"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-16-and-route-to-final"
-  },
-  {
-    "id": "N_RSS_84668",
-    "type": "official",
-    "date": "2026-07-10",
-    "likes": 298,
-    "title": {
-      "en": "Belgium take strength from ‘millions and millions’ of new fans before Spain clash",
-      "zh-CN": "在西班牙冲突之前，比利时从“数以百万计”的新球迷中汲取力量"
-    },
-    "summary": {
-      "en": "Rudi Garcia says his team can benefit from Balogun red card saga‘Everyone is talking about us going home but we can do it,’ coach saysRudi Garcia has claimed that Belgium have got “millions and...",
-      "zh-CN": "鲁迪·加西亚（ Rudi Garcia ）说，他的团队可以从Balogun红牌传奇中受益'每个人都在谈论我们回家，但我们可以做到，’教练说鲁迪·加西亚（ Rudi Garcia ）声称比利时有“数百万和......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/10/belgium-rudi-garcia-world-cup-quarter-final-spain"
-  },
-  {
-    "id": "N_RSS_19002",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 50,
-    "title": {
-      "en": "Guehi a doubt for Norway game and Rice ill with bug",
-      "zh-CN": "Guehi怀疑挪威的游戏和大米生病的虫子"
-    },
-    "summary": {
-      "en": "England defender Marc Guehi is managing a slight hamstring injury and could miss Saturday's Norway quarter-final.",
-      "zh-CN": "英格兰后卫马克·盖希（ Marc Guehi ）因轻微腿筋受伤，可能会错过周六的挪威四分之一决赛。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_69336",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 235,
-    "title": {
-      "en": "I've changed my mind, we might actually be able to win this thing - Shearer",
-      "zh-CN": "我改变主意了，我们可能真的能赢得这场比赛- Shearer"
-    },
-    "summary": {
-      "en": "Alan Shearer explains why he now has belief and confidence that England can go further in this World Cup than he thought.",
-      "zh-CN": "艾伦·希勒（ Alan Shearer ）解释了为什么他现在相信英格兰可以在这届世界杯上走得比他想象的更远。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cz6vz34yv82o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_76469",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 120,
-    "title": {
-      "en": "Norway's Haaland calls for media pressure on England before quarter-final",
-      "zh-CN": "挪威的哈兰德呼吁媒体在四分之一决赛前对英格兰施压"
-    },
-    "summary": {
-      "en": "Norway striker Erling Haaland says all the pressure is on England before the two sides' World Cup quarter-final on Saturday.",
-      "zh-CN": "挪威前锋埃尔林·哈兰德表示，在周六双方的世界杯四分之一决赛之前，所有的压力都落在了英格兰身上。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cj3gd8rg628o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_20169",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 161,
-    "title": {
-      "en": "France into semi-finals after comfortable win over Morocco",
-      "zh-CN": "法国在轻松战胜摩洛哥后进入半决赛"
-    },
-    "summary": {
-      "en": "Kylian Mbappe scores his eighth goal of this World Cup to make up for an earlier penalty miss with Ousmane Dembele adding a second as France prove too good for Morocco and move into the semi-finals.",
-      "zh-CN": "Kylian Mbappe在本届世界杯上打进了他的第八个进球，以弥补早些时候的点球失误， Ousmane Dembele增加了一秒，因为法国证明对摩洛哥来说太好了，并进入了半决赛。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/crm0ry2nemmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_53449",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 116,
-    "title": {
-      "en": "'Absolute perfection!' Mbappe fires France ahead against Morocco",
-      "zh-CN": "“绝对完美！” Mbappe向前射击法国对阵摩洛哥"
-    },
-    "summary": {
-      "en": "All the angles of Kylian Mbappe's opener for France against Morocco in the 2026 World Cup.",
-      "zh-CN": "Kylian Mbappe在2026年世界杯上为法国对阵摩洛哥的揭幕战的所有角度。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cwyemrl4dw8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_54885",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 99,
-    "title": {
-      "en": "Has your area gone football mad? We've mapped World Cup viewing",
-      "zh-CN": "您所在的地区是否已经疯狂踢足球？我们绘制了观看世界杯的地图"
-    },
-    "summary": {
-      "en": "We've analysed BBC iPlayer viewing across the UK to see where the tournament has been most popular.",
-      "zh-CN": "我们分析了英国各地的BBC iPlayer观看情况，以了解比赛最受欢迎的地方。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/news/articles/cj9gxwynrlwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_95848",
-    "type": "official",
-    "date": "2026-07-09",
     "likes": 282,
     "title": {
-      "en": "How Kane and Haaland compare - who would you pick?",
-      "zh-CN": "Kane和Haaland的比较-您会选择谁？"
+      "en": "Mbappe mirrors Messi magic as World Cup's greatest storyline rolls on",
+      "zh-CN": "Mbappe镜像梅西的魔力，世界杯最伟大的故事情节继续"
     },
     "summary": {
-      "en": "Two of the world's best strikers - Harry Kane and Erling Haaland - meet in the World Cup quarter-finals - but who would you rather have?",
-      "zh-CN": "世界上最好的两位前锋--哈里·凯恩（ Harry Kane ）和埃尔林·哈兰德（ Erling Haaland ） --在世界杯四分之一决赛中相遇--但您更喜欢谁？"
+      "en": "This summer's World Cup has been one of the most fascinating on the pitch in recent memory. Not because of the teams. Because of two men.",
+      "zh-CN": "今年夏天的世界杯是最近记忆中球场上最迷人的比赛之一。不是因为团队。因为两个男人。"
     },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&at_campaign=rss"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13562058/kylian-mbappe-produces-a-copy-paste-performance-as-his-world-cup-battle-with-lionel-messi-continues-to-produce-magic"
   },
   {
-    "id": "N_RSS_8552",
+    "id": "N_RSS_22858",
     "type": "official",
-    "date": "2026-07-09",
-    "likes": 183,
+    "date": "2026-07-10",
+    "likes": 220,
     "title": {
-      "en": "Late goals, comebacks and upsets - is record-breaking World Cup best ever?",
-      "zh-CN": "迟来的进球、复出和沮丧--破纪录的世界杯有史以来最好的吗？"
+      "en": "Norway vs England tactical dossier: England must impose themselves - not just stop Haaland",
+      "zh-CN": "挪威vs英格兰战术档案：英格兰必须强加自己-而不仅仅是阻止哈兰德"
     },
     "summary": {
-      "en": "What a World Cup it has been with great goals, thrilling comebacks, late drama, shock results. But how will this tournament be remembered?",
-      "zh-CN": "这是一届多么精彩的世界杯，有着伟大的进球、惊心动魄的复出、后期的戏剧、令人震惊的结果。但是这场比赛将如何被记住？"
+      "en": "What tactical nuances could decide Norway vs England in Saturday&#8217;s World Cup quarter-final in Miami? Our tactical dossier breaks down the key head-to-head clashes, threats and advantages facing...",
+      "zh-CN": "在周六在迈阿密举行的世界杯四分之一决赛中，哪些战术上的细微差别可以决定挪威与英格兰的比赛？我们的战术档案分解了关键的正面冲突、威胁和优势……"
     },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2dzy11epeo?at_medium=RSS&at_campaign=rss"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13560879/norway-vs-england-tactical-dossier-how-thomas-tuchels-side-can-stop-erling-haaland-and-reach-the-world-cup-semi-finals"
   },
   {
-    "id": "N_RSS_38316",
+    "id": "N_RSS_13323",
     "type": "official",
-    "date": "2026-07-09",
-    "likes": 96,
+    "date": "2026-07-10",
+    "likes": 188,
     "title": {
-      "en": "Football Daily",
-      "zh-CN": "足球日报"
-    },
-    "summary": {
-      "en": "John Murray, Ian Dennis & Ali Bruce-Ball chat ahead of the FIFA World Cup Quarter-Finals.",
-      "zh-CN": "John Murray、Ian Dennis和Ali Bruce-Ball在国际足联世界杯四分之一决赛前聊天。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0nxsyhx?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_85509",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 52,
-    "title": {
-      "en": "Maddy Cusack inquest adjourned over evidence request"
-    },
-    "summary": {
-      "en": "Maddy Cusack died after being found unconscious at her family home in September 2023."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/news/articles/cq81j7qewqlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_50253",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 75,
-    "title": {
-      "en": "Idolises Ronaldo, plays like Saka - meet  £40m Chelsea winger Quenda"
-    },
-    "summary": {
-      "en": "Chelsea's new signing Geovany Quenda hopes to follow in the footsteps of Cristiano Ronaldo by leaving Sporting's academy for the challenge and exposure of the Premier League."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c629q72yr90o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_39397",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 224,
-    "title": {
-      "en": "'A bit of a rebel' - what will Celtic get from forward Duran?"
-    },
-    "summary": {
-      "en": "Celtic are set to sign their first player in the transfer window - 24-year-old Colombian forward Camilo Duran from Qarabag - for a reported £5.5m. But who is he?"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x3yep3po?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_98042",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 93,
-    "title": {
-      "en": "'Celtic go all out for striker Bowie' - gossip"
-    },
-    "summary": {
-      "en": "Celtic linked with Scotland striker in Italy and Egypt winger in Spain as newly-promoted Premier League side eye move for Hearts striker..."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ce37q0371n8o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_85365",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 280,
-    "title": {
-      "en": "France 2-0 Morocco: All the key moments & rate the players!"
+      "en": "Clashes between fans and police in London after France vs Morocco World Cup match",
+      "zh-CN": "法国与摩洛哥世界杯比赛后，球迷与伦敦警方发生冲突"
     },
     "summary": {
       "en": ""
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/france-vs-morocco/live/549862"
+    "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
   },
   {
-    "id": "N_RSS_11147",
+    "id": "N_RSS_71687",
     "type": "official",
-    "date": "2026-07-09",
-    "likes": 144,
+    "date": "2026-07-10",
+    "likes": 197,
     "title": {
-      "en": "Redknapp: Quansah two-match ban 'harsh' | 'Get the PM to ring FIFA!'"
+      "en": "Haaland: England should be confident - the pressure is on them",
+      "zh-CN": "哈兰德：英格兰应该有信心-压力在他们身上"
     },
     "summary": {
-      "en": "Harry Redknapp jokingly calls for the Prime Minister to ring FIFA after Jarell Quansah was handed a two match suspension for his foul against Mexico last week."
+      "en": "Norway's Erling Haaland says England should rightly feel confident ahead of the quarter-final clash between the two sides, insisting the pressure is firmly on Thomas Tuchel's side to progress.",
+      "zh-CN": "挪威的埃尔林·哈兰德（ Erling Haaland ）表示，在双方的四分之一决赛冲突之前，英格兰应该有信心，坚持认为托马斯·图切尔（ Thomas Tuchel ）方面的进步压力是坚定的。"
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/watch/video/13562061/get-our-prime-minister-to-ring-fifa-harry-redknapp-calls-for-british-pm-to-overturn-jarell-quansahs-two-match-ban"
+    "url": "https://www.skysports.com/football/news/11095/13562015/erling-haaland-says-england-should-be-confident-for-their-world-cup-tie-with-norway-and-says-pressure-is-firmly-on-thomas-tuchels-men"
   },
   {
-    "id": "N_RSS_49613",
+    "id": "N_RSS_14535",
     "type": "official",
-    "date": "2026-07-09",
-    "likes": 59,
+    "date": "2026-07-10",
+    "likes": 152,
     "title": {
-      "en": "'Put pressure on the English lads!' | Haaland: Everyone should stay humble!"
+      "en": "World Cup 2026: ‘violent disorder’ in London after France’s win over Morocco, Spain v Belgium buildup – live"
     },
     "summary": {
-      "en": "Erling Haaland looks ahead to the World Cup match against England, where he will be facing some of his Premier League pals."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/watch/video/13562026/erling-haaland-everyone-should-stay-humble-put-pressure-on-the-english-lads"
-  },
-  {
-    "id": "N_RSS_94058",
-    "type": "official",
-    "date": "2026-07-09",
-    "likes": 76,
-    "title": {
-      "en": "Mbappé stunner ends Morocco resistance to send France into World Cup semi-finals"
-    },
-    "summary": {
-      "en": "There is a relentlessness to this France that might make them irresistible. Morocco no doubt had the best of intentions, ideas of how they could hurt the side that had beaten them in the semi-final..."
+      "en": "⚽ All the latest news as the quarter-finals continue⚽ Player guide | Bracketology| Golden Boot | Email usA 17-year-old girl fell off a truck and died while celebrating France’s World Cup quarter..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/09/morocco-france-world-cup-quarter-final-match-report"
+    "url": "https://www.theguardian.com/football/live/2026/jul/10/world-cup-2026-france-power-on-quansah-ban-fallout-spain-v-belgium-buildup-live"
   },
   {
-    "id": "N_RSS_33104",
+    "id": "N_RSS_65678",
     "type": "official",
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "likes": 289,
     "title": {
-      "en": "Erling Haaland claims pressure is all on England in quarter-final with Norway"
+      "en": "France’s attacking evolution under Didier Deschamps passes latest Morocco test | Raphaël Jucobin"
     },
     "summary": {
-      "en": "Striker says England one of the ‘clear favourites’ to win World CupAlso makes knowing reference to famous ‘Stay humble’ remarkErling Haaland has ramped up the World Cup mind games by saying England..."
+      "en": "With the head coach having released the handbrake, his side were far superior compared with four years ago in Qatar against the same opponents The scorelines may have been exactly the same, but the..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/09/erling-haaland-claims-pressure-is-all-on-england-in-quarter-final-with-norway"
+    "url": "https://www.theguardian.com/football/2026/jul/10/france-morocco-world-cup-attacking-evolution-didier-deschamps-analysis"
   },
   {
-    "id": "N_RSS_19909",
+    "id": "N_RSS_13858",
     "type": "official",
-    "date": "2026-07-09",
-    "likes": 259,
+    "date": "2026-07-10",
+    "likes": 145,
     "title": {
-      "en": "Anthony Gordon: ‘I have always been very intrigued to see who I can become’"
+      "en": "‘Give me another medal!’: meet the hair stylist who has taken over the World Cup"
     },
     "summary": {
-      "en": "England winger on his thirst for self-improvement, triumph at the Azteca and the ‘spiritual’ Thomas TuchelIt was a lighthearted moment – despite the language used – and Anthony Gordon saw the funny..."
+      "en": "Jayèma on working with England stars, a new look for Raphinha and forging a friendship with Lamine Yamal’s family Jayèma has had a World Cup like no other. Who else but the London hair stylist has..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/09/anthony-gordon-i-have-always-been-very-intrigued-to-see-who-i-can-become"
+    "url": "https://www.theguardian.com/football/2026/jul/10/give-me-another-medal-hair-stylist-world-cup-jayema-lamine-yamal-raphinha"
   },
   {
-    "id": "N_RSS_52725",
+    "id": "N_RSS_54251",
     "type": "official",
-    "date": "2026-07-09",
-    "likes": 266,
+    "date": "2026-07-10",
+    "likes": 132,
     "title": {
-      "en": "Rice and Ødegaard put club union on hold in decisive duel between England and Norway"
+      "en": "London to Lisbon and back every game: England rack up the World Cup miles"
     },
     "summary": {
-      "en": "Two architects of Arsenal’s title triumph are likely to have starring roles for their country in pursuit of a place in the World Cup semi-finals It is one of those times when WhatsApp group chats..."
+      "en": "England have been happy with their Kansas City base but it has led to them travelling more than the other quarter-finalists – here’s just how much moreMuch was made of the challenge England faced by..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/09/declan-rice-martin-odegaard-arsenal-norway-england-world-cup-2026"
+    "url": "https://www.theguardian.com/football/2026/jul/10/london-to-lisbon-and-back-every-game-england-rack-up-the-world-cup-miles"
   },
   {
-    "id": "N_RSS_75945",
+    "id": "N_RSS_99714",
     "type": "official",
-    "date": "2026-07-09",
-    "likes": 74,
+    "date": "2026-07-10",
+    "likes": 241,
     "title": {
-      "en": "‘There is a magnificent balance’: how Spain built a record-breaking defence"
+      "en": "Haaland and Bellingham: Dortmund friends taking centre stage in Norway v England battle"
     },
     "summary": {
-      "en": "The Spain goalkeeper Unai Simón has not conceded a goal at the World Cup and, worryingly for Belgium, he has not had to face that many shots“We’re the villains, there to stop the goals that football..."
+      "en": "The attacking players spent two years together at BVB, forming a friendship on their way to the very topThis World Cup has been about the biggest names from the beginning but as Miami welcomes back..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/09/there-is-a-magnificent-balance-how-spain-built-a-record-breaking-defence"
+    "url": "https://www.theguardian.com/football/2026/jul/10/haaland-bellingham-dortmund-friends-centre-stage-norway-v-england-battle-world-cup-2026"
   },
   {
-    "id": "N_RSS_53724",
+    "id": "N_RSS_55046",
     "type": "official",
-    "date": "2026-07-09",
-    "likes": 260,
+    "date": "2026-07-10",
+    "likes": 255,
     "title": {
-      "en": "Newcastle face sliding doors moment over Bruno Guimarães in summer of upheaval"
+      "en": "Exit strategies: how and why 25% of World Cup coaches have left their jobs"
     },
     "summary": {
-      "en": "With Saudi spending restricted and a glut of departures and arrivals the stakes are high for Eddie Howe, and his captain, amid uncertain times on TynesideIs it the end of the road for Bruno Guimarães..."
+      "en": "Twelve coaches have been sacked or walked away from their national teams – here’s a full rundownSabri Lamouchi Appointed on 14 January to succeed Sami Trabelsi after Tunisia lost on penalties to Mali..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/09/newcastle-face-sliding-doors-moment-over-bruno-guimaraes-in-summer-of-upheaval"
+    "url": "https://www.theguardian.com/football/2026/jul/10/world-cup-coaches-left-their-jobs"
   },
   {
-    "id": "N_RSS_22328",
+    "id": "N_RSS_14638",
     "type": "official",
-    "date": "2026-07-09",
-    "likes": 279,
+    "date": "2026-07-10",
+    "likes": 187,
     "title": {
-      "en": "Jarell Quansah handed two-match ban by Fifa for sending off against Mexico"
+      "en": "France maul meek Morocco to reach semi-finals | World Cup Daily – video"
     },
     "summary": {
-      "en": "England defender’s challenge deemed serious foul playQuansah misses quarter-final and potential semi-finalJarell Quansah has been given a two-game ban for his red card in England’s World Cup last-16..."
+      "en": "Max Rushden is joined by Barry Glendenning, John Brewin and Philippe Auclair as France comfortably beat Morocco 2-0 to become the first team to book their place in the World Cup semi-finals Continue..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/09/jarell-quansah-handed-two-match-ban-by-fifa-for-sending-off-against-mexico"
+    "url": "https://www.theguardian.com/football/video/2026/jul/10/france-maul-meek-morocco-to-reach-semi-finals-world-cup-daily-video"
   },
   {
-    "id": "N_RSS_43265",
+    "id": "N_RSS_75649",
     "type": "official",
     "date": "2026-07-09",
-    "likes": 58,
+    "likes": 182,
     "title": {
-      "en": "Egypt’s World Cup adventure gave the country its first collective joy in 15 years | Karim Zidan"
+      "en": "Klopp reveals how Liverpool tried to sign Mbappe"
     },
     "summary": {
-      "en": "In a nation where more than 70% of people rely on food subsidies the team’s history-making campaign brought welcome celebrationFor nearly 15 minutes on Tuesday it seemed Egypt were about to complete..."
+      "en": "Jurgen Klopp says he \"flew around in a circle\" in a private plane with Kylian Mbappe and his family when he tried to sign him for Liverpool a decade ago."
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/09/egypt-world-cup-heartbreak-still-gave-country-reason-to-smile"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cpd3052gjvxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_55130",
+    "type": "official",
+    "date": "2026-07-09",
+    "likes": 119,
+    "title": {
+      "en": "'World Cup quarter-final is Norway's biggest event ever by far'"
+    },
+    "summary": {
+      "en": "Norwegian pundits look ahead to their World Cup quarter-final against England, which has been described as the \"biggest event ever in Norway\"."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cy06zyr319yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_66448",
+    "type": "official",
+    "date": "2026-07-09",
+    "likes": 157,
+    "title": {
+      "en": "Quansah banned for two games after Mexico red card"
+    },
+    "summary": {
+      "en": "England defender Jarell Quansah receives a two-match ban for his red card against Mexico."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cjdgvrnn5n3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_95992",
+    "type": "official",
+    "date": "2026-07-09",
+    "likes": 232,
+    "title": {
+      "en": "Premier League pre-season - who are your club playing?"
+    },
+    "summary": {
+      "en": "The World Cup is still going on but Premier League clubs will soon begin their pre-season friendlies - who is your club taking on and when?"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn59deldv70o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_90457",
+    "type": "official",
+    "date": "2026-07-09",
+    "likes": 81,
+    "title": {
+      "en": "'It was good vibes in there' - Stones on viral prank"
+    },
+    "summary": {
+      "en": "John Stones talks about the viral dressing-room injury prank that left England boss Thomas Tuchel briefly stunned."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cdej0znl156o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_476",
+    "type": "official",
+    "date": "2026-07-09",
+    "likes": 61,
+    "title": {
+      "en": "Palace sign Spain defender Mingueza on free transfer"
+    },
+    "summary": {
+      "en": "Crystal Palace sign Celta Vigo defender Oscar Mingueza on a free transfer, subject to international clearance."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cdxd5rd7kqwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_58900",
+    "type": "official",
+    "date": "2026-07-09",
+    "likes": 145,
+    "title": {
+      "en": "US confirm Pulisic leg fracture in defeat by Belgium"
+    },
+    "summary": {
+      "en": "The United States confirm that forward Christian Pulisic fractured his leg during his side's 4-1 defeat by Belgium in the World Cup last 16."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq613v53emlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_34487",
+    "type": "official",
+    "date": "2026-07-09",
+    "likes": 148,
+    "title": {
+      "en": "Eriksen to begin rehab in Denmark after collapse"
+    },
+    "summary": {
+      "en": "Midfielder Christian Eriksen will begin rehabilitation at home in Denmark after collapsing in an international friendly in June."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c78y01090xqo?at_medium=RSS&at_campaign=rss"
   }
 ]
