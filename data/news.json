@@ -1,123 +1,170 @@
 [
   {
-    "id": "N_RSS_18412",
+    "id": "N_RSS_86320",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 162,
+    "title": {
+      "en": "Most clinical? Least creative? Best in the air? Comparing the last four",
+      "zh-CN": "临床最多？创意最少？最好在空中？对比过去四年"
+    },
+    "summary": {
+      "en": "BBC Sport compares statistics for France, Spain, Argentina and England in the World Cup so far as the semi-finalists prepare to meet.",
+      "zh-CN": "英国广播公司体育台（ BBC Sport ）比较了法国、西班牙、阿根廷和英格兰在世界杯上的统计数据，以备半决赛选手见面。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_64329",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 205,
+    "title": {
+      "en": "Man Utd close to completing Tielemans deal",
+      "zh-CN": "曼联即将完成Tielemans交易"
+    },
+    "summary": {
+      "en": "Manchester United are in advanced talks with Aston Villa over Belgium midfielder Youri Tielemans",
+      "zh-CN": "曼联正在与阿斯顿维拉就比利时中场球员尤里·蒂勒曼斯进行高级会谈"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_6353",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 69,
+    "title": {
+      "en": "Spain defender Leon joins London City Lionesses",
+      "zh-CN": "西班牙后卫莱昂加盟伦敦城市女狮队"
+    },
+    "summary": {
+      "en": "Spain defender Mapi Leon joins London City Lionesses on a three-year deal following her exit from Barcelona.",
+      "zh-CN": "西班牙后卫马皮·莱昂（ Mapi Leon ）在离开巴塞罗那后与伦敦城市女狮队（ London City Lionesses ）签订了一份为期三年"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c20ynnvyx4yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_80102",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 126,
+    "title": {
+      "en": "England to wear all-white kit against Argentina",
+      "zh-CN": "英格兰队穿全白球衣对阵阿根廷队"
+    },
+    "summary": {
+      "en": "England will wear their all-white home kit and Argentina their navy blue away strip when the two sides face each other in the semi-finals of the World Cup on Wednesday.",
+      "zh-CN": "当双方在周三的世界杯半决赛中面对面时，英格兰队将穿着全白色主场球衣，阿根廷队将穿着海军蓝客场球衣。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/czx5v2p7qkgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_66286",
     "type": "official",
     "date": "2026-07-13",
     "likes": 208,
     "title": {
-      "en": "These are unprecedented times - England should enjoy them",
-      "zh-CN": "这是前所未有的时代-英格兰应该享受它们"
+      "en": "Bilic reappointed as Croatia manager",
+      "zh-CN": "Bilic再次被任命为克罗地亚经理"
     },
     "summary": {
-      "en": "A record of four semi-finals in the past five international tournaments for England is outstanding. It is time to accept that this is where England belong.",
-      "zh-CN": "在过去的五场英格兰国际锦标赛中，有四场半决赛的记录非常出色。现在是时候接受这是英格兰所属的地方了。"
+      "en": "Croatia reappoint former defender Slaven Bilic as the manager of their men's national team.",
+      "zh-CN": "克罗地亚重新任命前后卫斯拉文·比利奇（ Slaven Bilic ）为男子国家队的经理。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1dyvyx39rvo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_77345",
+    "id": "N_RSS_93024",
     "type": "official",
     "date": "2026-07-13",
-    "likes": 276,
+    "likes": 61,
     "title": {
-      "en": "Chris Sutton's World Cup semi-final predictions",
-      "zh-CN": "克里斯·萨顿的世界杯半决赛预测"
+      "en": "Who am I? Guess World Cup star No 36",
+      "zh-CN": "我是谁？猜猜世界杯明星36号"
     },
     "summary": {
-      "en": "BBC Sport's football expert Chris Sutton gives his predictions for the semi-final ties at the 2026 World Cup.",
-      "zh-CN": "英国广播公司体育台的足球专家克里斯·萨顿（ Chris Sutton ）对2026年世界杯的半决赛关系做出了预测。"
+      "en": "Will you get today's player in as few attempts as possible?",
+      "zh-CN": "你会在尽可能少的尝试中获得今天的玩家吗？"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4gynmr6vjro?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c62elldp6l7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_82834",
+    "id": "N_RSS_57192",
     "type": "official",
     "date": "2026-07-13",
-    "likes": 150,
+    "likes": 55,
     "title": {
-      "en": "BBC experts pick their England World Cup semi-final XI - do you agree?",
-      "zh-CN": "英国广播公司的专家选择他们的英格兰世界杯半决赛-你同意吗？"
+      "en": "More than the Score",
+      "zh-CN": "超过分数"
     },
     "summary": {
-      "en": "England are through to the World Cup semi-finals, but who would you pick in your starting XI?",
-      "zh-CN": "英格兰队已进入世界杯半决赛，但您会在首发阵容中选择谁？"
+      "en": "The stories of World Cup stars from refugee families",
+      "zh-CN": "难民家庭的世界杯明星故事"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sounds/play/p0nyh5jk?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_14804",
+    "id": "N_RSS_1878",
     "type": "official",
     "date": "2026-07-13",
-    "likes": 217,
+    "likes": 155,
     "title": {
-      "en": "Borrowed shoes, no Golden Boot - the story of the World Cup's greatest scorer",
-      "zh-CN": "借鞋，不穿金靴--世界杯最伟大得分手的故事"
+      "en": "Every stat Bellingham tops for England",
+      "zh-CN": "Bellingham在英格兰的每个州都名列前茅"
     },
     "summary": {
-      "en": "Just Fontaine's record of 13 goals in a single World Cup has stood for decades, but he never played in the tournament again after injury ended his career at the age of 28.",
-      "zh-CN": "只是方丹在一届世界杯上打进13球的纪录已经保持了几十年，但在28岁的伤病结束了他的职业生涯后，他再也没有参加过比赛。"
+      "en": "Jude Bellingham fever grips the nation after the Real Madrid midfielder scored two goals - for the second game running - in England's 2-1 win over Norway.",
+      "zh-CN": "皇家马德里中场球员裘德·贝林汉姆（ Jude Bellingham ）在英格兰2-1战胜挪威的比赛中打进两球，这是第二场比赛。"
     },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c621xndyd7no?at_medium=RSS&at_campaign=rss"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13562946/jude-bellingham-leads-world-cup-2026-england-stats-after-scoring-twice-against-norway-and-mexico-ahead-of-argentina-semi-final"
   },
   {
-    "id": "N_RSS_9589",
+    "id": "N_RSS_68551",
     "type": "official",
     "date": "2026-07-13",
-    "likes": 176,
+    "likes": 81,
     "title": {
-      "en": "England top air miles among semi-finalists - does it matter?",
-      "zh-CN": "半决赛选手中的英格兰顶级空中里程-这有关系吗？"
-    },
-    "summary": {
-      "en": "England have travelled far more than rivals France and Argentina as World Cup 2026 tests teams across North America.",
-      "zh-CN": "随着2026年世界杯在北美各地对球队进行测试，英格兰的旅行远远超过了竞争对手法国和阿根廷。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cj4g7v9e51jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_20045",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 196,
-    "title": {
-      "en": "Who has been eliminated from the World Cup?",
-      "zh-CN": "谁被淘汰出世界杯？"
-    },
-    "summary": {
-      "en": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far",
-      "zh-CN": "BBC Sport的Ask Me Anything团队列出了迄今为止被2026年世界杯淘汰的全部国家"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_66071",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 163,
-    "title": {
-      "en": "Brighton latest: 'Gruda in Germany with return to RB Leipzig close'",
-      "zh-CN": "布莱顿最新消息： “德国格鲁达重返莱比锡皇家银行”"
+      "en": "Kit colours revealed for England vs Argentina blockbuster",
+      "zh-CN": "英格兰与阿根廷大片套装颜色揭晓"
     },
     "summary": {
       "en": ""
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+    "url": "https://www.skysports.com/football/england-vs-argentina/live/549867"
   },
   {
-    "id": "N_RSS_38749",
+    "id": "N_RSS_16096",
     "type": "official",
     "date": "2026-07-13",
-    "likes": 89,
+    "likes": 265,
     "title": {
-      "en": "World Cup 2026: Buildup to blockbuster semi-finals, Infantino hints at 64-team expansion – live",
-      "zh-CN": "2026年世界杯：积累到轰动一时的半决赛， Infantino暗示64支球队扩张–现场"
+      "en": "England latest: O'Reilly expected to be fit to play Argentina",
+      "zh-CN": "英格兰最新消息：预计O 'Reilly将适合与阿根廷队比赛"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+  },
+  {
+    "id": "N_RSS_86756",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 296,
+    "title": {
+      "en": "World Cup 2026: England’s James ready for semi-final, Infantino hints at 64-team expansion – live",
+      "zh-CN": "2026年世界杯：英格兰的詹姆斯准备进入半决赛，因凡蒂诺暗示64支球队的扩张–现场"
     },
     "summary": {
       "en": "Latest news as final week of World Cup gets under wayPower rankings | Sign up to Football Daily | Email usI mean, just look at him.In which regard, here are some words on the great man. Continue...",
@@ -127,325 +174,277 @@
     "url": "https://www.theguardian.com/football/live/2026/jul/13/world-cup-2026-buildup-to-blockbuster-semi-finals-infantino-hints-at-64-team-expansion-live"
   },
   {
-    "id": "N_RSS_12682",
+    "id": "N_RSS_78848",
     "type": "official",
     "date": "2026-07-13",
-    "likes": 89,
+    "likes": 150,
     "title": {
-      "en": "Andy Burnham has body of work that speaks volumes about how he gets football | Rob Draper",
-      "zh-CN": "安迪·伯纳姆（ Andy Burnham ）有很多关于他如何获得足球的工作|罗布·德雷珀（ Rob Draper ）"
+      "en": "Rodri: ‘France are one of the best teams here, in great form, but so are Spain. We can beat them’",
+      "zh-CN": "罗德里： “法国是这里最好的球队之一，表现出色，但西班牙也是如此。我们可以打败他们’"
     },
     "summary": {
-      "en": "Prime-minister-in-waiting has been a key figure in overhauls behind the scenes of the game, as well helping to create the Hillsborough Independent PanelPicking up the country when it is in a slump of...",
-      "zh-CN": "等待总理一直是比赛幕后大修的关键人物，也有助于创建希尔斯伯勒独立小组。"
+      "en": "The Spain captain on his team’s chances in the World Cup semi-final, analysing every game so far and how to get the best out of Lamine Yamal“I’m not that bad,” Rodri Hernández says. It’s the morning...",
+      "zh-CN": "西班牙队长罗德里·埃尔南德斯（ Rodri Hernández ）说，他的球队在世界杯半决赛中的机会，分析了迄今为止的每一场比赛，以及如何充分利用拉明·亚马尔（ Lamine Yamal ）的“我没有那么糟糕”。现在是早上……"
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/13/andy-burnham-body-of-work-football"
+    "url": "https://www.theguardian.com/football/2026/jul/13/rodri-interview-spain-captain-world-cup-2026"
   },
   {
-    "id": "N_RSS_79571",
+    "id": "N_RSS_36632",
     "type": "official",
     "date": "2026-07-13",
-    "likes": 231,
+    "likes": 235,
     "title": {
-      "en": "Aston Villa hijack Newcastle’s pursuit of £49m Johan Manzambi from Freiburg",
-      "zh-CN": "阿斯顿维拉从弗莱堡劫持纽卡斯尔追逐4900万美元的£ Johan Manzambi"
+      "en": "Manchester United in advanced talks to sign Youri Tielemans from Aston Villa",
+      "zh-CN": "曼联与阿斯顿维拉签约Youri Tielemans的高级谈判"
     },
     "summary": {
-      "en": "Midfielder faced Villa in Europa League final in MayU-turn another summer transfer blow for NewcastleAston Villa have hijacked Newcastle’s pursuit of Johan Manzambi, and are close to completing a...",
-      "zh-CN": "中场球员在5月份的欧洲联赛决赛中面对别墅-纽卡斯尔的另一个夏季转会打击阿斯顿维拉已经劫持了纽卡斯尔对约翰·曼赞比的追求，并接近完成..."
+      "en": "Midfielder thought to have £35m release clauseMove comes as deal for Éderson from Atalanta falls throughManchester United are closing in on the signing of Youri Tielemans from Aston Villa after their...",
+      "zh-CN": "中场球员被认为有3500万英镑的释放条款此举是因为来自亚特兰大的埃德森在曼联的失利正在接近从阿斯顿维拉签下尤里·蒂勒曼斯。"
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/13/aston-villa-hijack-newcastle-pursuit-of-johan-manzambi-from-freiburg-transfer-window"
+    "url": "https://www.theguardian.com/football/2026/jul/13/manchester-united-in-advanced-talks-to-sign-youri-tielemans-from-aston-villa"
   },
   {
-    "id": "N_RSS_14794",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 236,
-    "title": {
-      "en": "World Cup quiz: how well do you remember USA 94?",
-      "zh-CN": "世界杯测验：你还记得《美国94》吗？"
-    },
-    "summary": {
-      "en": "How much do you know about the first tournament played in the United States? Continue reading...",
-      "zh-CN": "您对在美国举行的第一场比赛了解多少？继续阅读..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/13/world-cup-quiz-usa-94-united-states"
-  },
-  {
-    "id": "N_RSS_71518",
+    "id": "N_RSS_56681",
     "type": "official",
     "date": "2026-07-12",
-    "likes": 249,
+    "likes": 218,
     "title": {
-      "en": "Infantino opens door to 64-team World Cup",
-      "zh-CN": "Infantino为64支球队的世界杯敞开大门"
+      "en": "'We have another level we can reach' - Kane defends frustrated Tuchel",
+      "zh-CN": "“我们有另一个可以达到的水平” -凯恩为沮丧的图切尔辩护"
     },
     "summary": {
-      "en": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\".",
-      "zh-CN": "由64支球队组成的男子世界杯计划将在2026年国际足联老板詹尼·因凡蒂诺（ Gianni Infantino ）表示，足球需要“面向全世界”的比赛结束后进行详细评估。"
+      "en": "Captain Harry Kane says England \"have another level we can reach\" as they bid to win the World Cup for the first time since 1966.",
+      "zh-CN": "哈里·凯恩上尉说，英格兰“有另一个我们可以达到的水平” ，因为他们自1966年以来首次赢得世界杯冠军。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_97902",
+    "id": "N_RSS_87099",
     "type": "official",
     "date": "2026-07-12",
-    "likes": 108,
+    "likes": 300,
     "title": {
-      "en": "'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry",
-      "zh-CN": "“动物” ，上帝之手和贝克汉姆-阿根廷和英格兰的世界杯对抗"
+      "en": "'We should all be excited' - Messi set for first England meeting",
+      "zh-CN": "“我们都应该感到兴奋” -梅西将参加首次英格兰会议"
     },
     "summary": {
-      "en": "As England and Argentina prepare to go head-to-head in Wednesday's World Cup semi-final, BBC Sport looks at their footballing rivalry.",
-      "zh-CN": "英格兰和阿根廷准备在周三的世界杯半决赛中正面交锋， BBC Sport着眼于他们的足球竞争。"
+      "en": "Lionel Messi is set for his first match against England after Argentina beat Switzerland in the World Cup quarter-finals.",
+      "zh-CN": "莱昂内尔·梅西（ Lionel Messi ）将在世界杯四分之一决赛中击败瑞士队后首次对阵英格兰队。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c621y75w2x2o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvgexz4qdlgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_59782",
+    "id": "N_RSS_56882",
     "type": "official",
     "date": "2026-07-12",
-    "likes": 149,
+    "likes": 281,
     "title": {
-      "en": "Arsenal want Argentina's Alvarez - Monday's gossip",
-      "zh-CN": "阿森纳想要阿根廷的阿尔瓦雷斯-周一的八卦"
+      "en": "Tuchel unhappy with England display - so why do they keep winning?"
     },
     "summary": {
-      "en": "Arsenal want to sign Atletico Madrid's Julian Alvarez, Aston Villa hijack Newcastle's move for Johan Manzambi, plus more.",
-      "zh-CN": "阿森纳想要签下马德里竞技的朱利安·阿尔瓦雷斯（ Julian Alvarez ） ，阿斯顿维拉（ Aston Villa ）劫持了纽卡斯尔（ Newcastle ）对约翰·曼赞比（ Johan Manzambi"
+      "en": "Football tactics correspondent Umir Irfan examines why England are still winning games despite Thomas Tuchel insisting performances are not good."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1myd53vgvno?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_69973",
+    "id": "N_RSS_96571",
     "type": "official",
     "date": "2026-07-12",
-    "likes": 298,
+    "likes": 68,
     "title": {
-      "en": "Argentina v England 1998 - Owen, Beckham and penalty pain",
-      "zh-CN": "1998年阿根廷诉英格兰-欧文、贝克汉姆和点球疼痛"
+      "en": "Rice in bed for nearly three days before Norway game - Tuchel"
     },
     "summary": {
-      "en": "England meet Argentina in the last 16 of the 1998 World Cup.",
-      "zh-CN": "英格兰队在1998年世界杯的最后16场比赛中与阿根廷队相遇。"
+      "en": "England boss Thomas Tuchel says Declan Rice was in bed for most of the three days prior to the World Cup quarter-final win against Norway because of a sickness bug."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cz75405qe3wo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_97411",
+    "id": "N_RSS_33970",
     "type": "official",
     "date": "2026-07-12",
-    "likes": 237,
+    "likes": 190,
     "title": {
-      "en": "'Written off as too old' - France beat up-and-coming Spain in 2006"
+      "en": "Lamine Yamal? Mbappe? Kane? Pick your World Cup semi-final XI"
     },
     "summary": {
-      "en": "Spain meet France in the last 16 of the 2006 World Cup."
+      "en": "As we look ahead to the World Cup semi-final, BBC Sport pick their last-four combined XI. Do you agree?"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c3vyg507xd2o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckg4l37nm0do?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_16715",
+    "id": "N_RSS_99777",
     "type": "official",
     "date": "2026-07-12",
-    "likes": 129,
+    "likes": 273,
     "title": {
-      "en": "Argentina v England 2002 - Redemption for Beckham"
+      "en": "Tuchel angry at 'lucky' England - but Bellingham defends players"
     },
     "summary": {
-      "en": "England meet Argentina in the group stage of the 2002 World Cup."
+      "en": "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lucky\" in World Cup quarter-final win over Norway - but match-winner Jude Bellingham disagrees."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cy5vxevngndo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_49880",
+    "id": "N_RSS_18331",
+    "type": "official",
+    "date": "2026-07-12",
+    "likes": 94,
+    "title": {
+      "en": "Senegal sack manager Thiaw in wake of World Cup exit"
+    },
+    "summary": {
+      "en": "Senegal sack manager Pape Thiaw in the aftermath of the country's exit at the last-32 stage of the 2026 World Cup."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq81l29lj2zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_72984",
+    "type": "official",
+    "date": "2026-07-12",
+    "likes": 214,
+    "title": {
+      "en": "What England must do to win the World Cup from here"
+    },
+    "summary": {
+      "en": "BBC Sport takes a look at what England will need to do to reach the World Cup final after progressing to the semi-finals."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_76158",
     "type": "official",
     "date": "2026-07-12",
     "likes": 176,
     "title": {
-      "en": "How Maradona dominated England in 1986"
+      "en": "Podcast: Falkirk, Scottish football & the World Cup"
     },
     "summary": {
-      "en": "Diego Maradona leads his Argentina team to victory against England in the quarter-final of the World Cup in 1986."
+      "en": "All the Scottish football news including Falkirk's John McGlynn and the World Cup latest"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/clyxj3x99l9o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sounds/play/p0nyd6sc?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_10736",
+    "id": "N_RSS_50131",
     "type": "official",
     "date": "2026-07-12",
-    "likes": 176,
+    "likes": 54,
     "title": {
-      "en": "Top four ranked teams make semi-finals for first time"
-    },
-    "summary": {
-      "en": "For the first time since there have been Fifa rankings the top four ranked teams have made the semi-final of the World Cup."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c2ey9l3yl4vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_84329",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 279,
-    "title": {
-      "en": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure"
-    },
-    "summary": {
-      "en": "Norway's World Cup campaign ends in a quarter-final defeat by England, but they leave frustrated, arguing that Jude Bellingham's equaliser should not have counted."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_25540",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 263,
-    "title": {
-      "en": "Bellingham reaching heights of World Cup legends with Messi next"
-    },
-    "summary": {
-      "en": "Jude Bellingham again dazzles England and the World Cup with his brilliance, matching some records of the all-time greats."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_78301",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 114,
-    "title": {
-      "en": "Big stars and old rivals - what to expect in semi-finals"
-    },
-    "summary": {
-      "en": "France face Spain and England take on Argentina in heavyweight World Cup semi-final meetings - here's what to expect from the last four."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cd6ed5x95ygo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_89818",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 118,
-    "title": {
-      "en": "Embolo sent off as result of mistaken identity rule"
-    },
-    "summary": {
-      "en": "Switzerland's Breel Embolo becomes first player to be sent off as a result of a new law for mistaken identity at the World Cup."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckg0k5gdr79o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_89993",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 130,
-    "title": {
-      "en": "Bellingham scores extra-time winner as England reach semi-finals"
-    },
-    "summary": {
-      "en": "Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_68656",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 111,
-    "title": {
-      "en": "Argentina set up England semi-final with extra-time victory over Switzerland"
-    },
-    "summary": {
-      "en": "Argentina set up a World Cup semi-final with England after scoring twice in extra-time to beat 10-man Switzerland 3-1 in Kansas City."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c07y37p7gmko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_65309",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 233,
-    "title": {
-      "en": "Did spider cam impact England's opener?"
-    },
-    "summary": {
-      "en": "BBC Sport World Cup pundits Wayne Rooney, Ellen White and Micah Richards look at whether the spider cam had an impact in Jude Bellingham's first goal for England against Norway."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cx2kwwdygr9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_5746",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 250,
-    "title": {
-      "en": "Alvarez's stunning strike gives Argentina lead against 10-man Switzerland"
-    },
-    "summary": {
-      "en": "Argentina retake the lead in their quarter-final against Switzerland through a stunning strike from Julian Alvarez during extra-time in Kansas City."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cp8rg8yy6nvo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_33420",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 55,
-    "title": {
-      "en": "England 'got lucky' with disallowed goal"
-    },
-    "summary": {
-      "en": "BBC Sport World Cup pundits Wayne Rooney and Ellen White believe England \"got lucky\" after Torbjorn Heggem's second-half goal was ruled out for a foul on Elliott Anderson by Erling Haaland."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c5yznny63pko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_37252",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 179,
-    "title": {
-      "en": "Football Daily"
-    },
-    "summary": {
-      "en": "England are through. Lloyd reacts from Miami as Argentina await."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0ns8gfc?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_44358",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 174,
-    "title": {
-      "en": "Bellingham and Tuchel's ‘battle of wills’ is healthy for England"
+      "en": "Bellingham and Tuchel's 'battle of wills' is healthy for England"
     },
     "summary": {
       "en": "Passionate, driven, uncompromising. Those are terms that can be equally applied to both Thomas Tuchel and Jude Bellingham."
     },
     "source": "Sky Sports",
     "url": "https://www.skysports.com/football/news/11095/13562880/world-cup-2026-jude-bellingham-and-thomas-tuchels-battle-of-wills-is-healthy-for-england"
+  },
+  {
+    "id": "N_RSS_69813",
+    "type": "official",
+    "date": "2026-07-12",
+    "likes": 246,
+    "title": {
+      "en": "Neville's goosebumps over Bellingham: I have never seen anything like it"
+    },
+    "summary": {
+      "en": "Gary Neville says that Jude Bellingham is England's superstar now and that he has never seen anything like it &#8211; claiming his performance gave him goosebumps."
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13562767/gary-neville-on-jude-bellingham-after-englands-win-over-norway-influence-at-this-world-cup-gives-me-goosebumps"
+  },
+  {
+    "id": "N_RSS_39970",
+    "type": "official",
+    "date": "2026-07-12",
+    "likes": 69,
+    "title": {
+      "en": "Merson: Teams win leagues, X-factor wins World Cups - and Bellingham has it"
+    },
+    "summary": {
+      "en": "Paul Merson says Jude Bellingham has the X-factor needed to help England win the World Cup."
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13562724/paul-merson-jude-bellingham-has-x-factor-needed-to-win-england-the-world-cup"
+  },
+  {
+    "id": "N_RSS_88503",
+    "type": "official",
+    "date": "2026-07-12",
+    "likes": 233,
+    "title": {
+      "en": "World Cup latest: 2030 tournament could have 64 teams, says Infantino"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
+  },
+  {
+    "id": "N_RSS_83063",
+    "type": "official",
+    "date": "2026-07-12",
+    "likes": 53,
+    "title": {
+      "en": "Tuchel and Bellingham need to cool tension with England so close to history | Jacob Steinberg"
+    },
+    "summary": {
+      "en": "The latest episode of Thomas versus Jude does not have to descend into a drama and team cannot afford to be distracted heading into the World Cup semi-finalThomas Tuchel lobbed a grenade into the..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/12/thomas-tuchel-jude-bellingham-tension-england-argentina-norway-world-cup-2026"
+  },
+  {
+    "id": "N_RSS_20934",
+    "type": "official",
+    "date": "2026-07-12",
+    "likes": 272,
+    "title": {
+      "en": "England on collision course with Messi and Argentina in World Cup semi-final grudge match"
+    },
+    "summary": {
+      "en": "First competitive game between teams since 2002 World CupGeorgia braced for potential flashpoints in Atlanta buildupIt has been billed as one of the biggest grudge matches in the history of..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/12/england-lionel-messi-argentina-world-cup-2026-semi-final-norway"
+  },
+  {
+    "id": "N_RSS_18739",
+    "type": "official",
+    "date": "2026-07-12",
+    "likes": 289,
+    "title": {
+      "en": "World Cup 2026 power rankings: who leads the pack as semi-finals loom?"
+    },
+    "summary": {
+      "en": "We assess the teams who played in the last eight as the business end of the tournament approachesDidier Deschamps has seen it all before and certainly does not fear even the lowest of blocks. It is..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/12/world-cup-2026-power-rankings-france-spain-england-argentina"
+  },
+  {
+    "id": "N_RSS_58832",
+    "type": "official",
+    "date": "2026-07-12",
+    "likes": 97,
+    "title": {
+      "en": "Gianni Infantino hints at expansion to 64-team World Cup before 2030 event"
+    },
+    "summary": {
+      "en": "‘Definitely ​an issue that will be examined and discussed’Fifa president calls 48-team tournament a ‘huge success’Fifa officials will look at the possibility of expanding the World Cup by another 16..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/12/gianni-infantino-expansion-64-team-world-cup-2030-fifa"
   }
 ]
