@@ -1,450 +1,451 @@
 [
   {
-    "id": "N_RSS_90133",
+    "id": "N_RSS_173",
+    "type": "official",
+    "date": "2026-07-14",
+    "likes": 158,
+    "title": {
+      "en": "Who will win the World Cup? The view from the semi-finalists",
+      "zh-CN": "谁将赢得世界杯？半决赛选手的观点"
+    },
+    "summary": {
+      "en": "BBC Sport speaks to journalists and fans from the World Cup's four semi-finalists to see who they think will win the tournament.",
+      "zh-CN": "英国广播公司体育台采访了世界杯四名半决赛选手的记者和球迷，看看他们认为谁将赢得比赛。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cjrgew3wv4xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_95942",
+    "type": "official",
+    "date": "2026-07-14",
+    "likes": 207,
+    "title": {
+      "en": "Brighton sign Vuskovic from Spurs for club record £46m",
+      "zh-CN": "布莱顿从马刺签下Vuskovic ，获得俱乐部纪录£ 4600万"
+    },
+    "summary": {
+      "en": "Brighton sign Croatia defender Luka Vuskovic from Tottenham for a club record fee of £46m on a five-year contract, with an option for a further year.",
+      "zh-CN": "布莱顿从托特纳姆热刺队签下了克罗地亚后卫卢卡·武斯科维奇（ Luka Vuskovic ） ，在一份为期五年的合同中获得了4600万英镑的俱乐部纪录费，还有一年的选择权。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy7370x2yp7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_38072",
+    "type": "official",
+    "date": "2026-07-14",
+    "likes": 221,
+    "title": {
+      "en": "Walked for 47% of the World Cup - the evolution of Messi",
+      "zh-CN": "走过世界杯的47 ％ -梅西的演变"
+    },
+    "summary": {
+      "en": "Lionel Messi is looking to beat England and reach a third World Cup final with Argentina. Guillem Balague looks at the evolution of one of the game's all-time greats.",
+      "zh-CN": "莱昂内尔·梅西（ Lionel Messi ）希望击败英格兰，并与阿根廷队一起进入第三届世界杯决Guillem Balague着眼于游戏历史上最伟大的游戏之一的演变。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy4e943j1j1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_52198",
+    "type": "official",
+    "date": "2026-07-14",
+    "likes": 91,
+    "title": {
+      "en": "Who am I? Guess World Cup star No 37",
+      "zh-CN": "我是谁？猜猜世界杯明星37号"
+    },
+    "summary": {
+      "en": "Will you get today's player in as few attempts as possible?",
+      "zh-CN": "你会在尽可能少的尝试中获得今天的玩家吗？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8e82462y7eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_77946",
+    "type": "official",
+    "date": "2026-07-14",
+    "likes": 145,
+    "title": {
+      "en": "All the goals from France's run to semi-finals",
+      "zh-CN": "从法国队到半决赛的所有进球"
+    },
+    "summary": {
+      "en": "Watch every goal scored by France on their way to the 2026 World Cup semi-finals and a mouth-watering tie against Spain.",
+      "zh-CN": "观看法国在进入2026年世界杯半决赛的路上打进的每一个进球，以及与西班牙的比赛。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c23yj388pryo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_8480",
+    "type": "official",
+    "date": "2026-07-14",
+    "likes": 222,
+    "title": {
+      "en": "Spain's road to semi-final - every goal so far",
+      "zh-CN": "西班牙的半决赛之路-迄今为止的每一个进球"
+    },
+    "summary": {
+      "en": "Relive every goal Spain have scored on their way to the 2026 World Cup semi-finals, where a thrilling meeting with France at Dallas Stadium awaits.",
+      "zh-CN": "重温西班牙在2026年世界杯半决赛中取得的每一个进球，在达拉斯体育场与法国队进行激动人心的会面。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/clye4yej26zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_36571",
+    "type": "official",
+    "date": "2026-07-14",
+    "likes": 68,
+    "title": {
+      "en": "Arsenal sign Germany forward Baum from RB Leipzig",
+      "zh-CN": "阿森纳从莱比锡皇家足球队签下德国前锋鲍姆"
+    },
+    "summary": {
+      "en": "Arsenal have signed Germany forward Lisa Baum on a permanent deal from RB Leipzig.",
+      "zh-CN": "阿森纳已经与德国前锋丽莎·鲍姆（ Lisa Baum ）签订了一份来自莱比锡的永久合同。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzymzln5no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_17740",
     "type": "official",
     "date": "2026-07-14",
     "likes": 250,
     "title": {
-      "en": "Lamine Yamal v Mbappe: La Liga stars set for World Cup showdown",
-      "zh-CN": "Lamine Yamal诉Mbappe ：西甲球星将参加世界杯对决"
+      "en": "Chermiti claims no plans to leave Rangers - gossip",
+      "zh-CN": "Chermiti声称没有计划离开游骑兵-八卦"
     },
     "summary": {
-      "en": "France face Spain for a place in the World Cup final on Tuesday, meaning a showdown between Kylian Mbappe and Lamine Yamal. Who comes out on top?",
-      "zh-CN": "法国队在周二的世界杯决赛中面对西班牙队，这意味着Kylian Mbappe和Lamine Yamal之间的对决。谁位居榜首？"
+      "en": "Youssef Chermiti says he has no intention of leaving Rangers, but Celtic's Daizen Maeda repeats his ambition to play in England's Premier League as Heart of Midlothian are told one of their targets...",
+      "zh-CN": "Youssef Chermiti表示他无意离开流浪者队，但凯尔特人的Daizen Maeda重申了他在英格兰超级联赛中的雄心壮志，因为中洛锡安之心被告知他们的目标之一......"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clywep30z7jo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cd0m1pjdk4vo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_59195",
+    "id": "N_RSS_98275",
     "type": "official",
     "date": "2026-07-14",
-    "likes": 275,
+    "likes": 98,
     "title": {
-      "en": "Increased security for England and Argentina tie",
-      "zh-CN": "提高英格兰和阿根廷的安全性"
+      "en": "Rice fit and available to start for England vs Argentina",
+      "zh-CN": "适合大米，可以从英格兰开始，也可以从阿根廷开始"
     },
     "summary": {
-      "en": "Authorities say there will be increased security measures in place for Wednesday's World Cup semi-final between England and Argentina in Atlanta.",
-      "zh-CN": "当局表示，周三在亚特兰大举行的英格兰和阿根廷之间的世界杯半决赛将加强安全措施。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clyey5glv4ko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_95272",
-    "type": "official",
-    "date": "2026-07-14",
-    "likes": 150,
-    "title": {
-      "en": "A winner and true friend - ex-Wimbledon champion Bartoli on Deschamps",
-      "zh-CN": "赢家和真正的朋友-前温布尔登网球公开赛冠军Bartoli on Deschamps"
-    },
-    "summary": {
-      "en": "Former Wimbledon champion Marion Bartoli speaks about her friendship with France boss Didier Deschamps.",
-      "zh-CN": "前温布尔登网球公开赛冠军马里昂·巴托利（ Marion Bartoli ）讲述了她与法国老板迪迪埃·德尚（ Didier Deschamps ）"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c77y2151e4go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_12979",
-    "type": "official",
-    "date": "2026-07-14",
-    "likes": 70,
-    "title": {
-      "en": "Deschamps predicts spectacular France v Spain semi-final",
-      "zh-CN": "德尚预测了壮观的法国vs西班牙半决赛"
-    },
-    "summary": {
-      "en": "France boss Didier Deschamps is predicting a \"spectacular\" semi-final when his exciting side take on Spain in a heavyweight World Cup showdown in Dallas.",
-      "zh-CN": "法国老板迪迪埃·德尚（ Didier Deschamps ）预测，当他令人兴奋的球队在达拉斯的重量级世界杯摊牌中对阵西班牙时，将会有一场“壮观”的半决赛。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c79y29l32gxo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_79428",
-    "type": "official",
-    "date": "2026-07-14",
-    "likes": 257,
-    "title": {
-      "en": "The origin story of France star Michael Olise",
-      "zh-CN": "法国明星迈克尔·奥利斯的起源故事"
-    },
-    "summary": {
-      "en": "The origin story of France star Michael Olise begins much closer to home than you might think.",
-      "zh-CN": "法国明星迈克尔·奥利斯（ Michael Olise ）的起源故事比您想象的要离家近得多。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cqx1xj41e92o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_65020",
-    "type": "official",
-    "date": "2026-07-14",
-    "likes": 136,
-    "title": {
-      "en": "England vs Argentina tactical dossier: How Tuchel’s side can reach World Cup final",
-      "zh-CN": "英格兰对阿根廷的战术档案：图切尔的球队如何进入世界杯决赛"
-    },
-    "summary": {
-      "en": "Here we go. England face Argentina in the World Cup semi-finals on Wednesday - a fixture loaded with history, jeopardy and one final obstacle between Thomas Tuchel&#8217;s side and the World Cup...",
-      "zh-CN": "让我们开始吧。英格兰队在周三的世界杯半决赛中面对阿根廷队-这是一个充满历史，危险的比赛，也是托马斯·图切尔（ Thomas Tuchel ）的球队和世界杯之间的最后一个障碍......"
+      "en": "Declan Rice is fit and available to start England's World Cup semi-final against Argentina on Wednesday, Sky Sports News understands.",
+      "zh-CN": "天空体育新闻了解到， Declan Rice适合在周三对阵阿根廷的比赛中开始英格兰世界杯半决赛。"
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13563015/england-vs-argentina-tactics-how-thomas-tuchels-side-can-stop-lionel-messi-and-co-and-reach-the-world-cup-final"
+    "url": "https://www.skysports.com/football/news/11095/13563231/england-vs-argentina-declan-rice-fit-for-world-cup-semi-final-as-thomas-tuchels-squad-issues-begin-to-ease"
   },
   {
-    "id": "N_RSS_20718",
+    "id": "N_RSS_2252",
     "type": "official",
     "date": "2026-07-14",
-    "likes": 180,
+    "likes": 162,
     "title": {
-      "en": "How do England stop Messi as more history beckons for Argentina legend?",
-      "zh-CN": "随着更多历史向阿根廷传奇人物招手，英格兰如何阻止梅西？"
+      "en": "'A little lost' - Why has Mainoo become England's forgotten man?",
+      "zh-CN": "“有点失落” -为什么Mainoo成为英格兰被遗忘的人？"
     },
     "summary": {
-      "en": "England beat one of the hosts in their own backyard when they went to the Azteca and won with 10 men. Then they saw off Erling Haaland and his pals in the last eight. Now it is the holders and the...",
-      "zh-CN": "英格兰队在自己的后院击败了一名东道主，当时他们去了阿兹特克，并以10名男子获胜。然后他们在过去的八年里看到了Erling Haaland和他的朋友。现在是持有者和……"
+      "en": "Kobbie Mainoo has cut a pretty forlorn-looking figure at this World Cup.&#160;",
+      "zh-CN": "科比·梅努（ Kobbie Mainoo ）在本届世界杯上剪辑了一个看起来很孤独的身材。 "
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13562744/england-vs-argentina-lionel-messi-out-to-emulate-diego-maradona-as-he-plays-england-for-first-time-can-they-stop-him"
+    "url": "https://www.skysports.com/football/news/11095/13563184/world-cup-2026-why-has-england-midfielder-kobbie-mainoo-failed-to-play-a-single-minute-for-thomas-tuchels-side-this-summer"
   },
   {
-    "id": "N_RSS_73341",
+    "id": "N_RSS_96942",
     "type": "official",
     "date": "2026-07-14",
-    "likes": 121,
+    "likes": 72,
     "title": {
-      "en": "France vs Spain build-up LIVE! Have your say on blockbuster semi-final!",
-      "zh-CN": "法国vs西班牙现场直播！在重磅炸弹半决赛中发表您的意见！"
+      "en": "Man City interested in Morocco wonderkid Bouaddi",
+      "zh-CN": "对摩洛哥Wonderkid Bouaddi感兴趣的曼城"
+    },
+    "summary": {
+      "en": "Manchester City&#160;are showing interest in&#160;Lille&#160;midfielder&#160;Ayyoub Bouaddi.&#160;",
+      "zh-CN": "曼城对里尔中场球员Ayyoub Bouaddi表现出浓厚的兴趣。 "
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13563315/ayyoub-bouaddi-manchester-city-interested-in-morocco-and-lille-wonderkid-after-impressive-world-cup"
+  },
+  {
+    "id": "N_RSS_23881",
+    "type": "official",
+    "date": "2026-07-14",
+    "likes": 258,
+    "title": {
+      "en": "Arsenal latest: Alvarez not keen on move to England amid Barcelona dream",
+      "zh-CN": "阿森纳最新消息：阿尔瓦雷斯在巴塞罗那的梦想中不热衷于搬到英格兰"
     },
     "summary": {
       "en": ""
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/france-vs-spain/live/549866"
+    "url": "https://www.skysports.com/football/live-blog/11095/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
   },
   {
-    "id": "N_RSS_68563",
+    "id": "N_RSS_63296",
     "type": "official",
     "date": "2026-07-14",
-    "likes": 54,
+    "likes": 91,
     "title": {
-      "en": "World Cup 2026: France v Spain semi-final buildup; Atlanta police step up security for England v Argentina – live",
-      "zh-CN": "2026年世界杯：法国对西班牙半决赛积累；亚特兰大警方加强英格兰对阿根廷的安全–现场"
+      "en": "World Cup and Ballon d’Or in reach as Harry Kane enters defining week of his career",
+      "zh-CN": "随着哈里·凯恩（ Harry Kane ）进入职业生涯的决定性一周，世界杯和Ballon d 'Or即将到来"
     },
     "summary": {
-      "en": "⚽️ Latest news before first of the semi-finals in Dallas⚽️ Player guide | Golden Boot | Football Daily | Email usAtlanta police are increasing staffing and resources for Wednesday’s World Cup...",
-      "zh-CN": "达拉斯球⚽️员指南半决赛第一场之前⚽️的最新消息|金靴|足球日报|给我们发电子邮件亚特兰大警方正在为周三的世界杯增加人员和资源......"
+      "en": "The striker is driven by a sense of destiny but to be remembered as an all-time great outside England requires big-game performancesFive days to win the Ballon d’Or. The way to do it: outshine Lionel...",
+      "zh-CN": "这位前锋受到命运感的驱使，但要在英格兰之外被人们铭记为历史上最伟大的球员，需要大型比赛的表现五天才能赢得金球奖。这样做的方法：超越莱昂内尔……"
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/live/2026/jul/14/world-cup-2026-france-spain-buildup-england-argentina-news-live"
+    "url": "https://www.theguardian.com/football/2026/jul/14/world-cup-and-ballon-dor-england-harry-kane"
   },
   {
-    "id": "N_RSS_29611",
+    "id": "N_RSS_57774",
     "type": "official",
     "date": "2026-07-14",
-    "likes": 92,
+    "likes": 164,
     "title": {
-      "en": "‘Spain’s superstar fan’: Lamine Yamal’s little brother takes World Cup by storm",
-      "zh-CN": "“西班牙超级明星球迷” ：拉明·亚马尔的弟弟风靡世界杯"
+      "en": "David Squires on … England’s high-wire act continuing to the World Cup semis",
+      "zh-CN": "大卫·斯奎尔斯（ David Squires ）在……英格兰队的高线表演继续进行世界杯半决"
     },
     "summary": {
-      "en": "The Spain winger says three-year-old Keyne ‘means everything to me’ – and fans have taken him to their heartsHe’s become a social media staple; captured on camera blowing kisses, joyfully cheering on...",
-      "zh-CN": "这位西班牙边锋说，三岁的凯恩“对我来说意味着一切” –球迷们已经把他带到了他们的心中，他成为社交媒体的主食;在镜头前被捕捉到吹吻，高兴地欢呼......"
+      "en": "Our cartoonist sets the scene before the semi-finals, with Thomas Tuchel’s team taking on old rivals ArgentinaBuy David’s cartoons | Some of his favourite worksAnd his latest book, Chaos in the Box:...",
+      "zh-CN": "我们的漫画家在半决赛前布置场景，托马斯·图切尔（ Thomas Tuchel ）的团队迎战老对手阿根廷购买大卫的漫画|他最喜欢的一些作品以及他的最新著作《盒子里的混乱： ……"
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/14/spain-superstar-fan-lamine-yamal-little-brother-takes-world-cup-by-storm"
+    "url": "https://www.theguardian.com/football/picture/2026/jul/14/david-squires-england-high-wire-act-world-cup-semis-cartoon"
   },
   {
-    "id": "N_RSS_37504",
+    "id": "N_RSS_92767",
     "type": "official",
     "date": "2026-07-14",
-    "likes": 128,
+    "likes": 255,
     "title": {
-      "en": "The other Lionel: how Scaloni went from accidental manager to World Cup hero",
-      "zh-CN": "另一个莱昂内尔：斯卡洛尼如何从意外经理变成世界杯英雄"
+      "en": "Manchester City set sights on signing Morocco’s Ayyoub Bouaddi for £85m",
+      "zh-CN": "曼城以8500万美元的价格签下摩洛哥的Ayyoub Bouaddi £"
     },
     "summary": {
-      "en": "After forming an almost paternal relationship with Lionel Messi and providing a rare sense of stability, Argentina’s unheralded saviour is on the verge of World Cup historyOn Lionel Messi’s ill-fated...",
-      "zh-CN": "在与莱昂内尔·梅西（ Lionel Messi ）建立了近乎父系的关系并提供了罕见的稳定感之后，阿根廷这位无人知晓的救世主正处于世界杯历史的边缘莱昂内尔·梅西（ Lionel Messi ）命中注定..."
+      "en": "Lille teenager impressed during the World CupSigning would make it £200m on two midfieldersManchester City are intent on signing Ayyoub Bouaddi for €100m (£85m), Lille’s 18-year-old midfielder who...",
+      "zh-CN": "里尔少年在世界杯期间留下了深刻的印象签约将使两名中场球员获得2亿英镑曼城打算以1亿欧元（ 8500万英镑）签下Ayyoub Bouaddi ，里尔18岁的中场球员..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/14/lionel-scaloni-messi-argentina-england-world-cup-hero"
+    "url": "https://www.theguardian.com/football/2026/jul/14/manchester-city-set-sights-on-signing-morocco-ayyoub-bouaddi-85m-transfer-window"
   },
   {
-    "id": "N_RSS_95822",
+    "id": "N_RSS_35078",
     "type": "official",
     "date": "2026-07-14",
-    "likes": 246,
+    "likes": 87,
     "title": {
-      "en": "Strike action threatens new A-League season as post-World Cup glow again fades too fast | Joey Lynch",
-      "zh-CN": "罢工行动威胁到新的A联赛赛季，因为世界杯后的光芒再次消失得太快|乔伊·林奇"
+      "en": "BBC heads from Salford to Atlanta for live England v Argentina broadcast"
     },
     "summary": {
-      "en": "Stalled CBA negotiations have cast a pall over the game in Australia when it might be harnessing interest around the Socceroos’ World Cup run The heartbreak from the Socceroos’ penalty shootout...",
-      "zh-CN": "停滞不前的CBA谈判给澳大利亚的比赛蒙上了一层阴影，当时它可能会利用对Socceroos世界杯比赛的兴趣Socceroos点球大战的心碎......"
+      "en": "Corporation finally going to US for blockbuster semi-finalViewing figures set to top ITV’s 18m for win over NorwayThe BBC will present its coverage of England’s World Cup semi-final against Argentina..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/14/a-league-strike-action-cba-australia-football"
+    "url": "https://www.theguardian.com/football/2026/jul/14/bbc-salford-atlanta-present-england-v-argentina-live-world-cup"
   },
   {
-    "id": "N_FIFA_83352",
+    "id": "N_RSS_29964",
     "type": "official",
     "date": "2026-07-14",
-    "likes": 306,
+    "likes": 55,
     "title": {
-      "en": "Louis Vuitton to present bespoke trophy trunk at FIFA World Cup 2026™ final following Official Supplier and Branded Licensee appointment",
-      "zh-CN": "在官方供应商和品牌被许可方任命后，路易威登将在FIFA 2026™世界杯决赛中展示定制奖杯箱"
+      "en": "Norway turn World Cup heartbreak into celebration as huge crowds pack Oslo"
     },
     "summary": {
-      "en": "Louis Vuitton to present bespoke trophy trunk at FIFA World Cup 2026™ final following Official Supplier and Branded Licensee appointment"
+      "en": "Squad perform one last ‘Viking row’ on palace stepsParade briefly halted by low-hanging overhead cablesMore than 100,000 fans flooded the streets of Oslo, Norway’s capital, to give their team a warm..."
     },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/louis-vuitton-trophy-trunk-world-cup-2026-final-official-supplier-branded-licensee"
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/14/norway-world-cup-heartbreak-celebration-fans-oslo"
   },
   {
-    "id": "N_RSS_68864",
+    "id": "N_RSS_39130",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 260,
+    "title": {
+      "en": "'Easy to create divisions' - Kane says England are 'completely together'"
+    },
+    "summary": {
+      "en": "England captain Harry Kane says the squad are \"completely together\" before their World Cup semi-final against Argentina."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8924433kjyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_81880",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 68,
+    "title": {
+      "en": "Chris Sutton's World Cup semi-final predictions"
+    },
+    "summary": {
+      "en": "BBC Sport's football expert Chris Sutton gives his predictions for the semi-final ties at the 2026 World Cup."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gynmr6vjro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_99329",
     "type": "official",
     "date": "2026-07-13",
     "likes": 269,
     "title": {
-      "en": "England to make late call on Rice for World Cup semi-final",
-      "zh-CN": "英格兰队为世界杯半决赛晚些时候召集大米"
+      "en": "Dutch referee dies weeks after being dropped from World Cup"
     },
     "summary": {
-      "en": "England will make a late decision on whether Declan Rice is fit to start Wednesday's World Cup semi-final against Argentina.",
-      "zh-CN": "英格兰将很晚才决定德克兰·赖斯是否适合参加周三对阵阿根廷的世界杯半决赛。"
+      "en": "Dutch football referee Rob Dieperink dies aged 38, weeks after he was dropped from officiating at the World Cup because of a police investigation in the UK."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy06ej10n3xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_59917",
+    "id": "N_RSS_28396",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 263,
+    "title": {
+      "en": "Borrowed shoes, no Golden Boot - the story of the World Cup's greatest scorer"
+    },
+    "summary": {
+      "en": "Just Fontaine's record of 13 goals in a single World Cup has stood for decades, but he never played in the tournament again after injury ended his career at the age of 28."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c621xndyd7no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_95854",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 83,
+    "title": {
+      "en": "These are unprecedented times - England should enjoy them"
+    },
+    "summary": {
+      "en": "A record of four semi-finals in the past five international tournaments for England is outstanding. It is time to accept that this is where England belong."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_78435",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 271,
+    "title": {
+      "en": "Argentina to wear 'lucky' blue away kit against England"
+    },
+    "summary": {
+      "en": "Argentina will wear their navy blue away strip and England their all-white home strip when the two sides face each other in the World Cup semi-finals on Wednesday."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/czx5v2p7qkgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_38839",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 182,
+    "title": {
+      "en": "Which Premier League clubs have been hit hardest by World Cup?"
+    },
+    "summary": {
+      "en": "Which Premier League clubs have carried the biggest World Cup workload?"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8d2v40r472o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_81121",
+    "type": "official",
+    "date": "2026-07-13",
+    "likes": 212,
+    "title": {
+      "en": "England top air miles among semi-finalists - does it matter?"
+    },
+    "summary": {
+      "en": "England have travelled far more than rivals France and Argentina as World Cup 2026 tests teams across North America."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cj4g7v9e51jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_51685",
     "type": "official",
     "date": "2026-07-13",
     "likes": 235,
     "title": {
-      "en": "Most clinical? Least creative? Best in the air? Comparing the last four",
-      "zh-CN": "临床最多？创意最少？最好在空中？对比过去四年"
+      "en": "Liverpool sign England goalkeeper Keating"
     },
     "summary": {
-      "en": "BBC Sport compares statistics for France, Spain, Argentina and England in the World Cup so far as the semi-finalists prepare to meet.",
-      "zh-CN": "英国广播公司体育台（ BBC Sport ）比较了法国、西班牙、阿根廷和英格兰在世界杯上的统计数据，以备半决赛选手见面。"
+      "en": "Liverpool sign England goalkeeper Khiara Keating on a free transfer from Manchester City."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gyn7xn2eeo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_9009",
+    "id": "N_RSS_13782",
     "type": "official",
     "date": "2026-07-13",
-    "likes": 90,
+    "likes": 196,
     "title": {
-      "en": "Villa working on deal for Switzerland's Manzambi"
+      "en": "Who has been eliminated from the World Cup?"
     },
     "summary": {
-      "en": "Aston Villa are working on a deal for Freiburg midfielder Johan Manzambi as they attempt to hijack a move to Newcastle United."
+      "en": "BBC Sport's Ask Me Anything team lists the full set of nations who have been eliminated from the 2026 World Cup so far"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c39ym7e788wo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c74y970len4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_52700",
+    "id": "N_RSS_90461",
     "type": "official",
     "date": "2026-07-13",
-    "likes": 177,
+    "likes": 136,
     "title": {
-      "en": "Bilic reappointed as Croatia manager"
+      "en": "Who is the African World Cup goalscorer older than Ronaldo and Messi?"
     },
     "summary": {
-      "en": "Croatia reappoint former defender Slaven Bilic as the manager of their men's national team."
+      "en": "While Cristiano Ronaldo and Lionel Messi appear to be in a personal battle to rewrite the World Cup record books, there is one landmark that appears beyond them."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1dyvyx39rvo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cpwe19xldqqo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_45176",
+    "id": "N_RSS_32503",
     "type": "official",
     "date": "2026-07-13",
-    "likes": 142,
+    "likes": 166,
     "title": {
-      "en": "Football Daily"
-    },
-    "summary": {
-      "en": "Mark Chapman, Chris Sutton, Conor Coady and Rory Smith preview England's semi-final."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0nylm2l?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_99502",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 156,
-    "title": {
-      "en": "Spain defender Leon joins London City Lionesses"
-    },
-    "summary": {
-      "en": "Spain defender Mapi Leon joins London City Lionesses on a three-year deal following her exit from Barcelona."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c20ynnvyx4yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_9701",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 99,
-    "title": {
-      "en": "How Spain can knock France off their 'World Cup favourites' perch"
-    },
-    "summary": {
-      "en": "And so there were four. As it happens, the four still standing at this World Cup are the same quartet who sit atop FIFA's international food chain. A semi-final line-up for the ages. Aren't we lucky?"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13563068/france-vs-spain-world-cup-semi-final-preview-lamine-yamal-and-rodri-hold-keys-to-stopping-kylian-mbappes-les-bleus-storming-to-final"
-  },
-  {
-    "id": "N_RSS_49119",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 118,
-    "title": {
-      "en": "World Cup latest: Mbappe misses part of final training session"
+      "en": "England latest: Got a burning semi-final question? Send them in!"
     },
     "summary": {
       "en": ""
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
+    "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
   },
   {
-    "id": "N_RSS_3035",
+    "id": "N_RSS_64007",
     "type": "official",
     "date": "2026-07-13",
-    "likes": 261,
+    "likes": 167,
     "title": {
-      "en": "Declan Rice winning fitness battle to start for England against Argentina"
+      "en": "Football news: Slot a candidate for Netherlands job"
     },
     "summary": {
-      "en": "Rice expected to overcome illness for semi-finalJordan Pickford: ‘We can’t focus solely on Messi’Declan Rice is set to overcome illness and retain his place for England’s World Cup semi-final against..."
+      "en": ""
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/13/england-declan-rice-winning-fitness-battle-argentina-world-cup"
-  },
-  {
-    "id": "N_RSS_40116",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 76,
-    "title": {
-      "en": "Manchester United in advanced talks to sign Youri Tielemans from Aston Villa"
-    },
-    "summary": {
-      "en": "Midfielder thought to have £35m release clauseDeal for Atalanta’s Éderson falls throughManchester United are closing in on the signing of Youri Tielemans from Aston Villa after their move for the..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/13/manchester-united-in-advanced-talks-to-sign-youri-tielemans-from-aston-villa"
-  },
-  {
-    "id": "N_RSS_29424",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 91,
-    "title": {
-      "en": "Rodri: ‘France are one of the best teams here, in great form, but so are Spain. We can beat them’"
-    },
-    "summary": {
-      "en": "The Spain captain on his team’s chances in the World Cup semi-final, analysing every game so far and how to get the best out of Lamine Yamal“I’m not that bad,” Rodrigo Hernández says. It is the..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/13/rodri-interview-spain-captain-world-cup-2026"
-  },
-  {
-    "id": "N_RSS_72483",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 116,
-    "title": {
-      "en": "‘Knocking you out was a huge joy’: reliving the dramas of England v Argentina in 1998 and 2002"
-    },
-    "summary": {
-      "en": "How Diego Simeone, Michael Owen and Glenn Hoddle remember the two classic World Cup matches between historical rivalsIn all the acrimony, the wars, the deep history going back to the British..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/13/knocking-you-out-was-a-huge-joy-reliving-the-dramas-of-england-v-argentina-in-1998-and-2002"
-  },
-  {
-    "id": "N_RSS_63108",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 220,
-    "title": {
-      "en": "Tonda Eckert’s Southampton future unclear as FA investigation into spygate continues"
-    },
-    "summary": {
-      "en": "FA could follow Fifa precedent with 12-month suspensionManager to face media on Saturday in pre-season friendlyThe future of Southampton’s manager, Tonda Eckert, remains shrouded in uncertainty as he..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/13/tonda-eckert-southampton-fa-investigation-spygate"
-  },
-  {
-    "id": "N_RSS_4324",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 187,
-    "title": {
-      "en": "Andy Burnham has body of work that speaks volumes about how he gets football | Rob Draper"
-    },
-    "summary": {
-      "en": "Prime-minister-in-waiting has been a key figure in overhauls behind the scenes of the game, as well as helping to create the Hillsborough Independent PanelPicking up the country when it is in a slump..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/13/andy-burnham-body-of-work-football"
-  },
-  {
-    "id": "N_RSS_30134",
-    "type": "official",
-    "date": "2026-07-13",
-    "likes": 165,
-    "title": {
-      "en": "USWNT to play No 1 ranked Spain in two October friendlies as 2027 World Cup approaches"
-    },
-    "summary": {
-      "en": "Matches will take place on 10 and 13 OctoberWashington DC and Chester, Pennsylvania to hostThe top two teams in women’s soccer will meet in a pair of friendlies this fall, with the United States..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/13/uswnt-spain-friendlies"
-  },
-  {
-    "id": "N_RSS_29924",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 118,
-    "title": {
-      "en": "Argentina v England 1998 - Owen, Beckham and penalty pain"
-    },
-    "summary": {
-      "en": "England meet Argentina in the last 16 of the 1998 World Cup."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cz75405qe3wo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_80293",
-    "type": "official",
-    "date": "2026-07-12",
-    "likes": 139,
-    "title": {
-      "en": "'Written off as too old' - France beat up-and-coming Spain in 2006"
-    },
-    "summary": {
-      "en": "Spain meet France in the last 16 of the 2006 World Cup."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c3vyg507xd2o?at_medium=RSS&at_campaign=rss"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
   }
 ]
