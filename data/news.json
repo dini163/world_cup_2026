@@ -1,220 +1,362 @@
 [
   {
-    "id": "N_RSS_2885",
+    "id": "N_RSS_53838",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 76,
+    "likes": 230,
     "title": {
-      "en": "Best England team for a long time? That's a fact, says Rice",
-      "zh-CN": "长期以来英格兰最好的球队？这是事实，赖斯说"
+      "en": "England beat France in 10-goal thriller to win third-place play-off",
+      "zh-CN": "英格兰队在10球惊悚片中击败法国队，赢得第三名附加赛"
     },
     "summary": {
-      "en": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup.",
-      "zh-CN": "中场球员德克兰·赖斯（ Declan Rice ）表示，在三狮队在2026年世界杯上获得第三名之后， “这是很长一段时间以来最好的英格兰队”。"
+      "en": "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966.",
+      "zh-CN": "Bukayo Saka获得帽子戏法，英格兰队以惊悚片以6比4击败法国队，创下了自1966年以来最好的男子世界杯决赛纪录。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_24105",
+    "id": "N_RSS_98643",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 272,
+    "likes": 172,
     "title": {
-      "en": "England claim third at World Cup with win in 10-goal thriller over France",
-      "zh-CN": "英格兰队以10球惊悚片击败法国队夺得世界杯第三名"
+      "en": "England's best World Cup for 60 years - but how should it be judged?",
+      "zh-CN": "英格兰60年来最好的世界杯-但应该如何评判？"
     },
     "summary": {
-      "en": "Bukayo Saka&#8217;s hat-trick helped England to a remarkable 6-4 bronze medal win over France in Miami to achieve their best World Cup finish since 1966.",
-      "zh-CN": "Bukayo Saka的帽子戏法帮助英格兰队在迈阿密以6-4的铜牌击败法国队，取得了自1966年以来的最佳世界杯成绩。"
+      "en": "England have secured their best men's World Cup finish since winning the tournament 60 years ago. Is their performance at the 2026 edition being under-appreciated?",
+      "zh-CN": "自60年前赢得比赛以来，英格兰队已经取得了他们最好的男子世界杯决赛。他们在2026年的表现是否被低估了？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c78g1p05025o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_30701",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 65,
+    "title": {
+      "en": "Bellingham breaks England World Cup goals record",
+      "zh-CN": "贝灵厄姆打破英格兰世界杯进球纪录"
+    },
+    "summary": {
+      "en": "Jude Bellingham becomes the first Englishman to score seven goals at a single World Cup with a late strike against France.",
+      "zh-CN": "裘德·贝林汉姆（ Jude Bellingham ）成为第一位在对阵法国的比赛中打进7球的英国人。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c0qvzqlp4pdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_56059",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 108,
+    "title": {
+      "en": "Who am I? Guess World Cup star No 42",
+      "zh-CN": "我是谁？猜猜世界杯明星42号"
+    },
+    "summary": {
+      "en": "Will you get today's player in as few attempts as possible?",
+      "zh-CN": "你会在尽可能少的尝试中获得今天的玩家吗？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4g02zp311po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_11296",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 106,
+    "title": {
+      "en": "Brilliant first half, turbulent second - Tuchel",
+      "zh-CN": "辉煌的上半场，动荡的第二场- Tuchel"
+    },
+    "summary": {
+      "en": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup.",
+      "zh-CN": "英格兰队经理称赞他的球员，因为英格兰队在2026年世界杯上以6比4击败法国队获得第三名"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_26990",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 103,
+    "title": {
+      "en": "Football Daily",
+      "zh-CN": "足球日报"
+    },
+    "summary": {
+      "en": "What's next for England?",
+      "zh-CN": "英格兰的下一步是什么？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/p0nxtxwv?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_93446",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 191,
+    "title": {
+      "en": "Hat-trick hero Saka: I'm fit and wanted to play more",
+      "zh-CN": "帽子戏法英雄Saka ：我很健康，想玩得更多"
+    },
+    "summary": {
+      "en": "Bukayo Saka revealed he \"wanted to play more\" at the World Cup after scoring a hat-trick to earn England a bronze medal against France - after Thomas Tuchel tactically left him out of the semi-final...",
+      "zh-CN": "Bukayo Saka透露，他在对阵法国的比赛中获得帽子戏法以获得铜牌后，他“想在世界杯上打得更多” -在Thomas Tuchel战术性地将他排除在半决赛之外之后......"
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/france-vs-england/report/549868"
+    "url": "https://www.skysports.com/football/news/11095/13564841/france-4-6-england-bukayo-saka-reveals-he-is-fully-fit-and-wanted-to-play-more-at-the-world-cup-after-hat-trick-in-third-place-play-off"
   },
   {
-    "id": "N_RSS_47544",
+    "id": "N_RSS_79875",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 266,
+    "likes": 220,
     "title": {
-      "en": "Golden Boot race: Mbappe pulls two clear of Messi",
-      "zh-CN": "黄金靴比赛：姆巴佩将两人拉离梅西"
+      "en": "Bellingham sets new England record! The best stats from 10-goal thriller...",
+      "zh-CN": "贝灵厄姆创下新英格兰纪录！ 10个目标惊悚片的最佳统计数据..."
     },
     "summary": {
-      "en": "Kylian Mbappe now leads the way in the Golden Boot race with 10 goals - two clear of Lionel Messi who plays in Sunday's World Cup final.",
-      "zh-CN": "基利安·姆巴佩（ Kylian Mbappe ）现在以10个进球在金靴赛中领先，其中两个进球与周日世界杯决赛中的莱昂内尔·梅西（ Lionel Messi ）相差"
+      "en": ""
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13564837/world-cup-2026-golden-boot-race-kylian-mbappe-pulls-two-goals-clear-of-lionel-messi-ahead-of-world-cup-final"
+    "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
   },
   {
-    "id": "N_RSS_54725",
+    "id": "N_RSS_10852",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 299,
+    "likes": 123,
     "title": {
-      "en": "England beat France in an epic World Cup third-place playoff – in pictures",
-      "zh-CN": "英格兰队在史诗般的世界杯季后赛中击败法国队–在图片中"
+      "en": "World Cup final predictions: Back Spain to surge as Argentina's engine empties",
+      "zh-CN": "世界杯决赛预测：随着阿根廷发动机排空，西班牙回归飙升"
     },
     "summary": {
-      "en": "As England register their best World Cup finish since 1966, we bring you our pick of the images from Miami where Bukayo Saka’s hat-trick sealed a 6-4 victory for Thomas Tuchel’s side Continue...",
-      "zh-CN": "随着英格兰队取得自1966年以来最好的世界杯成绩，我们为您带来了来自迈阿密的精选图片， Bukayo Saka的帽子戏法为Thomas Tuchel的球队带来了6-4的胜利继续..."
+      "en": "This one certainly should live up to the billing.",
+      "zh-CN": "这个当然应该不辜负账单。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13564773/world-cup-final-predictions-and-best-bets-back-spain-to-surge-as-argentinas-engine-empties"
+  },
+  {
+    "id": "N_RSS_57230",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 194,
+    "title": {
+      "en": "World Cup 2026: Spain v Argentina final buildup; England win 10-goal thriller – live",
+      "zh-CN": "2026年世界杯：西班牙对阿根廷的最终积累；英格兰赢得10球惊悚片–现场直播"
+    },
+    "summary": {
+      "en": "⚽ World Cup final starts at 3pm EST, 8pm BST, 5am AEST⚽ Player guide | Golden Boot | Follow on TikTok | Mail usWatching England against France – though, of course, defensive intensity was lower – it...",
+      "zh-CN": "⚽ 世界杯决赛开始于美国东部时间下午3点，英国夏令时晚上8点，美国东部时间凌晨5点⚽球员指南|金靴|关注TikTok |给我们发邮件观看英格兰对阵法国的比赛–当然，防守强度较低–它..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/gallery/2026/jul/19/england-beat-france-world-cup-third-place-playoff-best-images-gallery-in-pictures"
+    "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-2026-spain-v-argentina-final-buildup-england-win-10-goal-thriller-live"
   },
   {
-    "id": "N_RSS_60723",
+    "id": "N_RSS_60209",
     "type": "official",
-    "date": "2026-07-18",
-    "likes": 153,
+    "date": "2026-07-19",
+    "likes": 80,
     "title": {
-      "en": "How did England players rate during the World Cup?",
-      "zh-CN": "英格兰球员在世界杯期间的表现如何？"
+      "en": "‘Something very special’: Tuchel reflects on World Cup after England claim third",
+      "zh-CN": "“非常特别的东西” ：图切尔在英格兰夺得第三名后反思世界杯"
     },
     "summary": {
-      "en": "BBC Sport England reporter Alex Howell assess how the Three Lions' players fared in North America.",
-      "zh-CN": "英国广播公司体育英格兰记者亚历克斯·豪威尔（ Alex Howell ）评估了三狮队的球员在北美的表现。"
+      "en": "France beaten 6-4 on ‘very emotional’ day for squad‘This will help – but you never fully celebrate bronze’Thomas Tuchel has said England’s players can be proud of their efforts after a thrilling 6-4...",
+      "zh-CN": "法国队在“非常情绪化”的日子里以6比4击败球队’这将有所帮助–但你永远不会完全庆祝铜牌'托马斯·图切尔（ Thomas Tuchel ）表示，英格兰球员在令人兴奋的6比4之后可以为他们的努力感到自豪..."
     },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo?at_medium=RSS&at_campaign=rss"
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/19/thomas-tuchel-world-cup-england-third-france"
   },
   {
-    "id": "N_RSS_92022",
+    "id": "N_RSS_93854",
     "type": "official",
-    "date": "2026-07-18",
-    "likes": 188,
+    "date": "2026-07-19",
+    "likes": 193,
     "title": {
-      "en": "Chelsea agree record £117m deal for Villa's Rogers",
-      "zh-CN": "切尔西同意与维拉的罗杰斯达成创纪录的1.17亿美元交易£"
+      "en": "Masters of time and space, Spain’s dominance comes from deep-rooted principles | Emma Hayes",
+      "zh-CN": "西班牙是时间和空间的主人，其统治地位来自根深蒂固的原则| Emma Hayes"
     },
     "summary": {
-      "en": "Chelsea have agreed a club record £117m deal to sign England international midfielder Morgan Rogers from Aston Villa.",
-      "zh-CN": "切尔西已经同意以1.17亿英镑的价格从阿斯顿维拉签下英格兰国际中场摩根·罗杰斯。"
+      "en": "Spain’s brilliance isn’t just about Rodri or Lamine Yamal – it’s all about the collective culture developed over many yearsWe talk about individuals too much in English football. Football is about...",
+      "zh-CN": "西班牙的辉煌不仅仅在于罗德里（ Rodri ）或拉明·亚马尔（ Lamine Yamal ） –这一切都与多年来发展起来的集体文化有关我们在英式足球中过多地谈论个人。足球就是……"
     },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss"
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/19/masters-of-time-and-space-spains-dominance-comes-from-deep-rooted-principles"
   },
   {
-    "id": "N_RSS_98542",
+    "id": "N_RSS_5745",
     "type": "official",
-    "date": "2026-07-18",
-    "likes": 249,
+    "date": "2026-07-19",
+    "likes": 270,
     "title": {
-      "en": "The classroom moment that bonds finalists De la Fuente & Scaloni forever",
-      "zh-CN": "将决赛选手De la Fuente和Scaloni永远联系在一起的课堂时刻"
+      "en": "World Cup final data pointers: Spain’s defensive record and Argentina’s attack",
+      "zh-CN": "世界杯决赛数据指针：西班牙的防守记录和阿根廷的进攻"
     },
     "summary": {
-      "en": "Spain manager Luis de la Fuente and Argentina boss Lionel Scaloni will go head-to-head in the World Cup final on Sunday - and the two men know each other well.",
-      "zh-CN": "西班牙主教练路易斯·德拉富恩特和阿根廷主教练莱昂内尔·斯卡洛尼将在周日的世界杯决赛中正面交锋，两人彼此很熟悉。"
+      "en": "The reigning champions may need to continue outperforming their xG to overcome Spain’s superb defensive recordThe World Cup final will feature the champions of South America and Europe for the first...",
+      "zh-CN": "卫冕冠军可能需要继续超越他们的xG ，以克服西班牙出色的防守记录世界杯决赛将首次以南美和欧洲冠军为特色......"
     },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c98v13rgyrmo?at_medium=RSS&at_campaign=rss"
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/19/world-cup-final-spain-argentina-goals-defensive-record"
   },
   {
-    "id": "N_RSS_32240",
+    "id": "N_RSS_92759",
     "type": "official",
-    "date": "2026-07-18",
-    "likes": 294,
+    "date": "2026-07-19",
+    "likes": 223,
     "title": {
-      "en": "A bit 'blah' or a worthy host? Is MetLife  right World Cup final choice?",
-      "zh-CN": "有点「胡说八道」或是一个值得尊敬的体验达人？大都会人寿的世界杯决赛选择是正确的吗？"
+      "en": "Spain v Argentina in the World Cup final: the referee, the stats and the omens",
+      "zh-CN": "世界杯决赛中的西班牙对阿根廷：裁判、统计数据和预兆"
     },
     "summary": {
-      "en": "North America correspondent Nada Tawfik explores the decision to award the World Cup final to MetLife Stadium amid competition from rival venues.",
-      "zh-CN": "北美记者纳达·陶菲克（ Nada Tawfik ）探讨了在竞争对手场馆的竞争中将世界杯决赛授予大都会人寿体育场的决定。"
+      "en": "As the top two in the Fifa rankings prepare to meet in New Jersey on Sunday we look at the pointers that may help decide the gameSlavko Vincic becomes the first Slovene to referee a World Cup final....",
+      "zh-CN": "随着国际足联排名前两名准备在周日在新泽西州举行比赛，我们将研究可能有助于决定比赛的指针斯拉夫科·文奇成为第一位裁判世界杯决赛的斯洛文尼亚人...."
     },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvgj5dlr45zo?at_medium=RSS&at_campaign=rss"
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/19/spain-v-argentina-world-cup-final-referee-stats-omens"
   },
   {
-    "id": "N_RSS_45488",
+    "id": "N_RSS_18499",
     "type": "official",
     "date": "2026-07-18",
-    "likes": 282,
+    "likes": 250,
     "title": {
-      "en": "More games, more controversy - good and bad of biggest World Cup yet",
-      "zh-CN": "更多的比赛，更多的争议-迄今为止最大的世界杯的好坏"
+      "en": "Over to you, Messi - Mbappe leads Golden Boot race for the ages",
+      "zh-CN": "向您致敬，梅西-姆巴佩多年来一直引领着金靴赛"
     },
     "summary": {
-      "en": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup.",
-      "zh-CN": "从高门票价格到补水休息、新法律和政治干预， 2026年世界杯很少出现沉闷的时刻。"
+      "en": "Kylian Mbappe leads the Golden Boot race by two goals but Lionel Messi could yet overtake him in the World Cup final.",
+      "zh-CN": "基利安·姆巴佩（ Kylian Mbappe ）以两个进球领先金靴赛，但莱昂内尔·梅西（ Lionel Messi ）仍有可能在世界杯决赛中超越他"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c89nl42dnpyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_51108",
+    "id": "N_RSS_20981",
     "type": "official",
     "date": "2026-07-18",
-    "likes": 142,
+    "likes": 231,
     "title": {
-      "en": "Huge rise in harmful social media posts this World Cup",
-      "zh-CN": "本届世界杯有害社交媒体帖子大幅增加"
+      "en": "Spain's final training session before World Cup final cancelled"
     },
     "summary": {
-      "en": "There have been 14 times more harmful social media posts and comments during this World Cup than in 2022, Fifa finds.",
-      "zh-CN": "国际足联发现，在本届世界杯期间，有害的社交媒体帖子和评论比2022年多了14倍。"
+      "en": "Spain's final session before Sunday's World Cup final has been cancelled due to thunderstorms in New Jersey."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c7vg6q24e18o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cly878gpgrlo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_20955",
+    "id": "N_RSS_67149",
+    "type": "official",
+    "date": "2026-07-18",
+    "likes": 159,
+    "title": {
+      "en": "Hydration breaks not popular and Fifa will review - Wenger"
+    },
+    "summary": {
+      "en": "Arsene Wenger says he accepts the hydration breaks introduced at the 2026 World Cup have not been popular and Fifa will review their impact after the tournament."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c24m30v0gy9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_2717",
+    "type": "official",
+    "date": "2026-07-18",
+    "likes": 272,
+    "title": {
+      "en": "Rice fires England into early lead against France"
+    },
+    "summary": {
+      "en": "Captain Declan Rice gives England an early lead, scoring in the third minute against France in the World Cup third-place play-off at Miami Stadium."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c0qvzk59jn0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_54295",
+    "type": "official",
+    "date": "2026-07-18",
+    "likes": 113,
+    "title": {
+      "en": "Messi and Brady in disbelief over 'prophetic' Lamine Yamal photo"
+    },
+    "summary": {
+      "en": "Argentina's Lionel Messi says it is \"crazy\" to be facing Spain's Lamine Yamal in a World Cup final after being photographed with him as a baby."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yejxqll3go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_44141",
+    "type": "official",
+    "date": "2026-07-18",
+    "likes": 293,
+    "title": {
+      "en": "The harrowing dark side of England's World Cup exit"
+    },
+    "summary": {
+      "en": "During a major football tournament such as the World Cup, some women and girls are constantly living in fear - because domestic abuse rises when England play, research shows."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwymljn8y10o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_78802",
+    "type": "official",
+    "date": "2026-07-18",
+    "likes": 145,
+    "title": {
+      "en": "Quiz: Name every men's World Cup final host city"
+    },
+    "summary": {
+      "en": "The World Cup final is where heroes are made and dreams come true for players and fans alike. Can you name every city that has ever hosted the showpiece?"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvgzp820y9xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_77803",
+    "type": "official",
+    "date": "2026-07-18",
+    "likes": 135,
+    "title": {
+      "en": "Will the World Cup affect Arsenal's transfer plans?"
+    },
+    "summary": {
+      "en": "With the World Cup final taking place on Sunday and the start of the Premier League just over a month away, supporters are starting to think about how their side is shaping up for the new campaign."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gj5z33e2lo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_87234",
     "type": "official",
     "date": "2026-07-18",
     "likes": 237,
     "title": {
-      "en": "World Cup winner Capdevila appeals to Trump after US travel permit denied",
-      "zh-CN": "世界杯冠军卡普德维拉在美国旅行许可证被拒绝后向特朗普提出上诉"
+      "en": "England tournament player ratings: Who impressed and who struggled?"
     },
     "summary": {
-      "en": "Former Spain international Joan Capdevila has made a plea to US President Donald Trump for help after he says he was denied a travel permit to enter the United States before  Sunday's World Cup final.",
-      "zh-CN": "前西班牙国脚琼·卡普德维拉（ Joan Capdevila ）向美国总统唐纳德·特朗普（ Donald Trump ）请求帮助，因为他说他在周日世界杯决赛前被拒绝进入美国的旅行许可证。"
+      "en": "England's World Cup campaign is officially over and while history has been made - it's not quite the history the Three Lions wanted."
     },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2l5jn17yjo?at_medium=RSS&at_campaign=rss"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13564813/england-world-cup-player-ratings-every-three-lions-who-took-part-in-the-tournament-rated"
   },
   {
-    "id": "N_RSS_19224",
+    "id": "N_RSS_39751",
     "type": "official",
     "date": "2026-07-18",
-    "likes": 65,
+    "likes": 294,
     "title": {
-      "en": "Best finishers, defensive kings & runners - World Cup finalists in numbers",
-      "zh-CN": "最佳终结者、防守国王和跑步者-世界杯决赛选手"
-    },
-    "summary": {
-      "en": "European champions Spain will face World Cup holders and South American champions Argentina in the final. How do they compare? BBC Sport takes a look at the numbers.",
-      "zh-CN": "欧洲冠军西班牙将在决赛中面对世界杯冠军和南美冠军阿根廷。它们的比较结果如何？英国广播公司体育台（ BBC Sport ）查看了这些数字。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c0rd8zrwvwno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_68489",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 124,
-    "title": {
-      "en": "'They made him a defensive player' - Trump questions Kane role in semi",
-      "zh-CN": "“他们让他成为一名防守球员” -特朗普质疑凯恩在半决赛中的角色"
-    },
-    "summary": {
-      "en": "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.",
-      "zh-CN": "美国总统唐纳德特朗普通过质疑哈里凯恩的下半场“防守”角色，加入了对英格兰在世界杯半决赛输给阿根廷的战术的批评。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_72662",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 161,
-    "title": {
-      "en": "VOTE! Ecstatic or frustrated? Vote on England's 6-4 win over France",
-      "zh-CN": "投票！欣喜若狂还是沮丧？对英格兰以6比4战胜法国进行投票"
+      "en": "Ecstatic or frustrated? Vote on England's 6-4 win over France"
     },
     "summary": {
       "en": ""
@@ -223,228 +365,87 @@
     "url": "https://www.skysports.com/football/france-vs-england/live/549868"
   },
   {
-    "id": "N_RSS_89005",
+    "id": "N_RSS_53918",
     "type": "official",
     "date": "2026-07-18",
-    "likes": 294,
+    "likes": 132,
     "title": {
-      "en": "'Emotional' England assistant Barry: We're playing a game with broken hearts",
-      "zh-CN": "“情感”英格兰助手巴里：我们正在玩一场心碎的比赛"
+      "en": "Trump, rings, Messi and a half-time show - A World Cup final like no other"
+    },
+    "summary": {
+      "en": "The 2026 World Cup final will be like no other."
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13564766/world-cup-2026-spain-and-argentina-meet-in-a-final-like-no-other-with-donald-trump-involved-winners-rings-and-a-first-ever-half-time-show"
+  },
+  {
+    "id": "N_RSS_75948",
+    "type": "official",
+    "date": "2026-07-18",
+    "likes": 85,
+    "title": {
+      "en": "Spain training session cancelled due to bad weather ahead of World Cup final"
     },
     "summary": {
       "en": ""
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+    "url": "https://www.skysports.com/football/spain-vs-argentina/live/549869"
   },
   {
-    "id": "N_RSS_42628",
+    "id": "N_RSS_31324",
     "type": "official",
     "date": "2026-07-18",
-    "likes": 125,
+    "likes": 264,
     "title": {
-      "en": "Man Utd latest: 'Demoralised' Mainoo misses France game due to 'injury'"
+      "en": "Manchester United start new signing Andrey Santos in pre-season loss to Wrexham"
     },
     "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-  },
-  {
-    "id": "N_RSS_45992",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 162,
-    "title": {
-      "en": "Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff"
-    },
-    "summary": {
-      "en": "Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he could not have imagined the manner of the response from England, albeit against a France team firmly on..."
+      "en": "Brazilian makes first appearance after joining from ChelseaCarrick rings changes at half-time as United lose 1-0 in HelsinkiAndrey Santos made a bright first Manchester United appearance as they lost..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report"
+    "url": "https://www.theguardian.com/football/2026/jul/18/manchester-united-start-new-signing-andrey-santos-in-pre-season-loss-to-wrexham"
   },
   {
-    "id": "N_RSS_73855",
+    "id": "N_RSS_32214",
     "type": "official",
     "date": "2026-07-18",
-    "likes": 64,
+    "likes": 97,
     "title": {
-      "en": "Fifa to announce record $15bn World Cup revenue, smashing expectations"
+      "en": "‘Where did they go?’: homeless people feel force of America’s brutality in World Cup clean-up"
     },
     "summary": {
-      "en": "Hospitality and secondary ticket market help fuel riseGianni Infantino will feel this shores up his positionFifa will announce record $15bn (£11.2bn) revenues from this summer’s World Cup,..."
+      "en": "Fifa says football brings the world together but the unhoused in Atlanta feel targeted and completely excluded from the tournament“A lot of our community has been pushed out by the World Cup. We’re..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue"
+    "url": "https://www.theguardian.com/football/2026/jul/18/where-did-they-go-homeless-people-feel-force-of-americas-brutality-in-world-cup-clean-up"
   },
   {
-    "id": "N_RSS_11651",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 240,
-    "title": {
-      "en": "Luis de la Fuente reveals Spain will not man-mark Messi in World Cup final"
-    },
-    "summary": {
-      "en": "Coach tells of first encounter when Messi was 16‘I took man-marker off and Messi scored four’Luis de la Fuente says he will not man-mark Lionel Messi in the World Cup final, even though the Argentina..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/luis-de-la-fuente-reveals-spain-will-not-man-mark-messi-in-world-cup-final"
-  },
-  {
-    "id": "N_RSS_6687",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 152,
-    "title": {
-      "en": "Hart, Rooney and Richards on rowing the Hudson and if Tuchel should keep his job"
-    },
-    "summary": {
-      "en": "Pundits set out on the New York river to fulfil forfeit after Wayne’s errant prediction about Norway at the World Cup The BBC punditry trio Wayne Rooney, Micah Richards and Joe Hart are fresh off a..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/joe-hart-wayne-rooney-micah-richards-rowing-hudson-river-world-cup"
-  },
-  {
-    "id": "N_RSS_25725",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 88,
-    "title": {
-      "en": "Cold War Steve on … Don Quixote and Sancho Panza coming to save the World Cup"
-    },
-    "summary": {
-      "en": "The fifth in a special series of World Cup 2026-themed collages made for the Guardian by the celebrated satirist Continue reading..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/picture/2026/jul/18/cold-war-steve-on-don-quixote-and-sancho-panza-coming-to-save-the-world-cup"
-  },
-  {
-    "id": "N_RSS_34945",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 175,
-    "title": {
-      "en": "Spain’s Mikel Merino: ‘The focus is on being a good human first, then a good footballer’"
-    },
-    "summary": {
-      "en": "The Arsenal midfielder talks about how Luis de la Fuente has created a team built on respect and how they plan to beat Argentina in the World Cup finalThe night before the biggest day of their lives,..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/spain-mikel-merino-good-human-footballer-interview-world-cup"
-  },
-  {
-    "id": "N_RSS_8529",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 68,
-    "title": {
-      "en": "Enzo Fernández shows real quality for Argentina but Chelsea future is up in the air"
-    },
-    "summary": {
-      "en": "Brash midfielder has admirers in Madrid, though his World Cup displays illustrate what he can offer Xabi Alonso’s BluesEnzo Fernández was an unstoppable mix of style and spite during Argentina’s win..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/enzo-fernandez-argentina-chelsea-future-world-cup"
-  },
-  {
-    "id": "N_RSS_46106",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 89,
-    "title": {
-      "en": "'Less than human': how unhoused people in Atlanta are being treated during the World Cup – video"
-    },
-    "summary": {
-      "en": "“This is what happens when you apply these incredibly violent economic forces to these cities … it's happened at every World Cup I've been to,” explains our chief sports writer, Barney..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/video/2026/jul/18/how-unhoused-people-in-atlanta-are-being-treated-during-the-world-cup-video"
-  },
-  {
-    "id": "N_RSS_92020",
+    "id": "N_RSS_33183",
     "type": "official",
     "date": "2026-07-17",
-    "likes": 168,
+    "likes": 227,
     "title": {
-      "en": "World Cup quiz: Can you name finalists since 1930?"
+      "en": "'Chaos v calm' - Sutton's World Cup final prediction"
     },
     "summary": {
-      "en": "As we approach Sunday's World Cup final, test your knowledge of the teams who have made it to this stage before."
+      "en": "BBC Sport's football expert Chris Sutton makes his prediction for Spain against Argentina in the World Cup final, and the bronze final between France and England."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cj4pw98d29eo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4g3zrgxkzdo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_50171",
+    "id": "N_RSS_74645",
     "type": "official",
     "date": "2026-07-17",
-    "likes": 143,
+    "likes": 181,
     "title": {
-      "en": "Pele at the Azteca? England in '66? Ranking the best World Cup finals"
+      "en": "Spain 2010 v Spain 2026: How do the two XIs compare?"
     },
     "summary": {
-      "en": "Pele and Brazil at the Azteca in 1970? Lionel Messi's first World Cup? England winning it on home soil in 1966? BBC Sport attempts to rank the best finals."
+      "en": "How do Spain's 2010 World Cup winners compare to the current contingent who are looking to match their feat in the 2026 tournament? BBC Sport takes a look."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cgjx946py51o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_65567",
-    "type": "official",
-    "date": "2026-07-17",
-    "likes": 199,
-    "title": {
-      "en": "Keep calm and carry on - Spain trust team identity to deliver World Cup"
-    },
-    "summary": {
-      "en": "Former Spain captain Cesar Azpilicueta explains why Luis de la Fuente's side have confidence in the collective as they prepare for Sunday's World Cup final against Argentina."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/czxedvre7ryo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_30920",
-    "type": "official",
-    "date": "2026-07-17",
-    "likes": 75,
-    "title": {
-      "en": "Dominik Szoboszlai signs Liverpool deal as Aston Villa go for João Gomes"
-    },
-    "summary": {
-      "en": "Contract to 2031 one of his ‘top three’ life momentsLeeds close to signing centre-back MuharemovicDominik Szoboszlai has given Liverpool and their head coach, Andoni Iraola, a significant boost by..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest"
-  },
-  {
-    "id": "N_RSS_65655",
-    "type": "official",
-    "date": "2026-07-17",
-    "likes": 108,
-    "title": {
-      "en": "England need fearless passers and three Tuchel omissions may point the way"
-    },
-    "summary": {
-      "en": "Technical class in the fiercest battles was again lacking at the World Cup but there is hope amid the soul-searchingThe post-match inquest into England’s elimination was almost over when Thomas..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/17/england-passing-world-cup-thomas-tuchel"
-  },
-  {
-    "id": "N_RSS_26523",
-    "type": "official",
-    "date": "2026-07-16",
-    "likes": 72,
-    "title": {
-      "en": "'A true miracle of destiny' - Messi and Lamine Yamal's incredible first meeting"
-    },
-    "summary": {
-      "en": "BBC Sport explores a bond between two world-class footballers from different generations who appear bound by destiny"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c9w0j104rvgo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5yzy1rzxepo?at_medium=RSS&at_campaign=rss"
   }
 ]
