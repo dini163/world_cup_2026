@@ -1,60 +1,220 @@
 [
   {
-    "id": "N_RSS_98220",
+    "id": "N_RSS_72171",
     "type": "official",
-    "date": "2026-07-19",
-    "likes": 59,
+    "date": "2026-07-20",
+    "likes": 139,
     "title": {
-      "en": "Mbappe first to win World Cup Golden Boot twice",
-      "zh-CN": "姆巴佩率先两次赢得世界杯金靴奖"
+      "en": "Victory for football? Spain beat Argentina to win World Cup",
+      "zh-CN": "足球的胜利？西班牙击败阿根廷赢得世界杯"
     },
     "summary": {
-      "en": "Kylian Mbappe has become the first player to win the World Cup Golden Boot twice after earning the award for top scorer at the 2026 tournament.",
-      "zh-CN": "Kylian Mbappe在2026年锦标赛上获得最佳射手奖后，成为第一个两次赢得世界杯金靴奖的球员。"
+      "en": "It might seem like a trite cliche, but you won't find many neutrals disagreeing with that verdict on the World Cup final.",
+      "zh-CN": "这似乎是陈词滥调，但你不会发现很多中立者不同意世界杯决赛的判决。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cdx8veqllw7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_462",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 146,
+    "title": {
+      "en": "Sixteen titles in five years - why Spain are a dominant force",
+      "zh-CN": "五年内获得16个冠军头衔-为什么西班牙是主导力量"
+    },
+    "summary": {
+      "en": "We look at what's behind Spain's dominance after they become the first nation to be men's and women's World Cup champions at the same time.",
+      "zh-CN": "在西班牙成为第一个同时成为男子和女子世界杯冠军的国家后，我们来看看西班牙统治地位的背后是什么。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c39elvrye40o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_4255",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 52,
+    "title": {
+      "en": "Lamine Yamal 'completes football' at 19 as Argentina betray Messi",
+      "zh-CN": "Lamine Yamal在19岁时“完成足球” ，因为阿根廷背叛了梅西"
+    },
+    "summary": {
+      "en": "Spain's Lamine Yamal takes the glory of World Cup victory as the great Lionel Messi's evening ends in tears.",
+      "zh-CN": "西班牙的拉明·亚马尔（ Lamine Yamal ）以世界杯的胜利为荣，伟大的莱昂内尔·梅西（ Lionel Messi ）的夜晚以泪水"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c0m7zx38v43o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_98747",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 229,
+    "title": {
+      "en": "Trump, Bieber and Shakira - a World Cup final like never before",
+      "zh-CN": "特朗普、比伯和夏奇拉--前所未有的世界杯决赛"
+    },
+    "summary": {
+      "en": "The 2026 World Cup final may not linger long in the memory for what happened on the pitch but it will for all that surrounded it, with an appearance by President Trump, the longest half-time in...",
+      "zh-CN": "2026年世界杯决赛可能不会在球场上发生的事情的记忆中徘徊很长时间，但对于围绕它的所有人来说，它将会出现，特朗普总统出现了，这是...中场休息时间最长的一次。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gjx7nvk4go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_3376",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 219,
+    "title": {
+      "en": "Scaloni leaves news conference in tears talking about his future",
+      "zh-CN": "斯卡洛尼泪流满面地离开新闻发布会，谈论他的未来"
+    },
+    "summary": {
+      "en": "Argentina manager Lionel Scaloni leaves his post-match news conference after Sunday's World Cup final defeat by Spain in tears.",
+      "zh-CN": "阿根廷主教练莱昂内尔·斯卡洛尼（ Lionel Scaloni ）在周日的世界杯决赛中被西班牙队击败后离开了赛后新闻发布会。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cdew76g9d1zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_92784",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 224,
+    "title": {
+      "en": "'The reaction is terrible' - World Cup final turns ugly at full-time",
+      "zh-CN": "“反应很糟糕” -世界杯决赛全职变得丑陋"
+    },
+    "summary": {
+      "en": "The frustration of some Argentina players boils over at the end of the 2026 World Cup final, after the 2022 winners are beaten by Spain in extra time.",
+      "zh-CN": "在2022年获胜者在加时赛中被西班牙击败后，一些阿根廷球员的沮丧情绪在2026年世界杯决赛结束时沸腾了。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c5yrxql8wd3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_41039",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 239,
+    "title": {
+      "en": "World Cup quiz: Can you name every winner?",
+      "zh-CN": "世界杯测验：你能说出每个获胜者的名字吗？"
+    },
+    "summary": {
+      "en": "With the World Cup final taking place on Sunday, put your knowledge of the previous winners to the test.",
+      "zh-CN": "世界杯决赛将于周日举行，请考验您对前几届获胜者的了解。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c2k2zxdl5edo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_70604",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 140,
+    "title": {
+      "en": "Dominant Spain beat Argentina to win World Cup after extra time",
+      "zh-CN": "霸主西班牙在加时赛后击败阿根廷赢得世界杯"
+    },
+    "summary": {
+      "en": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium.",
+      "zh-CN": "费兰·托雷斯（ Ferran Torres ）以1比0战胜阿根廷，在纽约新泽西体育场（ New York New Jersey Stadium ）赢得了他们的第二届国际足联世界杯（ FIFA World Cup ）。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_75638",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 80,
+    "title": {
+      "en": "Mbappe first to win Golden Boot twice as Rodri named World Cup's best player",
+      "zh-CN": "姆巴佩率先赢得两次金靴奖，罗德里被评为世界杯最佳球员"
+    },
+    "summary": {
+      "en": "Kylian Mbappe has become the first player to win the World Cup Golden Boot twice after earning the award for top scorer at the 2026 tournament, while Spain's Rodri lands the Golden Ball as the best...",
+      "zh-CN": "Kylian Mbappe在2026年锦标赛上获得最佳射手奖后，成为第一个两次赢得世界杯金靴奖的球员，而西班牙的Rodri将金球奖评为最佳..."
     },
     "source": "BBC Sport",
     "url": "https://www.bbc.co.uk/sport/football/articles/cre4z58pzj9o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_99191",
+    "id": "N_RSS_27105",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 63,
+    "likes": 56,
     "title": {
-      "en": "Rate the Spain and Argentina players in World Cup final",
-      "zh-CN": "在世界杯决赛中为西班牙和阿根廷球员评分"
+      "en": "Shakira, Madonna, Justin Bieber and BTS perform at colourful World Cup half-time show",
+      "zh-CN": "夏奇拉（ Shakira ）、麦当娜（ Madonna ）、贾斯汀·比伯（ Justin Bieber ）和轻轨（ BTS"
     },
     "summary": {
-      "en": "Rate the Spain and Argentina players out of 10 below and come back 30 minutes after full-time to see the final ratings.",
-      "zh-CN": "为西班牙和阿根廷球员打分（满分10分） ，并在全职结束后30分钟返回查看最终评分。"
+      "en": "Robbie Williams and Jennifer Hudson also performed, with Kylie Jenner and Timothee Chalamet among the celebrities in the crowds.",
+      "zh-CN": "罗比·威廉姆斯（ Robbie Williams ）和詹妮弗·哈德森（ Jennifer Hudson ）也表演过，凯莉·詹纳（ Kylie Jenner ）和蒂莫西·查拉梅特（ Timothee"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/news/articles/clyxjl0wkl7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_42858",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 191,
+    "title": {
+      "en": "Who made the difference for Spain? World Cup final player ratings",
+      "zh-CN": "谁为西班牙带来了改变？世界杯决赛球员评分"
+    },
+    "summary": {
+      "en": "BBC Sport journalist Neil Johnston rates the players after the World Cup final between Spain and Argentina.",
+      "zh-CN": "英国广播公司体育记者尼尔·约翰斯顿（ Neil Johnston ）在西班牙和阿根廷之间的世界杯决赛后对球员进行了"
     },
     "source": "BBC Sport",
     "url": "https://www.bbc.co.uk/sport/football/articles/cvgjgp7656xo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_73171",
+    "id": "N_RSS_37397",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 244,
+    "likes": 104,
     "title": {
-      "en": "Rewatch the World Cup final in 3D",
-      "zh-CN": "重新观看3D世界杯决赛"
+      "en": "How the World Cup has affected your Premier League team",
+      "zh-CN": "世界杯如何影响您的英超球队"
     },
     "summary": {
-      "en": "Watch the World Cup final from every angle including through the eyes of every player.",
-      "zh-CN": "从各个角度观看世界杯决赛，包括通过每个球员的眼睛。"
+      "en": "Now Spain have been crowned world champions after victory over Argentina in New Jersey, attention will quickly shift to the new domestic season.",
+      "zh-CN": "现在，西班牙在新泽西州战胜阿根廷后成为世界冠军，人们的注意力将很快转移到新的国内赛季。"
     },
     "source": "BBC Sport",
-    "url": "https://www.3d-bbc.co.uk/?matchId=151710&at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c3ek99pz1wgo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_89721",
+    "id": "N_RSS_43610",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 285,
+    "likes": 162,
     "title": {
-      "en": "Ferran Torres gives Spain extra-time lead against Argentina",
-      "zh-CN": "费兰·托雷斯给予西班牙对阿根廷的加时赛领先优势"
+      "en": "Has Saka shown Tuchel he's too good to leave out?",
+      "zh-CN": "Saka有没有给Tuchel看过他太好了，不能离开？"
+    },
+    "summary": {
+      "en": "Bukayo Saka’s World Cup hat-trick against France reignited the selection debate and Thomas Tuchel’s decision to leave him out of the semi-final.",
+      "zh-CN": "布卡约·萨卡（ Bukayo Saka ）对法国的世界杯帽子戏法重新引发了选拔辩论，托马斯·图切尔（ Thomas Tuchel ）决定将他排除在半决赛之外。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_57993",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 80,
+    "title": {
+      "en": "Spain's Torres scores only goal of World Cup final",
+      "zh-CN": "西班牙的托雷斯在世界杯决赛中仅进球"
     },
     "summary": {
       "en": "Ferran Torres breaks the deadlock, scoring in extra time for Spain in the World Cup final against Argentina at the New York New Jersey Stadium.",
@@ -64,61 +224,126 @@
     "url": "https://www.bbc.co.uk/sport/football/videos/cp30nd7vpn2o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_30042",
+    "id": "N_RSS_40827",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 211,
+    "likes": 285,
     "title": {
-      "en": "World Cup error will make Lammens stronger - Heaton",
-      "zh-CN": "世界杯失误将使拉门斯更强大-希顿"
+      "en": "Stars shine at the World Cup final half-time show",
+      "zh-CN": "明星在世界杯决赛半场表演中闪耀"
     },
     "summary": {
-      "en": "Tom Heaton is backing Manchester United team-mate Senne Lammens to emerge as a stronger character from his World Cup disappointment.",
-      "zh-CN": "汤姆·希顿（ Tom Heaton ）支持曼联队友塞纳·拉门斯（ Senne Lammens ）从世界杯的失望中脱颖而出，成为一个更强大的角色。"
+      "en": "Madonna, BTS, Justin Bieber, and Shakira entertain the crowd at half-time in the World Cup final, with a special appearance from Ronaldo and Ronaldinho at the New York New Jersey Stadium.",
+      "zh-CN": "麦当娜（ Madonna ）、轻轨（ BTS ）、贾斯汀·比伯（ Justin Bieber ）和夏奇拉（ Shakira ）在世界杯决赛中半场表演，罗纳尔多（ Ronaldo ）和罗纳尔迪尼奥（ Ronaldinho ）在纽约新泽西体育场"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cjej09nx5q8o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cddj0m5pzglo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_79648",
+    "id": "N_RSS_33376",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 256,
+    "likes": 178,
     "title": {
-      "en": "Swansea close in on deal for Motherwell's Just",
-      "zh-CN": "斯旺西接近Motherwell's Just的交易"
+      "en": "England beat France in 10-goal thriller to win third-place play-off"
     },
     "summary": {
-      "en": "Swansea City hope to tie up a deal for Motherwell's Elijah Just after he impressed for New Zealand at the World Cup.",
-      "zh-CN": "斯旺西市希望在马瑟韦尔的以利亚在世界杯上给新西兰留下深刻印象后，与他达成协议。"
+      "en": "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqlxreqep15o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_27493",
+    "id": "N_RSS_47267",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 82,
+    "likes": 120,
     "title": {
-      "en": "Spain beat Argentina to win World Cup",
-      "zh-CN": "西班牙击败阿根廷赢得世界杯"
+      "en": "Best England team for a long time - that's a fact, says Rice"
     },
     "summary": {
-      "en": "Spain won their second World Cup title after Ferran Torres' 106th-minute smashed finish earned a 1-0 win against defending champions Argentina in the 2026 final.",
-      "zh-CN": "在费兰·托雷斯（ Ferran Torres ）在2026年决赛中以1比0击败卫冕冠军阿根廷队后，西班牙赢得了他们的第二个世界杯冠军。"
+      "en": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after they secure a third-placed finish at the World Cup."
     },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/spain-vs-argentina/report/549869"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_21880",
+    "id": "N_RSS_98467",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 62,
+    "likes": 227,
     "title": {
-      "en": "Spain beat Argentina to win second World Cup title LIVE!",
-      "zh-CN": "西班牙击败阿根廷，现场赢得第二个世界杯冠军！"
+      "en": "Football Daily: Spain win the World Cup"
+    },
+    "summary": {
+      "en": "Spain won 1-0 against Argentina after extra time in New Jersey."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/p0nzr634?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_92426",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 193,
+    "title": {
+      "en": "England's best World Cup for 60 years - but how should it be judged?"
+    },
+    "summary": {
+      "en": "England have secured their best men's World Cup finish since winning the tournament 60 years ago. Is their performance at the 2026 edition being under-appreciated?"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c78g1p05025o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_7498",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 91,
+    "title": {
+      "en": "Bellingham breaks England World Cup goals record"
+    },
+    "summary": {
+      "en": "Jude Bellingham becomes the first Englishman to score seven goals at a single World Cup with a late strike against France."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c0qvzqlp4pdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_54333",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 202,
+    "title": {
+      "en": "Who am I? Guess World Cup star No 42"
+    },
+    "summary": {
+      "en": "Will you get today's player in as few attempts as possible?"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4g02zp311po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_47249",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 113,
+    "title": {
+      "en": "Brilliant first half, turbulent second - Tuchel"
+    },
+    "summary": {
+      "en": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_34080",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 75,
+    "title": {
+      "en": "Torres: It was destiny for Spain to win World Cup final"
     },
     "summary": {
       "en": ""
@@ -127,324 +352,101 @@
     "url": "https://www.skysports.com/football/spain-vs-argentina/live/549869"
   },
   {
-    "id": "N_RSS_32377",
+    "id": "N_RSS_44903",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 270,
+    "likes": 160,
     "title": {
-      "en": "Golden Boot race: Mbappe first player to win prize twice",
-      "zh-CN": "金靴赛： Mbappe第一个两次赢得奖品的玩家"
+      "en": "World Cup final player ratings: Messi peters out as super-subs inspire Spain"
     },
     "summary": {
-      "en": "Kylian Mbappe won the 2026 World Cup Golden Boot with 10 goals, finishing two clear of Lionel Messi.",
-      "zh-CN": "Kylian Mbappe以10个进球赢得了2026年世界杯金靴奖，两次击败莱昂内尔·梅西。"
+      "en": "Spain beat Argentina 1-0 in one of the most one-sided World Cup finals in history. From Ferran Torres' heroics to Lionel Messi's last dance, here are the player ratings as Luis de la Fuente's side..."
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13564837/world-cup-2026-golden-boot-race-kylian-mbappe-beats-lionel-messi-to-become-top-goalscorer"
+    "url": "https://www.skysports.com/football/news/11095/13564993/spain-vs-argentina-player-ratings-lionel-messi-fails-to-produce-one-last-moment-of-magic-as-super-subs-guide-spain-to-world-cup-triumph"
   },
   {
-    "id": "N_RSS_34669",
+    "id": "N_RSS_39489",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 154,
+    "likes": 139,
     "title": {
-      "en": "Klopp admits he's close to becoming Germany manager",
-      "zh-CN": "克洛普承认他即将成为德国经理"
+      "en": "Rodri named World Cup Best Player as Spain dominate awards"
     },
     "summary": {
       "en": ""
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+    "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
   },
   {
-    "id": "N_RSS_37464",
+    "id": "N_RSS_93181",
     "type": "official",
     "date": "2026-07-19",
-    "likes": 241,
+    "likes": 205,
     "title": {
-      "en": "Spain beat Argentina 1-0 after extra time to win the 2026 World Cup – live",
-      "zh-CN": "西班牙在加时赛后以1-0击败阿根廷赢得2026年世界杯–直播"
+      "en": "Hat-trick hero Saka: I'm fit and wanted to play more"
     },
     "summary": {
-      "en": "⚽ Trump, half-time show and everything but football – live⚽ Match gallery | Golden Boot | Follow on TikTok | Mail usYou can also follow the build up on our news blog, which contains photographtic...",
-      "zh-CN": "⚽ 特朗普，半场演出和除了足球之外的一切–现⚽场比赛画廊|金靴|关注TikTok |给我们发邮件您还可以在我们的新闻博客上关注积累，其中包含照片..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates"
-  },
-  {
-    "id": "N_RSS_43776",
-    "type": "official",
-    "date": "2026-07-19",
-    "likes": 60,
-    "title": {
-      "en": "World Cup final: Trump, half-time show and everything but the football – live",
-      "zh-CN": "世界杯决赛：特朗普、半场表演和除了足球之外的一切–现场"
-    },
-    "summary": {
-      "en": "White House confirms Trump will attend World Cup finalShakira, Madonna and BTS headline first half-time showWorld Cup final liveblog: all the football | Mail TomStreamer IShowSpeed, probably more...",
-      "zh-CN": "白宫确认特朗普将参加世界杯决赛夏奇拉，麦当娜和BTS头条第一半场秀世界杯决赛直播博客：所有足球|邮件TomStreamer IShowSpeed ，可能更多..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/live/2026/jul/19/world-cup-final-trump-halftime-show-shakira-bts-madonna-everything-but-football"
-  },
-  {
-    "id": "N_RSS_40283",
-    "type": "official",
-    "date": "2026-07-19",
-    "likes": 153,
-    "title": {
-      "en": "Fifa gives fraud ‘an open door’ with betting, says Council of Europe chief",
-      "zh-CN": "欧洲委员会负责人表示，国际足联通过投注为欺诈“敞开大门”"
-    },
-    "summary": {
-      "en": "Fifa deal with prediction market company under fireBalogun reprieve showed ‘rules bend under pressure’Fifa has been accused of providing an “open door to fraud” and allowing political influence to...",
-      "zh-CN": "国际足联与fireBalogun暂缓下预测市场公司的交易显示“规则在压力下弯曲”国际足联被指控提供“欺诈敞开大门” ，并允许政治影响力......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/19/fifa-fraud-open-door-betting-council-of-europe-world-cup"
-  },
-  {
-    "id": "N_RSS_86493",
-    "type": "official",
-    "date": "2026-07-19",
-    "likes": 258,
-    "title": {
-      "en": "Hits, misses and Muppets: the star-studded World Cup half-time show nobody asked for",
-      "zh-CN": "安打、失误和布偶：星光熠熠的世界杯半场表演，没有人要求"
-    },
-    "summary": {
-      "en": "It zipped along, cramming in Shakira, Madonna and Coldplay, but football fans may not be convinced of need for this mid-match spectacleLike hydration breaks and Donald Trump’s ability to get...",
-      "zh-CN": "它拉开了序幕，挤满了夏奇拉、麦当娜和酷玩乐队，但足球迷可能不相信需要这个赛季中期的奇观，比如补水休息和唐纳德·特朗普的能力……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/19/hits-misses-and-muppets-the-star-studded-world-cup-half-time-show-nobody-asked-for"
-  },
-  {
-    "id": "N_RSS_20507",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 286,
-    "title": {
-      "en": "How did England players rate during the World Cup?",
-      "zh-CN": "英格兰球员在世界杯期间的表现如何？"
-    },
-    "summary": {
-      "en": "BBC Sport England reporter Alex Howell assess how the Three Lions' players fared in North America.",
-      "zh-CN": "英国广播公司体育英格兰记者亚历克斯·豪威尔（ Alex Howell ）评估了三狮队的球员在北美的表现。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_90434",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 106,
-    "title": {
-      "en": "Chelsea agree record £117m deal for Villa's Rogers"
-    },
-    "summary": {
-      "en": "Chelsea have agreed a club record £117m deal to sign England international midfielder Morgan Rogers from Aston Villa."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c0ej1jyy8yyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_91361",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 197,
-    "title": {
-      "en": "Huge rise in harmful social media posts this World Cup"
-    },
-    "summary": {
-      "en": "There have been 14 times more harmful social media posts and comments during this World Cup than in 2022, Fifa finds."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c7vg6q24e18o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_13633",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 253,
-    "title": {
-      "en": "More games, more controversy - good and bad of biggest World Cup yet"
-    },
-    "summary": {
-      "en": "From high ticket prices to hydration breaks, new laws and political interventions, there has rarely been a dull moment at the 2026 World Cup."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ce8k0njm23yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_97166",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 191,
-    "title": {
-      "en": "Will the World Cup affect Arsenal's transfer plans?"
-    },
-    "summary": {
-      "en": "With the World Cup final taking place on Sunday and the start of the Premier League just over a month away, supporters are starting to think about how their side is shaping up for the new campaign."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4gj5z33e2lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_26147",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 296,
-    "title": {
-      "en": "England tournament player ratings: Who impressed and who struggled?"
-    },
-    "summary": {
-      "en": "England's World Cup campaign is officially over and while history has been made - it's not quite the history the Three Lions wanted."
+      "en": "Bukayo Saka revealed he \"wanted to play more\" at the World Cup after scoring a hat-trick to earn England a bronze medal against France - after Thomas Tuchel tactically left him out of the semi-final..."
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13564813/england-world-cup-player-ratings-every-three-lions-who-took-part-in-the-tournament-rated"
+    "url": "https://www.skysports.com/football/news/11095/13564841/france-4-6-england-bukayo-saka-reveals-he-is-fully-fit-and-wanted-to-play-more-at-the-world-cup-after-hat-trick-in-third-place-play-off"
   },
   {
-    "id": "N_RSS_33295",
+    "id": "N_RSS_3165",
     "type": "official",
-    "date": "2026-07-18",
-    "likes": 218,
+    "date": "2026-07-19",
+    "likes": 102,
     "title": {
-      "en": "England latest: Team returns home..."
+      "en": "Spain win World Cup after Ferran Torres breaks 10-man Argentina’s resistance"
     },
     "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
-  },
-  {
-    "id": "N_RSS_80144",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 164,
-    "title": {
-      "en": "Fifa to announce record $15bn World Cup revenue, smashing expectations"
-    },
-    "summary": {
-      "en": "Hospitality and secondary ticket market help fuel riseGianni Infantino will feel this shores up his positionFifa will announce record $15bn (£11.2bn) revenues from this summer’s World Cup,..."
+      "en": "It was the triumph of an idea, an identity. Of an unshakable and patient faith. And when it was over, Spain’s new generation having emulated the one from the 2010 World Cup, all of those legendary..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/fifa-record-15bn-world-cup-revenue"
+    "url": "https://www.theguardian.com/football/2026/jul/19/spain-win-world-cup-argentina-final-match-report"
   },
   {
-    "id": "N_RSS_19812",
+    "id": "N_RSS_76288",
     "type": "official",
-    "date": "2026-07-18",
-    "likes": 292,
+    "date": "2026-07-19",
+    "likes": 107,
     "title": {
-      "en": "America’s World Cup report card: some As for atmosphere, but F for affordability"
+      "en": "Donald Trump and Gianni Infantino booed before US president attempts to crash Spain celebrations"
     },
     "summary": {
-      "en": "How did the United States do in its second swing at hosting the men’s showpiece event? The stadiums were mostly received well. The accessibility, less soCome rain or smokescreen, Sunday will bring..."
+      "en": "US president watches Spain v Argentina matchMatch report: Spain beat Argentina in extra-timeDonald Trump and Gianni Infantino were booed as they took to the field for the presentation ceremony before..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/world-cup-report-card-united-states"
+    "url": "https://www.theguardian.com/football/2026/jul/19/donald-trump-world-cup-final"
   },
   {
-    "id": "N_RSS_54498",
+    "id": "N_RSS_63284",
     "type": "official",
-    "date": "2026-07-18",
-    "likes": 69,
+    "date": "2026-07-19",
+    "likes": 182,
     "title": {
-      "en": "Cold War Steve on … Don Quixote and Sancho Panza coming to save the World Cup"
+      "en": "Lionel Messi’s World Cup fairytale ends with pitiful Argentina as final villains | Pablo Iglesias Maurer"
     },
     "summary": {
-      "en": "The fifth in a special series of World Cup 2026-themed collages made for the Guardian by the celebrated satirist Continue reading..."
+      "en": "Game’s greatest player will not see his legacy sullied by defeat to Spain but his team’s display destroyed the gamePlaying on the grandest stage in sport for the last time, Lionel Messi seemed almost..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/picture/2026/jul/18/cold-war-steve-on-don-quixote-and-sancho-panza-coming-to-save-the-world-cup"
+    "url": "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains"
   },
   {
-    "id": "N_RSS_15140",
+    "id": "N_RSS_7373",
     "type": "official",
-    "date": "2026-07-18",
-    "likes": 268,
+    "date": "2026-07-19",
+    "likes": 243,
     "title": {
-      "en": "Infantino’s Faustian bargain with Trump has stained football’s biggest stage"
+      "en": "At the World Cup of superstars, a team take home the trophy | Sid Lowe"
     },
     "summary": {
-      "en": "The Fifa president sought influence with the US leader. Instead, Fifa’s president has entangled football in politics and wounded the game’s credibilityEver since the United States won the rights to..."
+      "en": "The European champions conceded just one goal in the tournament and Spain’s success is a victory for a systemRelease the pressure, let it out. All of it and all of them. Again and again they had..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment"
-  },
-  {
-    "id": "N_RSS_98355",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 101,
-    "title": {
-      "en": "‘Where did they go?’: homeless people feel force of America’s brutality in World Cup clean-up"
-    },
-    "summary": {
-      "en": "Fifa says football brings the world together but the unhoused in Atlanta feel targeted and completely excluded from the tournament“A lot of our community has been pushed out by the World Cup. We’re..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/where-did-they-go-homeless-people-feel-force-of-americas-brutality-in-world-cup-clean-up"
-  },
-  {
-    "id": "N_RSS_92559",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 261,
-    "title": {
-      "en": "Hart, Rooney and Richards on rowing the Hudson and if Tuchel should keep his job"
-    },
-    "summary": {
-      "en": "Pundits set out on the New York river to fulfil forfeit after Wayne’s errant prediction about Norway at the World Cup The BBC punditry trio Wayne Rooney, Micah Richards and Joe Hart are fresh off a..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/joe-hart-wayne-rooney-micah-richards-rowing-hudson-river-world-cup"
-  },
-  {
-    "id": "N_RSS_82435",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 215,
-    "title": {
-      "en": "Spain’s Mikel Merino: ‘The focus is on being a good human first, then a good footballer’"
-    },
-    "summary": {
-      "en": "The Arsenal midfielder talks about how Luis de la Fuente has created a team built on respect and how they plan to beat Argentina in the World Cup finalThe night before the biggest day of their lives,..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/spain-mikel-merino-good-human-footballer-interview-world-cup"
-  },
-  {
-    "id": "N_RSS_18444",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 74,
-    "title": {
-      "en": "Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew"
-    },
-    "summary": {
-      "en": "England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the jobHow we talked. On late-night news shows, disembodied heads above a rolling..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
-  },
-  {
-    "id": "N_RSS_86444",
-    "type": "official",
-    "date": "2026-07-17",
-    "likes": 152,
-    "title": {
-      "en": "Pele at the Azteca? England in '66? Ranking the best World Cup finals"
-    },
-    "summary": {
-      "en": "Pele and Brazil at the Azteca in 1970? Lionel Messi's first World Cup? England winning it on home soil in 1966? BBC Sport attempts to rank the best finals."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cgjx946py51o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.theguardian.com/football/2026/jul/20/world-cup-2026-final-spain-argentina"
   }
 ]
