@@ -1,452 +1,451 @@
 [
   {
-    "id": "N_RSS_9369",
+    "id": "N_RSS_13434",
+    "type": "official",
+    "date": "2026-07-21",
+    "likes": 275,
+    "title": {
+      "en": "Old Firm disorder report damning - how will authorities respond?",
+      "zh-CN": "Old Firm紊乱报告诅咒-当局将如何应对？"
+    },
+    "summary": {
+      "en": "It took four months to land but, when it did, the independent review of crowd disorder at the Old Firm Scottish Cup quarter-final at Ibrox in March arrived with a mighty thud, writes Tom English.",
+      "zh-CN": "Tom English写道，降落花了四个月的时间，但当它降落时， 3月份在Ibrox举行的Old Firm苏格兰杯四分之一决赛中对人群混乱的独立审查带来了巨大的打击。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6293wx6g43o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_77426",
+    "type": "official",
+    "date": "2026-07-21",
+    "likes": 77,
+    "title": {
+      "en": "Chelsea interested in former Man City defender Stones",
+      "zh-CN": "切尔西对前曼城后卫石感兴趣"
+    },
+    "summary": {
+      "en": "Chelsea are interested in signing England defender John Stones on a free transfer following his departure from Manchester City.",
+      "zh-CN": "切尔西有兴趣在离开曼城后签下英格兰后卫约翰·斯通斯，并获得免费转会。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cg4dze3ellko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_83610",
+    "type": "official",
+    "date": "2026-07-21",
+    "likes": 264,
+    "title": {
+      "en": "Fake kits worth £18m seized by police during World Cup",
+      "zh-CN": "在世界杯期间，警方查获了价值£ 1800万的假冒工具包"
+    },
+    "summary": {
+      "en": "Counterfeit football shirts worth over £18m were seized in the UK during the course of the World Cup because of safety concerns, with the Fire Service warning the outfits can be a danger to those who...",
+      "zh-CN": "出于安全考虑，价值超过1800万英镑的假冒足球衫在世界杯期间在英国被查获，消防局警告说，这些服装可能对那些..."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c0rdgrkx552o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_58838",
+    "type": "official",
+    "date": "2026-07-21",
+    "likes": 120,
+    "title": {
+      "en": "Why England teenager Parkinson has a mindset coach",
+      "zh-CN": "为什么英格兰青少年帕金森有心态导师"
+    },
+    "summary": {
+      "en": "Why England teenager Erica Meg Parkinson has a mindset coach who has worked with the All Blacks and ex-England cricketer Ashley Giles.",
+      "zh-CN": "为什么英格兰少年艾丽卡·梅格·帕金森（ Erica Meg Parkinson ）有一位心态教练，他曾与全黑队和前英格兰板球运动员阿什利·贾尔斯（ Ashley Giles"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c775dvm2gn0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_63207",
+    "type": "official",
+    "date": "2026-07-21",
+    "likes": 190,
+    "title": {
+      "en": "Man Utd and Arsenal fight over Kone - Tuesday's gossip",
+      "zh-CN": "曼联和阿森纳为通力而战-周二的八卦"
+    },
+    "summary": {
+      "en": "Manchester United and Arsenal fight over France's Manu Kone, Nico Williams could be heading to the Premier League champions, and West Ham reject latest Crysencio Summerville offer.",
+      "zh-CN": "曼联和阿森纳为法国的马努·科内而战，尼科·威廉姆斯可能会晋级英超冠军，而西汉姆联则拒绝了最新的克里森西奥·萨默维尔的报价。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c934q4722zyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_74132",
+    "type": "official",
+    "date": "2026-07-21",
+    "likes": 133,
+    "title": {
+      "en": "Australia striker McNamara joins Everton",
+      "zh-CN": "澳大利亚前锋麦克纳马拉加盟埃弗顿"
+    },
+    "summary": {
+      "en": "Everton sign Australia striker Holly McNamara on a free transfer from Melbourne City.",
+      "zh-CN": "埃弗顿签下了澳大利亚前锋霍莉·麦克纳马拉（ Holly McNamara ） ，从墨尔本市免费转会。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c89nxdpyl2eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_80141",
     "type": "official",
     "date": "2026-07-21",
     "likes": 200,
     "title": {
-      "en": "Infantino's 'time is up' with Fifa - La Liga boss",
-      "zh-CN": "Infantino与国际足联的“时间到了” -西甲老板"
+      "en": "All you need to know about Wafcon 2026",
+      "zh-CN": "关于Wafcon 2026 ，您需要了解的所有信息"
     },
     "summary": {
-      "en": "La Liga president Javier Tebas calls for Fifa president Gianni Infantino to quit, and claims the governing body is \"destroying the football industry\".",
-      "zh-CN": "西甲主席哈维尔·特巴斯（ Javier Tebas ）呼吁国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）辞职，并声称管理机构正在“摧毁足球产业”。"
+      "en": "Find out the favourites, format and kick-off times for the delayed 2026 Women's Africa Cup of Nations in Morocco, which starts on 26 July.",
+      "zh-CN": "了解推迟至7月26日在摩洛哥举行的2026年非洲女子国家杯的最爱、赛制和开赛时间。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqjxzy44l0vo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c89kd259jvyo?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_2604",
+    "id": "N_RSS_40174",
     "type": "official",
     "date": "2026-07-21",
-    "likes": 261,
-    "title": {
-      "en": "Fernandez defends Argentina as Messi questions remain",
-      "zh-CN": "费尔南德斯为阿根廷辩护，因为梅西的问题仍然存在"
-    },
-    "summary": {
-      "en": "Midfielder Enzo Fernandez claims Argentina represented their nation \"in the best possible way\" in the World Cup.",
-      "zh-CN": "中场球员恩佐·费尔南德斯（ Enzo Fernandez ）声称，阿根廷在世界杯上“以最好的方式”代表了他们的国家。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c8jn91e9mdyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_62927",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 53,
-    "title": {
-      "en": "Keeper Martinez may 'step aside' from Argentina",
-      "zh-CN": "守门员马丁内斯可能会从阿根廷“退场”"
-    },
-    "summary": {
-      "en": "Argentina goalkeeper Emi Martinez says he is considering whether it is \"time to step aside\" from international football after his side's 1-0 defeat to Spain in the World Cup final.",
-      "zh-CN": "阿根廷门将埃米·马丁内斯（ Emi Martinez ）表示，在他的球队在世界杯决赛中以1比0击败西班牙后，他正在考虑是否“是时候离开”国际足球了。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c62xzle86n4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_39050",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 97,
-    "title": {
-      "en": "The defining moments of the 2026 World Cup",
-      "zh-CN": "2026年世界杯的决定性时刻"
-    },
-    "summary": {
-      "en": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 Fifa World Cup.",
-      "zh-CN": "从历史性的世界杯首次亮相和情感上的第一场胜利，到新星和传奇的辉煌-重温2026年世界杯的决定性时刻。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_23653",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 77,
-    "title": {
-      "en": "Bournemouth midfielder Scott rejects new contract",
-      "zh-CN": "伯恩茅斯中场斯科特拒绝新合同"
-    },
-    "summary": {
-      "en": "Bournemouth midfielder Alex Scott rejects a new contract amid growing Premier League interest in the England Under-21 international.",
-      "zh-CN": "伯恩茅斯中场球员亚历克斯·斯科特拒绝了一份新合同，因为英超对英格兰21岁以下国家队的兴趣越来越大。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c0rdn1p2z45o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_48196",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 79,
-    "title": {
-      "en": "Ipswich complete £20m deal for Ghana winger Fatawu",
-      "zh-CN": "Ipswich完成与加纳边锋Fatawu的£ 2000万交易"
-    },
-    "summary": {
-      "en": "Ipswich Town complete the £20m signing of Abdul Fatawu, who played in all four of Ghana's games at the World Cup.",
-      "zh-CN": "Ipswich Town完成了Abdul Fatawu的2000万英镑签约， Abdul Fatawu参加了加纳在世界杯上的所有四场比赛。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cr49r3w9734o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_12894",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 284,
-    "title": {
-      "en": "Why World Cup can be game-changer for ambitious MLS",
-      "zh-CN": "为什么世界杯可以改变雄心勃勃的MLS的游戏规则"
-    },
-    "summary": {
-      "en": "Can the success of the 2026 World Cup help MLS become one of the world's elite leagues?",
-      "zh-CN": "2026年世界杯的成功能否帮助MLS成为世界精英联赛之一？"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1418rm5p10o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_77270",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 154,
-    "title": {
-      "en": "More than the Score",
-      "zh-CN": "超过分数"
-    },
-    "summary": {
-      "en": "Erling Haaland didn't lift the World Cup - but he's won millions of new fans in the US",
-      "zh-CN": "Erling Haaland没有举起世界杯-但他在美国赢得了数百万新球迷"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/w3ct9bcy?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_80312",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 185,
-    "title": {
-      "en": "Football Daily",
-      "zh-CN": "足球日报"
-    },
-    "summary": {
-      "en": "Spain succeed, Argentina played the villains and is the pressure off Thomas Tuchel?",
-      "zh-CN": "西班牙成功了，阿根廷扮演了恶棍，托马斯·图切尔的压力减轻了吗？"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0nzxcxt?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_80950",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 92,
-    "title": {
-      "en": "Ipswich open talks for Celtic star Maeda - gossip",
-      "zh-CN": "凯尔特明星前田的伊普斯维奇公开谈话-八卦"
-    },
-    "summary": {
-      "en": "Newly-promoted Premier League side keen on Celtic forward, with Scottish champions lining up Egypt winger as a possible replacement.",
-      "zh-CN": "新晋的英超球队热衷于凯尔特人前锋，苏格兰冠军排队埃及边锋作为可能的替代者。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clyq2w24veko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_50942",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 79,
-    "title": {
-      "en": "Tottenham sign France defender Sombath from Lyon",
-      "zh-CN": "来自里昂的托特纳姆标志法国后卫Sombath"
-    },
-    "summary": {
-      "en": "Tottenham have signed France international Alice Sombath for a club record fee from Lyon.",
-      "zh-CN": "托特纳姆热刺签下了法国国脚爱丽丝·索姆巴特（ Alice Sombath ） ，并从里昂获得了俱乐部"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cj03r94g62eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_36243",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 202,
-    "title": {
-      "en": "The 58 transfers to watch now the World Cup is over",
-      "zh-CN": "现在观看世界杯的58次转会已经结束"
-    },
-    "summary": {
-      "en": "The World Cup is over but there are still more than six weeks to go in the transfer window. Here are 58 players to keep an eye on for the rest of the summer.",
-      "zh-CN": "世界杯已经结束，但转会窗口还有六个多星期的时间。以下是夏季剩余时间需要关注的58名玩家。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13565342/transfer-news-the-players-who-could-move-before-deadline-day-now-the-world-cup-is-over"
-  },
-  {
-    "id": "N_RSS_14329",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 64,
-    "title": {
-      "en": "Arsenal most impacted? The clubs hit hardest by World Cup",
-      "zh-CN": "阿森纳受影响最大？受世界杯冲击最大的俱乐部"
-    },
-    "summary": {
-      "en": "The World Cup is over but could Premier League clubs feel the effects of the tournament as they prepare for the new season?",
-      "zh-CN": "世界杯已经结束，但英超俱乐部在为新赛季做准备时能否感受到比赛的影响？"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13565569/arsenal-aston-villa-and-man-utd-among-premier-league-clubs-most-impacted-by-injuries-and-possible-world-cup-fatigue"
-  },
-  {
-    "id": "N_RSS_79099",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 128,
-    "title": {
-      "en": "Football Daily | Here are 48 reasons to cherish the World Cup (minus the Geopolitics)",
-      "zh-CN": "足球日报|以下是珍惜世界杯的48个理由（减去地缘政治）"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!The Geopolitics World Cup is already fading from view, replaced by a thin July gruel of pre-season friendlies and transfer tales. But there’s still...",
-      "zh-CN": "立即注册！立即注册！立即注册？立即注册！地缘政治世界杯已经从视野中消失，取而代之的是7月份的淡淡季前友谊赛和转会故事。但是还有……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/21/football-daily-email-world-cup"
-  },
-  {
-    "id": "N_RSS_87262",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 272,
-    "title": {
-      "en": "‘Reclaim football’: Sepp Blatter joins La Liga chief in call for Gianni Infantino to resign",
-      "zh-CN": "“夺回足球” ：塞普·布拉特（ Sepp Blatter ）加入西甲联赛主席，呼吁詹尼·因凡蒂诺（ Gianni Infantino ）辞职"
-    },
-    "summary": {
-      "en": "Blatter joins attack on successor as head of world footballSpanish league boss Javier Tebas slams Fifa electionsThe Fifa president, Gianni Infantino, has come in for heavy criticism from his...",
-      "zh-CN": "布拉特作为世界足球联盟负责人哈维尔·特巴斯（ Javier Tebas ）抨击国际足联选举，加入了对继任者的攻击国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）受到了他的严厉批评......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/21/la-liga-chief-javier-tebas-claims-fifa-is-destroying-football-industry-and-calls-for-gianni-infantino-to-quit"
-  },
-  {
-    "id": "N_RSS_82167",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 77,
-    "title": {
-      "en": "In the US, the 2026 World Cup’s legacy will be an invitation to do it all again | Leander Schaerlaeckens"
-    },
-    "summary": {
-      "en": "Fifa’s gargantuan revenue influx from the tournament, with little left over for locals, will beget more exploitationYou do not, under any circumstance, have to hand it to Fifa.You do, however, have..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/21/world-cup-legacy-united-states-fifa"
-  },
-  {
-    "id": "N_RSS_19503",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 80,
-    "title": {
-      "en": "David Squires on … Spain winning the World Cup final in the shadow of Trump"
-    },
-    "summary": {
-      "en": "Our cartoonist looks back at the final game of the 2026 World Cup as Donald Trump watched Spain triumph againBuy this cartoon | Some of David’s favourite worksAnd his latest book, Chaos in the Box:..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
-  },
-  {
-    "id": "N_RSS_32154",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 213,
-    "title": {
-      "en": "Neuer to Neymar: 11 World Cup players who retired from international football"
-    },
-    "summary": {
-      "en": "Germany’s 2014 World Cup winning goalkeeper and a Brazilian icon are among those who have have called time after the 2026 tournamentFirst participated in the World Cup in 2010 before winning the..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/21/neuer-to-neymar-11-world-cup-players-who-retired-from-international-football"
-  },
-  {
-    "id": "N_RSS_24590",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 89,
-    "title": {
-      "en": "World Cup 2026 in 90 seconds: a photo animation with audio"
-    },
-    "summary": {
-      "en": "Picture editor Jonny Weeks has created a rapid audio-visual review of the tournament featuring key moments, colourful fans ... and the precious trophy. This video contains flashing images and an..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/video/2026/jul/21/world-cup-2026-in-90-seconds-a-photo-animation"
-  },
-  {
-    "id": "N_RSS_50967",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 289,
-    "title": {
-      "en": "Gaza celebrates World Cup victory of Spanish team they took into their hearts"
-    },
-    "summary": {
-      "en": "People gather at cafes and outdoor screenings to support team after Spain’s backing for Palestinian rights  The Spanish football team’s World Cup win has been celebrated in the streets of Gaza, where..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/21/gaza-celebrates-world-cup-victory-of-spanish-team-they-took-into-their-hearts"
-  },
-  {
-    "id": "N_RSS_73499",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 249,
-    "title": {
-      "en": "The big World Cup 2026 quiz"
-    },
-    "summary": {
-      "en": "Did you catch the little details as 48 teams played 104 matches in 16 cities across 39 days? Continue reading..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/21/the-big-world-cup-2026-quiz"
-  },
-  {
-    "id": "N_RSS_57382",
-    "type": "official",
-    "date": "2026-07-20",
-    "likes": 149,
-    "title": {
-      "en": "Keegan's double inspires Liverpool to 1974 FA Cup glory"
-    },
-    "summary": {
-      "en": "Kevin Keegan scores twice as Liverpool defeat Newcastle United 3-0 in the 1974 FA Cup final."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/crk5dnyklm0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_67870",
-    "type": "official",
-    "date": "2026-07-20",
-    "likes": 206,
-    "title": {
-      "en": "Watch the BBC's closing World Cup montage"
-    },
-    "summary": {
-      "en": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_56078",
-    "type": "official",
-    "date": "2026-07-20",
-    "likes": 165,
-    "title": {
-      "en": "Fifa opens investigation into Argentina post-final trouble - what happens next?"
-    },
-    "summary": {
-      "en": "Argentina will face an investigation into the ugly scenes at the end of the World Cup final, Fifa has confirmed."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_93695",
-    "type": "official",
-    "date": "2026-07-20",
-    "likes": 155,
-    "title": {
-      "en": "'The reaction is terrible' - World Cup final turns ugly at full-time"
-    },
-    "summary": {
-      "en": "The frustration of some Argentina players boils over at the end of the 2026 World Cup final, after the 2022 winners are beaten by Spain in extra time."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c5yrxql8wd3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_46285",
-    "type": "official",
-    "date": "2026-07-20",
     "likes": 122,
     "title": {
-      "en": "Mbappe wins race for the 2026 World Cup golden boot"
+      "en": "Japan goalkeeper Okuma signs for Aston Villa",
+      "zh-CN": "日本门将大隈为阿斯顿维拉签约"
     },
     "summary": {
-      "en": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland."
+      "en": "Aston Villa announce the signing of 21-year-old Japan goalkeeper Akane Okuma.",
+      "zh-CN": "阿斯顿维拉宣布签下21岁的日本守门员大隈茜（ Akane Okuma ）。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c3v0l1yk7xpo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx25wj22003o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_52767",
+    "id": "N_RSS_59191",
     "type": "official",
-    "date": "2026-07-20",
-    "likes": 163,
+    "date": "2026-07-21",
+    "likes": 242,
     "title": {
-      "en": "Talks confirmed for 64-team World Cup in 2030"
+      "en": "Premier League referee Taylor retires",
+      "zh-CN": "英超裁判泰勒退役"
+    },
+    "summary": {
+      "en": "Long-serving Premier League referee Anthony Taylor is standing down after 16 years in England's top flight at the conclusion of the World Cup.",
+      "zh-CN": "长期服务的英超联赛裁判安东尼·泰勒（ Anthony Taylor ）在世界杯结束时担任英格兰顶级联赛16年后辞职。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13565695/anthony-taylor-retires-premier-league-referee-steps-down-after-16-years-in-top-flight-following-world-cup"
+  },
+  {
+    "id": "N_RSS_42544",
+    "type": "official",
+    "date": "2026-07-21",
+    "likes": 231,
+    "title": {
+      "en": "Aston Villa latest: Martinez considering Argentina future",
+      "zh-CN": "阿斯顿维拉最新消息：马丁内斯考虑阿根廷的未来"
     },
     "summary": {
       "en": ""
     },
     "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13509050/world-cup-2026-news-and-live-updates-usa-canada-and-mexico-latest-including-trump-tickets-and-fans"
+    "url": "https://www.skysports.com/football/live-blog/11095/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
   },
   {
-    "id": "N_RSS_19620",
+    "id": "N_RSS_59133",
     "type": "official",
-    "date": "2026-07-20",
-    "likes": 182,
+    "date": "2026-07-21",
+    "likes": 88,
     "title": {
-      "en": "What would a 64-team World Cup look like - and could it work in 2030?"
+      "en": "Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia",
+      "zh-CN": "利物浦所有者正在洽谈将股份出售给QPR共同所有者Amit Bhatia"
     },
     "summary": {
-      "en": "This year's World Cup is finally over - and after 48 teams took part, it was a long, long tournament. But just as we bid to say goodbye to the 2026 edition, this competition may be getting even..."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13563086/world-cup-becoming-a-64-team-tournament-would-create-logistical-challenges-so-can-gianni-infantinos-idea-work"
-  },
-  {
-    "id": "N_RSS_3917",
-    "type": "official",
-    "date": "2026-07-20",
-    "likes": 264,
-    "title": {
-      "en": "Spain are world champions | World Cup Daily"
-    },
-    "summary": {
-      "en": "Max Rushden is joined by Barry Glendenning, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup. Continue reading..."
+      "en": "Bhatia backed by father-in-law Lakshmi MittalMinority stake deal values the club at £4.5bnLiverpool’s owner is in talks over selling a significant minority stake to a consortium led by the Queens...",
+      "zh-CN": "巴蒂亚得到了岳父拉克希米·米塔尔（ Lakshmi Mittal ）的支持少数股权交易，该俱乐部的价值为45亿英镑利物浦的所有者正在就将大量少数股权出售给皇后区领导的财团进行谈判..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/video/2026/jul/20/spain-are-world-champions-world-cup-daily"
+    "url": "https://www.theguardian.com/sport/2026/jul/21/liverpool-owners-fsg-in-talks-sell-stake-qpr-co-owner-amit-bhatia"
   },
   {
-    "id": "N_RSS_96924",
+    "id": "N_RSS_81457",
     "type": "official",
-    "date": "2026-07-20",
-    "likes": 288,
+    "date": "2026-07-21",
+    "likes": 67,
     "title": {
-      "en": "Ugly scenes as Argentina lose World Cup final – video"
+      "en": "‘The scrutiny is constant’: referee Anthony Taylor retires from football",
+      "zh-CN": "“审查是不断的” ：裁判安东尼·泰勒从足球场上退役"
     },
     "summary": {
-      "en": "There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat.Paredes was then sent off..."
+      "en": "The 47-year-old took charge of five World Cup matchesTaylor has refereed in the Premier League for 16 yearsAnthony Taylor has announced his retirement from elite refereeing after a distinguished...",
+      "zh-CN": "这位47岁的球员负责了五场世界杯比赛泰勒已经在英超联赛中担任了16年的裁判安东尼·泰勒（ Anthony Taylor ）在一次杰出的..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video"
+    "url": "https://www.theguardian.com/football/2026/jul/21/referee-anthony-taylor-retires-from-football-after-world-cup-appearance"
+  },
+  {
+    "id": "N_RSS_42557",
+    "type": "official",
+    "date": "2026-07-21",
+    "likes": 287,
+    "title": {
+      "en": "Spurs break their women’s transfer record to sign Alice Sombath from Lyonnes",
+      "zh-CN": "马刺队打破女子转会纪录，从里昂签下爱丽丝·宋巴特（ Alice Sombath"
+    },
+    "summary": {
+      "en": "France defender is club’s sixth signing of the summerCoach Ho says she is aggressive and good on the ballTottenham have signed the France defender Alice Sombath from Lyonnes for a club record fee....",
+      "zh-CN": "法国后卫是俱乐部第六次签约夏天何教练说她很有侵略性，在球上很好热刺已经从里昂以俱乐部纪录费签下了法国后卫爱丽丝·索姆巴特...."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/21/spurs-sign-alice-sombath-from-lyonnes-transfer-record"
+  },
+  {
+    "id": "N_RSS_38264",
+    "type": "official",
+    "date": "2026-07-21",
+    "likes": 259,
+    "title": {
+      "en": "Only four years to the next men’s World Cup – what can we expect from the 2030 edition?",
+      "zh-CN": "距离下一届男子世界杯只有四年时间--我们对2030年版有什么期待？"
+    },
+    "summary": {
+      "en": "If you thought the 2026 tournament was sprawling, think again with six host countries over three continents getting involved in four years’ timeIf the 2026 World Cup was the tournament’s largest...",
+      "zh-CN": "如果您认为2026年的锦标赛规模庞大，请再想一想，三大洲的六个主办国将在四年内参与其中如果2026年世界杯是锦标赛中规模最大的..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/21/men-world-cup-2030-what-to-expect"
+  },
+  {
+    "id": "N_RSS_60418",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 249,
+    "title": {
+      "en": "'I'm proud of it' - Keegan looks back on career highlights and legacy",
+      "zh-CN": "“我为此感到自豪” - Keegan回顾了职业生涯的亮点和遗产"
+    },
+    "summary": {
+      "en": "Kevin Keegan talks to Football Focus' Dan Walker in 2018 about some of the standout moments from his career - from winning World Player of the Year twice, to managing England and the iconic \"I would...",
+      "zh-CN": "凯文·基根（ Kevin Keegan ）在2018年与《足球焦点》（ Football Focus ）的丹·沃克（ Dan Walker ）谈论了他职业生涯中的一些杰出时刻--从两次赢得世界年度最佳球员，到管理英格兰，以及标志性的“我会…"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cgmkv3j3yv0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_91074",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 265,
+    "title": {
+      "en": "Argentina boss Scaloni leaves press conference in tears"
+    },
+    "summary": {
+      "en": "Argentina manager Lionel Scaloni leaves his post-match news conference in tears when talking about his future after Sunday's World Cup final defeat by Spain."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cvglel7g7v2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_57134",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 201,
+    "title": {
+      "en": "'A date with history and we got there first' - Spain react to World Cup win"
+    },
+    "summary": {
+      "en": "Spain manager Luis de la Fuente and his players react to winning their second World Cup title after beating Argentina 1-0 after extra time in the final."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c1k1n1g4m8po?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_50984",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 92,
+    "title": {
+      "en": "Ex-Villa striker Duran joins seventh club aged 22"
+    },
+    "summary": {
+      "en": "Former Aston Villa striker Jhon Duran joins Benfica on a season-long loan from Saudi Arabian side Al-Nassr."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c75gwl3n50qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_54651",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 68,
+    "title": {
+      "en": "Guardiola in reported talks with Italy - would England come calling?"
+    },
+    "summary": {
+      "en": "Former Manchester City manager Pep Guardiola, a fluent Italian speaker, is a contender for the vacant Italy head coach job."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c20dn5j0lj0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_87558",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 197,
+    "title": {
+      "en": "Best goal, best player, best fans - BBC reporters' World Cup awards"
+    },
+    "summary": {
+      "en": "BBC Sport reporters pick their best moments of the tournament - and you can vote for yours."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cdxd1pq4nrko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_51549",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 56,
+    "title": {
+      "en": "A big red speaker, Louis Vuitton trophy trunks and a tattoo bet – how Spain celebrated World Cup win"
+    },
+    "summary": {
+      "en": "Luis de la Fuente’s team was the best at the tournament by some margin but are not satisfied yet with focus now on ‘the next game in September’On the night that Spain won their first World Cup in..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/20/a-big-red-speaker-louis-vuitton-trophy-trunks-and-a-tattoo-bet-how-spain-celebrated-world-cup-win"
+  },
+  {
+    "id": "N_RSS_15184",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 94,
+    "title": {
+      "en": "João Gomes seals £38m Aston Villa move, Hall and Robinson on Manchester United list"
+    },
+    "summary": {
+      "en": "Brazil midfielder Gomes joins from Wolves United sign young winger Thompson from SpursThe Brazil international João Gomes has joined Aston Villa in a £38m deal. The 25-year-old midfielder, who has 10..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/20/joao-gomes-signs-aston-villa-lewis-hall-antonee-robinson-manchester-united-transfer-latest"
+  },
+  {
+    "id": "N_RSS_31038",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 75,
+    "title": {
+      "en": "Melvine Malard hungry for trophies after joining Chelsea from Manchester United"
+    },
+    "summary": {
+      "en": "United get club-record fee of about £850,000 for forwardMalard follows McCabe and Matsukubo into ChelseaChelsea have announced the signing of the France forward Melvine Malard from Manchester United..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/20/chelsea-sign-melvine-malard-manchester-united"
+  },
+  {
+    "id": "N_RSS_87109",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 121,
+    "title": {
+      "en": "Trump and Infantino booed at World Cup final – video"
+    },
+    "summary": {
+      "en": "Boos descended from the stands as Donald Trump and the Fifa president, Gianni Infantino, took to the field for the World Cup trophy ceremony at New York New Jersey ⁠stadium on Sunday. Spain beat..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/sport/video/2026/jul/20/trump-and-infantino-booed-at-world-cup-final-video"
+  },
+  {
+    "id": "N_RSS_65884",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 51,
+    "title": {
+      "en": "Football Daily | A desperate grab for attention. This is the way the World Cup ends"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Maybe Donald Trump was simply confused. He must have seen the ticker tape, a group of men cavorting around an American field clad in red and thought..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/20/this-is-the-way-the-world-cup-ends-football-daily-newsletter"
+  },
+  {
+    "id": "N_FIFA_35656",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 340,
+    "title": {
+      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale"
+    },
+    "summary": {
+      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/spain-unprecedented-global-double-new-milestones-historic-world-cup-2026"
+  },
+  {
+    "id": "N_RSS_87785",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 68,
+    "title": {
+      "en": "Dominant Spain beat Argentina to win World Cup after extra time"
+    },
+    "summary": {
+      "en": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_14372",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 71,
+    "title": {
+      "en": "Spain's Torres scores only goal of World Cup final"
+    },
+    "summary": {
+      "en": "Ferran Torres breaks the deadlock, scoring in extra time for Spain in the World Cup final against Argentina at the New York New Jersey Stadium."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cp30nd7vpn2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_50745",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 89,
+    "title": {
+      "en": "Stars shine at the World Cup final half-time show"
+    },
+    "summary": {
+      "en": "Madonna, BTS, Justin Bieber, and Shakira entertain the crowd at half-time in the World Cup final, with a special appearance from Ronaldo and Ronaldinho at the New York New Jersey Stadium."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cddj0m5pzglo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_70885",
+    "type": "official",
+    "date": "2026-07-19",
+    "likes": 165,
+    "title": {
+      "en": "England beat France in 10-goal thriller to win third-place play-off"
+    },
+    "summary": {
+      "en": "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss"
   }
 ]
