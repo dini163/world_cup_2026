@@ -1,451 +1,452 @@
 [
   {
-    "id": "N_RSS_10443",
+    "id": "N_RSS_39431",
     "type": "official",
     "date": "2026-07-23",
-    "likes": 255,
+    "likes": 254,
     "title": {
-      "en": "Rodri to undergo back surgery and may miss start of Premier League season",
-      "zh-CN": "罗德里将接受背部手术，并可能错过英超赛季的开始"
+      "en": "Anderson gets Man City move he craved as £116m deal done",
+      "zh-CN": "安德森完成了£ 1.16亿的交易，他渴望得到曼城的搬迁"
     },
     "summary": {
-      "en": "Manchester City's World Cup winner Rodri is to undergo minor surgery on his back, which means he may miss the start of the Premier League season.",
-      "zh-CN": "曼城世界杯冠军罗德里将接受背部小手术，这意味着他可能会错过英超赛季的开始。"
+      "en": "Manchester City confirm the arrival of Elliot Anderson on a five-year deal, as the England player is tipped to become a \"complete midfielder\" at his new club.",
+      "zh-CN": "曼城以五年的合同确认了埃利奥特·安德森的到来，因为这位英格兰球员有望成为他的新俱乐部的“完整中场球员”。"
     },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13566264/rodri-man-citys-world-cup-winner-to-undergo-back-surgery-and-may-miss-start-of-premier-league-season"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1j1gk23jj4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_13711",
+    "id": "N_RSS_60198",
     "type": "official",
     "date": "2026-07-23",
-    "likes": 260,
+    "likes": 102,
     "title": {
-      "en": "Chelsea latest: 'Blues favourites to sign World Cup star'",
-      "zh-CN": "切尔西最新消息： “蓝军最喜欢签下世界杯球星”"
+      "en": "Norway consider complaint over Balogun World Cup ban suspension",
+      "zh-CN": "挪威考虑对Balogun世界杯禁赛的申诉"
     },
     "summary": {
-      "en": ""
+      "en": "The Norwegian Football Federation is considering filing a formal complaint to Fifa's ethics committee.",
+      "zh-CN": "挪威足球联合会正在考虑向国际足联伦理委员会提出正式投诉。"
     },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1l1vz4n484o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_59107",
+    "id": "N_RSS_92503",
     "type": "official",
     "date": "2026-07-23",
+    "likes": 61,
+    "title": {
+      "en": "England U16 player fight was resolved quickly - FA",
+      "zh-CN": "英格兰U16球员战斗很快得到解决- FA"
+    },
+    "summary": {
+      "en": "The FA says a fight between two players at an England Under-16s camp was caused by an \"internal matter\".",
+      "zh-CN": "英足总表示，英格兰U-16阵营的两名球员之间的战斗是由“内部事务”引起的。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c9d85v9n1n5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_73993",
+    "type": "official",
+    "date": "2026-07-23",
+    "likes": 213,
+    "title": {
+      "en": "Rangers sign 'huge potential' in Partizan captain Dragojevic",
+      "zh-CN": "游骑兵在游击队队长德拉戈耶维奇身上签下“巨大潜力”"
+    },
+    "summary": {
+      "en": "Rangers sign 20-year-old Serbia midfielder Vanja Dragojevic from Partizan for an undisclosed fee.",
+      "zh-CN": "流浪者队从Partizan签下了20岁的塞尔维亚中场球员Vanja Dragojevic ，费用未公开。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c87ng75zlx4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_51430",
+    "type": "official",
+    "date": "2026-07-23",
+    "likes": 118,
+    "title": {
+      "en": "Ruiz & Gavi's reward for World Cup win... 150kg of tomatoes",
+      "zh-CN": "Ruiz和Gavi赢得世界杯的奖励... 150公斤西红柿"
+    },
+    "summary": {
+      "en": "Spain's Fabian Ruiz and Gavi receive their body weight in tomatoes when they return to their hometown Los Palacios y Villafranca.",
+      "zh-CN": "当西班牙的Fabian Ruiz和Gavi回到家乡Los Palacios y Villafranca时，他们的体重来自西红柿。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvg840jye74o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_32121",
+    "type": "official",
+    "date": "2026-07-23",
+    "likes": 120,
+    "title": {
+      "en": "Elliot Anderson lauds City as ‘kings of Manchester’ after £116m Forest transfer",
+      "zh-CN": "埃利奥特·安德森（ Elliot Anderson ）在£ 1.16亿的森林转移后称赞曼城为“曼彻斯特之王”"
+    },
+    "summary": {
+      "en": "‘They’re winners, relentless, a team I want to be part of’Midfielder hails De Bruyne as a childhood inspirationElliot Anderson has called Manchester City the “kings of Manchester” after completing...",
+      "zh-CN": "“他们是赢家，不屈不挠，一支我想成为其中一员的球队”中场球员称赞德布鲁因作为童年的灵感埃利奥特·安德森在完成比赛后称曼城为“曼彻斯特之王” ……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/23/elliot-anderson-manchester-city-116m-nottingham-forest-transfer-premier-league"
+  },
+  {
+    "id": "N_RSS_81538",
+    "type": "official",
+    "date": "2026-07-23",
+    "likes": 123,
+    "title": {
+      "en": "‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool",
+      "zh-CN": "“不要成为主角” ： Andoni Iraola讲述西班牙成功的秘诀以及他在利物浦的角色"
+    },
+    "summary": {
+      "en": "Liverpool’s new head coach is settling into the pre-season tour in Chicago as he begins to reshape the Reds’ identityOver coffee in Liverpool’s plush hotel in Chicago, Andoni Iraola presents his...",
+      "zh-CN": "利物浦的新主教练正在芝加哥参加季前巡回赛，他开始重塑红军的身份在利物浦位于芝加哥的豪华酒店里喝咖啡， Andoni Iraola展示了他的..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/23/andoni-iraola-liverpool-interview-spain"
+  },
+  {
+    "id": "N_RSS_9389",
+    "type": "official",
+    "date": "2026-07-23",
+    "likes": 215,
+    "title": {
+      "en": "Police call on English football clubs to ease security burden on taxpayers",
+      "zh-CN": "警方呼吁英国足球俱乐部减轻纳税人的安全负担"
+    },
+    "summary": {
+      "en": "Home Office reveals police incidents for 2025-26 seasonFour arrests for every 100,000 people attending gamesThe number of football matches in England and Wales featuring incidents reported to police...",
+      "zh-CN": "内政部披露了2025-26赛季的警方事件每10万人参加比赛就有4人被捕英格兰和威尔士向警方报告的足球比赛数量..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/23/arrests-football-matches-police-home-office"
+  },
+  {
+    "id": "N_RSS_74156",
+    "type": "official",
+    "date": "2026-07-23",
+    "likes": 264,
+    "title": {
+      "en": "‘Everyone is hooked on football’: Indian league seeks to ride World Cup wave",
+      "zh-CN": "“每个人都沉迷于足球” ：印度联赛试图驾驭世界杯浪潮"
+    },
+    "summary": {
+      "en": "Club chiefs hope that a revitalised setup can help huge interest in this summer’s tournament translate into growth of the Indian domestic gameIndia was not at the World Cup, but the tournament drew...",
+      "zh-CN": "俱乐部负责人希望复兴的设置可以帮助对今年夏天比赛的巨大兴趣转化为印度国内比赛的增长印度没有参加世界杯，但比赛吸引了......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/23/everyone-is-hooked-on-football-indian-league-seeks-to-ride-world-cup-wave"
+  },
+  {
+    "id": "N_RSS_61347",
+    "type": "official",
+    "date": "2026-07-23",
+    "likes": 289,
+    "title": {
+      "en": "Transfer roundup: Barcelona sign Adeyemi, Monaco’s Bamba set for Newcastle",
+      "zh-CN": "转会综述：巴塞罗那标志Adeyemi ，摩纳哥为纽卡斯尔准备的班巴舞"
+    },
+    "summary": {
+      "en": "Karim Adeyemi moves from Dortmund in £19m dealNewcastle close on £34m Aladji Bamba from MonacoBarcelona have signed German winger Karim Adeyemi from Borussia Dortmund ⁠on a deal until 2031 while...",
+      "zh-CN": "卡里姆·阿德耶米（ Karim Adeyemi ）以£ 1900万的交易离开多特蒙德纽卡斯尔以£ 3400万收盘来自摩纳哥巴塞罗那的阿拉吉·班巴（ Aladji Bamba ）与德国边锋卡里姆·阿德耶米（ Karim Adeyemi ）从多特蒙德（ Borussia Dortmund ）签约，直到2031年，同时..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/23/transfer-roundup-barcelona-sign-karim-adeyemi-newcastle-aladji-bamba-monaco"
+  },
+  {
+    "id": "N_RSS_40261",
+    "type": "official",
+    "date": "2026-07-23",
+    "likes": 145,
+    "title": {
+      "en": "How LNZ Cherkasy become a wartime success story with few modern parallels",
+      "zh-CN": "LNZ Cherkasy如何成为一个几乎没有现代相似之处的战时成功故事"
+    },
+    "summary": {
+      "en": "Ukrainian club were in fourth tier in 2021 but, despite war with Russia, will contest European qualifiers for first timeIt is time for set-piece training at LNZ Cherkasy’s smart, shiny training...",
+      "zh-CN": "乌克兰俱乐部在2021年排在第四位，但尽管与俄罗斯发生了战争，但仍将首次参加欧洲资格赛。现在是时候在LNZ Cherkasy的聪明而闪亮的训练中进行定位训练了……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/23/lnz-cherkasy-have-become-a-force-in-ukrainian-football"
+  },
+  {
+    "id": "N_RSS_81041",
+    "type": "official",
+    "date": "2026-07-22",
+    "likes": 186,
+    "title": {
+      "en": "Inter Miami under investigation after signing Casemiro",
+      "zh-CN": "在签署Casemiro后，国际迈阿密正在接受调查"
+    },
+    "summary": {
+      "en": "Major League Soccer says it is investigating allegations of tampering by Inter Miami after the club signed Brazil midfielder Casemiro.",
+      "zh-CN": "美国职业足球大联盟表示，在俱乐部签下巴西中场球员卡塞米罗后，它正在调查国际迈阿密篡改的指控。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c3304ex7n7xo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_40598",
+    "type": "official",
+    "date": "2026-07-22",
+    "likes": 249,
+    "title": {
+      "en": "Arsenal sign Spain goalkeeper Rodriguez on free",
+      "zh-CN": "阿森纳免费签下西班牙守门员罗德里格斯"
+    },
+    "summary": {
+      "en": "Arsenal bring in Spain goalkeeper Misa Rodriguez on a free transfer - the Women's Super League side's sixth signing of the summer.",
+      "zh-CN": "阿森纳免费转会西班牙守门员米萨·罗德里格斯，这是女子超级联赛今年夏天第六次签约。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cz7dq8wrzwjo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_78368",
+    "type": "official",
+    "date": "2026-07-22",
+    "likes": 118,
+    "title": {
+      "en": "A host of issues: World Cup focus turns to Morocco with costs and legacy topping agenda",
+      "zh-CN": "一系列问题：世界杯焦点转向摩洛哥，成本和遗产排在首位"
+    },
+    "summary": {
+      "en": "With just over 1,400 days to go until 2030 kicks off, the co-hosts are facing a series of challenges familiar to their South African predecessorsMorocco’s World Cup adventure came to a halt with...",
+      "zh-CN": "距离2030年开幕还有1400多天的时间，两位合作达人面临着南非前辈们所熟悉的一系列挑战。摩洛哥的世界杯之旅因……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/22/host-morocco-2030-world-cup-costs-infrastructure-legacy"
+  },
+  {
+    "id": "N_RSS_70272",
+    "type": "official",
+    "date": "2026-07-22",
+    "likes": 69,
+    "title": {
+      "en": "World Cup 2026 awards: the Guardian team give their final tournament verdicts",
+      "zh-CN": "2026年世界杯奖项：卫报团队做出最终比赛裁决"
+    },
+    "summary": {
+      "en": "The best games, goals and personal highlights – from a magical Azteca to Erling Haaland breaking AmericaParaguay 1-1 Germany. There were plenty more games with more goals but none could match the...",
+      "zh-CN": "最好的比赛，进球和个人亮点–从神奇的阿兹特克到Erling Haaland打破美国巴拉圭1-1德国。有更多的比赛有更多的进球，但没有一场比赛能与……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/22/world-cup-awards-guardian-team-2026-tournament-verdicts"
+  },
+  {
+    "id": "N_RSS_57482",
+    "type": "official",
+    "date": "2026-07-22",
     "likes": 226,
     "title": {
-      "en": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
-      "zh-CN": "挪威考虑对特朗普在世界杯红牌传奇中的角色提出国际足联道德投诉"
+      "en": "New faces, gulfs in class and flawed drama: how 48 teams changed the World Cup"
     },
     "summary": {
-      "en": "Norwegian federation president: Fifa on a ‘slippery slope’Trump called Infantino for review of Balogun’s redDonald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at the World...",
-      "zh-CN": "挪威联邦总统：国际足联在一个名为Infantino的“滑坡”特朗普上审查了Balogun的红色唐纳德特朗普在清除Folarin Balogun在世界上的强制性一场比赛禁令方面的作用..."
+      "en": "The first 48-team World Cup had its positives and negatives – do we need to brace for a 64-team future?It was less than 12 months after Gianni Infantino succeeded Sepp Blatter as president that Fifa..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
+    "url": "https://www.theguardian.com/football/2026/jul/22/how-48-teams-changed-the-world-cup"
   },
   {
-    "id": "N_RSS_33676",
-    "type": "official",
-    "date": "2026-07-23",
-    "likes": 100,
-    "title": {
-      "en": "Maldini confirms crisis-hit Italy have held talks with Guardiola and Ancelotti",
-      "zh-CN": "马尔迪尼证实，受危机影响的意大利已与瓜迪奥拉和安切洛蒂举行会谈"
-    },
-    "summary": {
-      "en": "Italy have failed to qualify for last three World CupsGuardiola is out of work while Ancelotti is still with BrazilThe Italian football federation (FIGC) has talked to Pep Guardiola, the former...",
-      "zh-CN": "意大利未能获得过去三届世界杯的资格瓜迪奥拉没有工作，而安切洛蒂仍然在巴西。意大利足球联合会（ FIGC ）已经与瓜迪奥拉进行了交谈，前者......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/23/paolo-maldini-italy-pep-guardiola-carlo-ancelotti-world-cup-new-manager"
-  },
-  {
-    "id": "N_RSS_81636",
-    "type": "official",
-    "date": "2026-07-23",
-    "likes": 107,
-    "title": {
-      "en": "Don’t like the result? Don’t worry, sport no longer ends on the field of play | Jonathan Liew",
-      "zh-CN": "不喜欢这个结果？别担心，运动不再在比赛场上结束| Jonathan Liew"
-    },
-    "summary": {
-      "en": "From the wrong headset in an F2 garage to Fifa overturning a red card, we are in a landscape where fairness is the enemyA funny and very small thing happened at the Formula Two race at Spa on Sunday....",
-      "zh-CN": "从F2车库中的错误耳机到国际足联推翻红牌，我们处在一个公平是敌人的景观中周日在水疗中心举行的二级方程式比赛中发生了有趣而非常小的事情...."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/sport/2026/jul/23/sport-fairness-fifa-world-cup-2026-fia-motor-sport-golf-open-championship"
-  },
-  {
-    "id": "N_RSS_624",
-    "type": "official",
-    "date": "2026-07-23",
-    "likes": 112,
-    "title": {
-      "en": "Blow for Manchester City with Rodri out for extended period due to back injury",
-      "zh-CN": "为曼城而战，罗德里因背部受伤而长时间出局"
-    },
-    "summary": {
-      "en": "Spain’s World Cup-winning captain may require surgeryLeeds in advanced talks with City to sign James TraffordRodri could face an extended period of time out with a back injury, which may require...",
-      "zh-CN": "西班牙世界杯冠军队长可能需要手术利兹在与曼城的高级谈判中签下詹姆斯·特拉福德-罗德里（ James TraffordRodri ）可能会因背部受伤而面临很长一段时间，这可能需要..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/23/blow-for-manchester-city-with-rodri-out-for-extended-period-due-to-back-injury"
-  },
-  {
-    "id": "N_RSS_79435",
+    "id": "N_RSS_67410",
     "type": "official",
     "date": "2026-07-22",
-    "likes": 175,
-    "title": {
-      "en": "Saliba to miss extended period with back injury",
-      "zh-CN": "Saliba因背部受伤而错过较长时间"
-    },
-    "summary": {
-      "en": "Arsenal confirm defender William Saliba is set to miss an \"extended period\" after suffering a back injury while at the World Cup with France.",
-      "zh-CN": "阿森纳确认，后卫威廉·萨利巴（ William Saliba ）在与法国队的世界杯上背部受伤后，将错过一段“长时间”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5yveezg9q3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_67422",
-    "type": "official",
-    "date": "2026-07-22",
-    "likes": 142,
-    "title": {
-      "en": "Paredes should not be suspended - Spain's Gavi",
-      "zh-CN": "Paredes不应该被停职-西班牙的Gavi"
-    },
-    "summary": {
-      "en": "Spain midfielder Gavi does not think Argentina's Leandro Paredes should be suspended for his part in the fracas after the World Cup final.",
-      "zh-CN": "西班牙中场加维认为，在世界杯决赛后，阿根廷的莱安德罗·帕雷德斯不应该因为他在争吵中的角色而被停赛。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c24m7prpq29o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_61938",
-    "type": "official",
-    "date": "2026-07-22",
-    "likes": 82,
-    "title": {
-      "en": "Wrexham win on Women's Champions League debut",
-      "zh-CN": "Wrexham赢得女子冠军联赛首秀"
-    },
-    "summary": {
-      "en": "Wrexham Women celebrate their Champions League debut with a thrilling 4-2 victory against FC Pyunik in the first qualifying round semi-final at the Racecourse.",
-      "zh-CN": "Wrexham Women在赛马场的第一轮资格赛半决赛中以惊心动魄的4-2战胜FC Pyunik ，庆祝他们的冠军联赛首次亮相。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/articles/c5yveexxz5do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_96298",
-    "type": "official",
-    "date": "2026-07-22",
-    "likes": 162,
-    "title": {
-      "en": "Evolution not revolution for Arsenal as transfer window starts slowly",
-      "zh-CN": "阿森纳的进化而不是革命，因为转会窗口开始缓慢"
-    },
-    "summary": {
-      "en": "Mikel Arteta called for Arsenal to be \"very ambitious, very fast and very smart\" in the transfer market in the wake of their Champions League final loss to Paris Saint-Germain in May.",
-      "zh-CN": "在5月份冠军联赛决赛输给巴黎圣日耳曼之后，米克尔·阿尔特塔呼吁阿森纳在转会市场上“非常雄心勃勃，非常快，非常聪明”。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13566029/arsenals-transfer-plans-analysed-gunners-miss-out-on-morgan-rogers-in-summer-of-evolution-not-revolution"
-  },
-  {
-    "id": "N_RSS_76654",
-    "type": "official",
-    "date": "2026-07-22",
-    "likes": 240,
-    "title": {
-      "en": "A tournament that crossed borders: crunching the numbers on the diaspora World Cup",
-      "zh-CN": "跨越国界的锦标赛：处理侨民世界杯的数字"
-    },
-    "summary": {
-      "en": "Nationality in football is increasingly complex and the influence of players from the diaspora has never been higher at a World Cup“Nationality says where you come from. And I actually come from four...",
-      "zh-CN": "足球的国籍越来越复杂，在世界杯上，散居国外的球员的影响力从未如此之高， “国籍决定了你来自哪里。实际上，我来自四个……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/22/a-tournament-that-crossed-borders-crunching-the-numbers-on-the-diaspora-world-cup"
-  },
-  {
-    "id": "N_RSS_38358",
-    "type": "official",
-    "date": "2026-07-22",
-    "likes": 185,
-    "title": {
-      "en": "Trossard, Ramos, Dumfries: 10 transfers you may have missed during the World Cup",
-      "zh-CN": "特罗萨尔、拉莫斯、邓弗里斯：你可能在世界杯期间错过的10次转会"
-    },
-    "summary": {
-      "en": "Too engrossed with the World Cup drama to keep up with goings-on in the transfer market? We’ve got you coveredAnnounced just before England’s soul-sucking semi-final defeat by Argentina, it would...",
-      "zh-CN": "太专注于世界杯戏剧，无法跟上转会市场的步伐？我们已经为您提供了掩护在英格兰队被阿根廷队吮吸灵魂的半决赛失利之前宣布，它将..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/22/trossard-ramos-dumfries-10-transfers-you-may-have-missed-during-the-world-cup"
-  },
-  {
-    "id": "N_RSS_94148",
-    "type": "official",
-    "date": "2026-07-22",
-    "likes": 100,
-    "title": {
-      "en": "England cannot afford trip to amputee World Cup – and the FA will not help",
-      "zh-CN": "英格兰承受不起截肢者世界杯之旅–英足总也无能为力"
-    },
-    "summary": {
-      "en": "With no national funding, England’s successful men’s amputee side is struggling to raise the £50,000 needed for November’s tournament in MexicoEvery time Scott Rogers walks into St George’s Park...",
-      "zh-CN": "在没有国家资金的情况下，英格兰成功的男子截肢者队伍正在努力筹集11月墨西哥锦标赛所需的£ 50,000每次斯科特罗杰斯走进圣乔治公园......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/22/england-cannot-afford-trip-to-amputee-world-cup-and-the-fa-will-not-help"
-  },
-  {
-    "id": "N_RSS_75513",
-    "type": "official",
-    "date": "2026-07-21",
-    "likes": 53,
-    "title": {
-      "en": "Why England teenager Parkinson has a mindset coach",
-      "zh-CN": "为什么英格兰青少年帕金森有心态导师"
-    },
-    "summary": {
-      "en": "Why England teenager Erica Meg Parkinson has a mindset coach who has worked with the All Blacks and ex-England cricketer Ashley Giles.",
-      "zh-CN": "为什么英格兰少年艾丽卡·梅格·帕金森（ Erica Meg Parkinson ）有一位心态教练，他曾与全黑队和前英格兰板球运动员阿什利·贾尔斯（ Ashley Giles"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c775dvm2gn0o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_17700",
-    "type": "official",
-    "date": "2026-07-21",
     "likes": 55,
     "title": {
-      "en": "Australia striker McNamara joins Everton",
-      "zh-CN": "澳大利亚前锋麦克纳马拉加盟埃弗顿"
+      "en": "Arsenal reveal William Saliba out for ‘extended period’ with back injury"
     },
     "summary": {
-      "en": "Everton sign Australia striker Holly McNamara on a free transfer from Melbourne City.",
-      "zh-CN": "埃弗顿签下了澳大利亚前锋霍莉·麦克纳马拉（ Holly McNamara ） ，从墨尔本市免费转会。"
+      "en": "Centre-back forced off in World Cup semi-finalArsenal say problem does not require surgeryArsenal, the Premier League champions, have been dealt a big injury blow after the centre-back William Saliba..."
     },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c89nxdpyl2eo?at_medium=RSS&at_campaign=rss"
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/22/arsenal-william-saliba-back-injury-france-world-cup"
   },
   {
-    "id": "N_RSS_25542",
+    "id": "N_RSS_95826",
+    "type": "official",
+    "date": "2026-07-22",
+    "likes": 203,
+    "title": {
+      "en": "Amazon founder Jeff Bezos in talks to join consortium seeking 30% stake in Liverpool"
+    },
+    "summary": {
+      "en": "Billionaire keen to be part of Amit ­Bhatia’s £1.35bn bidBezos has previously explored buying NFL franchisesThe Amazon founder Jeff Bezos has held talks about joining the consortium that is seeking..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/22/amazon-founder-jeff-bezos-consortium-stake-liverpool-football"
+  },
+  {
+    "id": "N_RSS_44657",
+    "type": "official",
+    "date": "2026-07-22",
+    "likes": 77,
+    "title": {
+      "en": "Liverpool primed for business: Bezos, Bhatia and the next steps at Anfield"
+    },
+    "summary": {
+      "en": "Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi Mittal, while the Amazon founder has now been linked Continue reading..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/22/liverpool-open-talks-over-selling-significant-stake-in-the-club"
+  },
+  {
+    "id": "N_RSS_64946",
+    "type": "official",
+    "date": "2026-07-22",
+    "likes": 262,
+    "title": {
+      "en": "Football Daily | Chelsea’s financial shrug and Liverpool leaking players – what you may have missed"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!After the eye-watering excess of the Geopolitics World Cup, we can return to the modest, measured land of the domestic game. While our attention has..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/22/football-daily-email-liverpool-chelsea-manchester-city-what-you-may-have-missed"
+  },
+  {
+    "id": "N_RSS_51142",
     "type": "official",
     "date": "2026-07-21",
-    "likes": 233,
+    "likes": 139,
     "title": {
-      "en": "David Squires on … Spain winning the World Cup final in the shadow of Trump"
+      "en": "The defining moments of the 2026 World Cup"
     },
     "summary": {
-      "en": "Our cartoonist looks back at the final game of the 2026 World Cup as Donald Trump watched Spain triumph againBuy this cartoon | Some of David’s favourite worksAnd his latest book, Chaos in the Box:..."
+      "en": "From historic World Cup debuts and emotional first victories, to new stars and the brilliance of legends - relive the defining moments of the 2026 FIFA World Cup."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cdrv06y1pdlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_89640",
+    "type": "official",
+    "date": "2026-07-21",
+    "likes": 280,
+    "title": {
+      "en": "Football Daily | Here are 48 reasons to cherish the World Cup (minus the Geopolitics)"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!The Geopolitics World Cup is already fading from view, replaced by a thin July gruel of pre-season friendlies and transfer tales. But there’s still..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/picture/2026/jul/21/david-squires-spain-winning-world-cup-final-argentina-shadow-of-donald-trump"
+    "url": "https://www.theguardian.com/football/2026/jul/21/football-daily-email-world-cup"
   },
   {
-    "id": "N_RSS_31250",
+    "id": "N_RSS_15447",
     "type": "official",
     "date": "2026-07-20",
-    "likes": 84,
+    "likes": 161,
     "title": {
-      "en": "'I'm proud of it' - Keegan looks back on career highlights and legacy"
+      "en": "Keegan's double inspires Liverpool to 1974 FA Cup glory"
     },
     "summary": {
-      "en": "Kevin Keegan talks to Football Focus' Dan Walker in 2018 about some of the standout moments from his career - from winning World Player of the Year twice, to managing England and the iconic \"I would..."
+      "en": "Kevin Keegan scores twice as Liverpool defeat Newcastle United 3-0 in the 1974 FA Cup final."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cgmkv3j3yv0o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/crk5dnyklm0o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_57151",
+    "id": "N_RSS_76117",
     "type": "official",
     "date": "2026-07-20",
-    "likes": 143,
+    "likes": 259,
     "title": {
-      "en": "Argentina boss Scaloni leaves press conference in tears"
+      "en": "Watch the BBC's closing World Cup montage"
     },
     "summary": {
-      "en": "Argentina manager Lionel Scaloni leaves his post-match news conference in tears when talking about his future after Sunday's World Cup final defeat by Spain."
+      "en": "Watch the closing montage of the BBC's coverage of the 2026 Fifa World Cup featuring all the highs, lows and colour from the biggest World Cup ever."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cvglel7g7v2o?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_42865",
+    "id": "N_RSS_22140",
     "type": "official",
     "date": "2026-07-20",
-    "likes": 113,
+    "likes": 256,
     "title": {
-      "en": "'A date with history and we got there first' - Spain react to World Cup win"
+      "en": "'The reaction is terrible' - World Cup final turns ugly at full-time"
     },
     "summary": {
-      "en": "Spain manager Luis de la Fuente and his players react to winning their second World Cup title after beating Argentina 1-0 after extra time in the final."
+      "en": "The frustration of some Argentina players boils over at the end of the 2026 World Cup final, after the 2022 winners are beaten by Spain in extra time."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c1k1n1g4m8po?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/videos/c5yrxql8wd3o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_19130",
+    "id": "N_RSS_95830",
     "type": "official",
     "date": "2026-07-20",
-    "likes": 50,
+    "likes": 217,
     "title": {
-      "en": "Trump and Infantino booed at World Cup final – video"
+      "en": "Mbappe wins race for the 2026 World Cup golden boot"
     },
     "summary": {
-      "en": "Boos descended from the stands as Donald Trump and the Fifa president, Gianni Infantino, took to the field for the World Cup trophy ceremony at New York New Jersey ⁠stadium on Sunday. Spain beat..."
+      "en": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c3v0l1yk7xpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_88541",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 174,
+    "title": {
+      "en": "Spain are world champions | World Cup Daily"
+    },
+    "summary": {
+      "en": "Max Rushden is joined by Barry Glendenning, John Brewin, Jonathan Wilson and Sid Lowe as Spain win the 2026 World Cup. Continue reading..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/sport/video/2026/jul/20/trump-and-infantino-booed-at-world-cup-final-video"
+    "url": "https://www.theguardian.com/football/video/2026/jul/20/spain-are-world-champions-world-cup-daily"
   },
   {
-    "id": "N_FIFA_62374",
+    "id": "N_RSS_66963",
     "type": "official",
     "date": "2026-07-20",
-    "likes": 234,
+    "likes": 262,
     "title": {
-      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale"
+      "en": "Ugly scenes as Argentina lose World Cup final – video"
     },
     "summary": {
-      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/spain-unprecedented-global-double-new-milestones-historic-world-cup-2026"
-  },
-  {
-    "id": "N_RSS_8876",
-    "type": "official",
-    "date": "2026-07-19",
-    "likes": 269,
-    "title": {
-      "en": "Dominant Spain beat Argentina to win World Cup after extra time"
-    },
-    "summary": {
-      "en": "Ferran Torres scores the only goal of the game as Spain dominate Argentina 1-0, to win their second FIFA World Cup at the New York New Jersey Stadium."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_96963",
-    "type": "official",
-    "date": "2026-07-19",
-    "likes": 181,
-    "title": {
-      "en": "Spain's Torres scores only goal of World Cup final"
-    },
-    "summary": {
-      "en": "Ferran Torres breaks the deadlock, scoring in extra time for Spain in the World Cup final against Argentina at the New York New Jersey Stadium."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cp30nd7vpn2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_61895",
-    "type": "official",
-    "date": "2026-07-19",
-    "likes": 65,
-    "title": {
-      "en": "Stars shine at the World Cup final half-time show"
-    },
-    "summary": {
-      "en": "Madonna, BTS, Justin Bieber, and Shakira entertain the crowd at half-time in the World Cup final, with a special appearance from Ronaldo and Ronaldinho at the New York New Jersey Stadium."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cddj0m5pzglo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_57289",
-    "type": "official",
-    "date": "2026-07-19",
-    "likes": 89,
-    "title": {
-      "en": "England beat France in 10-goal thriller to win third-place play-off"
-    },
-    "summary": {
-      "en": "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_17918",
-    "type": "official",
-    "date": "2026-07-19",
-    "likes": 58,
-    "title": {
-      "en": "Scandal-proof: why Infantino's Fifa power can't be touched – video"
-    },
-    "summary": {
-      "en": "The biggest job in world football is up for election - and there’s just one candidate: Gianni Infantino, who is on course to be re-elected as Fifa president by a landslide in March.The Guardian..."
+      "en": "There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat.Paredes was then sent off..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/video/2026/jul/19/scandal-proof-why-infantino-fifa-power-cant-be-touched-video"
+    "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video"
   },
   {
-    "id": "N_RSS_17742",
+    "id": "N_RSS_12216",
     "type": "official",
-    "date": "2026-07-18",
-    "likes": 156,
+    "date": "2026-07-19",
+    "likes": 286,
     "title": {
-      "en": "‘Where did they go?’: homeless people feel force of America’s brutality in World Cup clean-up"
+      "en": "Brilliant first half, turbulent second - Tuchel"
     },
     "summary": {
-      "en": "Fifa says football brings the world together but the unhoused in Atlanta feel targeted and completely excluded from the tournament“A lot of our community has been pushed out by the World Cup. We’re..."
+      "en": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup."
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/where-did-they-go-homeless-people-feel-force-of-americas-brutality-in-world-cup-clean-up"
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_53732",
-    "type": "official",
-    "date": "2026-07-18",
-    "likes": 99,
-    "title": {
-      "en": "Tuchel would rather put down the English game than admit to his own cowardice | Jonathan Liew"
-    },
-    "summary": {
-      "en": "England’s coach said ball possession is not in the team’s DNA – it’s an opinion that should disqualify him from the jobHow we talked. On late-night news shows, disembodied heads above a rolling..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/18/thomas-tuchel-england-dna-world-cup-football"
-  },
-  {
-    "id": "N_RSS_91478",
+    "id": "N_RSS_21827",
     "type": "official",
     "date": "2026-07-17",
-    "likes": 266,
+    "likes": 138,
     "title": {
-      "en": "Does World Cup third place play-off count towards Golden Boot?"
+      "en": "Genuine hope may have been fleeting for England. But it was still life-affirming | Max Rushden"
     },
     "summary": {
-      "en": "BBC Sport's Ask Me Anything team looks into the history of World Cup Golden Boot winners and the third-place play-off"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cn8nl41xr59o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_23199",
-    "type": "official",
-    "date": "2026-07-17",
-    "likes": 150,
-    "title": {
-      "en": "Canberra United’s A-League Women future secured as date set for Men’s team entry"
-    },
-    "summary": {
-      "en": "Australian Sports Group takes over licence from Capital FootballNew owner has option to introduce ALM side for the 2028/29 seasonThe future of Canberra United has been secured, with a new owner found..."
+      "en": "Two minutes and 55 seconds. That’s how long I really had hope of reaching the World Cup final. And it didn’t kill meIn her book Hope in the Dark the author Rebecca Solnit examines if it is possible..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/17/canberra-united-a-league-women-club-football-new-owner"
+    "url": "https://www.theguardian.com/football/2026/jul/17/england-world-cup-final-hope-fleeting-life-affirming"
   }
 ]
