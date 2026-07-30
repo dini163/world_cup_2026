@@ -1,5 +1,399 @@
 [
   {
+    "id": "N_RSS_96526",
+    "type": "official",
+    "date": "2026-07-30",
+    "likes": 288,
+    "title": {
+      "en": "Defender Stones joins Inter Milan on free transfer",
+      "zh-CN": "Defender Stones以免费转会加盟国际米兰"
+    },
+    "summary": {
+      "en": "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and signs a two-year contract.",
+      "zh-CN": "英格兰后卫约翰·斯通斯（ John Stones ）以免费转会加盟意大利甲级联赛冠军国际米兰，并签订了一份为期两年的合同。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_92968",
+    "type": "official",
+    "date": "2026-07-30",
+    "likes": 60,
+    "title": {
+      "en": "South Africa's Makhanya becomes Rangers' eighth summer signing",
+      "zh-CN": "南非的Makhanya成为流浪者队第八次夏季签约"
+    },
+    "summary": {
+      "en": "South Africa defender Olwethu Makhanya becomes Rangers' eighth summer signing, joining for an undisclosed fee from Philadelphia Union.",
+      "zh-CN": "南非后卫Olwethu Makhanya成为流浪者的第八个夏季签约，加入费城联盟的费用未公开。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cp8e621386mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_19532",
+    "type": "official",
+    "date": "2026-07-30",
+    "likes": 165,
+    "title": {
+      "en": "Rangers move a 'dream come true' for South Africa's Makhanya",
+      "zh-CN": "流浪者为南非的Makhanya实现“梦想成真”"
+    },
+    "summary": {
+      "en": "South Africa defender Olwethu Makhanya becomes Rangers' eighth summer signing, joining for an undisclosed fee from Philadelphia Union.",
+      "zh-CN": "南非后卫Olwethu Makhanya成为流浪者的第八个夏季签约，加入费城联盟的费用未公开。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cp8e621386mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_82600",
+    "type": "official",
+    "date": "2026-07-30",
+    "likes": 266,
+    "title": {
+      "en": "UEFA to boycott FIFA tournaments if World Cup sell-off goes ahead",
+      "zh-CN": "如果世界杯抛售继续进行，欧足联将抵制国际足联锦标赛"
+    },
+    "summary": {
+      "en": "UEFA will boycott FIFA tournaments if Gianni Infantino goes ahead with his proposal to sell off a stake in the World Cup.",
+      "zh-CN": "如果詹尼·因凡蒂诺（ Gianni Infantino ）继续提出出售世界杯股份的建议，欧足联将抵制国际足联锦标赛。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13568511/uefa-will-boycott-fifa-tournaments-if-gianni-infantino-continues-with-plans-to-sell-off-stake-in-world-cup"
+  },
+  {
+    "id": "N_RSS_30380",
+    "type": "official",
+    "date": "2026-07-30",
+    "likes": 224,
+    "title": {
+      "en": "Writing on the wall? The inside story of Howe's Newcastle exit",
+      "zh-CN": "在墙上写字？豪在纽卡斯尔出口的内幕故事"
+    },
+    "summary": {
+      "en": "Eddie Howe questioned whether it was time for a change and suggested that perhaps the Newcastle team needed new energy following the defeat to Fulham on the final day of last season.",
+      "zh-CN": "埃迪·豪（ Eddie Howe ）质疑现在是否是改变的时候，并建议纽卡斯尔队在上赛季最后一天击败富勒姆后可能需要新的能量。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13568509/why-eddie-howe-left-newcastle-the-inside-story-of-the-magpies-trophy-winning-managers-departure"
+  },
+  {
+    "id": "N_RSS_49870",
+    "type": "official",
+    "date": "2026-07-30",
+    "likes": 274,
+    "title": {
+      "en": "Who is Matthias Jaissle?",
+      "zh-CN": "Matthias Jaissle是谁？"
+    },
+    "summary": {
+      "en": "Matthias Jaissle, the man tipped to replace Eddie Howe at Newcastle United, might not be too well known given that his only head coaching roles to date have been in Austria and Saudi Arabia. So who...",
+      "zh-CN": "马蒂亚斯·贾斯勒（ Matthias Jaissle ）是纽卡斯尔联队（ Newcastle United ）的埃迪·豪（ Eddie Howe ）的替补教练，他可能不太出名，因为他迄今为止唯一的主教练角色是在奥地利和沙特阿拉伯。那么谁……"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13568347/matthias-jaissle-to-newcastle-who-is-the-coach-set-to-replace-eddie-howe-at-st-james-park-and-what-can-we-expect"
+  },
+  {
+    "id": "N_RSS_71849",
+    "type": "official",
+    "date": "2026-07-30",
+    "likes": 236,
+    "title": {
+      "en": "Uefa agrees to boycott Fifa competitions if World Cup sell-off plans proceed",
+      "zh-CN": "如果世界杯抛售计划继续进行，欧足联同意抵制国际足联比赛"
+    },
+    "summary": {
+      "en": "Uefa vote passes 55-0 at emergency meeting on ThursdayBoycott would begin with Under-20 Women’s World CupEuropean countries have agreed to boycott all Fifa competitions if Gianni Infantino pushes...",
+      "zh-CN": "欧洲足联在周四的紧急会议上以55比0的投票结果抵制将从20岁以下女足世界杯开始欧洲国家已经同意抵制所有国际足联比赛，如果詹尼·因凡蒂诺推动..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/30/uefa-agrees-to-boycott-fifa-competitions-if-world-cup-sell-off-plans-proceed"
+  },
+  {
+    "id": "N_RSS_84133",
+    "type": "official",
+    "date": "2026-07-30",
+    "likes": 139,
+    "title": {
+      "en": "Football Daily | Thought leader Eddie Howe runs out of time and ideas at Newcastle",
+      "zh-CN": "《足球日报》|思想领袖埃迪·豪（ Eddie Howe ）在纽卡斯尔的时间和想法都用完了"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!That a vote of confidence isn’t worth the paper it’s written on has long been a footballing cliche. But not until this day did we know that this...",
+      "zh-CN": "立即注册！立即注册！立即注册？立即注册！信任投票不值得上面写的论文，长期以来一直是足球的陈词滥调。但直到今天我们才知道..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/30/eddie-howe-newcastle-football-daily-newsletter"
+  },
+  {
+    "id": "N_RSS_12569",
+    "type": "official",
+    "date": "2026-07-30",
+    "likes": 248,
+    "title": {
+      "en": "Maxence Lacroix joins ‘beautiful club’ Chelsea as John Stones seals Inter deal",
+      "zh-CN": "马克森斯·拉克鲁瓦（ Maxence Lacroix ）加入“美丽俱乐部”切尔西，约翰·斯通斯（ John Stones ）签"
+    },
+    "summary": {
+      "en": "France centre-back moves to Blues in £52m transferStones signs two-year contract with Serie A club Maxence Lacroix has joined Chelsea from Crystal Palace to become the club’s fifth signing of the...",
+      "zh-CN": "法国中后卫以5200万英镑转会转会蓝军斯通尼斯与意甲俱乐部马克森斯·拉克鲁瓦签订了两年合同，从水晶宫加盟切尔西，成为俱乐部第五次签约..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/30/chelsea-crystal-palace-maxence-lacroix-transfer-roundup"
+  },
+  {
+    "id": "N_RSS_4437",
+    "type": "official",
+    "date": "2026-07-30",
+    "likes": 155,
+    "title": {
+      "en": "Fifa wants more money for its members but that does not guarantee investment | John Duerden",
+      "zh-CN": "国际足联希望为其成员提供更多资金，但这并不能保证投资| John Duerden"
+    },
+    "summary": {
+      "en": "Asia and Africa are bastions of support for Gianni Infantino but Fifa’s money has not always been well spent in the regionsFifa’s justification for its proposed plans to sell stakes in the World Cup...",
+      "zh-CN": "亚洲和非洲是支持Gianni Infantino的堡垒，但国际足联的钱并不总是在这些地区花得很好国际足联提出出售世界杯股份的计划的理由......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/30/fifa-wants-more-money-for-its-members-but-that-does-not-guarantee-investment"
+  },
+  {
+    "id": "N_RSS_85021",
+    "type": "official",
+    "date": "2026-07-30",
+    "likes": 254,
+    "title": {
+      "en": "Football transfer rumours: Jack Grealish to make Saudi switch to Al-Hilal?",
+      "zh-CN": "足球转会传闻： Jack Grealish让沙特转投Al-Hilal ？"
+    },
+    "summary": {
+      "en": "Today’s rumours are getting out the paddling poolHaving been left behind like an unloved t-shirt by Enzo Maresca as Manchester City departed for their pre-season tour of Asia, Jack Grealish is...",
+      "zh-CN": "今天的谣言正在走出桨泳池当曼城离开他们的季前亚洲之旅时，恩佐·马雷斯卡（ Enzo Maresca ）像一件不受欢迎的T恤一样被抛在后面，杰克·格雷利什（ Jack Grealish ）..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/30/football-transfer-rumours-jack-grealish-al-hilal-rayan-liverpool"
+  },
+  {
+    "id": "N_RSS_52571",
+    "type": "official",
+    "date": "2026-07-29",
+    "likes": 115,
+    "title": {
+      "en": "Palace hold talks with ex-Arsenal defender Tomiyasu",
+      "zh-CN": "宫殿与前Arsenal后卫Tomiyasu举行会谈"
+    },
+    "summary": {
+      "en": "Japan's Takehiro Tomiyasu, who is training with Crystal Palace, was named as a substitute in the pre-season friendly against Lens.",
+      "zh-CN": "与水晶宫一起训练的日本富安武弘（ Takehiro Tomiyasu ）在季前友谊赛对阵Lens的比赛中被选为替补。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c0qv8e7e0l0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_18441",
+    "type": "official",
+    "date": "2026-07-29",
+    "likes": 166,
+    "title": {
+      "en": "Spain U20s midfielder Arques joins London City",
+      "zh-CN": "西班牙U20中场阿尔克斯加盟伦敦城"
+    },
+    "summary": {
+      "en": "London City Lionesses sign Spanish youth international Daniela Arques from Sporting, subject to international clearance.",
+      "zh-CN": "伦敦城市女狮队从Sporting签下西班牙青年国脚Daniela Arques ，但需获得国际许可。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cj03mr318r6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_52442",
+    "type": "official",
+    "date": "2026-07-29",
+    "likes": 279,
+    "title": {
+      "en": "Fifa opens disciplinary proceedings against Argentina over Falklands banner and final chaos",
+      "zh-CN": "国际足联就福克兰群岛旗帜和最终混乱对阿根廷提起纪律诉讼"
+    },
+    "summary": {
+      "en": "Players held banner after semi-final against EnglandParedes and Molina investigated over brawl after finalFifa has opened disciplinary ­proceedings against Argentina over the Falkland Islands banner...",
+      "zh-CN": "在对阵英格兰帕雷德斯的半决赛后，球员们举着旗帜，莫利纳在最终国际足联就福克兰群岛旗帜对阿根廷进行纪律处分后，对争吵进行了调查……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/29/fifa-open-disciplinary-proceedings-against-argentina-over-falklands-banner-and-final-chaos"
+  },
+  {
+    "id": "N_RSS_9321",
+    "type": "official",
+    "date": "2026-07-29",
+    "likes": 157,
+    "title": {
+      "en": "‘I’m very sorry’: Mancini apologises after being reappointed as Italy head coach",
+      "zh-CN": "“我很抱歉” ：曼奇尼在被重新任命为意大利主教练后道歉"
+    },
+    "summary": {
+      "en": "Mancini quit Italy job to take over Saudi Arabia in 2023‘Some will be against me … maybe people will forgive’Roberto Mancini issued an apology in his first public comments after being reappointed as...",
+      "zh-CN": "曼奇尼辞去了意大利的工作，在2023年接管沙特阿拉伯“有些人会反对我……也许人们会原谅”罗伯托·曼奇尼在被重新任命为……后，在他的第一次公开评论中道歉"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/jul/29/roberto-mancini-italy-head-coach-apology-saudi-arabia-world-cup-nations-league"
+  },
+  {
+    "id": "N_RSS_48935",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 112,
+    "title": {
+      "en": "Relive Zidane's World Cup masterclass as he's named France head coach"
+    },
+    "summary": {
+      "en": "New France head coach Zinedine Zidane produces a masterclass against Brazil in the quarter-finals of the 2006 World Cup."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cpvwkdnpgkpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_10486",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 93,
+    "title": {
+      "en": "England keeper Hampton extends deal at Chelsea"
+    },
+    "summary": {
+      "en": "England international Hannah Hampton signs a new two-year deal with Chelsea."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gvew81dd0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_FIFA_20372",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 302,
+    "title": {
+      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations"
+    },
+    "summary": {
+      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/intends-expand-football-development-funding-usd-10-billion-subject-approval-member-associations"
+  },
+  {
+    "id": "N_FIFA_42981",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 315,
+    "title": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension"
+    },
+    "summary": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/visa-fifa-success-partnership-extension"
+  },
+  {
+    "id": "N_RSS_57554",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 250,
+    "title": {
+      "en": "Real Madrid contract talks and Arsenal interest - what is Vinicius Jr's future?"
+    },
+    "summary": {
+      "en": "With Real Madrid renewing contract talks and Arsenal showing interest, there may be no more intriguing transfer situation right now than Vinicius Jr's future."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c62vx42zd83o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_94524",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 166,
+    "title": {
+      "en": "Football Weekly’s summer mailbag: World Cup 2026, the off-season and more, part one – video"
+    },
+    "summary": {
+      "en": "Max Rushden is joined by Barry Glendenning, John Brewin and Jonathan Wilson to answer your questions from the mailbag Continue reading..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/video/2026/jul/27/football-weeklys-summer-mailbag-world-cup-2026-the-off-season-and-more-part-one-video"
+  },
+  {
+    "id": "N_FIFA_36193",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 337,
+    "title": {
+      "en": "Expressions of interest now open for potential FIFA Women’s World Cup Brazil 2027™ volunteers"
+    },
+    "summary": {
+      "en": "Expressions of interest now open for potential FIFA Women’s World Cup Brazil 2027™ volunteers"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/expressions-interest-open-womens-world-cup-brazil-volunteers"
+  },
+  {
+    "id": "N_RSS_41876",
+    "type": "official",
+    "date": "2026-07-24",
+    "likes": 68,
+    "title": {
+      "en": "Messiah or papering over cracks? Klopp must sway doubters in Germany rebuild"
+    },
+    "summary": {
+      "en": "Jurgen Klopp is a legend at his former clubs, but he will need to convince his critics if he is to succeed in his toughest managerial challenge yet."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn8k8llpz2mo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_1500",
+    "type": "official",
+    "date": "2026-07-24",
+    "likes": 203,
+    "title": {
+      "en": "David Squires on … the notable people and big moments from World Cup 2026"
+    },
+    "summary": {
+      "en": "Our cartoonist looks back at the big stories and headline-generating characters at the biggest World Cup everBuy a cartoon | Some of David’s favourite worksAnd his latest book, Chaos in the Box: get..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/picture/2026/jul/24/david-squires-on-the-notable-people-and-big-moments-from-world-cup-2026"
+  },
+  {
+    "id": "N_FIFA_30778",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 350,
+    "title": {
+      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale"
+    },
+    "summary": {
+      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/spain-unprecedented-global-double-new-milestones-historic-world-cup-2026"
+  },
+  {
+    "id": "N_FIFA_1091",
+    "type": "official",
+    "date": "2026-07-15",
+    "likes": 239,
+    "title": {
+      "en": "Post Malone to headline FIFA World Cup 2026™ closing ceremony"
+    },
+    "summary": {
+      "en": "Post Malone to headline FIFA World Cup 2026™ closing ceremony"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/post-malone-headline-world-cup-2026-closing-ceremony"
+  },
+  {
     "id": "N_RSS_79869",
     "type": "official",
     "date": "2026-07-30",
@@ -62,393 +456,5 @@
     },
     "source": "Sky Sports",
     "url": "https://www.skysports.com/football/news/11095/13568527/uefa-to-boycott-fifa-tournaments-qa-why-they-are-doing-can-it-stop-gianni-infantino-and-where-do-other-confederations-stand"
-  },
-  {
-    "id": "N_RSS_50754",
-    "type": "official",
-    "date": "2026-07-30",
-    "likes": 93,
-    "title": {
-      "en": "Fifa’s sales pitch revealed: more tournaments, more debt … but no mention of women’s game",
-      "zh-CN": "国际足联的销售宣传透露：更多的比赛，更多的债务......但没有提到女子比赛"
-    },
-    "summary": {
-      "en": "Fifa’s 25-page sales deck produced by JP MorganReference made to doubling global tournamentsFifa’s sales pitch to persuade members to approve the sale of the World Cup’s commercial rights clearly...",
-      "zh-CN": "摩根大通制作的国际足联25页的销售简报提到将全球锦标赛的销售额增加一倍国际足联的销售宣传，以说服成员明确批准出售世界杯的商业权利..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/30/fifa-sales-pitch-revealed-more-tournaments-debt-womens-game-omitted"
-  },
-  {
-    "id": "N_RSS_72282",
-    "type": "official",
-    "date": "2026-07-30",
-    "likes": 124,
-    "title": {
-      "en": "Scottish Premiership returns with McInnes adding new twist to Old Firm rivalry",
-      "zh-CN": "苏格兰超级联赛回归，麦金尼斯为老公司的竞争增加了新的转折"
-    },
-    "summary": {
-      "en": "Derek McInnes has a score to settle with Celtic after swapping Hearts for Rangers, while Motherwell could impress againOnly residents of cloud cuckoo land can hold the firm belief that Scottish...",
-      "zh-CN": "德里克·麦金尼斯（ Derek McInnes ）在将心脏换成流浪者后与凯尔特人达成了和解，而马瑟韦尔（ Motherwell ）可以再次给人留下深刻印象只有云杜鹃地（ cloud cuckoo land ）的居民才能坚信苏格兰..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/30/scottish-premiership-celtic-rangers-old-firm-motherwell-hearts"
-  },
-  {
-    "id": "N_RSS_48125",
-    "type": "official",
-    "date": "2026-07-30",
-    "likes": 70,
-    "title": {
-      "en": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web",
-      "zh-CN": "国际足联本世纪的销售：库什纳和特朗普如何处于错综复杂的网络的中心"
-    },
-    "summary": {
-      "en": "Joshua Kushner is now the kingpin in driving the sale of the World Cup to investors and family ties are tight around the projectIt isn’t just football fans and Uefa executives who want to give Gianni...",
-      "zh-CN": "约书亚·库什纳（ Joshua Kushner ）现在是推动将世界杯出售给投资者的主要人物，该项目与家庭关系密切不仅仅是足球迷和欧足联高管想要给詹尼......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/30/fifas-sale-of-the-century-how-kushners-and-trump-are-at-centre-of-a-tangled-web"
-  },
-  {
-    "id": "N_RSS_99049",
-    "type": "official",
-    "date": "2026-07-29",
-    "likes": 294,
-    "title": {
-      "en": "Fifa opens disciplinary proceedings against Argentina",
-      "zh-CN": "国际足联对阿根廷启动纪律程序"
-    },
-    "summary": {
-      "en": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
-      "zh-CN": "国际足联就阿根廷在世界杯决赛输给西班牙后以及整个比赛期间的行为对他们进行纪律处分。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_67929",
-    "type": "official",
-    "date": "2026-07-29",
-    "likes": 94,
-    "title": {
-      "en": "'Change is inevitable' - Liverpool CEO on FSG, Iraola and consortium talks",
-      "zh-CN": "“变革是不可避免的” -利物浦首席执行官在FSG ， Iraola和财团谈判中"
-    },
-    "summary": {
-      "en": "Liverpool Billy Hogan talks to BBC Sport in New York about investment, transition and why FSG aren't done yet.",
-      "zh-CN": "利物浦比利·霍根（ Billy Hogan ）在纽约与英国广播公司体育台（ BBC Sport ）讨论了投资、转型以及FSG尚未完成的原因。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c8xnvqrxv8ro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_53631",
-    "type": "official",
-    "date": "2026-07-29",
-    "likes": 199,
-    "title": {
-      "en": "Timber leaves Arsenal camp for groin check",
-      "zh-CN": "木材离开阿森纳营地进行腹股沟检查"
-    },
-    "summary": {
-      "en": "Jurrien Timber travels back to London from Arsenal's training camp in Spain in a move related to the groin injury that caused him to miss the end of last season.",
-      "zh-CN": "Jurrien Timber从阿森纳在西班牙的训练营返回伦敦，此举与腹股沟受伤有关，导致他错过了上赛季结束。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cpq8ndn0g7go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_29586",
-    "type": "official",
-    "date": "2026-07-29",
-    "likes": 187,
-    "title": {
-      "en": "Real Madrid want Rodri - but can Man City afford to lose him?",
-      "zh-CN": "皇家马德里想要罗德里-但曼城能承受失去他的代价吗？"
-    },
-    "summary": {
-      "en": "Real Madrid chiefs clearly took a keen interest in this summer's World Cup. So much so that it has motivated them to move for Spain's prize midfielder Rodri after he was named player of the...",
-      "zh-CN": "皇家马德里酋长显然对今年夏天的世界杯非常感兴趣。如此之多，以至于在被任命为西班牙奖项中场球员罗德里之后，这激励了他们转会。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13567710/rodri-to-real-madrid-how-will-man-city-and-enzo-maresca-cope-without-the-premier-leagues-best-central-midfielder-if-he-moves"
-  },
-  {
-    "id": "N_RSS_475",
-    "type": "official",
-    "date": "2026-07-29",
-    "likes": 86,
-    "title": {
-      "en": "Lessons from Leverkusen? Xabi Alonso's Chelsea rebuild explained",
-      "zh-CN": "勒沃库森的教训？哈比·阿隆索的切尔西重建解释"
-    },
-    "summary": {
-      "en": "It was in 2008 that Jordan Henderson made his Premier League debut. Chelsea &#8211; think Joe Cole, Deco and the rest &#8211; were the opposition who beat Sunderland 5-0. Two weeks later, Danny...",
-      "zh-CN": "2008年，乔丹·亨德森（ Jordan Henderson ）首次亮相英超联赛。切尔西–认为乔·科尔，德科和其他人–是以5比0击败桑德兰的对手。两周后，丹尼……"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13567795/xabi-alonsos-chelsea-rebuild-how-bayer-leverkusen-glory-explains-the-plan-to-recruit-role-models-at-stamford-bridge"
-  },
-  {
-    "id": "N_RSS_59670",
-    "type": "official",
-    "date": "2026-07-29",
-    "likes": 206,
-    "title": {
-      "en": "USMNT coach Mauricio Pochettino, US Soccer in ‘final stages’ of agreeing on new contract",
-      "zh-CN": "USMNT教练毛里西奥·波切蒂诺（ Mauricio Pochettino ） ，美国足球在就新合同达成一致的“最后阶段”"
-    },
-    "summary": {
-      "en": "Deal would extend Argentinian through 2030 World CupCoach would stand to earn ‘significantly’ morePochettino’s tenure has been mixed bag of resultsUSMNT head coach Mauricio Pochettino and US Soccer...",
-      "zh-CN": "这笔交易将使阿根廷人延长到2030年世界杯，教练将获得“显着”的更多收入。波切蒂诺的任期一直是好坏参半的结果。USMNT主教练毛里西奥·波切蒂诺（ Mauricio Pochettino ）和美国足球..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/29/mauricio-pochettino-us-soccer-contract-status"
-  },
-  {
-    "id": "N_RSS_76036",
-    "type": "official",
-    "date": "2026-07-29",
-    "likes": 292,
-    "title": {
-      "en": "Is Kazuyoshi Miura the oldest goalscorer in competitive football history? | The Knowledge",
-      "zh-CN": "Kazuyoshi Miura是竞技足球历史上最年长的射手吗？ | The Knowledge"
-    },
-    "summary": {
-      "en": "Plus: UK prime ministers’ football allegiances, top-flight W teams in England and united UnitedsMail us with your all of your questions and answers“Kazuyoshi Miura recently scored in the Emperor’s...",
-      "zh-CN": "此外：英国首相的足球忠诚度、英格兰顶级W队和联合Uniteds向我们发送您的所有问题和答案“Kazuyoshi Miura最近在皇帝的......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/29/is-kazuyoshi-miura-oldest-goalscorer-football-history-knowledge"
-  },
-  {
-    "id": "N_RSS_53900",
-    "type": "official",
-    "date": "2026-07-29",
-    "likes": 280,
-    "title": {
-      "en": "Awakening giants: Dortmund add stardust to their rise through leagues",
-      "zh-CN": "唤醒巨人：多特蒙德通过联赛为他们的崛起增添星尘"
-    },
-    "summary": {
-      "en": "Manuela Zinsberger and Alexandra Popp have made surprise moves to third-tier club looking to join eliteLocated in Austria during a pre-season training camp, the Borussia Dortmund women’s team, squad...",
-      "zh-CN": "曼努埃拉·辛斯伯格（ Manuela Zinsberger ）和亚历山德拉·波普（ Alexandra Popp ）出人意料地转会到三线俱乐部，希望加入位于奥地利的一个季前训练营、多特蒙德女子足球队、球队……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/29/moving-goalposts-borussia-dortmund-zinsberger-popp"
-  },
-  {
-    "id": "N_RSS_37649",
-    "type": "official",
-    "date": "2026-07-29",
-    "likes": 59,
-    "title": {
-      "en": "Where all 20 Premier League clubs should strengthen before the season"
-    },
-    "summary": {
-      "en": "Manchester United and Arsenal need midfielders, Liverpool should sign a winger and Chelsea require a goalkeeperBy Opta AnalystDeclan Rice was worked to the bone by Arsenal last season, playing 4,456..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea"
-  },
-  {
-    "id": "N_RSS_33453",
-    "type": "official",
-    "date": "2026-07-29",
-    "likes": 68,
-    "title": {
-      "en": "Football Daily | Gianni Infantino’s big World Cup sale and Fifa’s race to the bottom line"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!We begin Football Daily’s 29 July 2026 edition with a trip back to 26 February 2016. Gianni Infantino has been elected as the new Fifa president on..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/29/gianni-infantinos-big-world-cup-sale-and-fifas-race-to-the-bottom-line"
-  },
-  {
-    "id": "N_RSS_61773",
-    "type": "official",
-    "date": "2026-07-28",
-    "likes": 101,
-    "title": {
-      "en": "Milos Kerkez: ‘I’m delighted – Andoni Iraola is the perfect fit for Liverpool’"
-    },
-    "summary": {
-      "en": "Full-back on being reunited with former manager, the shock of Arne Slot’s sacking and being mistaken for a bridegroomIt has been quite the summer for Milos Kerkez. There was time at home in Serbia,..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/28/milos-kerkez-andoni-iraola-liverpool"
-  },
-  {
-    "id": "N_RSS_43886",
-    "type": "official",
-    "date": "2026-07-27",
-    "likes": 250,
-    "title": {
-      "en": "The 2026 World Cup is over, but the onslaught of soccer relentlessly rolls on | Leander Schaerlaeckens"
-    },
-    "summary": {
-      "en": "The supply of soccer seems to be enormously exceeding demand. It’s made the sport feel utterly overwhelmingOn Friday, the Scottish Premiership kicks off its 2026-27 season. The following Friday, the..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/27/relentless-soccer-schedule-world-cup"
-  },
-  {
-    "id": "N_FIFA_30580",
-    "type": "official",
-    "date": "2026-07-27",
-    "likes": 261,
-    "title": {
-      "en": "FIFA World Cup 2026™ by the numbers: inside the unprecedented operation behind the biggest sporting event in history"
-    },
-    "summary": {
-      "en": "FIFA World Cup 2026™ by the numbers: inside the unprecedented operation behind the biggest sporting event in history"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-numbers-unprecedented-operation-behind-biggest-sporting-event-history"
-  },
-  {
-    "id": "N_FIFA_41276",
-    "type": "official",
-    "date": "2026-07-27",
-    "likes": 382,
-    "title": {
-      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries"
-    },
-    "summary": {
-      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/fan-festival-extends-historic-world-cup-2026-experience-millions-record-breaking-celebrations-host-countries"
-  },
-  {
-    "id": "N_RSS_27792",
-    "type": "official",
-    "date": "2026-07-26",
-    "likes": 107,
-    "title": {
-      "en": "How the death of Jayden Adams shook a community: ‘Being on the pitch was his happy place’"
-    },
-    "summary": {
-      "en": "Those who knew the South African, who died aged 25 not long after playing at the World Cup, describe a humble and hard-working man who cared about friends and familyFor Jayden Adams, the South Africa..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/26/jayden-adams-death-south-africa-world-cup"
-  },
-  {
-    "id": "N_RSS_57052",
-    "type": "official",
-    "date": "2026-07-25",
-    "likes": 199,
-    "title": {
-      "en": "Premier League: club-by-club guide to transfer business so far – and what they still need"
-    },
-    "summary": {
-      "en": "The English transfer record has been smashed, with Elliot Anderson and Morgan Rogers on the move during a busy summer of signingsFor once, Mikel Arteta is not spending his summer looking for a No 9...."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/25/premier-league-club-by-club-guide-to-transfer-business-so-far-and-what-they-still-need"
-  },
-  {
-    "id": "N_RSS_38979",
-    "type": "official",
-    "date": "2026-07-25",
-    "likes": 51,
-    "title": {
-      "en": "From Haaland love to Mexico’s Merlin: 26 memories from the 2026 World Cup"
-    },
-    "summary": {
-      "en": "Norway’s striker left his mark, as did Scotland’s fans in Boston, but Turkey’s dark horses fell at the first hurdle“I played with him on my PlayStation, and now I’ve scored against him,” Livano..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/jul/25/26-memories-from-the-2026-world-cup-football"
-  },
-  {
-    "id": "N_RSS_65676",
-    "type": "official",
-    "date": "2026-07-24",
-    "likes": 128,
-    "title": {
-      "en": "Transfer Centre LIVE! Vinicius, Barcola, Diomande latest"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours"
-  },
-  {
-    "id": "N_FIFA_63459",
-    "type": "official",
-    "date": "2026-07-14",
-    "likes": 278,
-    "title": {
-      "en": "FIFA World Cup 2026™ closing ceremony to celebrate historic tournament ahead of the final"
-    },
-    "summary": {
-      "en": "FIFA World Cup 2026™ closing ceremony to celebrate historic tournament ahead of the final"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-closing-ceremony-celebrate-historic-tournament-ahead-final"
-  },
-  {
-    "id": "N_FIFA_10309",
-    "type": "official",
-    "date": "2026-07-14",
-    "likes": 110,
-    "title": {
-      "en": "Louis Vuitton to present bespoke trophy trunk at FIFA World Cup 2026™ final following Official Supplier and Branded Licensee appointment"
-    },
-    "summary": {
-      "en": "Louis Vuitton to present bespoke trophy trunk at FIFA World Cup 2026™ final following Official Supplier and Branded Licensee appointment"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/louis-vuitton-trophy-trunk-world-cup-2026-final-official-supplier-branded-licensee"
-  },
-  {
-    "id": "N_FIFA_58796",
-    "type": "official",
-    "date": "2026-07-08",
-    "likes": 88,
-    "title": {
-      "en": "From packed stadiums to record digital reach: FIFA World Cup 2026™ numbers tell story of unprecedented scale as last eight confirmed"
-    },
-    "summary": {
-      "en": "From packed stadiums to record digital reach: FIFA World Cup 2026™ numbers tell story of unprecedented scale as last eight confirmed"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/packed-stadiums-record-digital-reach-world-cup-2026-numbers-unprecedented-scale"
-  },
-  {
-    "id": "N_FIFA_27155",
-    "type": "official",
-    "date": "2026-07-08",
-    "likes": 260,
-    "title": {
-      "en": "Justin Bieber to co-headline FIFA World Cup 2026™ Final Halftime Show with Madonna, Shakira and BTS"
-    },
-    "summary": {
-      "en": "Justin Bieber to co-headline FIFA World Cup 2026™ Final Halftime Show with Madonna, Shakira and BTS"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/justin-bieber-world-cup-2026-final-halftime-show-madonna-shakira-bts"
-  },
-  {
-    "id": "N_RSS_59190",
-    "type": "official",
-    "date": "2026-07-30",
-    "likes": 81,
-    "title": {
-      "en": "Uefa to boycott World Cups if Fifa plans approved",
-      "zh-CN": "如果国际足联的计划获得批准，欧足联将抵制世界杯"
-    },
-    "summary": {
-      "en": "Uefa's 55 member associations vote to boycott the World Cup if Fifa proceeds with its plan to sell stakes in its competitions.",
-      "zh-CN": "如果国际足联继续其出售比赛股份的计划，欧足联的55个成员协会投票抵制世界杯。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
   }
 ]
