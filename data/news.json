@@ -1,5 +1,411 @@
 [
   {
+    "id": "N_RSS_47622",
+    "type": "official",
+    "date": "2026-08-07",
+    "likes": 173,
+    "title": {
+      "en": "Man City reject Barcelona's £38.5m bid for Rodri",
+      "zh-CN": "曼城拒绝巴塞罗那以£ 3850万竞购罗德里"
+    },
+    "summary": {
+      "en": "Manchester City are open to selling midfielder Rodri but would demand more than £60m for the Spain captain.",
+      "zh-CN": "曼城对出售中场罗德里持开放态度，但将要求西班牙队长超过6000万美元£。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/articles/clyj1rgdnpxo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_98965",
+    "type": "official",
+    "date": "2026-08-07",
+    "likes": 220,
+    "title": {
+      "en": "England forward Toney charged with assault in Soho",
+      "zh-CN": "英格兰前锋托尼被控在苏荷区进行攻击"
+    },
+    "summary": {
+      "en": "The 30-year-old former Brentford striker is due to appear in court next month.",
+      "zh-CN": "这位30岁的前布伦特福德前锋将于下个月出庭。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_61474",
+    "type": "official",
+    "date": "2026-08-07",
+    "likes": 136,
+    "title": {
+      "en": "Why can't the Premier League attract the world's best players?",
+      "zh-CN": "为什么英超联赛不能吸引世界上最好的球员？"
+    },
+    "summary": {
+      "en": "Vinicius Jr chose to stay at Real Madrid, but why does the Premier League rarely attract global superstars at their peak?",
+      "zh-CN": "Vinicius Jr选择留在皇家马德里，但为什么英超联赛在巅峰时期很少吸引全球超级明星？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gw03rqwkwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_62391",
+    "type": "official",
+    "date": "2026-08-07",
+    "likes": 58,
+    "title": {
+      "en": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+      "zh-CN": "欧足联表示，随着英足总撤回对Infantino的支持，抵制可能仍在继续"
+    },
+    "summary": {
+      "en": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+      "zh-CN": "欧洲管理机构欧足联表示，国际足联在周三的会议上对总统詹尼·因凡蒂诺的支持“没有任何改变”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_92842",
+    "type": "official",
+    "date": "2026-08-07",
+    "likes": 271,
+    "title": {
+      "en": "Football transfer rumours: Cristian Romero to leave Spurs for … Arsenal?",
+      "zh-CN": "足球转会传闻：克里斯蒂安·罗梅罗（ Cristian Romero ）离开马刺队前往……阿森纳？"
+    },
+    "summary": {
+      "en": "Today’s rumours wonder what it’s got to do with AberdeenTwenty-five years after Sol Campbell’s move from White Hart Lane to Highbury, are we finally getting a sequel? Cristian Romero, Tottenham’s...",
+      "zh-CN": "今天的谣言想知道它与阿伯丁有什么关系索尔·坎贝尔从白鹿巷搬到海布里25年后，我们终于有了续集吗？克里斯蒂安·罗梅罗，托特纳姆热刺的……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/07/football-transfer-rumours-cristian-romero-spurs-arsenal-atletico-inter"
+  },
+  {
+    "id": "N_RSS_4363",
+    "type": "official",
+    "date": "2026-08-06",
+    "likes": 205,
+    "title": {
+      "en": "No Vini Jr, no Rogers - so what do Arsenal do now?",
+      "zh-CN": "没有小维尼，没有罗杰斯，那么阿森纳现在该怎么办？"
+    },
+    "summary": {
+      "en": "No Vinicius Junior, no Morgan Rogers - what do Arsenal do now in their bid to improve their forward line this summer?",
+      "zh-CN": "没有Vinicius Junior ，没有Morgan Rogers -阿森纳现在做了什么来改善他们今年夏天的前锋线？"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13570357/arsenal-transfer-news-what-do-gunners-do-now-after-vinicius-jr-commits-to-new-real-madrid-contract"
+  },
+  {
+    "id": "N_RSS_42658",
+    "type": "official",
+    "date": "2026-08-06",
+    "likes": 136,
+    "title": {
+      "en": "How to fix Fifa: what can be done to salvage football’s beleaguered governing body?",
+      "zh-CN": "如何修复国际足联：可以做些什么来挽救足球这个陷入困境的管理机构？"
+    },
+    "summary": {
+      "en": "Gianni Infantino followed World Cup controversies with a widely scorned plan to let private investors in. Here’s how the game’s leaders can find a path forwardHow can an organisation that runs the...",
+      "zh-CN": "詹尼·因凡蒂诺（ Gianni Infantino ）关注世界杯的争议，广泛蔑视让私人投资者进入的计划。以下是游戏的领导者如何找到前进的道路一个组织如何运行..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/06/how-to-fix-fifa-gianni-infantino-world-cup"
+  },
+  {
+    "id": "N_RSS_48265",
+    "type": "official",
+    "date": "2026-08-05",
+    "likes": 192,
+    "title": {
+      "en": "Infantino is getting his karmic kicking, but why did football take so long to rebel against Fifa? | Jonathan Liew",
+      "zh-CN": "因凡蒂诺正在接受他的业力踢球，但为什么足球花了这么长时间来反抗国际足联？ | Jonathan Liew"
+    },
+    "summary": {
+      "en": "Federation leaders are massing forces at the gates, but years after the first proposed selling off of its commercial legacy and the Qatar World CupIn recent decades the city of Salé, just across the...",
+      "zh-CN": "联合会领导人正在大门口集结力量，但在第一次提出出售其商业遗产和卡塔尔世界杯多年之后。近几十年来，萨莱市就在..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/05/gianni-infantino-fifa-president-uefa-world-cup"
+  },
+  {
+    "id": "N_RSS_32591",
+    "type": "official",
+    "date": "2026-08-05",
+    "likes": 177,
+    "title": {
+      "en": "Mohamed Salah’s story of success and sacrifice: ‘Chasing a dream I had to reach’",
+      "zh-CN": "穆罕默德·萨拉赫（ Mohamed Salah ）的成功和牺牲故事： “追逐我必须实现的梦想”"
+    },
+    "summary": {
+      "en": "In this exclusive book extract, Melissa Reddy documents the Egyptian King’s sacrifice and dedication to make his vision a realityThe entrance to Al Mokawloon Al Arab’s youth sector feels imposing. At...",
+      "zh-CN": "在这本独家书摘中， Melissa Reddy记录了埃及国王为实现他的愿景而做出的牺牲和奉献。进入Al Mokawloon Al Arab的青年部门感觉很壮观。在..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/05/mohamed-salah-book-extract-liverpool-egypt"
+  },
+  {
+    "id": "N_FIFA_79939",
+    "type": "official",
+    "date": "2026-08-05",
+    "likes": 371,
+    "title": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco",
+      "zh-CN": "国际足联领导人在摩洛哥拉巴特举行建设性和积极的会晤"
+    },
+    "summary": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/leadership-constructive-positive-talks-rabat-morocco"
+  },
+  {
+    "id": "N_RSS_81286",
+    "type": "official",
+    "date": "2026-08-04",
+    "likes": 200,
+    "title": {
+      "en": "New MLS commissioner says promotion and relegation won’t be coming ‘anytime soon’",
+      "zh-CN": "新的MLS专员表示，晋升和降级不会“很快”到来"
+    },
+    "summary": {
+      "en": "Larry Berg officially introduced to media and MLS staffBerg to take over for Don Garber on 1 January 2027MLS will have a new commissioner starting in 2027, but don’t expect the league to adopt the...",
+      "zh-CN": "拉里·伯格（ Larry Berg ）正式向媒体和MLS工作人员介绍伯格（ Berg ）将于2027年1月1日接替唐·加伯（ Don Garber ） ， MLS将于2027年开始任命一位新的专员，但不要指望联盟会采用..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/04/mls-larry-berg-promotion-relegation-comissioner"
+  },
+  {
+    "id": "N_RSS_41723",
+    "type": "official",
+    "date": "2026-08-04",
+    "likes": 139,
+    "title": {
+      "en": "David Squires on … Gianni Infantino clinging to power as his Fifa empire crumbles",
+      "zh-CN": "大卫·斯奎尔斯（ David Squires ）继续……吉安尼·因凡蒂诺（ Gianni Infantino ）执掌权力，他的国际足联帝国"
+    },
+    "summary": {
+      "en": "Our resident cartoon imagines some of the crisis talks at Fifa as its president scrambles for support after a botched World Cup plan Continue reading...",
+      "zh-CN": "我们的驻地漫画设想了国际足联的一些危机谈判，因为其主席在世界杯计划失败后争先恐后地寻求支持。继续阅读..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/picture/2026/aug/04/david-squires-gianni-infantino-clinging-to-power-as-his-fifa-empire-crumbles-cartoon"
+  },
+  {
+    "id": "N_FIFA_26318",
+    "type": "official",
+    "date": "2026-08-04",
+    "likes": 203,
+    "title": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联为国际足联女足世界杯巴西2027™推出可持续发展和人权战略"
+    },
+    "summary": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
+  },
+  {
+    "id": "N_RSS_24780",
+    "type": "official",
+    "date": "2026-08-03",
+    "likes": 275,
+    "title": {
+      "en": "Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens",
+      "zh-CN": "毛里西奥·波切蒂诺（ Mauricio Pochettino ）的美国回归是有风险的、昂贵的，而且可能是不必要的| Leander Schaerlaeckens"
+    },
+    "summary": {
+      "en": "In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefitMauricio Pochettino and US Soccer enjoyed their time together.Or, rather, they enshoyed it, as...",
+      "zh-CN": "在给主教练另一个世界杯周期时，美国足球正在诱惑命运，以获得微不足道的利益毛里西奥·波切蒂诺和美国足球享受他们在一起的时光。或者，相反，他们把它作为..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return"
+  },
+  {
+    "id": "N_RSS_1344",
+    "type": "official",
+    "date": "2026-08-03",
+    "likes": 165,
+    "title": {
+      "en": "Vinícius Júnior to Arsenal doesn’t make sense. That’s why it may work | Jonathan Wilson",
+      "zh-CN": "Vinícius Júnior对阿森纳来说没有意义。这就是为什么它可能有效|乔纳森·威尔逊"
+    },
+    "summary": {
+      "en": "Mikel Arteta’s team and the Brazilian star could be a perfect match. It also could be a risk that ends in disasterSometimes what is needed is something different.There is a long history in football...",
+      "zh-CN": "米克尔·阿尔特塔（ Mikel Arteta ）的球队和这位巴西球星可能是一场完美的比赛。这也可能是一种以灾难告终的风险有时候需要的是不同的东西。足球有着悠久的历史..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/03/arsenal-vinicius-transfer-real-madrid"
+  },
+  {
+    "id": "N_RSS_30469",
+    "type": "official",
+    "date": "2026-08-01",
+    "likes": 134,
+    "title": {
+      "en": "Women’s football continues to be used as a pawn in Gianni Infantino’s Fifa tenure | Suzanne Wrack"
+    },
+    "summary": {
+      "en": "With youth and senior qualifiers on the horizon, Fifa’s aborted plan to sell stakes in its major tournaments would have heavily impacted the women’s gameDespite not having been deemed worthy of more..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/01/womens-football-continues-to-be-pawn-gianni-infantino-fifa-tenure"
+  },
+  {
+    "id": "N_RSS_5199",
+    "type": "official",
+    "date": "2026-08-01",
+    "likes": 151,
+    "title": {
+      "en": "There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames"
+    },
+    "summary": {
+      "en": "Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leaderThere is no time to dance around the subject. Gianni Infantino must stand..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
+  },
+  {
+    "id": "N_FIFA_7219",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 122,
+    "title": {
+      "en": "Statement attributable to the FIFA President"
+    },
+    "summary": {
+      "en": "Statement attributable to the FIFA President"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/statement-attributable-president"
+  },
+  {
+    "id": "N_FIFA_5947",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 175,
+    "title": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal"
+    },
+    "summary": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/clarifications-fifa-forward-enterprise-ffe-proposal"
+  },
+  {
+    "id": "N_FIFA_9100",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 233,
+    "title": {
+      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations"
+    },
+    "summary": {
+      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/intends-expand-football-development-funding-usd-10-billion-subject-approval-member-associations"
+  },
+  {
+    "id": "N_FIFA_2502",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 309,
+    "title": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension"
+    },
+    "summary": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/visa-fifa-success-partnership-extension"
+  },
+  {
+    "id": "N_FIFA_43709",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 324,
+    "title": {
+      "en": "FIFA World Cup 2026™ by the numbers: inside the unprecedented operation behind the biggest sporting event in history"
+    },
+    "summary": {
+      "en": "FIFA World Cup 2026™ by the numbers: inside the unprecedented operation behind the biggest sporting event in history"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-numbers-unprecedented-operation-behind-biggest-sporting-event-history"
+  },
+  {
+    "id": "N_FIFA_71870",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 163,
+    "title": {
+      "en": "Expressions of interest now open for potential FIFA Women’s World Cup Brazil 2027™ volunteers"
+    },
+    "summary": {
+      "en": "Expressions of interest now open for potential FIFA Women’s World Cup Brazil 2027™ volunteers"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/expressions-interest-open-womens-world-cup-brazil-volunteers"
+  },
+  {
+    "id": "N_FIFA_81417",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 104,
+    "title": {
+      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries"
+    },
+    "summary": {
+      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/fan-festival-extends-historic-world-cup-2026-experience-millions-record-breaking-celebrations-host-countries"
+  },
+  {
+    "id": "N_FIFA_8454",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 250,
+    "title": {
+      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale"
+    },
+    "summary": {
+      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/spain-unprecedented-global-double-new-milestones-historic-world-cup-2026"
+  },
+  {
+    "id": "N_FIFA_67184",
+    "type": "official",
+    "date": "2026-07-15",
+    "likes": 167,
+    "title": {
+      "en": "Post Malone to headline FIFA World Cup 2026™ closing ceremony"
+    },
+    "summary": {
+      "en": "Post Malone to headline FIFA World Cup 2026™ closing ceremony"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/post-malone-headline-world-cup-2026-closing-ceremony"
+  },
+  {
+    "id": "N_FIFA_60112",
+    "type": "official",
+    "date": "2026-07-14",
+    "likes": 190,
+    "title": {
+      "en": "FIFA World Cup 2026™ closing ceremony to celebrate historic tournament ahead of the final"
+    },
+    "summary": {
+      "en": "FIFA World Cup 2026™ closing ceremony to celebrate historic tournament ahead of the final"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-closing-ceremony-celebrate-historic-tournament-ahead-final"
+  },
+  {
     "id": "N_RSS_69907",
     "type": "official",
     "date": "2026-08-07",
@@ -46,410 +452,5 @@
     },
     "source": "BBC Sport",
     "url": "https://www.bbc.co.uk/sport/football/articles/cn0nyrdq1r1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_56004",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 226,
-    "title": {
-      "en": "France set to take part in U20 Women's World Cup",
-      "zh-CN": "法国将参加U20女足世界杯"
-    },
-    "summary": {
-      "en": "France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.",
-      "zh-CN": "法国表示，尽管欧足联威胁要抵制国际足联的比赛，但他们仍计划参加下个月的20岁以下女足世界杯。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_99145",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 106,
-    "title": {
-      "en": "Bronze: FIFA boycott would be right if it protects football",
-      "zh-CN": "铜牌：如果国际足联的抵制能保护足球，那将是正确的"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest"
-  },
-  {
-    "id": "N_RSS_80565",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 111,
-    "title": {
-      "en": "England striker Toney charged with assault",
-      "zh-CN": "英格兰前锋托尼被控攻击"
-    },
-    "summary": {
-      "en": "England striker Ivan Toney has been charged with assault causing actual bodily harm following a nightclub incident in December 2025.",
-      "zh-CN": "英格兰前锋伊万·托尼（ Ivan Toney ）被指控在2025年12月的夜总会事件后造成实际人身伤害。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13570613/ivan-toney-england-striker-charged-with-assault-causing-actual-bodily-harm"
-  },
-  {
-    "id": "N_RSS_61804",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 190,
-    "title": {
-      "en": "Mexico and Argentina line up behind Infantino to deepen football’s civil war",
-      "zh-CN": "墨西哥和阿根廷排队支持因凡蒂诺，加深足球内战"
-    },
-    "summary": {
-      "en": "Mexico breaks ranks with Concacaf to support Fifa chiefGrowing speculation country will switch to ConmebolMexico’s football federation has broken ranks with the rest of Concacaf by publicly backing...",
-      "zh-CN": "墨西哥打破与Concacaf的行列以支持国际足联主席不断增长的猜测国家将转向Conmebol墨西哥的足球联合会通过公开支持与Concacaf的其他国家打破了行列......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/07/mexico-argentina-gianni-infantino-deepen-football-civil-war-fifa"
-  },
-  {
-    "id": "N_RSS_92559",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 129,
-    "title": {
-      "en": "Norway’s Klaveness tells Fifa president Infantino to resign: ‘There is no trust now’",
-      "zh-CN": "挪威的Klaveness告诉国际足联主席Infantino辞职： “现在没有信任”"
-    },
-    "summary": {
-      "en": "‘There is no way back for him,’ says NFF presidentInfantino still battling for support around the worldThe Norwegian FA will ask Gianni Infantino to resign with immediate effect after his doomed...",
-      "zh-CN": "“他没有回头路，”挪威足协主席因凡蒂诺说，他仍然在世界各地争取支持。挪威足协将要求因凡蒂诺在他注定要辞职后立即辞职……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/07/lise-klaveness-norwegian-fa-fifa-president-gianni-infantino-resign"
-  },
-  {
-    "id": "N_RSS_40748",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 191,
-    "title": {
-      "en": "England striker Ivan Toney charged with assault after Soho nightclub incident",
-      "zh-CN": "英格兰前锋伊万·托尼（ Ivan Toney ）在Soho夜总会事件后被指控犯有"
-    },
-    "summary": {
-      "en": "Met police say charge relates to alleged assault that reportedly took place in December at venue in LondonThe England footballer Ivan Toney has been charged with assault after an incident at a...",
-      "zh-CN": "MET警方表示，指控涉及据称于12月在伦敦场馆发生的袭击事件。英格兰足球运动员Ivan Toney在一次袭击事件后被指控犯有袭击罪。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/aug/07/england-striker-ivan-toney-charged-with-assault-after-soho-nightclub-incident"
-  },
-  {
-    "id": "N_RSS_56299",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 296,
-    "title": {
-      "en": "Football Daily | Vinícius Júnior and a fantasy world of transfers in the football lull",
-      "zh-CN": "《足球日报》| Vinícius Júnior和梦幻般的足球转会世界"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!“We were so close … At the end of the day, really, they made him an offer he couldn’t refuse … It shows where we’re trying to aim for the club …...",
-      "zh-CN": "立即注册！立即注册！立即注册？立即注册！ “我们是如此接近……在一天结束时，真的，他们向他提出了一个他无法拒绝的报价……这表明了我们试图瞄准俱乐部的目标……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/07/football-daily-email-vinicius-junior"
-  },
-  {
-    "id": "N_RSS_48331",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 96,
-    "title": {
-      "en": "Manchester City reject Barcelona’s opening £38.5m bid for Rodri as talks continue",
-      "zh-CN": "曼城拒绝巴塞罗那以3850万英镑收购罗德里，谈判仍在继续"
-    },
-    "summary": {
-      "en": "Mourinho reportedly unhappy over Barça hijackCity ready to seal deal for Morocco star BouaddiManchester City have rejected an offer of £38.5m (€45m) from Barcelona for Rodri and want at least £60m...",
-      "zh-CN": "据报道，穆里尼奥对巴萨劫持事件感到不满，准备为摩洛哥球星布阿迪-曼彻斯特城达成协议的城市拒绝了巴塞罗那为罗德里提供的3850万英镑（ 4500万欧元）的报价，并希望至少获得6000万英镑。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/07/manchester-city-reject-barcelonas-opening-385m-bid-for-rodri-as-talks-continue"
-  },
-  {
-    "id": "N_RSS_75253",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 156,
-    "title": {
-      "en": "Tottenham and Atlético in talks over Romero with Van de Ven set to sign new deal",
-      "zh-CN": "托特纳姆热刺和马竞正在就罗梅罗问题与范德文进行谈判，范德文将签署新协议"
-    },
-    "summary": {
-      "en": "Simeone keen on move for Spurs defenderVan de Ven expected to pen five-year extensionTottenham are in talks with Atlético Madrid over the sale of Cristian Romero after categorically rejecting...",
-      "zh-CN": "西蒙尼热衷于马刺后卫范德文的转会，预计将延长五年。热刺在断然拒绝后，正在与马德里竞技就出售克里斯蒂安·罗梅罗进行谈判……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/07/tottenham-and-atletico-in-talks-over-romero-with-van-de-ven-set-to-sign-new-deal"
-  },
-  {
-    "id": "N_RSS_75866",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 129,
-    "title": {
-      "en": "Afcon’s biennial switch cost African governing body deal worth more than $1bn",
-      "zh-CN": "Afcon两年一次的转换使非洲理事机构的交易价值超过10亿美元（ $ 1 billion ）"
-    },
-    "summary": {
-      "en": "Change to four-year cycle led to abandonment of 2025 bidCaf has not had long-term financial deal since 2019A deal worth at least $1bn in secured income over eight years was abandoned by the...",
-      "zh-CN": "改为四年周期导致放弃2025年bidCaf自2019年以来一直没有长期金融交易，八年来价值至少10亿美元的有担保收入的交易被..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/07/afcons-biennial-switch-cost-african-governing-body-deal-worth-more-than-1bn"
-  },
-  {
-    "id": "N_RSS_85495",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 212,
-    "title": {
-      "en": "Lucy Bronze backs Uefa’s stance on boycotting Fifa for ‘good of the game’",
-      "zh-CN": "露西·布朗兹（ Lucy Bronze ）支持欧足联出于“游戏利益”而抵制国际足联的立场"
-    },
-    "summary": {
-      "en": "Chelsea defender speaking in Auckland before friendlySeptember’s Under-20 Women’s World Cup under threatLucy Bronze has backed Uefa’s stance on boycotting all Fifa competitions for the “good of the...",
-      "zh-CN": "切尔西后卫在友谊赛前在奥克兰发表讲话9月20岁以下女足世界杯受到威胁露西·布朗兹（ Lucy Bronze ）支持欧足联的立场，即抵制所有国际足联比赛，以“造福..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/07/lucy-bronze-uefa-boycott-fifa-for-good-of-the-game-womens-football"
-  },
-  {
-    "id": "N_RSS_84112",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 254,
-    "title": {
-      "en": "Why has Salah chosen to join Trabzonspor?",
-      "zh-CN": "为什么Salah选择加入Trabzonspor ？"
-    },
-    "summary": {
-      "en": "Why Mohamed Salah chose Trabzonspor over Saudi Arabia and MLS, and what the move means for him and Turkish football.",
-      "zh-CN": "为什么穆罕默德·萨拉赫（ Mohamed Salah ）选择特拉布宗斯波尔（ Trabzonspor ）而不是沙特阿拉伯和美国职业足球大联盟（ MLS"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cy74v1j1v6zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_94149",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 285,
-    "title": {
-      "en": "Trafford joins Leeds from Man City in potential £45m deal"
-    },
-    "summary": {
-      "en": "Leeds United sign Manchester City and England goalkeeper James Trafford in a deal worth up to £45m."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c0l592513y9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_96888",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 137,
-    "title": {
-      "en": "Vinicius Jr and Real Madrid agree new six-year deal"
-    },
-    "summary": {
-      "en": "Brazil winger Vinicius Jr will stay at Real Madrid after agreeing improved terms with the Spanish side despite interest from Arsenal."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1517j1q129o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_18466",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 233,
-    "title": {
-      "en": "Argentina mark World Cup win over England with 'National Football Teams Day'"
-    },
-    "summary": {
-      "en": "The Argentine Football Association announces 15 July as National Football Teams Day to mark Argentina's 2026 World Cup semi-final victory over England."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cn9n8q8w7ndo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_56195",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 233,
-    "title": {
-      "en": "Players who turned World Cup heroics into big transfers"
-    },
-    "summary": {
-      "en": "BBC Sport looks back at some of the players whose standout performances at the World Cup earned a big transfer."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cj4kqdy4w4eo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_50966",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 192,
-    "title": {
-      "en": "Birmingham sign striker Effa Effa for £100K"
-    },
-    "summary": {
-      "en": "Birmingham City sign France youth international Chancelle Effa Effa from Le Havre."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ce971e8ny8mo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_15084",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 72,
-    "title": {
-      "en": "Argentina, Mexico latest to back Infantino - what happens next in FIFA saga?"
-    },
-    "summary": {
-      "en": "Mexico and Argentina's football associations are the latest to have thrown their support behind embattled FIFA president Gianni Infantino despite his botched World Cup stake sale plans."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13570447/gianni-infantino-players-union-fifpro-slams-fifa-and-abuse-of-presidential-power-as-uefa-doubles-down-on-boycott"
-  },
-  {
-    "id": "N_RSS_66723",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 250,
-    "title": {
-      "en": "Kerolin failed to report for pre-season at Manchester City before Barcelona switch"
-    },
-    "summary": {
-      "en": "City taken aback by forward’s absence from trainingWSL champions wait two days before mentioning dealThe Brazil forward Kerolin failed to report back for pre-season training at Manchester City in..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/06/kerolin-failed-to-report-for-pre-season-at-manchester-city-before-barcelona-switch"
-  },
-  {
-    "id": "N_RSS_9706",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 194,
-    "title": {
-      "en": "Barcelona step up Rodri interest after Real Madrid talks with Manchester City star stall"
-    },
-    "summary": {
-      "en": "Barça ready to hijack rivals’ plans to sign Spain captainManchester City will allow midfielder to go for £60mBarcelona have stepped up their attempts to hijack Real Madrid’s move to sign Rodri from..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/06/barcelona-rodri-alvarez-manchester-city-real-madrid-transfers"
-  },
-  {
-    "id": "N_RSS_61786",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 172,
-    "title": {
-      "en": "Real Madrid announce arrival of £115m Yan Diomande on seven-year contract"
-    },
-    "summary": {
-      "en": "Forward becomes most expensive African playerClub are in positive talks with Vinícius JúniorReal Madrid have sealed the €135m (£115.7m) club-record signing of Yan Diomande from RB Leipzig.After..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/05/real-madrid-agree-club-record-115m-deal-for-yan-diomande-and-want-to-keep-vinicius"
-  },
-  {
-    "id": "N_RSS_90746",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 125,
-    "title": {
-      "en": "Coming up: six promoted teams to look out for in Europe this season"
-    },
-    "summary": {
-      "en": "Former European heavyweights, investment projects and teams from tiny towns will liven up the top tiersAbsent from La Liga since 2018, Dépor were once part of a Spanish “big four” with Barcelona,..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/06/coming-up-six-promoted-teams-to-look-out-for-in-europe-this-season"
-  },
-  {
-    "id": "N_RSS_70105",
-    "type": "official",
-    "date": "2026-08-06",
-    "likes": 133,
-    "title": {
-      "en": "Football Daily | The Argentinian FA has a date for your diary, whether you want it or not"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!There are at least 6,001 days in the year. Days occur at a rate of approximately 16.5 days a day. This is confusing, sure, but it’s the world we..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/06/football-daily-email-argentina-days"
-  },
-  {
-    "id": "N_RSS_74495",
-    "type": "official",
-    "date": "2026-08-05",
-    "likes": 113,
-    "title": {
-      "en": "Which footballer made the biggest leap in competitive levels between games? | The Knowledge"
-    },
-    "summary": {
-      "en": "Plus: worst penalty shootouts, poachers turned gamekeepers … and footballers donating antiques?!Mail us with your all of your questions and answers“Malachi Fagan-Walcott’s final game of last season..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/05/which-footballer-biggest-leap-in-competitive-levels-between-games-the-knowledge"
-  },
-  {
-    "id": "N_FIFA_26924",
-    "type": "official",
-    "date": "2026-07-14",
-    "likes": 327,
-    "title": {
-      "en": "Louis Vuitton to present bespoke trophy trunk at FIFA World Cup 2026™ final following Official Supplier and Branded Licensee appointment"
-    },
-    "summary": {
-      "en": "Louis Vuitton to present bespoke trophy trunk at FIFA World Cup 2026™ final following Official Supplier and Branded Licensee appointment"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/louis-vuitton-trophy-trunk-world-cup-2026-final-official-supplier-branded-licensee"
-  },
-  {
-    "id": "N_RSS_75086",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 180,
-    "title": {
-      "en": "Norway call for Infantino to resign as Mexico and Argentina back president",
-      "zh-CN": "挪威呼吁因凡蒂诺辞去墨西哥和阿根廷总统职务"
-    },
-    "summary": {
-      "en": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
-      "zh-CN": "挪威足球联合会呼吁国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）在试图出售世界杯赌注后辞职。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4g6l3gnv0go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_81029",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 129,
-    "title": {
-      "en": "Uefa boycott right thing for future of game - Bronze",
-      "zh-CN": "欧足联抵制未来比赛的正确做法-铜牌"
-    },
-    "summary": {
-      "en": "England international Lucy Bronze says a Uefa boycott of Fifa competitions would be the \"right thing\" for the future of the game.",
-      "zh-CN": "英格兰国脚露西·布朗兹（ Lucy Bronze ）表示，欧足联抵制国际足联比赛对比赛的未来将是“正确的事情”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo?at_medium=RSS&at_campaign=rss"
   }
 ]
