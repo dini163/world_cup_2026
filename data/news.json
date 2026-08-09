@@ -1,5 +1,225 @@
 [
   {
+    "id": "N_RSS_2436",
+    "type": "official",
+    "date": "2026-08-09",
+    "likes": 89,
+    "title": {
+      "en": "Fifa defends Gianni Infantino and launches attack after ‘effort to undermine’ president",
+      "zh-CN": "国际足联为Gianni Infantino辩护，并在“试图破坏”总统后发动攻击"
+    },
+    "summary": {
+      "en": "Fifa backs ‘democratically-elected’ presidentThinly-veiled attack aimed on Uefa as crisis roars onFifa last night issued a thinly-veiled attack on Uefa and other leading figures in European football...",
+      "zh-CN": "国际足联支持“民主选举的”主席昨晚在国际足联危机咆哮之际，对欧足联和欧洲足球其他领导人物发动了薄薄的攻击。"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/08/fifa-launches-new-attack-on-media-over-alleged-concerted-effort-to-undermine-gianni-infantino"
+  },
+  {
+    "id": "N_RSS_6331",
+    "type": "official",
+    "date": "2026-08-08",
+    "likes": 68,
+    "title": {
+      "en": "Fifa criticises campaign to oust president Infantino",
+      "zh-CN": "国际足联批评推翻总统因凡蒂诺的运动"
+    },
+    "summary": {
+      "en": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+      "zh-CN": "国际足联强烈批评它所谓的“一致和持续的努力” ，以“破坏”该组织及其主席詹尼·因凡蒂诺。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_37135",
+    "type": "official",
+    "date": "2026-08-08",
+    "likes": 180,
+    "title": {
+      "en": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "zh-CN": "足球是否适合人工智能？为什么科技投资者想要从世界杯中分一杯羹"
+    },
+    "summary": {
+      "en": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+      "zh-CN": "支持现已批准的计划的投资者的想法是什么，将来这样的提议是不可避免的吗？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_3790",
+    "type": "official",
+    "date": "2026-08-08",
+    "likes": 68,
+    "title": {
+      "en": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
+      "zh-CN": "多功能的Bruno Guimarães为Mikel Arteta提供了洗牌中场背包的选择| Ed Aarons"
+    },
+    "summary": {
+      "en": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low blockData shows  deal could be another set-piece...",
+      "zh-CN": "虽然能够发挥更深入的作用，但阿森纳也将承担7500万英镑的签约责任，在一次难以打破低区块的攻击中提供创造力数据显示交易可能是另一个定位..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
+  },
+  {
+    "id": "N_RSS_32949",
+    "type": "official",
+    "date": "2026-08-08",
+    "likes": 202,
+    "title": {
+      "en": "Mason Mount injury overshadows Manchester United’s draw with PSG",
+      "zh-CN": "梅森山的伤病掩盖了曼联与巴黎圣日耳曼队的平局"
+    },
+    "summary": {
+      "en": "Bryan Mbeumo scores United’s goal in 1-1 drawMount taken off with foot injury in GothenburgManchester United managed a creditable 1-1 draw with the European champions, Paris Saint-Germain, in a...",
+      "zh-CN": "布莱恩·姆贝乌莫（ Bryan Mbeumo ）以1-1平局得分曼联在哥德堡因足部受伤而起飞，与欧洲冠军巴黎圣日耳曼（ Paris Saint-Germain ）进行了可信的1-1平局..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/08/mason-mount-injury-overshadows-manchester-uniteds-draw-with-psg"
+  },
+  {
+    "id": "N_RSS_73554",
+    "type": "official",
+    "date": "2026-08-08",
+    "likes": 226,
+    "title": {
+      "en": "Two weeks that rocked Fifa: how Gianni Infantino unravelled, day by day",
+      "zh-CN": "震撼国际足联的两周：詹尼·因凡蒂诺（ Gianni Infantino ）如何日复一日地解体"
+    },
+    "summary": {
+      "en": "Fifa’s president ended the World Cup on a high, but is now battling to save his job after a series of self-inflicted blows Continue reading...",
+      "zh-CN": "国际足联主席以很高的成绩结束了世界杯，但在经历了一系列自我打击后，他现在正在努力挽救自己的工作。继续阅读..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/08/two-weeks-that-rocked-fifa-how-gianni-infantinos-implosion-unfolded"
+  },
+  {
+    "id": "N_RSS_2441",
+    "type": "official",
+    "date": "2026-08-07",
+    "likes": 251,
+    "title": {
+      "en": "France set to take part in U20 Women's World Cup",
+      "zh-CN": "法国将参加U20女足世界杯"
+    },
+    "summary": {
+      "en": "France say they are still planning to compete in the Under-20 Women's World Cup next month despite a threat from Uefa to boycott Fifa competitions.",
+      "zh-CN": "法国表示，尽管欧足联威胁要抵制国际足联的比赛，但他们仍计划参加下个月的20岁以下女足世界杯。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c87nrpwg20vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_21938",
+    "type": "official",
+    "date": "2026-08-07",
+    "likes": 271,
+    "title": {
+      "en": "England striker Ivan Toney charged with assault after Soho nightclub incident",
+      "zh-CN": "英格兰前锋伊万·托尼（ Ivan Toney ）在Soho夜总会事件后被指控犯有"
+    },
+    "summary": {
+      "en": "Met police say charge relates to alleged assault that reportedly took place in December at venue in LondonThe England footballer Ivan Toney has been charged with assault after an incident at a...",
+      "zh-CN": "MET警方表示，指控涉及据称于12月在伦敦场馆发生的袭击事件。英格兰足球运动员Ivan Toney在一次袭击事件后被指控犯有袭击罪。"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/07/england-striker-ivan-toney-charged-with-assault-after-soho-nightclub-incident"
+  },
+  {
+    "id": "N_RSS_28552",
+    "type": "official",
+    "date": "2026-08-03",
+    "likes": 81,
+    "title": {
+      "en": "Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens",
+      "zh-CN": "毛里西奥·波切蒂诺（ Mauricio Pochettino ）的美国回归是有风险的、昂贵的，而且可能是不必要的| Leander Schaerlaeckens"
+    },
+    "summary": {
+      "en": "In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefitMauricio Pochettino and US Soccer enjoyed their time together.Or, rather, they enshoyed it, as...",
+      "zh-CN": "在给主教练另一个世界杯周期时，美国足球正在诱惑命运，以获得微不足道的利益毛里西奥·波切蒂诺和美国足球享受他们在一起的时光。或者，相反，他们把它作为..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return"
+  },
+  {
+    "id": "N_RSS_82924",
+    "type": "official",
+    "date": "2026-08-03",
+    "likes": 78,
+    "title": {
+      "en": "Vinícius Júnior to Arsenal doesn’t make sense. That’s why it may work | Jonathan Wilson",
+      "zh-CN": "Vinícius Júnior对阿森纳来说没有意义。这就是为什么它可能有效|乔纳森·威尔逊"
+    },
+    "summary": {
+      "en": "Mikel Arteta’s team and the Brazilian star could be a perfect match. It also could be a risk that ends in disasterSometimes what is needed is something different.There is a long history in football...",
+      "zh-CN": "米克尔·阿尔特塔（ Mikel Arteta ）的球队和这位巴西球星可能是一场完美的比赛。这也可能是一种以灾难告终的风险有时候需要的是不同的东西。足球有着悠久的历史..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/03/arsenal-vinicius-transfer-real-madrid"
+  },
+  {
+    "id": "N_FIFA_63731",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 95,
+    "title": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal",
+      "zh-CN": "对国际足联前进企业（ FFE ）提案的澄清"
+    },
+    "summary": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/clarifications-fifa-forward-enterprise-ffe-proposal"
+  },
+  {
+    "id": "N_FIFA_64530",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 232,
+    "title": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension",
+      "zh-CN": "Visa和国际足联通过延续合作伙伴关系取得了近20年的成功"
+    },
+    "summary": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/visa-fifa-success-partnership-extension"
+  },
+  {
+    "id": "N_FIFA_14247",
+    "type": "official",
+    "date": "2026-07-15",
+    "likes": 382,
+    "title": {
+      "en": "Post Malone to headline FIFA World Cup 2026™ closing ceremony",
+      "zh-CN": "Post Malone登上FIFA 2026™世界杯闭幕式头条"
+    },
+    "summary": {
+      "en": "Post Malone to headline FIFA World Cup 2026™ closing ceremony"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/post-malone-headline-world-cup-2026-closing-ceremony"
+  },
+  {
+    "id": "N_FIFA_16118",
+    "type": "official",
+    "date": "2026-07-14",
+    "likes": 241,
+    "title": {
+      "en": "FIFA World Cup 2026™ closing ceremony to celebrate historic tournament ahead of the final",
+      "zh-CN": "2026年FIFA世界杯™闭幕式，在决赛前庆祝历史悠久的比赛"
+    },
+    "summary": {
+      "en": "FIFA World Cup 2026™ closing ceremony to celebrate historic tournament ahead of the final"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-closing-ceremony-celebrate-historic-tournament-ahead-final"
+  },
+  {
     "id": "N_RSS_13946",
     "type": "official",
     "date": "2026-08-09",
@@ -246,226 +466,5 @@
     },
     "source": "FIFA Official",
     "url": "https://www.inside.fifa.com/media-releases/louis-vuitton-trophy-trunk-world-cup-2026-final-official-supplier-branded-licensee"
-  },
-  {
-    "id": "N_RSS_84009",
-    "type": "official",
-    "date": "2026-08-09",
-    "likes": 300,
-    "title": {
-      "en": "FIFA hits out at critics trying to 'undermine' Infantino",
-      "zh-CN": "国际足联抨击批评者试图“破坏”因凡蒂诺"
-    },
-    "summary": {
-      "en": "FIFA has hit out at \"a concerted and ongoing effort by some to undermine\" the governing body and president Gianni Infantino over claims surrounding his conduct at UEFA.",
-      "zh-CN": "国际足联抨击了“一些人持续不断地破坏”管理机构和主席詹尼·因凡蒂诺（ Gianni Infantino ）关于他在欧足联行为的指控。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13571297/gianni-infantino-fifa-hits-out-at-critics-trying-to-undermine-president-amid-ongoing-allegations"
-  },
-  {
-    "id": "N_RSS_8903",
-    "type": "official",
-    "date": "2026-08-09",
-    "likes": 230,
-    "title": {
-      "en": "‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese",
-      "zh-CN": "“这是一种真正的艺术形式” ：尼日利亚守门员Maduka Okoye讲述乌迪内斯的高端时尚和生活"
-    },
-    "summary": {
-      "en": "The former Watford player talks about his off-field pursuits, lessons from the World Cup and unfinished businessWhen Maduka Okoye visited Paris fashion week for the Jean Paul Gaultier show, taking...",
-      "zh-CN": "这位前沃特福德球员谈到了他的场外追求、世界杯的经验教训和未完成的事业。当Maduka Okoye参观巴黎时装周参加Jean-Paul Gaultier时装秀时，他带着……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/09/nigeria-udinese-goalkeeper-maduka-okoye-football-high-fashion-interview"
-  },
-  {
-    "id": "N_RSS_82608",
-    "type": "official",
-    "date": "2026-08-09",
-    "likes": 222,
-    "title": {
-      "en": "How Trabzonspor shocked Turkish rivals to make Mohamed Salah their Black Sea saviour",
-      "zh-CN": "Trabzonspor如何震惊土耳其竞争对手，让穆罕默德·萨拉赫成为他们的黑海救世主"
-    },
-    "summary": {
-      "en": "Never before has a big name rejected Istanbul for Trabzon, but former Liverpool striker was offered more than richesIt began with a text sent during the World Cup. Ertugrul Dogan, the president of...",
-      "zh-CN": "从来没有一个大牌拒绝伊斯坦布尔参加特拉布宗，但前利物浦前锋得到的不仅仅是财富。它始于世界杯期间发送的一条短信。Ertugrul Dogan ，总裁......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/09/mohamed-salah-trabzonspor-turkish-rivals-istanbul"
-  },
-  {
-    "id": "N_RSS_42721",
-    "type": "official",
-    "date": "2026-08-08",
-    "likes": 112,
-    "title": {
-      "en": "Watch Guimaraes' best moments after Arsenal sign midfield maestro",
-      "zh-CN": "观看阿森纳签下中场大师后吉马良斯的最佳时刻"
-    },
-    "summary": {
-      "en": "Watch Bruno Guimaraes' best Premier League moments after Arsenal sign the Brazil midfielder from Newcastle.",
-      "zh-CN": "在阿森纳从纽卡斯尔签下这位巴西中场球员之后，观看布鲁诺·吉马良斯最好的英超联赛时刻。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cp3r469vq79o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_13592",
-    "type": "official",
-    "date": "2026-08-08",
-    "likes": 199,
-    "title": {
-      "en": "Arsenal sign Guimaraes from Newcastle in £75m deal",
-      "zh-CN": "阿森纳以7500万英镑的价格从纽卡斯尔签下吉马良斯"
-    },
-    "summary": {
-      "en": "Premier League champions Arsenal sign Brazil midfielder Bruno Guimaraes from Newcastle United for £75m.",
-      "zh-CN": "英超冠军阿森纳以7500万英镑的价格从纽卡斯尔联队签下巴西中场布鲁诺·吉马良斯。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1719r079rjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_61323",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 71,
-    "title": {
-      "en": "Politicians, private jets and power - the life of a Fifa president",
-      "zh-CN": "政客、私人飞机和权力--国际足联主席的生活"
-    },
-    "summary": {
-      "en": "Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy.",
-      "zh-CN": "在世界杯私人投资计划失败后，国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）似乎正试图恢复正常营业，但这可能并不容易。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_53348",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 170,
-    "title": {
-      "en": "Infantino’s World Cup sell-off debacle has rocked football but Fifa’s crisis has deep and rotten roots",
-      "zh-CN": "因凡蒂诺的世界杯抛售崩溃震撼了足球，但国际足联的危机有着深刻而腐烂的根源"
-    },
-    "summary": {
-      "en": "It has been a remarkable few days for an institution that may be irredeemable but this is a story that stretches back to a decision in 2010There are decades in which nothing happens, and weeks in...",
-      "zh-CN": "对于一个可能无法挽回的机构来说，这是非凡的几天，但这个故事可以追溯到2010年的决定有几十年什么都没有发生，几周......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/07/gianni-infantino-world-cup-sell-off-debacle-fifa-crisis"
-  },
-  {
-    "id": "N_RSS_20451",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 259,
-    "title": {
-      "en": "The Guardian view on Gianni Infantino: in the interests of the game he professes to love, he should go | Editorial",
-      "zh-CN": "卫报对Gianni Infantino的看法：为了他声称喜欢的游戏的利益，他应该去|社论"
-    },
-    "summary": {
-      "en": "The Fifa president’s attempt to brazen out the storm, after attempting to sell a stake in the World Cup to private equity, adds insult to injury “How did you go bankrupt?” a character is asked in...",
-      "zh-CN": "这位国际足联主席在试图将世界杯的股份出售给私募股权公司之后，试图厚颜无耻地摆脱这场风暴，这增加了对伤害的侮辱“你是怎么破产的？”一个角色被问到......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/commentisfree/2026/aug/07/the-guardian-view-on-gianni-infantino-in-the-interests-of-the-game-he-professes-to-love-he-should-go"
-  },
-  {
-    "id": "N_RSS_36143",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 54,
-    "title": {
-      "en": "Football Daily | Vinícius Júnior and a fantasy world of transfers in the football lull",
-      "zh-CN": "《足球日报》| Vinícius Júnior和梦幻般的足球转会世界"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!“We were so close … At the end of the day, really, they made him an offer he couldn’t refuse … It shows where we’re trying to aim for the club …...",
-      "zh-CN": "立即注册！立即注册！立即注册？立即注册！ “我们是如此接近……在一天结束时，真的，他们向他提出了一个他无法拒绝的报价……这表明了我们试图瞄准俱乐部的目标……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/07/football-daily-email-vinicius-junior"
-  },
-  {
-    "id": "N_RSS_66782",
-    "type": "official",
-    "date": "2026-08-07",
-    "likes": 274,
-    "title": {
-      "en": "Football transfer rumours: Cristian Romero to leave Spurs for … Arsenal?",
-      "zh-CN": "足球转会传闻：克里斯蒂安·罗梅罗（ Cristian Romero ）离开马刺队前往……阿森纳？"
-    },
-    "summary": {
-      "en": "Today’s rumours wonder what it’s got to do with AberdeenTwenty-five years after Sol Campbell’s move from White Hart Lane to Highbury, are we finally getting a sequel? Cristian Romero, Tottenham’s...",
-      "zh-CN": "今天的谣言想知道它与阿伯丁有什么关系索尔·坎贝尔从白鹿巷搬到海布里25年后，我们终于有了续集吗？克里斯蒂安·罗梅罗，托特纳姆热刺的……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/07/football-transfer-rumours-cristian-romero-spurs-arsenal-atletico-inter"
-  },
-  {
-    "id": "N_RSS_13756",
-    "type": "official",
-    "date": "2026-08-04",
-    "likes": 156,
-    "title": {
-      "en": "New MLS commissioner says promotion and relegation won’t be coming ‘anytime soon’",
-      "zh-CN": "新的MLS专员表示，晋升和降级不会“很快”到来"
-    },
-    "summary": {
-      "en": "Larry Berg officially introduced to media and MLS staffBerg to take over for Don Garber on 1 January 2027MLS will have a new commissioner starting in 2027, but don’t expect the league to adopt the...",
-      "zh-CN": "拉里·伯格（ Larry Berg ）正式向媒体和MLS工作人员介绍伯格（ Berg ）将于2027年1月1日接替唐·加伯（ Don Garber ） ， MLS将于2027年开始任命一位新的专员，但不要指望联盟会采用..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/04/mls-larry-berg-promotion-relegation-comissioner"
-  },
-  {
-    "id": "N_FIFA_53555",
-    "type": "official",
-    "date": "2026-07-28",
-    "likes": 91,
-    "title": {
-      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations",
-      "zh-CN": "国际足联打算将足球发展资金扩大到超过100亿美元，但须经国际足联成员协会批准"
-    },
-    "summary": {
-      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/intends-expand-football-development-funding-usd-10-billion-subject-approval-member-associations"
-  },
-  {
-    "id": "N_FIFA_52704",
-    "type": "official",
-    "date": "2026-07-27",
-    "likes": 152,
-    "title": {
-      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries",
-      "zh-CN": "FIFA Fan Festival™在三个东道国举办了破纪录的庆祝活动，为数百万人提供了历史悠久的FIFA World Cup 2026™体验"
-    },
-    "summary": {
-      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/fan-festival-extends-historic-world-cup-2026-experience-millions-record-breaking-celebrations-host-countries"
-  },
-  {
-    "id": "N_FIFA_26502",
-    "type": "official",
-    "date": "2026-07-20",
-    "likes": 297,
-    "title": {
-      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale",
-      "zh-CN": "西班牙完成了前所未有的全球翻倍，球场上的新里程碑定义了历史性的FIFA 2026世界杯™决赛"
-    },
-    "summary": {
-      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/spain-unprecedented-global-double-new-milestones-historic-world-cup-2026"
   }
 ]
