@@ -1,5 +1,145 @@
 [
   {
+    "id": "N_RSS_1866",
+    "type": "official",
+    "date": "2026-08-17",
+    "likes": 234,
+    "title": {
+      "en": "Rodri lands in Barcelona to complete 'dream' move",
+      "zh-CN": "罗德里在巴塞罗那登陆，完成“梦想”搬迁"
+    },
+    "summary": {
+      "en": "Spain midfielder Rodri says it is his \"dream\" to play for Barcelona as he arrives in the city to complete his move from Manchester City.",
+      "zh-CN": "西班牙中场罗德里表示，当他到达巴塞罗那完成从曼城的转会时，为巴塞罗那效力是他的“梦想”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_9151",
+    "type": "official",
+    "date": "2026-08-17",
+    "likes": 255,
+    "title": {
+      "en": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan",
+      "zh-CN": "国际足联主席在批评因凡蒂诺的世界杯抛售计划后被解雇"
+    },
+    "summary": {
+      "en": "Kevin Lamour said Fifa administration was ‘deceived’Chief operating officer knew he could lose his jobThe Fifa chief operating officer, Kevin Lamour, has been sacked after openly criticising Gianni...",
+      "zh-CN": "凯文·拉穆尔（ Kevin Lamour ）表示，国际足联行政部门被“欺骗”了。首席运营官知道他可能会失去工作。国际足联首席运营官凯文·拉穆尔（ Kevin Lamour ）在公开批评詹尼（ Gianni ）后被解雇。"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour"
+  },
+  {
+    "id": "N_RSS_21989",
+    "type": "official",
+    "date": "2026-08-17",
+    "likes": 218,
+    "title": {
+      "en": "‘I’ll remember it for the rest of my life’: the footballers whose biggest games come before their league begins",
+      "zh-CN": "“我会在我的余生中记住它” ：在他们的联赛开始之前最大的比赛的足球运动员"
+    },
+    "summary": {
+      "en": "Larne defender Dan Bent has played in two European competitions this summer and now faces a former team in a Conference League tie that could earn his club vital fundsBy Playing in the ShadowsPremier...",
+      "zh-CN": "拉恩的后卫丹·本特（ Dan Bent ）今年夏天参加了两场欧洲比赛，现在面对的是一支联盟联赛的前球队，这支球队可以为他的俱乐部赢得重要的资金。通过在阴影中打球，总理......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/17/footballers-games-champions-league-europa-conference-prize-money"
+  },
+  {
+    "id": "N_RSS_65003",
+    "type": "official",
+    "date": "2026-08-14",
+    "likes": 61,
+    "title": {
+      "en": "Football Daily | Rangers and the paradox of a painful exit that boosts their trophy chances",
+      "zh-CN": "足球日报|流浪者和痛苦的退出悖论，增加了他们的奖杯机会"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!All new managers want to hit the ground running. But landing with a dull thud has never been a barrier to future glory, certainly not at Ibrox. Take...",
+      "zh-CN": "立即注册！立即注册！立即注册？立即注册！所有新经理都希望开始工作。但带着沉闷的砰砰声降落从来都不是未来荣耀的障碍，当然也不是在伊布罗克斯。拿……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/14/rangers-football-daily-newsletter"
+  },
+  {
+    "id": "N_RSS_18880",
+    "type": "official",
+    "date": "2026-08-12",
+    "likes": 291,
+    "title": {
+      "en": "Saudi Pro League tries to move on from era of ageing megastar but big names still loom | John Duerden",
+      "zh-CN": "沙特职业联赛试图从老龄化的巨星时代继续前进，但大牌仍在酝酿之中| John Duerden"
+    },
+    "summary": {
+      "en": "As Ronaldo heads towards 1,000 career goals, the league plans to lift the standard of Saudi Arabian football, not just the clubsThere is no Mohamed Salah in the new Saudi&nbsp;Pro League season that...",
+      "zh-CN": "随着罗纳尔多迈向1000个职业目标，联盟计划提升沙特阿拉伯足球的标准，而不仅仅是俱乐部在新的沙特职业联赛赛季中没有穆罕默德·萨拉赫......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/12/saudi-pro-league-ageing-overseas-stars-local-talent-investment"
+  },
+  {
+    "id": "N_FIFA_91511",
+    "type": "official",
+    "date": "2026-08-04",
+    "likes": 230,
+    "title": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联为国际足联女足世界杯巴西2027™推出可持续发展和人权战略"
+    },
+    "summary": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
+  },
+  {
+    "id": "N_FIFA_64268",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 244,
+    "title": {
+      "en": "Statement attributable to the FIFA President",
+      "zh-CN": "国际足联主席的声明"
+    },
+    "summary": {
+      "en": "Statement attributable to the FIFA President"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/statement-attributable-president"
+  },
+  {
+    "id": "N_FIFA_93551",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 343,
+    "title": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension",
+      "zh-CN": "Visa和国际足联通过延续合作伙伴关系取得了近20年的成功"
+    },
+    "summary": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/visa-fifa-success-partnership-extension"
+  },
+  {
+    "id": "N_FIFA_45641",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 142,
+    "title": {
+      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale",
+      "zh-CN": "西班牙完成了前所未有的全球翻倍，球场上的新里程碑定义了历史性的FIFA 2026世界杯™决赛"
+    },
+    "summary": {
+      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/spain-unprecedented-global-double-new-milestones-historic-world-cup-2026"
+  },
+  {
     "id": "N_RSS_29002",
     "type": "official",
     "date": "2026-08-17",
@@ -327,149 +467,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window"
-  },
-  {
-    "id": "N_RSS_60428",
-    "type": "official",
-    "date": "2026-08-16",
-    "likes": 55,
-    "title": {
-      "en": "'Probably my last year' - Ronaldo hints at retirement",
-      "zh-CN": "“可能是我的最后一年” -罗纳尔多暗示退休"
-    },
-    "summary": {
-      "en": "Cristiano Ronaldo says this season will probably be his last as a player after a glittering football career.",
-      "zh-CN": "克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）表示，本赛季可能是他在经历了辉煌的足球生涯后"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c3300lxjz7lo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_18995",
-    "type": "official",
-    "date": "2026-08-16",
-    "likes": 125,
-    "title": {
-      "en": "Cristiano Ronaldo says this year is ‘probably’ his last as a footballer",
-      "zh-CN": "克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）表示，今年“可能”是他作为足球运动员的"
-    },
-    "summary": {
-      "en": "Al-Nassr and Portugal forward expects to retire soonRonaldo has more than 950 goals for club and countryCristiano Ronaldo believes this year is “probably” his last as a professional footballer, the...",
-      "zh-CN": "纳斯尔和葡萄牙前锋预计很快退役罗纳尔多在俱乐部和国家队有超过950个进球克里斯蒂亚诺·罗纳尔多认为，今年“可能”是他作为职业足球运动员的最后一年。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/16/cristiano-ronaldo-says-this-year-is-probably-his-last-as-a-footballer"
-  },
-  {
-    "id": "N_RSS_27719",
-    "type": "official",
-    "date": "2026-08-15",
-    "likes": 97,
-    "title": {
-      "en": "Why Michaely Bihina is the keeper making waves at Wafcon",
-      "zh-CN": "为什么Michaely Bihina是Wafcon的掌门人"
-    },
-    "summary": {
-      "en": "Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 Wafcon final.",
-      "zh-CN": "喀麦隆的球迷希望为米歇尔·比希纳（ Michaely Bihina ）建造一座雕像，此前她对摩洛哥进行了四次点球扑救，以帮助喀麦隆进入2026年沃夫康决赛。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_1341",
-    "type": "official",
-    "date": "2026-08-15",
-    "likes": 256,
-    "title": {
-      "en": "London City Lionesses’ Mapi León: ‘It is a club created for women. It is beautiful and exciting’",
-      "zh-CN": "伦敦城市女狮队的Mapi León ： “这是一个为女性打造的俱乐部。它既美丽又令人兴奋’"
-    },
-    "summary": {
-      "en": "Spain defender on swapping Barcelona for Bromley, embracing the contrasting style of the WSL – and her newfound love for beans and crumpets‘No, I can’t, I’m sorry, it’s a secret!” Mapi León roars...",
-      "zh-CN": "西班牙后卫将巴塞罗那换成了布罗姆利，拥抱WSL对比鲜明的风格–以及她对豆子和饼干的新爱'不，我不能，对不起，这是个秘密！ ”Mapi León怒吼着……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/15/london-city-lionesses-mapi-leon-it-is-a-club-created-for-women-it-is-beautiful-and-exciting"
-  },
-  {
-    "id": "N_RSS_10819",
-    "type": "official",
-    "date": "2026-08-15",
-    "likes": 284,
-    "title": {
-      "en": "Women’s U20 World Cup boycott may hurt in short term but can send Fifa a vital message | Tom Garry",
-      "zh-CN": "女子U20世界杯抵制可能会在短期内造成伤害，但可以向国际足联发出重要信息| Tom Garry"
-    },
-    "summary": {
-      "en": "Women’s football has much to gain from the kind of reforms that threats to snub upcoming tournaments might prompt. Infantino should be taken on“And I say to all the women … Pick the right battles....",
-      "zh-CN": "女子足球可以从对即将到来的比赛的冷落威胁可能促使的那种改革中获益良多。Infantino应该承担“我对所有女性说……选择正确的战斗……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/15/womens-u20-world-cup-boycott-may-hurt-in-short-term-but-can-send-fifa-a-vital-message"
-  },
-  {
-    "id": "N_RSS_83436",
-    "type": "official",
-    "date": "2026-08-13",
-    "likes": 92,
-    "title": {
-      "en": "Football Daily | Brian Madjo and the tendency to lump expectations on young shoulders",
-      "zh-CN": "《足球日报》|布莱恩·马乔（ Brian Madjo ）以及对年轻肩膀的期望过高的倾向"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Aston Villa supporters could have been forgiven for approaching the new season with feelings of great anxiety, nagging angst and face-twitching...",
-      "zh-CN": "立即注册！立即注册！立即注册？立即注册！阿斯顿维拉的支持者本可以原谅他们带着极大的焦虑、唠叨的焦虑和面部抽搐的感觉接近新赛季……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/13/brian-madjo-expectations-young-shoulders-aston-villa-psg-football-daily"
-  },
-  {
-    "id": "N_RSS_96655",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 288,
-    "title": {
-      "en": "Top Fifa official sacked after Infantino plan criticism",
-      "zh-CN": "国际足联高级官员在因凡蒂诺计划批评后被解雇"
-    },
-    "summary": {
-      "en": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino.",
-      "zh-CN": "国际足联高级人物凯文·拉穆尔（ Kevin Lamour ）在批评其主席詹尼·因凡蒂诺（ Gianni Infantino ）三周后被足球世界管理机构解雇。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_60906",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 166,
-    "title": {
-      "en": "Man City move for £85m Bouaddi and still want Fernandez",
-      "zh-CN": "曼城以8500万£ Bouaddi转会，但仍然想要费尔南德斯"
-    },
-    "summary": {
-      "en": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
-      "zh-CN": "曼城正在与里尔就摩洛哥中场球员阿尤布·布阿迪的转会进行高级谈判。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_47673",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 154,
-    "title": {
-      "en": "Bronze explains out-of-character contract extension",
-      "zh-CN": "Bronze解释了超出字符的合同延期"
-    },
-    "summary": {
-      "en": "England defender Lucy Bronze says she has found a \"really good role\" at a club she is \"comfortable\" with, after signing a rare contract extension with Chelsea.",
-      "zh-CN": "英格兰后卫露西·青铜（ Lucy Bronze ）表示，在与切尔西签下罕见的续约合同后，她在一家“舒服”的俱乐部找到了一个“非常好的角色”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cy4kge80l1eo?at_medium=RSS&at_campaign=rss"
   }
 ]
