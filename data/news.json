@@ -1,5 +1,131 @@
 [
   {
+    "id": "N_RSS_59808",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 198,
+    "title": {
+      "en": "Sunday date for Old Firm in League Cup quarter-finals",
+      "zh-CN": "联赛杯四分之一决赛中Old Firm的周日日期"
+    },
+    "summary": {
+      "en": "Rangers are to host Celtic at noon on Sunday 13 September in the last of the Premier Sports Cup quarter finals, while there is a Friday night kick-off for Stenhousemuir v Hearts.",
+      "zh-CN": "流浪者将于9月13日星期日中午在英超体育杯四分之一决赛的最后一场比赛中主办凯尔特人，而Stenhousemuir v Hearts则将在周五晚上开球。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c74gey82yxwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_256",
+    "type": "official",
+    "date": "2026-08-17",
+    "likes": 121,
+    "title": {
+      "en": "Rubin Colwill’s last-gasp free-kick earns Cardiff dramatic point against Wrexham",
+      "zh-CN": "鲁宾·科尔维尔（ Rubin Colwill ）的最后一轮任意球在对阵雷克瑟姆的比赛中获得了卡迪夫的戏剧性分"
+    },
+    "summary": {
+      "en": "Rubin Colwill scored a ferocious equaliser with almost the final kick of the match to earn Cardiff a 1-1 Championship draw with Wrexham.Wrexham appeared to have the Welsh derby bragging rights sewn...",
+      "zh-CN": "鲁宾·科尔维尔（ Rubin Colwill ）几乎在比赛的最后一脚打进了一个凶猛的均衡器，与雷克瑟姆（ Wrexham ）一起为加的夫（ Cardiff ）赢得了1-1的冠军平局。雷克瑟姆（ Wrexham ）似乎缝制了威尔士德比（ Welsh derby ）吹"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/17/wrexham-cardiff-championship-match-report"
+  },
+  {
+    "id": "N_RSS_17293",
+    "type": "official",
+    "date": "2026-08-17",
+    "likes": 263,
+    "title": {
+      "en": "Tottenham goalkeeper Guglielmo Vicario to leave for Juventus in loan deal",
+      "zh-CN": "托特纳姆热刺守门员Guglielmo Vicario将以租借合同离开尤文图斯"
+    },
+    "summary": {
+      "en": "Vicario has lost No 1 slot at Spurs to Antonin KinskyCoventry and Ipswich also busy in the marketJuventus have agreed a deal with Tottenham for Guglielmo Vicario to join on an initial loan after the...",
+      "zh-CN": "维卡里奥在马刺队输给了安东宁·金斯基考文垂，而伊普斯维奇也忙于市场。尤文图斯已与托特纳姆热刺达成协议，让古列尔莫·维卡里奥在……之后加入初始贷款。"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/17/tottenham-guglielmo-vicario-spurs-juventus-loan-deal-transfer-window"
+  },
+  {
+    "id": "N_RSS_78842",
+    "type": "official",
+    "date": "2026-08-16",
+    "likes": 278,
+    "title": {
+      "en": "Cameroon claim first Wafcon title with victory over Malawi",
+      "zh-CN": "喀麦隆夺得首个Wafcon冠军头衔，战胜马拉维"
+    },
+    "summary": {
+      "en": "Marie Ngah Manga scores twice as Cameroon cruise to a 3-0 win over Malawi and claim a first ever Women's Africa Cup of Nations title.",
+      "zh-CN": "Marie Ngah Manga的得分是喀麦隆巡航的两倍，以3比0战胜马拉维，并获得了有史以来第一个女子非洲国家杯冠军。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crl77w8y8r3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_50947",
+    "type": "official",
+    "date": "2026-08-16",
+    "likes": 132,
+    "title": {
+      "en": "Arsenal’s midfield depth signals ominous warning to title rivals – and Maresca’s City | Ed Aarons",
+      "zh-CN": "阿森纳的中场深度标志着对冠军对手的不祥警告–以及马雷斯卡的城市|埃德·亚伦斯"
+    },
+    "summary": {
+      "en": "Additions of Guimarães and Tzolis, plus re-emergence of Ødegaard, mean champions start clear favourites after Community Shield winIf this was a glimpse of the Premier League’s new order then the rest...",
+      "zh-CN": "吉马良斯（ Guimarães ）和佐利斯（ Tzolis ）的加入，以及Ødegaard的重新出现，意味着冠军在社区盾获胜后开始明确的最爱如果这是英超联赛新订单的一瞥，那么其余的..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+  },
+  {
+    "id": "N_RSS_83952",
+    "type": "official",
+    "date": "2026-08-16",
+    "likes": 149,
+    "title": {
+      "en": "End of an era? South Korea’s sun sets in the Premier League but Japan rise",
+      "zh-CN": "一个时代的结束？韩国的太阳在英超联赛中落下，但日本崛起"
+    },
+    "summary": {
+      "en": "After glory days of Park Ji-sung and Son Heung-min, the new season could be Korean-free for first time since 2005It has been a cruel summer for South Korea. The national team crashed and burned at...",
+      "zh-CN": "在朴智成（ Park Ji-sung ）和孙兴敏（ Son Heung-min ）的辉煌岁月之后，新赛季可能自2005年以来首次实现无韩国游客。这对韩国来说是一个残酷的国家队坠毁，烧毁在……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/16/end-of-era-south-korea-japan-premier-league"
+  },
+  {
+    "id": "N_FIFA_47943",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 197,
+    "title": {
+      "en": "FIFA World Cup 2026™ by the numbers: inside the unprecedented operation behind the biggest sporting event in history",
+      "zh-CN": "2026年FIFA世界杯™的数字：历史上最大的体育赛事背后的前所未有的运作"
+    },
+    "summary": {
+      "en": "FIFA World Cup 2026™ by the numbers: inside the unprecedented operation behind the biggest sporting event in history"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-numbers-unprecedented-operation-behind-biggest-sporting-event-history"
+  },
+  {
+    "id": "N_FIFA_469",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 262,
+    "title": {
+      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries",
+      "zh-CN": "FIFA Fan Festival™在三个东道国举办了破纪录的庆祝活动，为数百万人提供了历史悠久的FIFA World Cup 2026™体验"
+    },
+    "summary": {
+      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/fan-festival-extends-historic-world-cup-2026-experience-millions-record-breaking-celebrations-host-countries"
+  },
+  {
     "id": "N_RSS_61133",
     "type": "official",
     "date": "2026-08-18",
@@ -344,131 +470,5 @@
     },
     "source": "Sky Sports",
     "url": "https://www.skysports.com/football/news/11095/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson"
-  },
-  {
-    "id": "N_RSS_22205",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 137,
-    "title": {
-      "en": "Guardiola’s row with Walker at Manchester City revealed in new Amazon documentary",
-      "zh-CN": "瓜迪奥拉与沃克在曼城的争吵在亚马逊的新纪录片中揭晓"
-    },
-    "summary": {
-      "en": "Amazon Prime captures strain of manager’s final seasonClub chair says Spaniard threatened to leave ‘100 times’Pep Guardiola clashed with his captain and almost broke down in tears as he railed at...",
-      "zh-CN": "亚马逊Prime捕获了经理最后一个赛季的压力俱乐部主席说，西班牙人威胁要离开“100次”瓜迪奥拉与他的船长发生冲突，当他咆哮时几乎泪流满面......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/pep-guardiola-row-kyle-walker-manchester-city-revealed-new-amazon-documentary"
-  },
-  {
-    "id": "N_RSS_42796",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 199,
-    "title": {
-      "en": "Rodri calls it ‘a dream to play for Barcelona’ as he flies in for medical",
-      "zh-CN": "罗德里称之为“为巴塞罗那踢球的梦想” ，因为他飞来接受医疗"
-    },
-    "summary": {
-      "en": "Spain midfielder in £65.4m move from Manchester City‘I’m happy that everything has been resolved’Rodri has said it is “a dream” to play for Barcelona after landing in Catalonia on Monday to complete...",
-      "zh-CN": "西班牙中场球员£ 6540万从曼城转会'我很高兴一切都已经解决了'罗德里表示，在周一登陆加泰罗尼亚完成比赛后，为巴塞罗那效力是“一个梦想”......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/16/rodri-set-to-complete-barcelona-move-after-manchester-city-accept-654m-bid"
-  },
-  {
-    "id": "N_RSS_14349",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 102,
-    "title": {
-      "en": "Premier League 2026-27 preview No 13: Leeds",
-      "zh-CN": "英超联赛2026-27预览第13名：利兹"
-    },
-    "summary": {
-      "en": "After keeping Leeds up last season and reaching an FA Cup semi-final, Daniel Farke has good reason to expect further improvement at Elland RoadGuardian writers’ predicted position: 12th (NB: this is...",
-      "zh-CN": "在上赛季保持利兹队并进入足总杯半决赛之后，丹尼尔·法克有充分的理由期待埃兰·罗德（ Elland RoadGuardian ）作家的预测位置进一步提高：第12名（注：这是……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-13-leeds"
-  },
-  {
-    "id": "N_RSS_2390",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 159,
-    "title": {
-      "en": "Baller League to no longer be shown live on Sky Sports from next season",
-      "zh-CN": "从下个赛季开始， Baller League将不再在天空体育直播"
-    },
-    "summary": {
-      "en": "Season 4 of tournament will still be on YouTubeKSI’s Prime FC won Season 3 final at the O2 Arena in MaySky Sports will not broadcast next season’s Baller League, the celebrity six-a-side competition...",
-      "zh-CN": "锦标赛的第4赛季仍将在YouTubeKSI的Prime FC获胜的第3赛季决赛中在O2竞技场举行MaySky Sports不会播出下赛季的Baller League ，名人六人制比赛......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/17/baller-league-live-sky-sports-season-ksi-prime-fc"
-  },
-  {
-    "id": "N_RSS_51884",
-    "type": "official",
-    "date": "2026-08-12",
-    "likes": 237,
-    "title": {
-      "en": "Australia’s brightest young talents are on the move and it bodes well for the Socceroos | Jack Snape",
-      "zh-CN": "澳大利亚最聪明的年轻人才正在移动，这对足球运动员来说是个好兆头|杰克·斯内普"
-    },
-    "summary": {
-      "en": "Headlined by Lucas Herrington’s record move to Hull City, almost a third of the World Cup squad are changing clubs with January’s Asian Cup loomingFrom Socceroos to soccer-moves, the World Cup has...",
-      "zh-CN": "以卢卡斯·赫林顿（ Lucas Herrington ）创纪录的转会赫尔城（ Hull City ）为标题，近三分之一的世界杯阵容正在改变俱乐部，一月份的亚洲杯即将到来从足球到足球比赛，世界杯已经..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/12/australia-football-talent-socceroos-lucas-herrington-nestory-irankunda-transfers-premier-league"
-  },
-  {
-    "id": "N_RSS_47244",
-    "type": "official",
-    "date": "2026-08-12",
-    "likes": 154,
-    "title": {
-      "en": "‘It’s a nice hobby’: Manchester United’s Janina Leitzig on goalkeeping and gardening",
-      "zh-CN": "“这是一个很好的爱好” ：曼联的Janina Leitzig讲述守门和园艺"
-    },
-    "summary": {
-      "en": "The former Leicester player’s focus has moved from runner beans to running drills as the season approachesWith some parts of England gearing up for a fifth heatwave of 2026 the new Manchester United...",
-      "zh-CN": "随着赛季的临近，这位前莱斯特球员的注意力已经从跑步豆转向跑步训练随着英格兰的一些地区为2026年的第五次热浪做好准备，新的曼联..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/12/manchester-united-janina-leitzig-interview-on-goalkeeping-and-gardening"
-  },
-  {
-    "id": "N_FIFA_47991",
-    "type": "official",
-    "date": "2026-08-05",
-    "likes": 203,
-    "title": {
-      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco",
-      "zh-CN": "国际足联领导人在摩洛哥拉巴特举行建设性和积极的会晤"
-    },
-    "summary": {
-      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/leadership-constructive-positive-talks-rabat-morocco"
-  },
-  {
-    "id": "N_FIFA_7590",
-    "type": "official",
-    "date": "2026-07-31",
-    "likes": 168,
-    "title": {
-      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal",
-      "zh-CN": "对国际足联前进企业（ FFE ）提案的澄清"
-    },
-    "summary": {
-      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/clarifications-fifa-forward-enterprise-ffe-proposal"
   }
 ]
