@@ -1,5 +1,128 @@
 [
   {
+    "id": "N_RSS_74269",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 102,
+    "title": {
+      "en": "Man City have signed Anderson - why do they also want Bouaddi?",
+      "zh-CN": "曼城已经签下了安德森-为什么他们也想要Bouaddi ？"
+    },
+    "summary": {
+      "en": "Those who followed Morocco's recent World Cup campaign will recognise the name Ayyoub Bouaddi. Perhaps those who only took a passing glance will remember him, too. He tends to stand out.",
+      "zh-CN": "那些关注摩洛哥最近的世界杯活动的人会认出Ayyoub Bouaddi这个名字。也许那些只是匆匆一瞥的人也会记住他。他倾向于脱颖而出。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13571912/ayyoub-bouaddi-transfer-why-do-man-city-want-to-spend-big-on-another-midfielder-after-signing-elliot-anderson"
+  },
+  {
+    "id": "N_RSS_27297",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 234,
+    "title": {
+      "en": "Vieira named Senegal head coach",
+      "zh-CN": "维埃拉被任命为塞内加尔主教练"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/11095/12507208/football-latest-news-gossip"
+  },
+  {
+    "id": "N_RSS_26110",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 267,
+    "title": {
+      "en": "Lankshear on fire for Middlesbrough: Did Spurs just sell the next Kane?",
+      "zh-CN": "兰克希尔（ Lankshear ）为米德尔斯堡（ Middlesbrough ）着火：马刺队刚刚卖掉了下一个凯"
+    },
+    "summary": {
+      "en": "\"A lot of people questioned it,\" Scott Chickelday tells Sky Sports. \"Those same people are now looking at it and thinking, hang on, we might have got a bit of a bargain here.\" Such has been the start...",
+      "zh-CN": "“很多人都对此提出质疑，” Scott Chickelday告诉天空体育。“那些人现在正在看着它，想，等等，我们在这里可能有点讨价还价。“这就是开始……"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13570574/will-lankshear-is-middlesbroughs-new-striker-the-next-harry-kane-rise-of-ex-tottenham-forward-set-to-light-up-championship"
+  },
+  {
+    "id": "N_RSS_23887",
+    "type": "official",
+    "date": "2026-08-12",
+    "likes": 89,
+    "title": {
+      "en": "Saudi Pro League tries to move on from era of ageing megastar but big names still loom | John Duerden",
+      "zh-CN": "沙特职业联赛试图从老龄化的巨星时代继续前进，但大牌仍在酝酿之中| John Duerden"
+    },
+    "summary": {
+      "en": "As Ronaldo heads towards 1,000 career goals, the league plans to lift the standard of Saudi Arabian football, not just the clubsThere is no Mohamed Salah in the new Saudi&nbsp;Pro League season that...",
+      "zh-CN": "随着罗纳尔多迈向1000个职业目标，联盟计划提升沙特阿拉伯足球的标准，而不仅仅是俱乐部在新的沙特职业联赛赛季中没有穆罕默德·萨拉赫......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/12/saudi-pro-league-ageing-overseas-stars-local-talent-investment"
+  },
+  {
+    "id": "N_FIFA_26431",
+    "type": "official",
+    "date": "2026-08-04",
+    "likes": 194,
+    "title": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联为国际足联女足世界杯巴西2027™推出可持续发展和人权战略"
+    },
+    "summary": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
+  },
+  {
+    "id": "N_FIFA_98198",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 142,
+    "title": {
+      "en": "Statement attributable to the FIFA President",
+      "zh-CN": "国际足联主席的声明"
+    },
+    "summary": {
+      "en": "Statement attributable to the FIFA President"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/statement-attributable-president"
+  },
+  {
+    "id": "N_FIFA_33508",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 285,
+    "title": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension",
+      "zh-CN": "Visa和国际足联通过延续合作伙伴关系取得了近20年的成功"
+    },
+    "summary": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/visa-fifa-success-partnership-extension"
+  },
+  {
+    "id": "N_FIFA_2909",
+    "type": "official",
+    "date": "2026-07-20",
+    "likes": 280,
+    "title": {
+      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale",
+      "zh-CN": "西班牙完成了前所未有的全球翻倍，球场上的新里程碑定义了历史性的FIFA 2026世界杯™决赛"
+    },
+    "summary": {
+      "en": "Spain complete unprecedented global double as new milestones on the pitch define historic FIFA World Cup 2026™ finale"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/spain-unprecedented-global-double-new-milestones-historic-world-cup-2026"
+  },
+  {
     "id": "N_RSS_35825",
     "type": "official",
     "date": "2026-08-18",
@@ -346,131 +469,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/aug/15/womens-u20-world-cup-boycott-may-hurt-in-short-term-but-can-send-fifa-a-vital-message"
-  },
-  {
-    "id": "N_FIFA_69865",
-    "type": "official",
-    "date": "2026-07-28",
-    "likes": 288,
-    "title": {
-      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations",
-      "zh-CN": "国际足联打算将足球发展资金扩大到超过100亿美元，但须经国际足联成员协会批准"
-    },
-    "summary": {
-      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/intends-expand-football-development-funding-usd-10-billion-subject-approval-member-associations"
-  },
-  {
-    "id": "N_FIFA_30835",
-    "type": "official",
-    "date": "2026-07-27",
-    "likes": 224,
-    "title": {
-      "en": "Expressions of interest now open for potential FIFA Women’s World Cup Brazil 2027™ volunteers",
-      "zh-CN": "FIFA女足世界杯巴西2027™志愿者现已开始表达兴趣"
-    },
-    "summary": {
-      "en": "Expressions of interest now open for potential FIFA Women’s World Cup Brazil 2027™ volunteers"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/expressions-interest-open-womens-world-cup-brazil-volunteers"
-  },
-  {
-    "id": "N_RSS_63844",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 261,
-    "title": {
-      "en": "Guardiola-Walker fallout revealed in new documentary",
-      "zh-CN": "瓜迪奥拉-沃克沉降物在新纪录片中曝光"
-    },
-    "summary": {
-      "en": "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.",
-      "zh-CN": "一部关于瓜迪奥拉在曼城最后两个赛季的新纪录片系列揭示了他与前队长凯尔·沃克的破裂。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_45412",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 188,
-    "title": {
-      "en": "Rodri lands in Barcelona to complete 'dream' move",
-      "zh-CN": "罗德里在巴塞罗那登陆，完成“梦想”搬迁"
-    },
-    "summary": {
-      "en": "Spain midfielder Rodri says it is his \"dream\" to play for Barcelona as he arrives in the city to complete his move from Manchester City.",
-      "zh-CN": "西班牙中场罗德里表示，当他到达巴塞罗那完成从曼城的转会时，为巴塞罗那效力是他的“梦想”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cevmw02j4nyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_71708",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 280,
-    "title": {
-      "en": "Scottish FA withdraws support for Fifa president Infantino",
-      "zh-CN": "苏格兰足协撤回对国际足联主席因凡蒂诺的支持"
-    },
-    "summary": {
-      "en": "The Scottish Football Association has lost confidence in Gianni Infantino and will not be voting for his re-election as president of Fifa, chief executive Ian Maxwell has told BBC Sport.",
-      "zh-CN": "首席执行官伊恩·麦克斯韦（ Ian Maxwell ）告诉BBC Sport ，苏格兰足球协会对詹尼·因凡蒂诺（ Gianni Infantino ）失去了信心，不会投票支持他连任国际足联主席。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/crrv4092pvlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_80282",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 277,
-    "title": {
-      "en": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan",
-      "zh-CN": "国际足联主席在批评因凡蒂诺的世界杯抛售计划后被解雇"
-    },
-    "summary": {
-      "en": "Kevin Lamour said Fifa administration was ‘deceived’Chief operating officer knew he could lose his jobThe Fifa chief operating officer, Kevin Lamour, has been sacked after openly criticising Gianni...",
-      "zh-CN": "凯文·拉穆尔（ Kevin Lamour ）表示，国际足联行政部门被“欺骗”了。首席运营官知道他可能会失去工作。国际足联首席运营官凯文·拉穆尔（ Kevin Lamour ）在公开批评詹尼（ Gianni ）后被解雇。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour"
-  },
-  {
-    "id": "N_RSS_96026",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 192,
-    "title": {
-      "en": "‘I’ll remember it for the rest of my life’: the footballers whose biggest games come before their league begins",
-      "zh-CN": "“我会在我的余生中记住它” ：在他们的联赛开始之前最大的比赛的足球运动员"
-    },
-    "summary": {
-      "en": "Larne defender Dan Bent has played in two European competitions this summer and now faces a former team in a Conference League tie that could earn his club vital fundsBy Playing in the ShadowsPremier...",
-      "zh-CN": "拉恩的后卫丹·本特（ Dan Bent ）今年夏天参加了两场欧洲比赛，现在面对的是一支联盟联赛的前球队，这支球队可以为他的俱乐部赢得重要的资金。通过在阴影中打球，总理......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/17/footballers-games-champions-league-europa-conference-prize-money"
-  },
-  {
-    "id": "N_RSS_74923",
-    "type": "official",
-    "date": "2026-08-14",
-    "likes": 84,
-    "title": {
-      "en": "Football Daily | Rangers and the paradox of a painful exit that boosts their trophy chances",
-      "zh-CN": "足球日报|流浪者和痛苦的退出悖论，增加了他们的奖杯机会"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!All new managers want to hit the ground running. But landing with a dull thud has never been a barrier to future glory, certainly not at Ibrox. Take...",
-      "zh-CN": "立即注册！立即注册！立即注册？立即注册！所有新经理都希望开始工作。但带着沉闷的砰砰声降落从来都不是未来荣耀的障碍，当然也不是在伊布罗克斯。拿……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/14/rangers-football-daily-newsletter"
   }
 ]
