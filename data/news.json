@@ -1,5 +1,209 @@
 [
   {
+    "id": "N_RSS_76813",
+    "type": "official",
+    "date": "2026-08-19",
+    "likes": 174,
+    "title": {
+      "en": "To the well and back - how Malaga returned to La Liga",
+      "zh-CN": "往返水井--马拉加如何重返西甲"
+    },
+    "summary": {
+      "en": "After tumbling from the Champions League to the depths of Spain's semi-professional third tier, Malaga are back in La Liga after almost a decade away.",
+      "zh-CN": "在从欧洲冠军联赛跌落到西班牙半职业三级联赛的深处之后，马拉加在将近十年之后回到了西甲。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn8nx2wnjq9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_45300",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 162,
+    "title": {
+      "en": "Kane set to begin talks over new Bayern contract",
+      "zh-CN": "凯恩将开始就新的拜仁合同进行谈判"
+    },
+    "summary": {
+      "en": "Harry Kane says he is ready to begin discussions with Bayern Munich over extending his contract with the Bundesliga champions.",
+      "zh-CN": "哈里·凯恩（ Harry Kane ）表示，他已准备好与拜仁慕尼黑就延长与德甲冠军的合同展开讨论。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_70344",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 238,
+    "title": {
+      "en": "Sunday date for Old Firm in League Cup quarter-finals",
+      "zh-CN": "联赛杯四分之一决赛中Old Firm的周日日期"
+    },
+    "summary": {
+      "en": "Rangers are to host Celtic at noon on Sunday 13 September in the last of the Premier Sports Cup quarter finals, while there is a Friday night kick-off for Stenhousemuir v Hearts.",
+      "zh-CN": "流浪者将于9月13日星期日中午在英超体育杯四分之一决赛的最后一场比赛中主办凯尔特人，而Stenhousemuir v Hearts则将在周五晚上开球。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c74gey82yxwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_96712",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 279,
+    "title": {
+      "en": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
+      "zh-CN": "巴塞罗那从皇家马德里偷走了罗德里，并计划为他制作新的布斯凯茨"
+    },
+    "summary": {
+      "en": "Spain’s World Cup-winning captain has completed his move to Camp Nou where he is a natural successor to club legendBy the time Flight PTN27B started its descent into El Prat a bit before 8pm on...",
+      "zh-CN": "西班牙世界杯冠军队长已经完成了他到诺坎普的转会，在那里他是俱乐部传奇的自然继承者PTN27B航班在晚上8点之前开始下降到埃尔普拉特的时候......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets"
+  },
+  {
+    "id": "N_RSS_2427",
+    "type": "official",
+    "date": "2026-08-17",
+    "likes": 69,
+    "title": {
+      "en": "Bronze explains out-of-character contract extension",
+      "zh-CN": "Bronze解释了超出字符的合同延期"
+    },
+    "summary": {
+      "en": "England defender Lucy Bronze says she has found a \"really good role\" at a club she is \"comfortable\" with, after signing a rare contract extension with Chelsea.",
+      "zh-CN": "英格兰后卫露西·青铜（ Lucy Bronze ）表示，在与切尔西签下罕见的续约合同后，她在一家“舒服”的俱乐部找到了一个“非常好的角色”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy4kge80l1eo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_59107",
+    "type": "official",
+    "date": "2026-08-16",
+    "likes": 192,
+    "title": {
+      "en": "Cameroon claim first Wafcon title with victory over Malawi",
+      "zh-CN": "喀麦隆夺得首个Wafcon冠军头衔，战胜马拉维"
+    },
+    "summary": {
+      "en": "Marie Ngah Manga scores twice as Cameroon cruise to a 3-0 win over Malawi and claim a first ever Women's Africa Cup of Nations title.",
+      "zh-CN": "Marie Ngah Manga的得分是喀麦隆巡航的两倍，以3比0战胜马拉维，并获得了有史以来第一个女子非洲国家杯冠军。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crl77w8y8r3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_52827",
+    "type": "official",
+    "date": "2026-08-16",
+    "likes": 121,
+    "title": {
+      "en": "Arsenal’s midfield depth signals ominous warning to title rivals – and Maresca’s City | Ed Aarons",
+      "zh-CN": "阿森纳的中场深度标志着对冠军对手的不祥警告–以及马雷斯卡的城市|埃德·亚伦斯"
+    },
+    "summary": {
+      "en": "Additions of Guimarães and Tzolis, plus re-emergence of Ødegaard, mean champions start clear favourites after Community Shield winIf this was a glimpse of the Premier League’s new order then the rest...",
+      "zh-CN": "吉马良斯（ Guimarães ）和佐利斯（ Tzolis ）的加入，以及Ødegaard的重新出现，意味着冠军在社区盾获胜后开始明确的最爱如果这是英超联赛新订单的一瞥，那么其余的..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+  },
+  {
+    "id": "N_RSS_73787",
+    "type": "official",
+    "date": "2026-08-15",
+    "likes": 179,
+    "title": {
+      "en": "Women’s U20 World Cup boycott may hurt in short term but can send Fifa a vital message | Tom Garry",
+      "zh-CN": "女子U20世界杯抵制可能会在短期内造成伤害，但可以向国际足联发出重要信息| Tom Garry"
+    },
+    "summary": {
+      "en": "Women’s football has much to gain from the kind of reforms that threats to snub upcoming tournaments might prompt. Infantino should be taken on“And I say to all the women … Pick the right battles....",
+      "zh-CN": "女子足球可以从对即将到来的比赛的冷落威胁可能促使的那种改革中获益良多。Infantino应该承担“我对所有女性说……选择正确的战斗……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/15/womens-u20-world-cup-boycott-may-hurt-in-short-term-but-can-send-fifa-a-vital-message"
+  },
+  {
+    "id": "N_RSS_81569",
+    "type": "official",
+    "date": "2026-08-15",
+    "likes": 110,
+    "title": {
+      "en": "London City Lionesses’ Mapi León: ‘It is a club created for women. It is beautiful and exciting’",
+      "zh-CN": "伦敦城市女狮队的Mapi León ： “这是一个为女性打造的俱乐部。它既美丽又令人兴奋’"
+    },
+    "summary": {
+      "en": "Spain defender on swapping Barcelona for Bromley, embracing the contrasting style of the WSL – and her newfound love for beans and crumpets‘No, I can’t, I’m sorry, it’s a secret!” Mapi León roars...",
+      "zh-CN": "西班牙后卫将巴塞罗那换成了布罗姆利，拥抱WSL对比鲜明的风格–以及她对豆子和饼干的新爱'不，我不能，对不起，这是个秘密！ ”Mapi León怒吼着……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/15/london-city-lionesses-mapi-leon-it-is-a-club-created-for-women-it-is-beautiful-and-exciting"
+  },
+  {
+    "id": "N_FIFA_36755",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 99,
+    "title": {
+      "en": "Statement attributable to the FIFA President",
+      "zh-CN": "国际足联主席的声明"
+    },
+    "summary": {
+      "en": "Statement attributable to the FIFA President"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/statement-attributable-president"
+  },
+  {
+    "id": "N_FIFA_3273",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 372,
+    "title": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal",
+      "zh-CN": "对国际足联前进企业（ FFE ）提案的澄清"
+    },
+    "summary": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/clarifications-fifa-forward-enterprise-ffe-proposal"
+  },
+  {
+    "id": "N_FIFA_64265",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 104,
+    "title": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension",
+      "zh-CN": "Visa和国际足联通过延续合作伙伴关系取得了近20年的成功"
+    },
+    "summary": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/visa-fifa-success-partnership-extension"
+  },
+  {
+    "id": "N_FIFA_65224",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 209,
+    "title": {
+      "en": "FIFA World Cup 2026™ by the numbers: inside the unprecedented operation behind the biggest sporting event in history",
+      "zh-CN": "2026年FIFA世界杯™的数字：历史上最大的体育赛事背后的前所未有的运作"
+    },
+    "summary": {
+      "en": "FIFA World Cup 2026™ by the numbers: inside the unprecedented operation behind the biggest sporting event in history"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-numbers-unprecedented-operation-behind-biggest-sporting-event-history"
+  },
+  {
     "id": "N_RSS_85909",
     "type": "official",
     "date": "2026-08-18",
@@ -268,210 +472,5 @@
     },
     "source": "BBC Sport",
     "url": "https://www.bbc.co.uk/sport/football/articles/cqlxwnz71qgo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_955",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 252,
-    "title": {
-      "en": "Hart on Man City's rebuild, Chelsea's opportunity and Arsenal's title defence",
-      "zh-CN": "曼城的重建，切尔西的机会和阿森纳的冠军防守"
-    },
-    "summary": {
-      "en": "The former Manchester City and England goalkeeper believes Enzo Maresca will be given time to build.",
-      "zh-CN": "这位前曼城和英格兰门将认为，恩佐·马雷斯卡将有时间进行建设。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/articles/cly5e5ezlj5o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_99652",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 191,
-    "title": {
-      "en": "Jeff Bezos consortium could be majority Liverpool shareholder within a year",
-      "zh-CN": "Jeff Bezos财团可能在一年内成为利物浦的多数股东"
-    },
-    "summary": {
-      "en": "1892 Holdings has first refusal if FSG opts to sellGroup paid more than £2bn for initial 38% slice of club1892 Holdings, the new investor in Liverpool, has first refusal to become the majority...",
-      "zh-CN": "如果FSG选择出售， 1892 Holdings将优先获得利物浦新投资者Club1892 Holdings最初38%的股份，集团支付超过20亿£......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/jeff-bezos-liverpool-1892-holdings-fenway-bid"
-  },
-  {
-    "id": "N_RSS_24278",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 250,
-    "title": {
-      "en": "In Zavier Gozo, Crystal Palace land a US prospect living up to the hype",
-      "zh-CN": "在Zavier Gozo ，水晶宫登陆了一个不辜负炒作的美国潜在客户"
-    },
-    "summary": {
-      "en": "The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a USMNT breakthroughFor much of the past year, the story of American starlet Zavier Gozo has been one...",
-      "zh-CN": "这位19岁的美国青年国脚今年在MLS上扭转了局面，正处于USMNT突破的风口浪尖在过去一年的大部分时间里，美国女明星扎维尔·戈佐（ Zavier Gozo ）的故事一直是..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/zavier-gozo-crystal-palace-mls-real-salt-lake-transfer"
-  },
-  {
-    "id": "N_RSS_53711",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 65,
-    "title": {
-      "en": "Premier League 2026-27 preview No 13: Leeds",
-      "zh-CN": "英超联赛2026-27预览第13名：利兹"
-    },
-    "summary": {
-      "en": "After keeping Leeds up last season and reaching an FA Cup semi-final, Daniel Farke has good reason to expect further improvement at Elland RoadGuardian writers’ predicted position: 12th (NB: this is...",
-      "zh-CN": "在上赛季保持利兹队并进入足总杯半决赛之后，丹尼尔·法克有充分的理由期待埃兰·罗德（ Elland RoadGuardian ）作家的预测位置进一步提高：第12名（注：这是……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-13-leeds"
-  },
-  {
-    "id": "N_RSS_5990",
-    "type": "official",
-    "date": "2026-08-16",
-    "likes": 204,
-    "title": {
-      "en": "End of an era? South Korea’s sun sets in the Premier League but Japan rise",
-      "zh-CN": "一个时代的结束？韩国的太阳在英超联赛中落下，但日本崛起"
-    },
-    "summary": {
-      "en": "After glory days of Park Ji-sung and Son Heung-min, the new season could be Korean-free for first time since 2005It has been a cruel summer for South Korea. The national team crashed and burned at...",
-      "zh-CN": "在朴智成（ Park Ji-sung ）和孙兴敏（ Son Heung-min ）的辉煌岁月之后，新赛季可能自2005年以来首次实现无韩国游客。这对韩国来说是一个残酷的国家队坠毁，烧毁在……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/16/end-of-era-south-korea-japan-premier-league"
-  },
-  {
-    "id": "N_RSS_63443",
-    "type": "official",
-    "date": "2026-08-16",
-    "likes": 132,
-    "title": {
-      "en": "Cristiano Ronaldo says this year is ‘probably’ his last as a footballer",
-      "zh-CN": "克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）表示，今年“可能”是他作为足球运动员的"
-    },
-    "summary": {
-      "en": "Al-Nassr and Portugal forward expects to retire soonRonaldo has more than 950 goals for club and countryCristiano Ronaldo believes this year is “probably” his last as a professional footballer, the...",
-      "zh-CN": "纳斯尔和葡萄牙前锋预计很快退役罗纳尔多在俱乐部和国家队有超过950个进球克里斯蒂亚诺·罗纳尔多认为，今年“可能”是他作为职业足球运动员的最后一年。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/16/cristiano-ronaldo-says-this-year-is-probably-his-last-as-a-footballer"
-  },
-  {
-    "id": "N_RSS_46934",
-    "type": "official",
-    "date": "2026-08-13",
-    "likes": 156,
-    "title": {
-      "en": "We have been staring at Phil Foden for close to a decade – how well do we actually know him? | Jonathan Liew",
-      "zh-CN": "近十年来，我们一直盯着菲尔·福登（ Phil Foden ） –我们对他的了解有多深？ | Jonathan Liew"
-    },
-    "summary": {
-      "en": "About to start his ninth season, his first under a club manager who isn’t Pep Guardiola, this could be the year we finally find out who the City enigma isPhil Foden says he is excited about working...",
-      "zh-CN": "即将开始他的第九个赛季，他的第一个俱乐部经理不是Pep Guardiola ，今年可能是我们终于发现谁是城市之谜Phil Foden说他很高兴能工作..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/13/we-have-been-staring-at-phil-foden-for-close-to-a-decade-how-well-do-we-actually-know-him"
-  },
-  {
-    "id": "N_FIFA_8279",
-    "type": "official",
-    "date": "2026-08-05",
-    "likes": 335,
-    "title": {
-      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco",
-      "zh-CN": "国际足联领导人在摩洛哥拉巴特举行建设性和积极的会晤"
-    },
-    "summary": {
-      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/leadership-constructive-positive-talks-rabat-morocco"
-  },
-  {
-    "id": "N_FIFA_13982",
-    "type": "official",
-    "date": "2026-08-04",
-    "likes": 266,
-    "title": {
-      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™",
-      "zh-CN": "国际足联为国际足联女足世界杯巴西2027™推出可持续发展和人权战略"
-    },
-    "summary": {
-      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
-  },
-  {
-    "id": "N_FIFA_8755",
-    "type": "official",
-    "date": "2026-07-27",
-    "likes": 361,
-    "title": {
-      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries",
-      "zh-CN": "FIFA Fan Festival™在三个东道国举办了破纪录的庆祝活动，为数百万人提供了历史悠久的FIFA World Cup 2026™体验"
-    },
-    "summary": {
-      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/fan-festival-extends-historic-world-cup-2026-experience-millions-record-breaking-celebrations-host-countries"
-  },
-  {
-    "id": "N_RSS_58986",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 58,
-    "title": {
-      "en": "Premier League chief Masters says Fifa self-destructed over World Cup plan",
-      "zh-CN": "英超联赛主席马斯特斯表示，国际足联在世界杯计划中自我毁灭"
-    },
-    "summary": {
-      "en": "Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering...",
-      "zh-CN": "英超首席执行官理查德·马斯特斯（ Richard Masters ）批评了国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）的世界杯抛售计划，称该组织通过提供..."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_82089",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 278,
-    "title": {
-      "en": "Brighton sign Canada striker David on loan",
-      "zh-CN": "布莱顿签约加拿大前锋大卫租借"
-    },
-    "summary": {
-      "en": "Brighton sign Canada striker Promise David from Royale Union Saint-Gilloise on a season-long loan with an obligation to buy for a reported £22m.",
-      "zh-CN": "布莱顿以一个赛季的贷款从Royale Union Saint-Gilloise签下加拿大前锋Promise David ，并有义务以2200万£的价格购买。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c30450z6pmmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_66498",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 291,
-    "title": {
-      "en": "Pep’s final act of passion: Amazon’s revealing Guardiola series pulls no punches",
-      "zh-CN": "佩普激情的最后一幕：亚马逊揭晓的瓜迪奥拉系列无可挑剔"
-    },
-    "summary": {
-      "en": "From the manager’s divorce to tension with the club hierarchy, new documentary is an honest portrayal of his difficult last two seasonsHaving occupied a front-row seat for the final two seasons of...",
-      "zh-CN": "从经理的离婚到与俱乐部的紧张关系，新纪录片诚实地描绘了他过去两个赛季的艰难经历。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/peps-final-act-of-passion-amazons-revealing-guardiola-series-pulls-no-punches"
   }
 ]
