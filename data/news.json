@@ -1,5 +1,257 @@
 [
   {
+    "id": "N_RSS_13050",
+    "type": "official",
+    "date": "2026-08-19",
+    "likes": 116,
+    "title": {
+      "en": "Pogba leaves Monaco after contract termination",
+      "zh-CN": "Pogba在合同终止后离开摩纳哥"
+    },
+    "summary": {
+      "en": "Former France midfielder Paul Pogba leaves Monaco his contract was terminated after just one season.",
+      "zh-CN": "前法国中场球员保罗·波格巴离开摩纳哥，他的合同在仅仅一个赛季后就被终止了。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckgve2zevzgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_21750",
+    "type": "official",
+    "date": "2026-08-19",
+    "likes": 52,
+    "title": {
+      "en": "Nedeljkovic joins Rangers from Aston Villa",
+      "zh-CN": "Nedeljkovic从阿斯顿维拉加入流浪者队"
+    },
+    "summary": {
+      "en": "Kosta Nedeljkovic joins Rangers on a season-long loan from Aston Villa, with the Ibrox club holding a \"conditional obligation\" to buy the 20-year-old Serbia defender.",
+      "zh-CN": "科斯塔·内德利科维奇（ Kosta Nedeljkovic ）从阿斯顿维拉（ Aston Villa ）租借了一个赛季，加入流浪者队，伊布罗克斯俱乐部（ Ibrox club ）有“有条件的义务”购买这位20岁的塞尔维亚后卫。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2mz3j402zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_20172",
+    "type": "official",
+    "date": "2026-08-19",
+    "likes": 282,
+    "title": {
+      "en": "Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
+      "zh-CN": "足球转会传闻： Al-Hilal的眼睛为Harry Kane和Ollie Watkins移动？"
+    },
+    "summary": {
+      "en": "Today’s gossip is still on the beachIt seems the possibility of winning the Ballon d’Or is not the only thing the England captain Harry Kane has been talking about recently. Well, his representatives...",
+      "zh-CN": "今天的八卦仍然在海滩上似乎赢得金球奖的可能性并不是英格兰队队长哈里·凯恩最近一直在谈论的唯一事情。嗯，他的代表……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins"
+  },
+  {
+    "id": "N_RSS_6717",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 232,
+    "title": {
+      "en": "Premier League chief Masters says Fifa self-destructed over World Cup plan",
+      "zh-CN": "英超联赛主席马斯特斯表示，国际足联在世界杯计划中自我毁灭"
+    },
+    "summary": {
+      "en": "Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering...",
+      "zh-CN": "英超首席执行官理查德·马斯特斯（ Richard Masters ）批评了国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）的世界杯抛售计划，称该组织通过提供..."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_26370",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 264,
+    "title": {
+      "en": "Brighton sign Canada striker David on loan",
+      "zh-CN": "布莱顿签约加拿大前锋大卫租借"
+    },
+    "summary": {
+      "en": "Brighton sign Canada striker Promise David from Royale Union Saint-Gilloise on a season-long loan with an obligation to buy for a reported £22m.",
+      "zh-CN": "布莱顿以一个赛季的贷款从Royale Union Saint-Gilloise签下加拿大前锋Promise David ，并有义务以2200万£的价格购买。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c30450z6pmmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_68433",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 131,
+    "title": {
+      "en": "Hart on Man City's rebuild, Chelsea's opportunity and Arsenal's title defence",
+      "zh-CN": "曼城的重建，切尔西的机会和阿森纳的冠军防守"
+    },
+    "summary": {
+      "en": "The former Manchester City and England goalkeeper believes Enzo Maresca will be given time to build.",
+      "zh-CN": "这位前曼城和英格兰门将认为，恩佐·马雷斯卡将有时间进行建设。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/articles/cly5e5ezlj5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_54448",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 235,
+    "title": {
+      "en": "Jeff Bezos consortium could be majority Liverpool shareholder within a year",
+      "zh-CN": "Jeff Bezos财团可能在一年内成为利物浦的多数股东"
+    },
+    "summary": {
+      "en": "1892 Holdings has first refusal if FSG opts to sellGroup paid more than £2bn for initial 38% slice of club1892 Holdings, the new investor in Liverpool, has first refusal to become the majority...",
+      "zh-CN": "如果FSG选择出售， 1892 Holdings将优先获得利物浦新投资者Club1892 Holdings最初38%的股份，集团支付超过20亿£......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/18/jeff-bezos-liverpool-1892-holdings-fenway-bid"
+  },
+  {
+    "id": "N_RSS_60606",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 170,
+    "title": {
+      "en": "Pep’s final act of passion: Amazon’s revealing Guardiola series pulls no punches",
+      "zh-CN": "佩普激情的最后一幕：亚马逊揭晓的瓜迪奥拉系列无可挑剔"
+    },
+    "summary": {
+      "en": "From the manager’s divorce to tension with the club hierarchy, new documentary is an honest portrayal of his difficult last two seasonsHaving occupied a front-row seat for the final two seasons of...",
+      "zh-CN": "从经理的离婚到与俱乐部的紧张关系，新纪录片诚实地描绘了他过去两个赛季的艰难经历。"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/18/peps-final-act-of-passion-amazons-revealing-guardiola-series-pulls-no-punches"
+  },
+  {
+    "id": "N_RSS_86312",
+    "type": "official",
+    "date": "2026-08-18",
+    "likes": 278,
+    "title": {
+      "en": "In Zavier Gozo, Crystal Palace land a US prospect living up to the hype",
+      "zh-CN": "在Zavier Gozo ，水晶宫登陆了一个不辜负炒作的美国潜在客户"
+    },
+    "summary": {
+      "en": "The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a USMNT breakthroughFor much of the past year, the story of American starlet Zavier Gozo has been one...",
+      "zh-CN": "这位19岁的美国青年国脚今年在MLS上扭转了局面，正处于USMNT突破的风口浪尖在过去一年的大部分时间里，美国女明星扎维尔·戈佐（ Zavier Gozo ）的故事一直是..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/18/zavier-gozo-crystal-palace-mls-real-salt-lake-transfer"
+  },
+  {
+    "id": "N_RSS_4681",
+    "type": "official",
+    "date": "2026-08-17",
+    "likes": 206,
+    "title": {
+      "en": "Premier League 2026-27 preview No 13: Leeds",
+      "zh-CN": "英超联赛2026-27预览第13名：利兹"
+    },
+    "summary": {
+      "en": "After keeping Leeds up last season and reaching an FA Cup semi-final, Daniel Farke has good reason to expect further improvement at Elland RoadGuardian writers’ predicted position: 12th (NB: this is...",
+      "zh-CN": "在上赛季保持利兹队并进入足总杯半决赛之后，丹尼尔·法克有充分的理由期待埃兰·罗德（ Elland RoadGuardian ）作家的预测位置进一步提高：第12名（注：这是……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-13-leeds"
+  },
+  {
+    "id": "N_RSS_13332",
+    "type": "official",
+    "date": "2026-08-16",
+    "likes": 170,
+    "title": {
+      "en": "End of an era? South Korea’s sun sets in the Premier League but Japan rise",
+      "zh-CN": "一个时代的结束？韩国的太阳在英超联赛中落下，但日本崛起"
+    },
+    "summary": {
+      "en": "After glory days of Park Ji-sung and Son Heung-min, the new season could be Korean-free for first time since 2005It has been a cruel summer for South Korea. The national team crashed and burned at...",
+      "zh-CN": "在朴智成（ Park Ji-sung ）和孙兴敏（ Son Heung-min ）的辉煌岁月之后，新赛季可能自2005年以来首次实现无韩国游客。这对韩国来说是一个残酷的国家队坠毁，烧毁在……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/16/end-of-era-south-korea-japan-premier-league"
+  },
+  {
+    "id": "N_RSS_75917",
+    "type": "official",
+    "date": "2026-08-16",
+    "likes": 149,
+    "title": {
+      "en": "Cristiano Ronaldo says this year is ‘probably’ his last as a footballer",
+      "zh-CN": "克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）表示，今年“可能”是他作为足球运动员的最后一年"
+    },
+    "summary": {
+      "en": "Al-Nassr and Portugal forward expects to retire soonRonaldo has more than 950 goals for club and countryCristiano Ronaldo believes this year is “probably” his last as a professional footballer, the...",
+      "zh-CN": "纳斯尔和葡萄牙前锋预计很快退役罗纳尔多在俱乐部和国家队有超过950个进球克里斯蒂亚诺·罗纳尔多认为，今年“可能”是他作为职业足球运动员的最后一年。"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/16/cristiano-ronaldo-says-this-year-is-probably-his-last-as-a-footballer"
+  },
+  {
+    "id": "N_RSS_66707",
+    "type": "official",
+    "date": "2026-08-13",
+    "likes": 207,
+    "title": {
+      "en": "We have been staring at Phil Foden for close to a decade – how well do we actually know him? | Jonathan Liew",
+      "zh-CN": "近十年来，我们一直盯着菲尔·福登（ Phil Foden ） –我们对他的了解有多深？ | Jonathan Liew"
+    },
+    "summary": {
+      "en": "About to start his ninth season, his first under a club manager who isn’t Pep Guardiola, this could be the year we finally find out who the City enigma isPhil Foden says he is excited about working...",
+      "zh-CN": "即将开始他的第九个赛季，他的第一个俱乐部经理不是Pep Guardiola ，今年可能是我们终于发现谁是城市之谜Phil Foden说他很高兴能工作..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/13/we-have-been-staring-at-phil-foden-for-close-to-a-decade-how-well-do-we-actually-know-him"
+  },
+  {
+    "id": "N_FIFA_4354",
+    "type": "official",
+    "date": "2026-08-05",
+    "likes": 330,
+    "title": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco",
+      "zh-CN": "国际足联领导人在摩洛哥拉巴特举行建设性和积极的会晤"
+    },
+    "summary": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/leadership-constructive-positive-talks-rabat-morocco"
+  },
+  {
+    "id": "N_FIFA_81218",
+    "type": "official",
+    "date": "2026-08-04",
+    "likes": 323,
+    "title": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联为国际足联女足世界杯巴西2027™推出可持续发展和人权战略"
+    },
+    "summary": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
+  },
+  {
+    "id": "N_FIFA_78100",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 234,
+    "title": {
+      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries"
+    },
+    "summary": {
+      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/fan-festival-extends-historic-world-cup-2026-experience-millions-record-breaking-celebrations-host-countries"
+  },
+  {
     "id": "N_RSS_76813",
     "type": "official",
     "date": "2026-08-19",
@@ -218,259 +470,5 @@
     },
     "source": "BBC Sport",
     "url": "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_92587",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 262,
-    "title": {
-      "en": "Premier League chief on Fifa crisis, Man City charges & World Cup expansion",
-      "zh-CN": "英超联赛主席谈国际足联危机、曼城收费和世界杯扩张"
-    },
-    "summary": {
-      "en": "Richard Masters speaks to Dan Roan ahead of the new season.",
-      "zh-CN": "理查德·马斯特斯（ Richard Masters ）在新赛季开始前与丹·罗恩（ Dan"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0p5540m?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_79955",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 164,
-    "title": {
-      "en": "Vieira named new Senegal head coach",
-      "zh-CN": "维埃拉被任命为塞内加尔新任主教练"
-    },
-    "summary": {
-      "en": "Former Arsenal and France captain Patrick Vieira is appointed as the new head coach of the Senegal men's national team.",
-      "zh-CN": "前阿森纳和法国队队长帕特里克·维埃拉被任命为塞内加尔男子国家队的新任主教练。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cr49v9dn431o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_46371",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 72,
-    "title": {
-      "en": "Hull City interested in Japan winger Nakamura",
-      "zh-CN": "对日本边锋Nakamura感兴趣的赫尔城"
-    },
-    "summary": {
-      "en": "Hull City express an interest in signing Stade de Reims' Japanese winger Keito Nakamura",
-      "zh-CN": "赫尔城表示有兴趣签下兰斯体育场的日本边锋中村惠人"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5ywee6y2qlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_56832",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 281,
-    "title": {
-      "en": "Israel withdraws support for embattled Fifa president Gianni Infantino",
-      "zh-CN": "以色列撤销对陷入困境的国际足联主席詹尼·因凡蒂诺的支持"
-    },
-    "summary": {
-      "en": "IFA points to ‘unprecedented crisis of confidence’Premier League chief says Infantino ‘hit self-destruct’Gianni Infantino’s decision to sack his chief operating officer, Kevin Lamour, after the...",
-      "zh-CN": "IFA指出“前所未有的信心危机”总理联赛主席表示， Infantino “自我毁灭” Gianni Infantino决定解雇他的首席运营官Kevin Lamour ，此前..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/israel-withdraws-support-for-embattled-fifa-president-gianni-infantino"
-  },
-  {
-    "id": "N_RSS_40176",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 70,
-    "title": {
-      "en": "Guardiola’s row with Walker at Manchester City revealed in new Amazon documentary",
-      "zh-CN": "瓜迪奥拉与沃克在曼城的争吵在亚马逊的新纪录片中揭晓"
-    },
-    "summary": {
-      "en": "Amazon Prime captures strain of manager’s final seasonClub chair says Spaniard threatened to leave ‘100 times’Pep Guardiola clashed with his captain and almost broke down in tears as he railed at...",
-      "zh-CN": "亚马逊Prime捕获了经理最后一个赛季的压力俱乐部主席说，西班牙人威胁要离开“100次”瓜迪奥拉与他的船长发生冲突，当他咆哮时几乎泪流满面......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/pep-guardiola-row-kyle-walker-manchester-city-revealed-new-amazon-documentary"
-  },
-  {
-    "id": "N_RSS_63781",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 121,
-    "title": {
-      "en": "Patrick Vieira appointed as head coach of Senegal, the country of his birth",
-      "zh-CN": "帕特里克·维埃拉（ Patrick Vieira ）被任命为出生国塞内加尔的主教练"
-    },
-    "summary": {
-      "en": "Former Arsenal captain succeeds Pape ThiawSenegal reached last 32 of this summer’s World CupSenegal have appointed France’s 1998 World Cup winner Patrick Vieira as head coach, the country’s football...",
-      "zh-CN": "前阿森纳队长接替Pape ThiawSenegal进入今年夏天世界杯的最后32场比赛塞内加尔已任命法国1998年世界杯冠军帕特里克·维埃拉为主教练，该国的足球..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
-  },
-  {
-    "id": "N_RSS_83969",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 198,
-    "title": {
-      "en": "Football Daily | Infantino wields the axe after Lamour breaks rank inside Fifa’s fiefdom",
-      "zh-CN": "足球日报| Infantino在Lamour打破国际足联领地内的排名后挥舞着斧头"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!A senior Fifa blazer held in such rare high regard that the prescient synth-pop duo Erasure named a single after him long before he entered the...",
-      "zh-CN": "立即注册！立即注册！立即注册？立即注册！一位资深的国际足联西装外套受到如此罕见的高度重视，以至于有先见之明的合成人流行组合Erasure在他进入..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/gianni-infantino-fifa-football-daily-newsletter"
-  },
-  {
-    "id": "N_RSS_67812",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 133,
-    "title": {
-      "en": "Guardiola-Walker fallout revealed in new documentary",
-      "zh-CN": "瓜迪奥拉-沃克沉降物在新纪录片中曝光"
-    },
-    "summary": {
-      "en": "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.",
-      "zh-CN": "一部关于瓜迪奥拉在曼城最后两个赛季的新纪录片系列揭示了他与前队长凯尔·沃克的破裂。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_78293",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 263,
-    "title": {
-      "en": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan",
-      "zh-CN": "国际足联主席在批评因凡蒂诺的世界杯抛售计划后被解雇"
-    },
-    "summary": {
-      "en": "Kevin Lamour said Fifa administration was ‘deceived’Chief operating officer knew he could lose his jobThe Fifa chief operating officer, Kevin Lamour, has been sacked after openly criticising Gianni...",
-      "zh-CN": "凯文·拉穆尔（ Kevin Lamour ）表示，国际足联行政部门被“欺骗”了。首席运营官知道他可能会失去工作。国际足联首席运营官凯文·拉穆尔（ Kevin Lamour ）在公开批评詹尼（ Gianni ）后被解雇。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour"
-  },
-  {
-    "id": "N_RSS_75394",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 116,
-    "title": {
-      "en": "‘I’ll remember it for the rest of my life’: the footballers whose biggest games come before their league begins",
-      "zh-CN": "“我会在我的余生中记住它” ：在他们的联赛开始之前最大的比赛的足球运动员"
-    },
-    "summary": {
-      "en": "Larne defender Dan Bent has played in two European competitions this summer and now faces a former team in a Conference League tie that could earn his club vital fundsBy Playing in the ShadowsPremier...",
-      "zh-CN": "拉恩的后卫丹·本特（ Dan Bent ）今年夏天参加了两场欧洲比赛，现在面对的是一支联盟联赛的前球队，这支球队可以为他的俱乐部赢得重要的资金。通过在阴影中打球，总理......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/17/footballers-games-champions-league-europa-conference-prize-money"
-  },
-  {
-    "id": "N_RSS_10977",
-    "type": "official",
-    "date": "2026-08-14",
-    "likes": 124,
-    "title": {
-      "en": "Football Daily | Rangers and the paradox of a painful exit that boosts their trophy chances",
-      "zh-CN": "足球日报|流浪者和痛苦的退出悖论，增加了他们的奖杯机会"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!All new managers want to hit the ground running. But landing with a dull thud has never been a barrier to future glory, certainly not at Ibrox. Take...",
-      "zh-CN": "立即注册！立即注册！立即注册？立即注册！所有新经理都希望开始工作。但带着沉闷的砰砰声降落从来都不是未来荣耀的障碍，当然也不是在伊布罗克斯。拿……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/14/rangers-football-daily-newsletter"
-  },
-  {
-    "id": "N_FIFA_38634",
-    "type": "official",
-    "date": "2026-07-28",
-    "likes": 239,
-    "title": {
-      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations",
-      "zh-CN": "国际足联打算将足球发展资金扩大到超过100亿美元，但须经国际足联成员协会批准"
-    },
-    "summary": {
-      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/intends-expand-football-development-funding-usd-10-billion-subject-approval-member-associations"
-  },
-  {
-    "id": "N_FIFA_52791",
-    "type": "official",
-    "date": "2026-07-27",
-    "likes": 111,
-    "title": {
-      "en": "Expressions of interest now open for potential FIFA Women’s World Cup Brazil 2027™ volunteers",
-      "zh-CN": "FIFA女足世界杯巴西2027™志愿者现已开始表达兴趣"
-    },
-    "summary": {
-      "en": "Expressions of interest now open for potential FIFA Women’s World Cup Brazil 2027™ volunteers"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/expressions-interest-open-womens-world-cup-brazil-volunteers"
-  },
-  {
-    "id": "N_RSS_27022",
-    "type": "official",
-    "date": "2026-08-19",
-    "likes": 125,
-    "title": {
-      "en": "Nestory Irankunda says Pauline Hanson’s Socceroos monocultural claim made ‘us boys angry’",
-      "zh-CN": "Nestory Irankunda说， Pauline Hanson的Socceroos单一文化主张让“我们男孩生气”"
-    },
-    "summary": {
-      "en": "Forward says One Nation leader’s comments made him ‘emotional’Players upset ‘because there’s so many young blokes that look up to us’Pauline Hanson’s claims that the national men’s football team...",
-      "zh-CN": "Forward说， One Nation领导人的评论让他“情绪激动” ，因为有这么多年轻人崇拜我们。Pauline Hanson声称，国家男子足球队......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/19/nestory-irankunda-pauline-hanson-socceroos-monocultural-claim"
-  },
-  {
-    "id": "N_RSS_35269",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 129,
-    "title": {
-      "en": "Rodri ready for 'excitement again' after Barca complete £65m deal",
-      "zh-CN": "在巴萨完成6500万英镑的交易后，罗德里准备“再次兴奋”"
-    },
-    "summary": {
-      "en": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.",
-      "zh-CN": "巴塞罗那在英超俱乐部效力七年后，从曼城签下了西班牙中场罗德里，他是2026年世界杯的球员。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_79477",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 141,
-    "title": {
-      "en": "Fifa sacking 'deeply troubling' - Uefa executive",
-      "zh-CN": "国际足联解雇“令人深感不安” -欧足联高管"
-    },
-    "summary": {
-      "en": "Fifa's decision to dismiss senior executive Kevin Lamour following his criticism of president Gianni Infantino sends a \"deeply troubling message to all of us seeking change\", says UEFA vice-president...",
-      "zh-CN": "欧足联副主席说，国际足联在批评总统詹尼·因凡蒂诺（ Gianni Infantino ）后决定解雇高级管理人员凯文·拉穆尔（ Kevin Lamour ） ，这向“我们所有寻求变革的人发出了一个令人深感不安的信息”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqlxwnz71qgo?at_medium=RSS&at_campaign=rss"
   }
 ]
