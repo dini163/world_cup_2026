@@ -1,5 +1,113 @@
 [
   {
+    "id": "N_RSS_57036",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 123,
+    "title": {
+      "en": "‘Enzo is a Chelsea player,’ says Alonso but doesn’t guarantee Fernández’s future",
+      "zh-CN": "“恩佐是切尔西球员，”阿隆索说，但不能保证费尔南德斯的未来"
+    },
+    "summary": {
+      "en": "Midfielder linked with £120m move to Manchester CityChelsea still interested in Bournemouth’s Alex ScottXabi Alonso has refused to offer any guarantee that Chelsea will hold firm if Manchester City...",
+      "zh-CN": "与1.2亿英镑转会曼城有关的中场球员切尔西仍然对伯恩茅斯的亚历克斯·斯科特萨比·阿隆索感兴趣，他拒绝提供任何保证，如果曼城..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/20/enzo-fernandez-chelsea-xabi-alonso-manchester-city-transfer"
+  },
+  {
+    "id": "N_RSS_19706",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 244,
+    "title": {
+      "en": "Robot building and Essien: Yirenkyi’s circuitous path to Premier League",
+      "zh-CN": "机器人建筑和Essien ： Yirenkyi通往英超联赛的迂回道路"
+    },
+    "summary": {
+      "en": "Coventry’s £26m record signing from Nordsjælland, a Right to Dream academy alumnus, can make a top-flight splashIt is mid-July in Kössen, an Austrian village on the edge of the Alps, close to the...",
+      "zh-CN": "考文垂从“梦想权”学院校友Nordsjælland那里获得了2600万美元的£签约记录，可以成为顶级飞溅。7月中旬，在阿尔卑斯山边缘的奥地利村庄Kössen ，靠近..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/20/yirenkyi-completes-rapid-journey-from-ghana-to-coventry-via-denmark"
+  },
+  {
+    "id": "N_RSS_3629",
+    "type": "official",
+    "date": "2026-08-19",
+    "likes": 182,
+    "title": {
+      "en": "Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
+      "zh-CN": "足球日报|明智的足球：足球俱乐部是否真的签下了他们需要的球员？"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!In the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began as a whirlwind of prolific...",
+      "zh-CN": "立即注册！立即注册！立即注册？立即注册！在1941年RKO广播电影/水星剧目剧院制作的《公民凯恩》中，奥森·威尔斯（ Orson Welles ）描述了一个从多产的旋风开始的男人……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs-signing-players-transfers-football-daily"
+  },
+  {
+    "id": "N_FIFA_23380",
+    "type": "official",
+    "date": "2026-08-05",
+    "likes": 347,
+    "title": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco",
+      "zh-CN": "国际足联领导人在摩洛哥拉巴特举行建设性和积极的会晤"
+    },
+    "summary": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/leadership-constructive-positive-talks-rabat-morocco"
+  },
+  {
+    "id": "N_FIFA_28340",
+    "type": "official",
+    "date": "2026-08-04",
+    "likes": 358,
+    "title": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联为国际足联女足世界杯巴西2027™推出可持续发展和人权战略"
+    },
+    "summary": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
+  },
+  {
+    "id": "N_FIFA_835",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 219,
+    "title": {
+      "en": "Statement attributable to the FIFA President",
+      "zh-CN": "国际足联主席的声明"
+    },
+    "summary": {
+      "en": "Statement attributable to the FIFA President"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/statement-attributable-president"
+  },
+  {
+    "id": "N_FIFA_39841",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 138,
+    "title": {
+      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations",
+      "zh-CN": "国际足联打算将足球发展资金扩大到超过100亿美元，但须经国际足联成员协会批准"
+    },
+    "summary": {
+      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/intends-expand-football-development-funding-usd-10-billion-subject-approval-member-associations"
+  },
+  {
     "id": "N_RSS_12279",
     "type": "official",
     "date": "2026-08-21",
@@ -361,116 +469,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/aug/20/mls-playoff-format-overhaul"
-  },
-  {
-    "id": "N_FIFA_40617",
-    "type": "official",
-    "date": "2026-08-20",
-    "likes": 208,
-    "title": {
-      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled",
-      "zh-CN": "国际足联2027年女足世界杯™冠军将在马拉卡纳举行的比赛日程公布之际举起奖杯"
-    },
-    "summary": {
-      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
-  },
-  {
-    "id": "N_RSS_94145",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 155,
-    "title": {
-      "en": "Patrick Vieira appointed as head coach of Senegal, the country of his birth",
-      "zh-CN": "帕特里克·维埃拉（ Patrick Vieira ）被任命为出生国塞内加尔的主教练"
-    },
-    "summary": {
-      "en": "Former Arsenal captain succeeds Pape ThiawSenegal reached last 32 of this summer’s World CupSenegal have appointed France’s 1998 World Cup winner Patrick Vieira as head coach, the country’s football...",
-      "zh-CN": "前阿森纳队长接替Pape ThiawSenegal进入今年夏天世界杯的最后32场比赛塞内加尔已任命法国1998年世界杯冠军帕特里克·维埃拉为主教练，该国的足球..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/patrick-vieira-appointed-as-senegal-head-coach"
-  },
-  {
-    "id": "N_RSS_20694",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 192,
-    "title": {
-      "en": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
-      "zh-CN": "巴塞罗那从皇家马德里偷走了罗德里，并计划为他制作新的布斯凯茨"
-    },
-    "summary": {
-      "en": "Spain’s World Cup-winning captain has completed his move to Camp Nou where he is a natural successor to club legendBy the time Flight PTN27B started its descent into El Prat a bit before 8pm on...",
-      "zh-CN": "西班牙世界杯冠军队长已经完成了他到诺坎普的转会，在那里他是俱乐部传奇的自然继承者PTN27B航班在晚上8点之前开始下降到埃尔普拉特的时候......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets"
-  },
-  {
-    "id": "N_RSS_14220",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 267,
-    "title": {
-      "en": "Football Daily | Infantino wields the axe after Lamour breaks rank inside Fifa’s fiefdom",
-      "zh-CN": "足球日报| Infantino在Lamour打破国际足联领地内的排名后挥舞着斧头"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!A senior Fifa blazer held in such rare high regard that the prescient synth-pop duo Erasure named a single after him long before he entered the...",
-      "zh-CN": "立即注册！立即注册！立即注册？立即注册！一位资深的国际足联西装外套受到如此罕见的高度重视，以至于有先见之明的合成人流行组合Erasure在他进入..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/gianni-infantino-fifa-football-daily-newsletter"
-  },
-  {
-    "id": "N_RSS_64938",
-    "type": "official",
-    "date": "2026-08-20",
-    "likes": 94,
-    "title": {
-      "en": "Arsenal exploring Yildiz move - Friday's gossip",
-      "zh-CN": "探索Yildiz的阿森纳之旅：周五的流言蜚语"
-    },
-    "summary": {
-      "en": "Arsenal explore move for Kenan Yildiz, Atletico Madrid trying to finalise Nicolas Jackson signing and Manchester City in talks over Allan Elias, plus more.",
-      "zh-CN": "阿森纳探索凯南·耶尔迪兹（ Kenan Yildiz ） ，马德里竞技（ Atletico Madrid ）试图最终确定尼古拉斯·杰克逊（ Nicolas Jackson ）的签约以及曼城在艾伦·埃利亚斯（ Allan Elias"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/czxqvllyg72o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_49332",
-    "type": "official",
-    "date": "2026-08-20",
-    "likes": 74,
-    "title": {
-      "en": "Ronaldinho seeks 300th goal with comeback aged 46",
-      "zh-CN": "罗纳尔迪尼奥在46岁时复出，追求第300个进球"
-    },
-    "summary": {
-      "en": "Brazil great Ronaldinho says he hopes he can score his 300th career goal after announcing a comeback at the age of 46 at Italian third-tier side Ravenna.",
-      "zh-CN": "巴西伟大的罗纳尔迪尼奥表示，他希望自己能够在46岁时宣布在意大利三线球队拉文纳复出后，打进自己的第300个职业生涯进球。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c2lq5dk0gneo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_49214",
-    "type": "official",
-    "date": "2026-08-17",
-    "likes": 63,
-    "title": {
-      "en": "Bronze explains out-of-character contract extension",
-      "zh-CN": "Bronze解释了超出字符的合同延期"
-    },
-    "summary": {
-      "en": "England defender Lucy Bronze says she has found a \"really good role\" at a club she is \"comfortable\" with, after signing a rare contract extension with Chelsea.",
-      "zh-CN": "英格兰后卫露西·青铜（ Lucy Bronze ）表示，在与切尔西签下罕见的续约合同后，她在一家“舒服”的俱乐部找到了一个“非常好的角色”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cy4kge80l1eo?at_medium=RSS&at_campaign=rss"
   }
 ]
