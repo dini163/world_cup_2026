@@ -1,5 +1,162 @@
 [
   {
+    "id": "N_RSS_61233",
+    "type": "official",
+    "date": "2026-08-23",
+    "likes": 64,
+    "title": {
+      "en": "Kane first Englishman to win Germany's player of the year award",
+      "zh-CN": "凯恩是第一位赢得德国年度最佳球员奖的英国人"
+    },
+    "summary": {
+      "en": "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.",
+      "zh-CN": "哈里·凯恩（ Harry Kane ）被评为2026年度德国足球运动员，成为第一位赢得该奖项的英国人。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_10656",
+    "type": "official",
+    "date": "2026-08-23",
+    "likes": 273,
+    "title": {
+      "en": "Mateta’s Palace dispute deepens after losing appeals to end contract early",
+      "zh-CN": "Mateta的宫殿纠纷在失去提前终止合同的上诉后加深"
+    },
+    "summary": {
+      "en": "Striker wants move and said final year of deal was invalid29-year-old took his case to tribunal and Fifa but lostJean-Philippe Mateta is in dispute with Crystal Palace over the final year of his...",
+      "zh-CN": "前锋希望采取行动，并表示最后一年的交易无效29岁将他的案件提交法庭和国际足联，但失去了Jean-Philippe Mateta在他的最后一年与水晶宫发生争议......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/23/jean-philippe-mateta-dispute-crystal-palace-contract-transfer-window"
+  },
+  {
+    "id": "N_RSS_15181",
+    "type": "official",
+    "date": "2026-08-22",
+    "likes": 204,
+    "title": {
+      "en": "Infantino angers Concacaf nations by hijacking meeting in Caribbean",
+      "zh-CN": "Infantino在加勒比海劫持会议，激怒Concacaf国家"
+    },
+    "summary": {
+      "en": "Gianni Infantino used opportunity to lobby for supportFifa president was asked to stay away from CFU meetingGianni Infantino has risked alienating numerous Concacaf nations, whose support he is...",
+      "zh-CN": "Gianni Infantino利用机会游说争取支持国际足联主席被要求远离CFU会议Gianni Infantino冒着疏远众多Concacaf国家的风险，他支持这些国家......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/22/gianni-infantino-fifa-football-politics-world-cup-election"
+  },
+  {
+    "id": "N_RSS_7880",
+    "type": "official",
+    "date": "2026-08-21",
+    "likes": 77,
+    "title": {
+      "en": "England Women U20s squad named amid boycott threat",
+      "zh-CN": "在抵制威胁中命名的英格兰女子U20队"
+    },
+    "summary": {
+      "en": "Manager Lydia Bedford has named her England squad for the upcoming Fifa U20s Women's World Cup amid ongoing threat of a boycott from European nations.",
+      "zh-CN": "在欧洲国家持续抵制的威胁下，经理莉迪亚·贝德福德（ Lydia Bedford ）为即将到来的国际足联U20女足世界杯命名了她的英格兰队。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c2el8j10vl3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_1082",
+    "type": "official",
+    "date": "2026-08-21",
+    "likes": 149,
+    "title": {
+      "en": "Aston Villa’s Rachel Daly: ‘It’s given me more of a focus: club football is my one job’",
+      "zh-CN": "阿斯顿维拉的雷切尔·戴利（ Rachel Daly ） ： “这让我更加关注：俱乐部足球是我的一份工作”"
+    },
+    "summary": {
+      "en": "Former England striker on retiring from the Lionesses, being a role model, and taking on Chelsea in the WSLA year after taking up golf, Rachel Daly has already reached a handicap of 19. “I think...",
+      "zh-CN": "前英格兰前锋雷切尔·戴利（ Rachel Daly ）从女狮队退役，成为榜样，并在打高尔夫球后的WSLA年份迎战切尔西，已经达到了19分的差点。“我想……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/21/aston-villa-rachel-daly-womens-super-league-england-lionesses"
+  },
+  {
+    "id": "N_RSS_79571",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 261,
+    "title": {
+      "en": "Ronaldinho, 46, on mission of love and happiness – and maybe goals – at Serie C’s Ravenna",
+      "zh-CN": "46岁的罗纳尔迪尼奥（ Ronaldinho ）在意甲联赛的拉文纳（ Ravenna ）肩负着爱与幸福的使命，也许还有"
+    },
+    "summary": {
+      "en": "Brazilian legend pledges excitement at his unveiling for a comeback that is winning over initially disbelieving fansIt seemed like a joke, a hoax, when at 10pm on 19 June, Ravenna broke the news of...",
+      "zh-CN": "巴西传奇人物在他的复出揭幕仪式上承诺感到兴奋，这场复出正在赢得最初不相信的粉丝。这似乎是一个笑话，一个骗局，当6月19日晚上10点，拉文纳打破了..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/20/ronaldinho-46-serie-c-ravenna-unveiling-comeback"
+  },
+  {
+    "id": "N_RSS_18152",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 175,
+    "title": {
+      "en": "Premier League season preview: Hull City to Spurs | Football Weekly video",
+      "zh-CN": "英超联赛赛季预览：赫尔城到马刺|足球周视频"
+    },
+    "summary": {
+      "en": "Max Rushden is joined by Barry Glendenning, Nicky Bandini and Jordan Jarrett-Bryan for the second of our Premier League preview podcasts. Continue reading...",
+      "zh-CN": "Max Rushden与Barry Glendenning、Nicky Bandini和Jordan Jarrett-Bryan一起参加了我们的第二个英超联赛预览播客。继续阅读..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/video/2026/aug/20/premier-league-season-preview-hull-city-to-tottenham-football-weekly-video"
+  },
+  {
+    "id": "N_FIFA_35347",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 191,
+    "title": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal",
+      "zh-CN": "对国际足联前进企业（ FFE ）提案的澄清"
+    },
+    "summary": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/clarifications-fifa-forward-enterprise-ffe-proposal"
+  },
+  {
+    "id": "N_FIFA_63782",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 279,
+    "title": {
+      "en": "Expressions of interest now open for potential FIFA Women’s World Cup Brazil 2027™ volunteers",
+      "zh-CN": "FIFA女足世界杯巴西2027™志愿者现已开始表达兴趣"
+    },
+    "summary": {
+      "en": "Expressions of interest now open for potential FIFA Women’s World Cup Brazil 2027™ volunteers"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/expressions-interest-open-womens-world-cup-brazil-volunteers"
+  },
+  {
+    "id": "N_FIFA_64411",
+    "type": "official",
+    "date": "2026-07-27",
+    "likes": 293,
+    "title": {
+      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries",
+      "zh-CN": "FIFA Fan Festival™在三个东道国举办了破纪录的庆祝活动，为数百万人提供了历史悠久的FIFA World Cup 2026™体验"
+    },
+    "summary": {
+      "en": "FIFA Fan Festival™ extends historic FIFA World Cup 2026™ experience to millions with record-breaking celebrations across all three host countries"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/fan-festival-extends-historic-world-cup-2026-experience-millions-record-breaking-celebrations-host-countries"
+  },
+  {
     "id": "N_RSS_6431",
     "type": "official",
     "date": "2026-08-23",
@@ -313,163 +470,5 @@
     },
     "source": "FIFA Official",
     "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
-  },
-  {
-    "id": "N_FIFA_17748",
-    "type": "official",
-    "date": "2026-07-31",
-    "likes": 312,
-    "title": {
-      "en": "Statement attributable to the FIFA President",
-      "zh-CN": "国际足联主席的声明"
-    },
-    "summary": {
-      "en": "Statement attributable to the FIFA President"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/statement-attributable-president"
-  },
-  {
-    "id": "N_FIFA_25139",
-    "type": "official",
-    "date": "2026-07-27",
-    "likes": 392,
-    "title": {
-      "en": "FIFA World Cup 2026™ by the numbers: inside the unprecedented operation behind the biggest sporting event in history",
-      "zh-CN": "2026年FIFA世界杯™的数字：历史上最大的体育赛事背后的前所未有的运作"
-    },
-    "summary": {
-      "en": "FIFA World Cup 2026™ by the numbers: inside the unprecedented operation behind the biggest sporting event in history"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-numbers-unprecedented-operation-behind-biggest-sporting-event-history"
-  },
-  {
-    "id": "N_RSS_81187",
-    "type": "official",
-    "date": "2026-08-23",
-    "likes": 142,
-    "title": {
-      "en": "Al-Hilal open talks to sign Arsenal winger Martinelli",
-      "zh-CN": "Al-Hilal公开谈判签下阿森纳边锋马蒂内利"
-    },
-    "summary": {
-      "en": "Saudi Arabian club Al-Hilal open negotiations with Arsenal over a move for Brazil forward Gabriel Martinelli.",
-      "zh-CN": "沙特阿拉伯俱乐部Al-Hilal与阿森纳就巴西前锋加布里埃尔·马蒂内利（ Gabriel Martinelli ）的举动展开谈判。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_51574",
-    "type": "official",
-    "date": "2026-08-22",
-    "likes": 224,
-    "title": {
-      "en": "Ex-West Brom midfielder Castro, 25, dies during friendly",
-      "zh-CN": "前西布朗中场球员卡斯特罗， 25岁，在友谊赛期间去世"
-    },
-    "summary": {
-      "en": "Former West Brom midfielder Quevin Castro dies at the age of 25 after collapsing during a match in Portugal.",
-      "zh-CN": "前西布朗中场球员奎文·卡斯特罗在葡萄牙的一场比赛中倒下后去世，享年25岁。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c8dnd416pzyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_37325",
-    "type": "official",
-    "date": "2026-08-22",
-    "likes": 134,
-    "title": {
-      "en": "US soccer wants excitement after the World Cup – the Open Cup provides it",
-      "zh-CN": "美国足球想要世界杯后的刺激–公开赛提供了它"
-    },
-    "summary": {
-      "en": "MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an obvious place to startThe new commissioner of Major League Soccer, Larry Berg, isn’t keen on the idea...",
-      "zh-CN": "美国职业足球大联盟希望借助世界杯的势头。美国顶级的国内杯赛是一个明显的起点。美国职业足球大联盟的新任专员拉里·伯格（ Larry Berg ）并不热衷于这个想法……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/22/us-soccer-wants-excitement-after-the-world-cup-the-open-cup-provides-it"
-  },
-  {
-    "id": "N_RSS_66233",
-    "type": "official",
-    "date": "2026-08-21",
-    "likes": 77,
-    "title": {
-      "en": "Bolt registers to play for Manchester Sunday league team",
-      "zh-CN": "博尔特登记为曼彻斯特周日联赛球队效力"
-    },
-    "summary": {
-      "en": "Eight-time Olympic champion sprinter Usain Bolt has registered to play for a veterans' Sunday league football team in Manchester.",
-      "zh-CN": "八届奥运会短跑冠军尤塞恩·博尔特（ Usain Bolt ）已报名参加曼彻斯特的一支退伍军人周日联赛足球队。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2reg3de87o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_60637",
-    "type": "official",
-    "date": "2026-08-21",
-    "likes": 205,
-    "title": {
-      "en": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
-      "zh-CN": "Martin Ødegaard继续担任阿森纳的平滑剂和传球大师| Barney Ronay"
-    },
-    "summary": {
-      "en": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaignWe’re back, baby. Welcome to the content zone. And yes, we did...",
-      "zh-CN": "他的进球就像淘汰赛一样，但阿森纳队长从一场受伤的竞选中恢复过来的迹象我们回来了，宝贝。欢迎来到内容区域。是的，我们做到了..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/21/martin-degaard-of-old-is-back-with-the-pass-that-makes-the-pass"
-  },
-  {
-    "id": "N_RSS_59928",
-    "type": "official",
-    "date": "2026-08-20",
-    "likes": 260,
-    "title": {
-      "en": "Maracanã to host opening game and final at next year’s Women’s World Cup",
-      "zh-CN": "马拉卡纳将在明年的女足世界杯上举办首场比赛和决赛"
-    },
-    "summary": {
-      "en": "Stadium has hosted two men’s World Cup finalsArena Itaquera in São Paulo will host 10 matchesThe Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup....",
-      "zh-CN": "圣保罗的伊塔克拉竞技场将举办10场比赛里约热内卢的马拉卡纳将举办首场比赛和明年女足世界杯决赛……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup"
-  },
-  {
-    "id": "N_RSS_65109",
-    "type": "official",
-    "date": "2026-08-19",
-    "likes": 283,
-    "title": {
-      "en": "‘A huge honour’: Socceroos World Cup star Alessandro Circati seals move to Benfica",
-      "zh-CN": "“巨大的荣誉” ： Socceroos世界杯明星Alessandro Circati海豹队搬到本菲卡"
-    },
-    "summary": {
-      "en": "Defender completes transfer for reported fee of 20m euros ($33m)Ten Australian players have now made post-World Cup movesYoung Socceroo Alessandro Circati has become the latest Australian...",
-      "zh-CN": "后卫以2000万欧元（ 3300万美元）的转会费完成转会十名澳大利亚球员现已完成世界杯后的转会年轻的足球运动员亚历山德罗·瑟卡蒂（ Alessandro Circati ）已成为最新的澳大利亚球员......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/20/alessandro-circati-benfica-portugal-primeira-liga-transfer-news-move"
-  },
-  {
-    "id": "N_RSS_57011",
-    "type": "official",
-    "date": "2026-08-18",
-    "likes": 109,
-    "title": {
-      "en": "Pep’s final act of passion: Amazon’s revealing Guardiola series pulls no punches",
-      "zh-CN": "佩普激情的最后一幕：亚马逊揭晓的瓜迪奥拉系列无可挑剔"
-    },
-    "summary": {
-      "en": "From the manager’s divorce to tension with the club hierarchy, new documentary is an honest portrayal of his difficult last two seasonsHaving occupied a front-row seat for the final two seasons of...",
-      "zh-CN": "从经理的离婚到与俱乐部的紧张关系，新纪录片诚实地描绘了他过去两个赛季的艰难经历。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/18/peps-final-act-of-passion-amazons-revealing-guardiola-series-pulls-no-punches"
   }
 ]
