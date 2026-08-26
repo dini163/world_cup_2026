@@ -1,5 +1,82 @@
 [
   {
+    "id": "N_RSS_5925",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 261,
+    "title": {
+      "en": "All the best Savinho - welcome Savio... new club, new name for Spurs signing",
+      "zh-CN": "所有最好的萨维尼奥-欢迎萨维奥...新俱乐部，马刺签约的新名称"
+    },
+    "summary": {
+      "en": "Tottenham sign Brazil winger Savinho from Manchester City for an initial £75m - and he reverts to being called Savio.",
+      "zh-CN": "托特纳姆热刺以7500万英镑的价格从曼城签下了巴西边锋萨维尼奥，他重新被称为萨维奥。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_34341",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 217,
+    "title": {
+      "en": "Another set of Sullivan brothers are making football waves in Bangladesh",
+      "zh-CN": "另一组沙利文兄弟正在孟加拉国掀起足球浪潮"
+    },
+    "summary": {
+      "en": "While Cavan and Quinn Sullivan star in MLS with the Philadelphia Union, brothers Ronan and Declan have connected with their South Asian heritageRonan Sullivan had tried a panenka twice in his life....",
+      "zh-CN": "当Cavan和Quinn Sullivan在费城联盟的MLS中出演时， Ronan和Declan兄弟与他们的南亚遗产联系在一起Ronan Sullivan一生中曾两次尝试过panenka...."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/25/bangladesh-soccer-team-ronan-declan-sullivan"
+  },
+  {
+    "id": "N_FIFA_61853",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 382,
+    "title": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled",
+      "zh-CN": "国际足联2027年女足世界杯™冠军将在马拉卡纳举行的比赛日程公布之际举起奖杯"
+    },
+    "summary": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
+  },
+  {
+    "id": "N_FIFA_67579",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 362,
+    "title": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal",
+      "zh-CN": "对国际足联前进企业（ FFE ）提案的澄清"
+    },
+    "summary": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/clarifications-fifa-forward-enterprise-ffe-proposal"
+  },
+  {
+    "id": "N_FIFA_26797",
+    "type": "official",
+    "date": "2026-07-28",
+    "likes": 174,
+    "title": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension",
+      "zh-CN": "Visa和国际足联通过延续合作伙伴关系取得了近20年的成功"
+    },
+    "summary": {
+      "en": "Visa and FIFA mark almost 20 years of success with partnership extension"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/visa-fifa-success-partnership-extension"
+  },
+  {
     "id": "N_RSS_69288",
     "type": "official",
     "date": "2026-08-25",
@@ -394,84 +471,5 @@
     },
     "source": "FIFA Official",
     "url": "https://www.inside.fifa.com/media-releases/intends-expand-football-development-funding-usd-10-billion-subject-approval-member-associations"
-  },
-  {
-    "id": "N_RSS_81333",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 65,
-    "title": {
-      "en": "Baleba completes £70m Man Utd move from Brighton",
-      "zh-CN": "Baleba完成£ 7000万曼联从布莱顿的搬迁"
-    },
-    "summary": {
-      "en": "Manchester United sign Cameroon midfielder Carlos Baleba from Brighton in a £70m deal.",
-      "zh-CN": "曼联以7000万英镑的价格从布莱顿签下喀麦隆中场卡洛斯·巴莱巴。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c1mv0rxpd1no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_58937",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 171,
-    "title": {
-      "en": "Xavi hopes time at the ‘university of football’ will end with Dutch success",
-      "zh-CN": "Xavi希望在“足球大学”的时光将以荷兰的成功告终"
-    },
-    "summary": {
-      "en": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach“My feeling today is that I’m going to the university of football.” Those...",
-      "zh-CN": "巴塞罗那传奇人物想效仿约翰·克鲁伊夫（ Johan Cruyff ）在担任荷兰主教练后的足球哲学： “我今天的感觉是，我要去足球大学。”那些..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona"
-  },
-  {
-    "id": "N_RSS_67772",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 198,
-    "title": {
-      "en": "Manchester United confirm Carlos Baleba signing as midfield spend nears £150m",
-      "zh-CN": "曼联确认卡洛斯·巴莱巴签约，中场花费接近1.5亿美元£"
-    },
-    "summary": {
-      "en": "Cameroon international joins from BrightonHe says United are the ‘club of my dreams’Manchester United have completed the signing of the Brighton midfielder Carlos Baleba in a deal worth up to £70m....",
-      "zh-CN": "来自布莱顿的喀麦隆国脚他表示，曼联是我“梦寐以求的俱乐部” ，曼联以高达7000万英镑的价格完成了与布莱顿中场卡洛斯·巴莱巴的签约。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton"
-  },
-  {
-    "id": "N_FIFA_81792",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 145,
-    "title": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
-      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
-    },
-    "summary": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
-  },
-  {
-    "id": "N_RSS_47743",
-    "type": "official",
-    "date": "2026-08-20",
-    "likes": 92,
-    "title": {
-      "en": "Can a managerial merry-go-round in Serie A stop Inter’s dominance?",
-      "zh-CN": "意甲的管理旋转木马能否阻止国际米兰的统治地位？"
-    },
-    "summary": {
-      "en": "Milan, Napoli and Atalanta all have new head coaches as Italian football hopes to return to the spotlightAnd so, calcio’s “third apocalypse” has passed. A lot of Italians enjoyed the World Cup more...",
-      "zh-CN": "米兰、那不勒斯和亚特兰大都有新的主教练，因为意大利足球希望重返聚光灯下。因此，卡尔西奥的“第三次天启”已经过去。很多意大利人更喜欢世界杯……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/20/serie-a-preview-inter-milan-juventus-como-roma-napoli"
   }
 ]
