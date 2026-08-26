@@ -1,5 +1,83 @@
 [
   {
+    "id": "N_RSS_81507",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 246,
+    "title": {
+      "en": "'Change is necessary' - players unite against Fifa",
+      "zh-CN": "“变革是必要的” -球员团结起来对抗国际足联"
+    },
+    "summary": {
+      "en": "A number of current and former footballers unite against Fifa president Gianni Infantino, stating that \"change is necessary\" at the global governing body.",
+      "zh-CN": "一些现任和前任足球运动员联合起来反对国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ） ，称全球管理机构的“变革是必要的”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cy4zl2mz9rko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_55389",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 182,
+    "title": {
+      "en": "De Zerbi hopes Sávio’s fresh start will help Spurs’ much-needed rebrand",
+      "zh-CN": "De Zerbi希望Sávio的新开始将有助于马刺急需的品牌重塑"
+    },
+    "summary": {
+      "en": "After an unacceptable performance against Brentford, head coach still believes they can avoid sinking feeling this seasonWhat’s in a name? Quite a bit, judging by the discussion at Roberto...",
+      "zh-CN": "在对阵布伦特福德的比赛中取得了令人无法接受的表现，但主教练仍然相信他们可以避免本赛季的下沉感。名字是什么？相当多，从罗伯托的讨论来看……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/25/roberto-de-zerbi-savio-signing-tottenham-hotspur-rebrand"
+  },
+  {
+    "id": "N_RSS_59736",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 239,
+    "title": {
+      "en": "Bruno Fernandes and Khadija Shaw land PFA Player of the Year awards",
+      "zh-CN": "Bruno Fernandes和Khadija Shaw登陆PFA年度最佳球员奖"
+    },
+    "summary": {
+      "en": "Fellow players pick Manchester United and Manchester City starsNico O’Reilly and Olivia Smith collect young players’ honoursManchester United’s captain Bruno Fernandes has been crowned Professional...",
+      "zh-CN": "其他球员选择曼联和曼城球星尼科·奥莱利和奥利维亚·史密斯收集年轻球员的荣誉曼联队长布鲁诺·费尔南德斯被加冕为职业球员..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/25/bruno-fernandes-khadija-shaw-pfa-player-of-the-year"
+  },
+  {
+    "id": "N_FIFA_30084",
+    "type": "official",
+    "date": "2026-08-05",
+    "likes": 126,
+    "title": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco",
+      "zh-CN": "国际足联领导人在摩洛哥拉巴特举行建设性和积极的会晤"
+    },
+    "summary": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/leadership-constructive-positive-talks-rabat-morocco"
+  },
+  {
+    "id": "N_FIFA_95149",
+    "type": "official",
+    "date": "2026-08-04",
+    "likes": 213,
+    "title": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联为国际足联女足世界杯巴西2027™推出可持续发展和人权战略"
+    },
+    "summary": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
+  },
+  {
     "id": "N_RSS_80316",
     "type": "official",
     "date": "2026-08-24",
@@ -392,85 +470,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/aug/25/bangladesh-soccer-team-ronan-declan-sullivan"
-  },
-  {
-    "id": "N_RSS_2252",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 220,
-    "title": {
-      "en": "Football transfer rumours: Manchester City and Spurs chase Cody Gakpo?",
-      "zh-CN": "足球转会传闻：曼城和马刺队追逐科迪·盖普？"
-    },
-    "summary": {
-      "en": "Today’s rumours are so severely underwhelmedAfter Aston Villa endured a day to forget on the Premier League’s opening weekend, it only stands to reason that they must sign players, and ideally good...",
-      "zh-CN": "今天的谣言是如此不堪重负阿斯顿维拉在英超联赛开幕周末度过了一天之后，他们必须签下球员，这是理所当然的，理想情况下是好的......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/25/football-transfer-rumours-manchester-city-tottenham-cody-gakpo"
-  },
-  {
-    "id": "N_RSS_50100",
-    "type": "official",
-    "date": "2026-08-24",
-    "likes": 178,
-    "title": {
-      "en": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
-      "zh-CN": "Al-Hilal在先进的谈判中签署了阿森纳的Martinelli"
-    },
-    "summary": {
-      "en": "Arsenal are in advanced talks with Saudi Arabian club Al-Hilal over the sale of Gabriel Martinelli for at least £50m.",
-      "zh-CN": "阿森纳正在与沙特阿拉伯俱乐部Al-Hilal就以至少5000万英镑的价格出售Gabriel Martinelli进行高级谈判。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_43864",
-    "type": "official",
-    "date": "2026-08-24",
-    "likes": 96,
-    "title": {
-      "en": "Why are Australians thriving in WSL but not Premier League?",
-      "zh-CN": "为什么澳大利亚人在WSL而不是英超联赛中蓬勃发展？"
-    },
-    "summary": {
-      "en": "The Premier League used to feature a host of top Australians. Now there is just one player from the country in the competition, but it's a very different story in the WSL.",
-      "zh-CN": "英超联赛曾经有一群澳大利亚顶级球员。现在比赛中只有一名来自该国的球员，但这在WSL中是一个非常不同的故事。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2v3yy9ed9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_90339",
-    "type": "official",
-    "date": "2026-08-24",
-    "likes": 246,
-    "title": {
-      "en": "Rennes push PSG all the way to show they are the best of the rest in Ligue 1",
-      "zh-CN": "雷恩一直推动PSG ，以表明他们是法甲联赛中最好的球员"
-    },
-    "summary": {
-      "en": "PSG flexed their muscles, bringing Ferran Torres off the bench to save the day, but only because Rennes made themBy Get French Football NewsOn the scale of expressions of prowess and power, Paris...",
-      "zh-CN": "巴黎圣日耳曼展现了他们的肌肉，让费兰·托雷斯（ Ferran Torres ）离开板凳来拯救这一天，但这仅仅是因为雷恩（ Rennes ）让他们通过获取法国足球新闻巴黎的实力和力量表达的规模..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/24/rennes-psg-best-rest-ligue-1-ferran-torres"
-  },
-  {
-    "id": "N_RSS_11826",
-    "type": "official",
-    "date": "2026-08-21",
-    "likes": 52,
-    "title": {
-      "en": "Bolt registers to play for Manchester Sunday league team",
-      "zh-CN": "博尔特登记为曼彻斯特周日联赛球队效力"
-    },
-    "summary": {
-      "en": "Eight-time Olympic champion sprinter Usain Bolt has registered to play for a veterans' Sunday league football team in Manchester.",
-      "zh-CN": "八届奥运会短跑冠军尤塞恩·博尔特（ Usain Bolt ）已报名参加曼彻斯特的一支退伍军人周日联赛足球队。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2reg3de87o?at_medium=RSS&at_campaign=rss"
   }
 ]
