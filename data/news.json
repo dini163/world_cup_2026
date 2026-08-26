@@ -1,5 +1,116 @@
 [
   {
+    "id": "N_RSS_70406",
+    "type": "official",
+    "date": "2026-08-26",
+    "likes": 91,
+    "title": {
+      "en": "Inside the rebuild of Borussia Dortmund",
+      "zh-CN": "多特蒙德重建之旅"
+    },
+    "summary": {
+      "en": "There is optimism at Borussia Dortmund again. A new season upon the German giants and the sense of a team not just rebuilding but recapturing something lost. &#8220;Overall, we are mixing a good...",
+      "zh-CN": "多特蒙德再次出现乐观情绪。德国巨人的新赛季，以及球队不仅重建，而且重新夺回失去的东西的感觉。“总的来说，我们正在混合一个好的……"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13574800/how-borussia-dortmund-are-trying-to-recreate-the-exciting-bvb-of-the-past-as-they-rebuild-with-youth-under-niko-kovac"
+  },
+  {
+    "id": "N_RSS_55388",
+    "type": "official",
+    "date": "2026-08-26",
+    "likes": 210,
+    "title": {
+      "en": "Raheem Sterling charged with dangerous driving and nitrous oxide possession",
+      "zh-CN": "Raheem Sterling被控危险驾驶和持有一氧化二氮"
+    },
+    "summary": {
+      "en": "Former England forward crashed on M3 in late MaySterling is also accused of failing to provide a specimenThe former England forward Raheem Sterling has been charged with dangerous driving and...",
+      "zh-CN": "前英格兰前锋在5月下旬在M3上坠毁斯特林也被指控未能提供样本前英格兰前锋拉希姆·斯特林被指控危险驾驶和..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/26/raheem-sterling-charged-with-dangerous-driving-and-nitrous-oxide-possession"
+  },
+  {
+    "id": "N_RSS_80928",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 162,
+    "title": {
+      "en": "'A huge award' - O'Reilly named PFA young player of the year",
+      "zh-CN": "“一个巨大的奖项” - O 'Reilly将PFA评为年度最佳年轻球员"
+    },
+    "summary": {
+      "en": "Manchester City and England full-back Nico O'Reilly says \"it feels amazing\" after receiving the 2026 PFA young player of the year award.",
+      "zh-CN": "曼城和英格兰边后卫Nico O'Reilly在获得2026年PFA年度最佳年轻球员奖后表示“感觉很棒”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cn74yyepggmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_31927",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 165,
+    "title": {
+      "en": "Cole leaves role as England U21 coach",
+      "zh-CN": "科尔离开英格兰U21教练"
+    },
+    "summary": {
+      "en": "Ashley Cole leaves his role as England Under-21 coach after five years in the position.",
+      "zh-CN": "阿什利·科尔（ Ashley Cole ）在担任英格兰21岁以下教练五年后离职。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c4gkekgvz7go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_80849",
+    "type": "official",
+    "date": "2026-08-21",
+    "likes": 281,
+    "title": {
+      "en": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
+      "zh-CN": "Martin Ødegaard继续担任阿森纳的平滑剂和传球大师| Barney Ronay"
+    },
+    "summary": {
+      "en": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaignWe’re back, baby. Welcome to the content zone. And yes, we did...",
+      "zh-CN": "他的进球就像淘汰赛一样，但阿森纳队长从一场受伤的竞选中恢复过来的迹象我们回来了，宝贝。欢迎来到内容区域。是的，我们做到了..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/21/martin-degaard-of-old-is-back-with-the-pass-that-makes-the-pass"
+  },
+  {
+    "id": "N_RSS_98256",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 113,
+    "title": {
+      "en": "Maracanã to host opening game and final at next year’s Women’s World Cup",
+      "zh-CN": "马拉卡纳将在明年的女足世界杯上举办首场比赛和决赛"
+    },
+    "summary": {
+      "en": "Stadium has hosted two men’s World Cup finalsArena Itaquera in São Paulo will host 10 matchesThe Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup....",
+      "zh-CN": "圣保罗的伊塔克拉竞技场将举办10场比赛里约热内卢的马拉卡纳将举办首场比赛和明年女足世界杯决赛……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup"
+  },
+  {
+    "id": "N_FIFA_36960",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 395,
+    "title": {
+      "en": "Statement attributable to the FIFA President",
+      "zh-CN": "国际足联主席的声明"
+    },
+    "summary": {
+      "en": "Statement attributable to the FIFA President"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/statement-attributable-president"
+  },
+  {
     "id": "N_RSS_62933",
     "type": "official",
     "date": "2026-08-26",
@@ -361,115 +472,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/aug/25/roberto-de-zerbi-savio-signing-tottenham-hotspur-rebrand"
-  },
-  {
-    "id": "N_RSS_59736",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 239,
-    "title": {
-      "en": "Bruno Fernandes and Khadija Shaw land PFA Player of the Year awards",
-      "zh-CN": "Bruno Fernandes和Khadija Shaw登陆PFA年度最佳球员奖"
-    },
-    "summary": {
-      "en": "Fellow players pick Manchester United and Manchester City starsNico O’Reilly and Olivia Smith collect young players’ honoursManchester United’s captain Bruno Fernandes has been crowned Professional...",
-      "zh-CN": "其他球员选择曼联和曼城球星尼科·奥莱利和奥利维亚·史密斯收集年轻球员的荣誉曼联队长布鲁诺·费尔南德斯被加冕为职业球员..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/25/bruno-fernandes-khadija-shaw-pfa-player-of-the-year"
-  },
-  {
-    "id": "N_FIFA_30084",
-    "type": "official",
-    "date": "2026-08-05",
-    "likes": 126,
-    "title": {
-      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco",
-      "zh-CN": "国际足联领导人在摩洛哥拉巴特举行建设性和积极的会晤"
-    },
-    "summary": {
-      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/leadership-constructive-positive-talks-rabat-morocco"
-  },
-  {
-    "id": "N_FIFA_95149",
-    "type": "official",
-    "date": "2026-08-04",
-    "likes": 213,
-    "title": {
-      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™",
-      "zh-CN": "国际足联为国际足联女足世界杯巴西2027™推出可持续发展和人权战略"
-    },
-    "summary": {
-      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
-  },
-  {
-    "id": "N_RSS_80316",
-    "type": "official",
-    "date": "2026-08-24",
-    "likes": 58,
-    "title": {
-      "en": "‘Enough is enough’: players pile pressure on under-fire Gianni Infantino to resign",
-      "zh-CN": "“够了就够了” ：玩家向Gianni Infantino施压，要求他辞职"
-    },
-    "summary": {
-      "en": "President accused by ‘Fifa Legends’ of being power hungrySamuel Eto’o claims chief has not ‘done anything wrong’A group of influential current and former footballers have added to the pressure on...",
-      "zh-CN": "“国际足联传奇”指责总统渴望权力Samuel Eto 'o声称酋长没有“做错任何事”一群有影响力的现任和前任足球运动员增加了对...的压力"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/24/gianni-infantino-fifa-players-resign-football-politics"
-  },
-  {
-    "id": "N_RSS_81004",
-    "type": "official",
-    "date": "2026-08-24",
-    "likes": 90,
-    "title": {
-      "en": "San Francisco 49ers owner Jed York pleads no contest after arrest at Ohio trailer park",
-      "zh-CN": "旧金山49人队老板杰德·约克在俄亥俄州拖车公园被捕后没有抗辩"
-    },
-    "summary": {
-      "en": "46-year-old charged with possessing criminal toolsYork fined and sentenced to two days in jail49ers CEO also owns stake in Leeds UnitedThe San Francisco 49ers owner Jed York has pleaded no contest to...",
-      "zh-CN": "46岁，被控拥有犯罪工具。约克被罚款并被判入狱两天。49人首席执行官还拥有利兹联队的股份。旧金山49人队老板杰德·约克（ Jed York ）没有对……提出异议。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/sport/2026/aug/24/san-francisco-49ers-owner-jed-york-pleads-no-contest-after-arrest-at-ohio-trailer-park"
-  },
-  {
-    "id": "N_RSS_63851",
-    "type": "official",
-    "date": "2026-08-24",
-    "likes": 52,
-    "title": {
-      "en": "Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson",
-      "zh-CN": "进球方面的明显弱点仍然存在，但早期迹象表明哈比·阿隆索的切尔西应该很有趣|乔纳森·威尔逊"
-    },
-    "summary": {
-      "en": "The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time for the new manager’s principles to bed inAfter a weekend on which pretty much every potential...",
-      "zh-CN": "未能取代罗伯特·桑切斯（ Robert Sánchez ）仍然是一个谜，但新面貌的前三名应该为新经理的原则赢得时间。在一个周末之后，几乎所有潜力……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham"
-  },
-  {
-    "id": "N_RSS_99080",
-    "type": "official",
-    "date": "2026-08-21",
-    "likes": 142,
-    "title": {
-      "en": "England Women U20s squad named amid boycott threat",
-      "zh-CN": "在抵制威胁中命名的英格兰女子U20队"
-    },
-    "summary": {
-      "en": "Manager Lydia Bedford has named her England squad for the upcoming Fifa U20s Women's World Cup amid ongoing threat of a boycott from European nations.",
-      "zh-CN": "在欧洲国家持续抵制的威胁下，经理莉迪亚·贝德福德（ Lydia Bedford ）为即将到来的国际足联U20女足世界杯命名了她的英格兰队。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c2el8j10vl3o?at_medium=RSS&at_campaign=rss"
   }
 ]
