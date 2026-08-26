@@ -1,5 +1,114 @@
 [
   {
+    "id": "N_RSS_88752",
+    "type": "official",
+    "date": "2026-08-26",
+    "likes": 199,
+    "title": {
+      "en": "Uefa to lift boycott threat after Fifa promises no World Cup sale repeat",
+      "zh-CN": "在国际足联承诺不再出售世界杯后，欧足联将取消抵制威胁"
+    },
+    "summary": {
+      "en": "Uefa has received guarantees after ill-fated Infantino planEuropean sides will go to under-20 Women’s World CupUefa is to drop its threatened boycott of Fifa competitions after receiving concrete...",
+      "zh-CN": "在Infantino计划失败后，欧足联得到了保证。欧洲球队将参加20岁以下女足世界杯。欧足联在收到具体..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/26/uefa-poised-lift-boycott-threat-fifa-promises-no-world-cup-sale-repeat-gianni-infantino"
+  },
+  {
+    "id": "N_RSS_77616",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 167,
+    "title": {
+      "en": "Xavi hopes time at the ‘university of football’ will end with Dutch success",
+      "zh-CN": "Xavi希望在“足球大学”的时光将以荷兰的成功告终"
+    },
+    "summary": {
+      "en": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach“My feeling today is that I’m going to the university of football.” Those...",
+      "zh-CN": "巴塞罗那传奇人物想效仿约翰·克鲁伊夫（ Johan Cruyff ）在担任荷兰主教练后的足球哲学： “我今天的感觉是，我要去足球大学。”那些..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona"
+  },
+  {
+    "id": "N_RSS_45644",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 200,
+    "title": {
+      "en": "Another set of Sullivan brothers are making football waves in Bangladesh",
+      "zh-CN": "另一组沙利文兄弟正在孟加拉国掀起足球浪潮"
+    },
+    "summary": {
+      "en": "While Cavan and Quinn Sullivan star in MLS with the Philadelphia Union, brothers Ronan and Declan have connected with their South Asian heritageRonan Sullivan had tried a panenka twice in his life....",
+      "zh-CN": "当Cavan和Quinn Sullivan在费城联盟的MLS中出演时， Ronan和Declan兄弟与他们的南亚遗产联系在一起Ronan Sullivan一生中曾两次尝试过panenka...."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/25/bangladesh-soccer-team-ronan-declan-sullivan"
+  },
+  {
+    "id": "N_FIFA_31732",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 188,
+    "title": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
+      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
+    },
+    "summary": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
+  },
+  {
+    "id": "N_RSS_10870",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 246,
+    "title": {
+      "en": "Can a managerial merry-go-round in Serie A stop Inter’s dominance?",
+      "zh-CN": "意甲的管理旋转木马能否阻止国际米兰的统治地位？"
+    },
+    "summary": {
+      "en": "Milan, Napoli and Atalanta all have new head coaches as Italian football hopes to return to the spotlightAnd so, calcio’s “third apocalypse” has passed. A lot of Italians enjoyed the World Cup more...",
+      "zh-CN": "米兰、那不勒斯和亚特兰大都有新的主教练，因为意大利足球希望重返聚光灯下。因此，卡尔西奥的“第三次天启”已经过去。很多意大利人更喜欢世界杯……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/20/serie-a-preview-inter-milan-juventus-como-roma-napoli"
+  },
+  {
+    "id": "N_FIFA_92772",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 119,
+    "title": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled",
+      "zh-CN": "国际足联2027年女足世界杯™冠军将在马拉卡纳举行的比赛日程公布之际举起奖杯"
+    },
+    "summary": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
+  },
+  {
+    "id": "N_FIFA_18657",
+    "type": "official",
+    "date": "2026-07-31",
+    "likes": 317,
+    "title": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal",
+      "zh-CN": "对国际足联前进企业（ FFE ）提案的澄清"
+    },
+    "summary": {
+      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/clarifications-fifa-forward-enterprise-ffe-proposal"
+  },
+  {
     "id": "N_RSS_58245",
     "type": "official",
     "date": "2026-08-26",
@@ -363,115 +472,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/aug/25/womens-super-league-2026-27-preview-no-4-brighton"
-  },
-  {
-    "id": "N_RSS_6545",
-    "type": "official",
-    "date": "2026-08-24",
-    "likes": 291,
-    "title": {
-      "en": "Premier League: 10 talking points from opening weekend of the season",
-      "zh-CN": "英超联赛：本赛季开幕周末的10个谈话要点"
-    },
-    "summary": {
-      "en": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for EvertonArsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil...",
-      "zh-CN": "曼联的弱势进攻，布伦特福德的3900万£讨价还价和杜斯伯里-霍尔为埃弗顿-阿森纳对加布里埃尔·马蒂内利（ Gabriel Martinelli ）的待遇做出了贡献，在巴西队之后，伊恩·赖特（ Ian Wright ）对此提出了质疑……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/24/premier-league-10-talking-points-from-opening-weekend-action"
-  },
-  {
-    "id": "N_RSS_44688",
-    "type": "official",
-    "date": "2026-08-21",
-    "likes": 86,
-    "title": {
-      "en": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
-      "zh-CN": "Martin Ødegaard继续担任阿森纳的平滑剂和传球大师| Barney Ronay"
-    },
-    "summary": {
-      "en": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaignWe’re back, baby. Welcome to the content zone. And yes, we did...",
-      "zh-CN": "他的进球就像淘汰赛一样，但阿森纳队长从一场受伤的竞选中恢复过来的迹象我们回来了，宝贝。欢迎来到内容区域。是的，我们做到了..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/21/martin-degaard-of-old-is-back-with-the-pass-that-makes-the-pass"
-  },
-  {
-    "id": "N_RSS_38538",
-    "type": "official",
-    "date": "2026-08-20",
-    "likes": 140,
-    "title": {
-      "en": "Maracanã to host opening game and final at next year’s Women’s World Cup",
-      "zh-CN": "马拉卡纳将在明年的女足世界杯上举办首场比赛和决赛"
-    },
-    "summary": {
-      "en": "Stadium has hosted two men’s World Cup finalsArena Itaquera in São Paulo will host 10 matchesThe Maracanã in Rio de Janeiro will host the opening game and the final of next year’s Women’s World Cup....",
-      "zh-CN": "圣保罗的伊塔克拉竞技场将举办10场比赛里约热内卢的马拉卡纳将举办首场比赛和明年女足世界杯决赛……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/20/maracana-to-host-opening-game-and-final-at-next-years-womens-world-cup"
-  },
-  {
-    "id": "N_FIFA_58565",
-    "type": "official",
-    "date": "2026-07-31",
-    "likes": 174,
-    "title": {
-      "en": "Statement attributable to the FIFA President",
-      "zh-CN": "国际足联主席的声明"
-    },
-    "summary": {
-      "en": "Statement attributable to the FIFA President"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/statement-attributable-president"
-  },
-  {
-    "id": "N_FIFA_57901",
-    "type": "official",
-    "date": "2026-07-28",
-    "likes": 350,
-    "title": {
-      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations",
-      "zh-CN": "国际足联打算将足球发展资金扩大到超过100亿美元，但须经国际足联成员协会批准"
-    },
-    "summary": {
-      "en": "FIFA intends to expand football development funding to over USD 10 billion subject to approval by FIFA Member Associations"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/intends-expand-football-development-funding-usd-10-billion-subject-approval-member-associations"
-  },
-  {
-    "id": "N_RSS_6211",
-    "type": "official",
-    "date": "2026-08-26",
-    "likes": 256,
-    "title": {
-      "en": "Uefa poised to lift boycott threat after Fifa promises no World Cup sale repeat",
-      "zh-CN": "在国际足联承诺不再出售世界杯后，欧足联准备解除抵制威胁"
-    },
-    "summary": {
-      "en": "Uefa has received guarantees after ill-fated Infantino planEuropean teams likely to go to under-20 Women’s World CupUefa is poised to drop its threatened boycott of Fifa competitions after receiving...",
-      "zh-CN": "在Infantino计划失败后，欧足联获得了保证。欧洲球队可能会参加20岁以下女足世界杯。欧足联准备在收到...后放弃对国际足联比赛的威胁性抵制。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/26/uefa-poised-lift-boycott-threat-fifa-promises-no-world-cup-sale-repeat-gianni-infantino"
-  },
-  {
-    "id": "N_RSS_96770",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 215,
-    "title": {
-      "en": "All the best Savinho - welcome Savio... new club, new name for Spurs signing",
-      "zh-CN": "所有最好的萨维尼奥-欢迎萨维奥...新俱乐部，马刺签约的新名称"
-    },
-    "summary": {
-      "en": "Tottenham sign Brazil winger Savinho from Manchester City for an initial £75m - and he reverts to being called Savio.",
-      "zh-CN": "托特纳姆热刺以7500万英镑的价格从曼城签下了巴西边锋萨维尼奥，他重新被称为萨维奥。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cy7z637nj8jo?at_medium=RSS&at_campaign=rss"
   }
 ]
