@@ -1,5 +1,178 @@
 [
   {
+    "id": "N_RSS_97417",
+    "type": "official",
+    "date": "2026-08-26",
+    "likes": 264,
+    "title": {
+      "en": "Chelsea in contact over move for Villa goalkeeper Martinez",
+      "zh-CN": "切尔西在别墅门将马丁内斯的过度接触"
+    },
+    "summary": {
+      "en": "Chelsea consider a move for Aston Villa goalkeeper Emiliano Martinez after making contact with the Argentina international's representatives.",
+      "zh-CN": "在与阿根廷国际代表取得联系后，切尔西考虑转会阿斯顿维拉门将埃米利亚诺·马丁内斯。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm27yzrkeydo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_97775",
+    "type": "official",
+    "date": "2026-08-26",
+    "likes": 153,
+    "title": {
+      "en": "Mbappe scores hat-trick as Real Madrid continue perfect start",
+      "zh-CN": "姆巴佩帽子戏法得分，皇家马德里继续完美开局"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
+  },
+  {
+    "id": "N_RSS_18252",
+    "type": "official",
+    "date": "2026-08-26",
+    "likes": 72,
+    "title": {
+      "en": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
+      "zh-CN": "在主场球迷嘲笑皇家马德里之后， Mbappé帽子戏法沉没了皇家社会"
+    },
+    "summary": {
+      "en": "Kylian Mbappé scored a hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabéu on Wednesday ⁠in their first home match since the return of José Mourinho as head coach.Mbappé put Madrid ahead...",
+      "zh-CN": "Kylian Mbappé周三在伯纳乌以4比1击败皇家社会队，这是自何塞·穆里尼奥回归主教练以来的第一场主场比赛。Mbappé让马德里领先..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe"
+  },
+  {
+    "id": "N_RSS_2600",
+    "type": "official",
+    "date": "2026-08-26",
+    "likes": 126,
+    "title": {
+      "en": "Football transfer rumours: Jean-Philippe Mateta to Aston Villa?",
+      "zh-CN": "足球转会传闻：让-菲利普·马泰塔到阿斯顿维拉？"
+    },
+    "summary": {
+      "en": "Today’s fluff is splashing out regardlessLiam Delap may not have broken any records during his time with Chelsea but he is setting one on his way out the door. The England youth international is...",
+      "zh-CN": "尽管如此，今天的蓬勃发展利亚姆·德拉普（ Liam Delap ）在切尔西任职期间可能没有打破任何纪录，但他在出门的路上正在创造一项纪录。英格兰青年国脚是……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/26/football-transfer-rumours-jean-philippe-mateta-to-aston-villa"
+  },
+  {
+    "id": "N_RSS_59202",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 104,
+    "title": {
+      "en": "'A huge award' - O'Reilly named PFA young player of the year",
+      "zh-CN": "“一个巨大的奖项” - O 'Reilly将PFA评为年度最佳年轻球员"
+    },
+    "summary": {
+      "en": "Manchester City and England full-back Nico O'Reilly says \"it feels amazing\" after receiving the 2026 PFA young player of the year award.",
+      "zh-CN": "曼城和英格兰边后卫Nico O'Reilly在获得2026年PFA年度最佳年轻球员奖后表示“感觉很棒”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cn74yyepggmo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_18898",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 74,
+    "title": {
+      "en": "Bruno Fernandes and Khadija Shaw land PFA Player of the Year awards",
+      "zh-CN": "Bruno Fernandes和Khadija Shaw登陆PFA年度最佳球员奖"
+    },
+    "summary": {
+      "en": "Fellow players pick Manchester United and Manchester City starsNico O’Reilly and Olivia Smith collect young players’ honoursManchester United’s captain Bruno Fernandes has been crowned Professional...",
+      "zh-CN": "其他球员选择曼联和曼城球星尼科·奥莱利和奥利维亚·史密斯收集年轻球员的荣誉曼联队长布鲁诺·费尔南德斯被加冕为职业球员..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/25/bruno-fernandes-khadija-shaw-pfa-player-of-the-year"
+  },
+  {
+    "id": "N_RSS_25883",
+    "type": "official",
+    "date": "2026-08-24",
+    "likes": 210,
+    "title": {
+      "en": "Women’s Super League 2026-27 preview No 4: Brighton",
+      "zh-CN": "女子超级联赛2026-27预览第4名：布莱顿"
+    },
+    "summary": {
+      "en": "Dario Vidosic has added nous and potential in a bid to build on a season that saw the club get to a first FA Cup finalGuardian writers’ predicted position: 6th (NB: this is not necessarily Sophie...",
+      "zh-CN": "达里奥·维多西奇（ Dario Vidosic ）在俱乐部进入第一届足总杯决赛的赛季的基础上增加了机会和潜力卫报作家的预测位置：第6名（注：这不一定是索菲......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/25/womens-super-league-2026-27-preview-no-4-brighton"
+  },
+  {
+    "id": "N_RSS_12435",
+    "type": "official",
+    "date": "2026-08-24",
+    "likes": 97,
+    "title": {
+      "en": "Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson",
+      "zh-CN": "进球方面的明显弱点仍然存在，但早期迹象表明哈比·阿隆索的切尔西应该很有趣|乔纳森·威尔逊"
+    },
+    "summary": {
+      "en": "The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time for the new manager’s principles to bed inAfter a weekend on which pretty much every potential...",
+      "zh-CN": "未能取代罗伯特·桑切斯（ Robert Sánchez ）仍然是一个谜，但新面貌的前三名应该为新经理的原则赢得时间。在一个周末之后，几乎所有潜力……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham"
+  },
+  {
+    "id": "N_RSS_42383",
+    "type": "official",
+    "date": "2026-08-22",
+    "likes": 173,
+    "title": {
+      "en": "José Mourinho marks Real Madrid return with late drama and touch of humility",
+      "zh-CN": "何塞·穆里尼奥（ José Mourinho ）以晚期戏剧和谦逊的气质标志着皇家马德"
+    },
+    "summary": {
+      "en": "The old master is back at Madrid as he begins with celebrations, frustrations and relief in a 2-1 win at EspanyolJosé Mourinho says he is calmer now so when the rest of the bench emptied, sprinting...",
+      "zh-CN": "这位老大师回到了马德里，他在西班牙人何塞·穆里尼奥的2-1胜利中以庆祝，挫折和宽慰开始，他说他现在更平静了，所以当板凳上的其他人空空如也时，冲刺......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga"
+  },
+  {
+    "id": "N_FIFA_7675",
+    "type": "official",
+    "date": "2026-08-05",
+    "likes": 291,
+    "title": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco",
+      "zh-CN": "国际足联领导人在摩洛哥拉巴特举行建设性和积极的会晤"
+    },
+    "summary": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/leadership-constructive-positive-talks-rabat-morocco"
+  },
+  {
+    "id": "N_FIFA_60154",
+    "type": "official",
+    "date": "2026-08-04",
+    "likes": 360,
+    "title": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联为国际足联女足世界杯巴西2027™推出可持续发展和人权战略"
+    },
+    "summary": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
+  },
+  {
     "id": "N_RSS_41145",
     "type": "official",
     "date": "2026-08-26",
@@ -298,179 +471,5 @@
     },
     "source": "FIFA Official",
     "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
-  },
-  {
-    "id": "N_FIFA_18657",
-    "type": "official",
-    "date": "2026-07-31",
-    "likes": 317,
-    "title": {
-      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal",
-      "zh-CN": "对国际足联前进企业（ FFE ）提案的澄清"
-    },
-    "summary": {
-      "en": "Clarifications on FIFA Forward Enterprise (FFE) proposal"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/clarifications-fifa-forward-enterprise-ffe-proposal"
-  },
-  {
-    "id": "N_RSS_58245",
-    "type": "official",
-    "date": "2026-08-26",
-    "likes": 132,
-    "title": {
-      "en": "Man City complete £86m Bouaddi signing from Lille",
-      "zh-CN": "曼城从里尔完成£ 8600万Bouaddi签约"
-    },
-    "summary": {
-      "en": "Manchester City complete the signing of Morocco midfielder Ayyoub Bouaddi from Lille in a £85.6m deal on a five-year contract.",
-      "zh-CN": "曼城以8560万英镑的五年合同从里尔签下了摩洛哥中场阿尤布·布阿迪。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c8d3jej2lqlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_88705",
-    "type": "official",
-    "date": "2026-08-26",
-    "likes": 206,
-    "title": {
-      "en": "Postecoglou subs off Ronaldo to spark dramatic Al-Nassr comeback",
-      "zh-CN": "罗纳尔多附近的Postecoglou潜艇，激发戏剧性的Al-Nassr卷土重来"
-    },
-    "summary": {
-      "en": "Cristiano Ronaldo is taken off at half-time with his 10-man Al-Nassr side 2-0 down - but they fight back to seal a dramatic win over Al-Ettifaq.",
-      "zh-CN": "克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）在半场比赛中脱颖而出，他的10人Al-Nassr球队2-0落后-但他们反击以赢得对Al-Ettifaq的戏剧性胜利。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c62kd8027w1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_43269",
-    "type": "official",
-    "date": "2026-08-26",
-    "likes": 240,
-    "title": {
-      "en": "Chelsea in talks with Emiliano Martínez’s camp and braced for Enzo Fernández bid",
-      "zh-CN": "切尔西与埃米利亚诺·马丁内斯（ Emiliano Martínez ）的阵营进行谈判，并为恩佐·费尔南德斯（ Enzo Fernánde"
-    },
-    "summary": {
-      "en": "Experienced goalkeeper wants to leave Aston VillaManchester City expected to push for midfielderChelsea have been offered Emiliano Martínez and are considering making a bid for the goalkeeper. The...",
-      "zh-CN": "经验丰富的守门员希望离开阿斯顿维拉曼彻斯特城，预计将成为中场球员切尔西已收到埃米利亚诺·马丁内斯的报价，并正在考虑收购这位守门员。这..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/26/chelsea-emiliano-martinez-aston-villa-goalkeeper"
-  },
-  {
-    "id": "N_RSS_12821",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 217,
-    "title": {
-      "en": "Football transfer rumours: Manchester City and Spurs chase Cody Gakpo?",
-      "zh-CN": "足球转会传闻：曼城和马刺队追逐科迪·盖普？"
-    },
-    "summary": {
-      "en": "Today’s rumours are so severely underwhelmedAfter Aston Villa endured a day to forget on the Premier League’s opening weekend, it only stands to reason that they must sign players, and ideally good...",
-      "zh-CN": "今天的谣言是如此不堪重负阿斯顿维拉在英超联赛开幕周末度过了一天之后，他们必须签下球员，这是理所当然的，理想情况下是好的......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/25/football-transfer-rumours-manchester-city-tottenham-cody-gakpo"
-  },
-  {
-    "id": "N_RSS_30018",
-    "type": "official",
-    "date": "2026-08-24",
-    "likes": 114,
-    "title": {
-      "en": "Why are Australians thriving in WSL but not Premier League?",
-      "zh-CN": "为什么澳大利亚人在WSL而不是英超联赛中蓬勃发展？"
-    },
-    "summary": {
-      "en": "The Premier League used to feature a host of top Australians. Now there is just one player from the country in the competition, but it's a very different story in the WSL.",
-      "zh-CN": "英超联赛曾经有一群澳大利亚顶级球员。现在比赛中只有一名来自该国的球员，但这在WSL中是一个非常不同的故事。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cx2v3yy9ed9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_25941",
-    "type": "official",
-    "date": "2026-08-24",
-    "likes": 64,
-    "title": {
-      "en": "Rennes push PSG all the way to show they are the best of the rest in Ligue 1",
-      "zh-CN": "雷恩一直推动PSG ，以表明他们是法甲联赛中最好的球员"
-    },
-    "summary": {
-      "en": "PSG flexed their muscles, bringing Ferran Torres off the bench to save the day, but only because Rennes made themBy Get French Football NewsOn the scale of expressions of prowess and power, Paris...",
-      "zh-CN": "巴黎圣日耳曼展现了他们的肌肉，让费兰·托雷斯（ Ferran Torres ）离开板凳来拯救这一天，但这仅仅是因为雷恩（ Rennes ）让他们通过获取法国足球新闻巴黎的实力和力量表达的规模..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/24/rennes-psg-best-rest-ligue-1-ferran-torres"
-  },
-  {
-    "id": "N_FIFA_97273",
-    "type": "official",
-    "date": "2026-07-28",
-    "likes": 231,
-    "title": {
-      "en": "Visa and FIFA mark almost 20 years of success with partnership extension",
-      "zh-CN": "Visa和国际足联通过延续合作伙伴关系取得了近20年的成功"
-    },
-    "summary": {
-      "en": "Visa and FIFA mark almost 20 years of success with partnership extension"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/visa-fifa-success-partnership-extension"
-  },
-  {
-    "id": "N_RSS_71591",
-    "type": "official",
-    "date": "2026-08-26",
-    "likes": 297,
-    "title": {
-      "en": "Ayyoub Bouaddi: maths student, chess fan and Manchester City’s new Rodri",
-      "zh-CN": "Ayyoub Bouaddi ：数学学生、国际象棋迷和曼城新人Rodri"
-    },
-    "summary": {
-      "en": "The £85m midfielder passed his exams a year early, is studying for a degree and is ready to tackle Premier League learning curve“He’s like a computer,” the former Lille head of academy recruitment...",
-      "zh-CN": "这位8500万英镑的中场球员提前一年通过了考试，正在攻读学位，并准备应对英超联赛的学习曲线“他就像一台电脑” ，这位前里尔学院招聘主管..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/26/ayyoub-bouaddi-manchester-city-lille-transfer-rodri"
-  },
-  {
-    "id": "N_RSS_93180",
-    "type": "official",
-    "date": "2026-08-26",
-    "likes": 63,
-    "title": {
-      "en": "Chelsea in talks with Emiliano Martínez’s camp after being offered goalkeeper",
-      "zh-CN": "切尔西在获得守门员后与埃米利亚诺·马丁内斯（ Emiliano Martínez ）的阵营进行谈判"
-    },
-    "summary": {
-      "en": "Experienced World Cup winner wants to leave Aston VillaSánchez errors at Fulham led to Chelsea concedingChelsea have been offered Emiliano Martínez and are considering making an offer for the...",
-      "zh-CN": "经验丰富的世界杯冠军想要离开阿斯顿维拉桑切斯在富勒姆的失误，导致切尔西承认切尔西已经获得了埃米利亚诺·马丁内斯的报价，并正在考虑为..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/26/chelsea-emiliano-martinez-aston-villa-goalkeeper"
-  },
-  {
-    "id": "N_RSS_64188",
-    "type": "official",
-    "date": "2026-08-26",
-    "likes": 270,
-    "title": {
-      "en": "Raheem Sterling charged with dangerous driving and nitrous oxide possession",
-      "zh-CN": "Raheem Sterling被控危险驾驶和持有一氧化二氮"
-    },
-    "summary": {
-      "en": "Former England forward crashed on M3 in late MaySterling is also accused of failing to provide a specimenRaheem Sterling has been charged with dangerous driving and possession of nitrous oxide after...",
-      "zh-CN": "前英格兰前锋在5月下旬在M3上坠毁英镑也被指控未能提供标本拉希姆·斯特林被指控在..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/26/raheem-sterling-charged-with-dangerous-driving-and-nitrous-oxide-possession"
   }
 ]
