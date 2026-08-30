@@ -1,5 +1,100 @@
 [
   {
+    "id": "N_RSS_51681",
+    "type": "official",
+    "date": "2026-08-29",
+    "likes": 219,
+    "title": {
+      "en": "Three-week international break a concern - Mourinho",
+      "zh-CN": "为期三周的国际突破-穆里尼奥"
+    },
+    "summary": {
+      "en": "Jose Mourinho says the three-week international break is a “concern” for Real Madrid, with several key players facing a demanding schedule after the World Cup.",
+      "zh-CN": "穆里尼奥表示，为期三周的国际比赛对皇家马德里来说是一个“担忧” ，几位关键球员在世界杯结束后面临着苛刻的时间表。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2zwwz5z4no?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_60218",
+    "type": "official",
+    "date": "2026-08-29",
+    "likes": 208,
+    "title": {
+      "en": "Alonso gets Chelsea’s priorities right by ditching Sánchez for winner Martínez | Jacob Steinberg",
+      "zh-CN": "阿隆索通过为冠军马丁内斯抛弃桑切斯而获得切尔西的优先权|雅各布·斯坦伯格"
+    },
+    "summary": {
+      "en": "Signing of World Cup winner adds to sense that this is the summer when BlueCo got serious in transfer marketCarlo Cudicini was a very good goalkeeper. However, José Mourinho was ruthless when he...",
+      "zh-CN": "签下世界杯冠军让人感觉这是BlueCo认真对待转会市场的夏天， Carlo Cudicini是一位非常出色的守门员。然而，何塞·穆里尼奥（ José Mourinho ）在……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/29/xabi-alonso-chelsea-keepers-robert-sanchez-emiliano-martinez"
+  },
+  {
+    "id": "N_RSS_31086",
+    "type": "official",
+    "date": "2026-08-28",
+    "likes": 271,
+    "title": {
+      "en": "What is the aim for Kompany, Kane and Bayern?",
+      "zh-CN": "Kompany、Kane和Bayern的目标是什么？"
+    },
+    "summary": {
+      "en": "Bayern Munich start their latest title defence as overwhelming odds-on favourites to win the Bundesliga again - so what would constitute success?",
+      "zh-CN": "拜仁慕尼黑以压倒性的赔率开始了他们最新的冠军防守，他们最有可能再次赢得德甲冠军，那么什么才算是成功呢？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_25782",
+    "type": "official",
+    "date": "2026-08-28",
+    "likes": 186,
+    "title": {
+      "en": "Aston Villa’s squad is crumbling while Spurs splash out. Are the financial rules fair?",
+      "zh-CN": "阿斯顿维拉的阵容正在崩溃，而马刺则溅了出来。财务规则是否公平？"
+    },
+    "summary": {
+      "en": "Winning the Europa League and finishing fourth did not inoculate Villa and Spurs were not hampered by a season of woeIn theory Aston Villa supporters should have been rubbing their hands together at...",
+      "zh-CN": "赢得欧罗巴联赛并获得第四名并没有给维拉接种疫苗，马刺也没有受到一个悲惨赛季的阻碍。理论上，阿斯顿维拉的支持者应该在..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/28/aston-villa-spurs-are-football-financial-rules-fair-transfers"
+  },
+  {
+    "id": "N_FIFA_96046",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 117,
+    "title": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
+      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
+    },
+    "summary": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
+  },
+  {
+    "id": "N_RSS_87312",
+    "type": "official",
+    "date": "2026-08-24",
+    "likes": 163,
+    "title": {
+      "en": "Premier League: 10 talking points from opening weekend of the season",
+      "zh-CN": "英超联赛：本赛季开幕周末的10个谈话要点"
+    },
+    "summary": {
+      "en": "Manchester United’s under-powered attack, Brentford’s £39m bargain and Dewsbury-Hall delivers for EvertonArsenal’s treatment of Gabriel Martinelli has been questioned by Ian Wright after the Brazil...",
+      "zh-CN": "曼联的弱势进攻，布伦特福德的3900万£讨价还价和杜斯伯里-霍尔为埃弗顿-阿森纳对加布里埃尔·马蒂内利（ Gabriel Martinelli ）的待遇做出了贡献，在巴西队之后，伊恩·赖特（ Ian Wright ）对此提出了质疑……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/24/premier-league-10-talking-points-from-opening-weekend-action"
+  },
+  {
     "id": "N_RSS_15504",
     "type": "official",
     "date": "2026-08-29",
@@ -377,101 +472,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/aug/29/jose-mourinho-real-madrid-kylian-mbappe-ballon-dor"
-  },
-  {
-    "id": "N_RSS_56303",
-    "type": "official",
-    "date": "2026-08-28",
-    "likes": 140,
-    "title": {
-      "en": "Division, drama and power - what next for Infantino and Uefa?",
-      "zh-CN": "分裂、戏剧和权力--英凡蒂诺和欧足联的下一步是什么？"
-    },
-    "summary": {
-      "en": "Explosive court documents reveal the growing bitterness of Uefa's feud with Fifa president Gianni Infantino, Dan Roan reports.",
-      "zh-CN": "据Dan Roan报道，爆炸性的法庭文件揭示了欧足联与国际足联主席Gianni Infantino之间的仇恨日益加剧。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4gmx03npxmo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_12549",
-    "type": "official",
-    "date": "2026-08-28",
-    "likes": 230,
-    "title": {
-      "en": "Cherki and Haaland double up in Manchester City cruise at Crystal Palace",
-      "zh-CN": "切尔基和哈兰德双人水晶宫曼城游船之旅"
-    },
-    "summary": {
-      "en": "All who attend the Rayan Cherki show know the ticket comes with a guarantee of entertainment. Enzo Maresca, a manager famed for his obsessive positional control, does not need to put limits on the...",
-      "zh-CN": "所有参加Rayan Cherki表演的人都知道，门票保证娱乐。恩佐·马雷斯卡（ Enzo Maresca ）是一位以痴迷于位置控制而闻名的经理，他不需要限制……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/28/crystal-palace-manchester-city-premier-league-match-report"
-  },
-  {
-    "id": "N_RSS_59215",
-    "type": "official",
-    "date": "2026-08-27",
-    "likes": 52,
-    "title": {
-      "en": "Women’s Super League 2026-27 preview No 7: Crystal Palace",
-      "zh-CN": "女子超级联赛2026-27预览第7名：水晶宫"
-    },
-    "summary": {
-      "en": "Jo Potter’s side charged to promotion and have brought in striker Bethany England as they bid to stay upGuardian writers’ predicted position: 13th (NB: this is not necessarily Sophie Downey’s...",
-      "zh-CN": "乔·波特（ Jo Potter ）的球队负责晋升，并在前锋伯大尼·英格兰（ Bethany England ）竞标时将其引入卫报作家的预测位置：第13位（注：这不一定是索菲·唐尼（ Sophie Downey ）的......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/28/womens-super-league-2026-27-preview-no-7-crystal-palace"
-  },
-  {
-    "id": "N_RSS_55446",
-    "type": "official",
-    "date": "2026-08-27",
-    "likes": 299,
-    "title": {
-      "en": "Spurs paying price for World Cup and pre-season trip to Australia",
-      "zh-CN": "马刺为世界杯和季前澳大利亚之旅付出代价"
-    },
-    "summary": {
-      "en": "Too many players are off the pace and Roberto De Zerbi has had no hesitation in naming names Jan Paul van Hecke was among those given an unwanted name-check by Roberto De Zerbi after Tottenham’s 3-0...",
-      "zh-CN": "太多的球员没有跟上节奏，罗伯托·德·泽尔比（ Roberto De Zerbi ）毫不犹豫地命名扬·保罗·范·赫克（ Jan Paul van Hecke ）是罗伯托·德·泽尔比（ Roberto De Zerbi ）在托特纳姆热刺（ Tottenham ）以3比0获胜后"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/27/spurs-squad-pre-season-charlton-carabao-cup-newcastle"
-  },
-  {
-    "id": "N_RSS_13912",
-    "type": "official",
-    "date": "2026-08-27",
-    "likes": 66,
-    "title": {
-      "en": "Struggling Inter Miami hire Kily González as new head coach",
-      "zh-CN": "苦苦挣扎的国际米兰聘请Kily González担任新任主教练"
-    },
-    "summary": {
-      "en": "MLS club mired in five-match winless runGonzález to replace interim coach Guillermo HoyosInter Miami have hired former Argentina international Cristian “Kily” González as the club’s new head coach,...",
-      "zh-CN": "MLS俱乐部陷入了五场失败的比赛中冈萨雷斯取代临时教练吉列尔莫·奥约斯迈阿密国际队聘请前阿根廷国脚克里斯蒂安· “基利” ·冈萨雷斯担任俱乐部的新任主教练，..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/27/inter-miami-kily-gonzalez-lionel-messi-guillermo-hoyos"
-  },
-  {
-    "id": "N_RSS_87702",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 229,
-    "title": {
-      "en": "Xavi hopes time at the ‘university of football’ will end with Dutch success",
-      "zh-CN": "Xavi希望在“足球大学”的时光将以荷兰的成功告终"
-    },
-    "summary": {
-      "en": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach“My feeling today is that I’m going to the university of football.” Those...",
-      "zh-CN": "巴塞罗那传奇人物想效仿约翰·克鲁伊夫（ Johan Cruyff ）在担任荷兰主教练后的足球哲学： “我今天的感觉是，我要去足球大学。”那些..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona"
   }
 ]
