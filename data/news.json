@@ -1,5 +1,178 @@
 [
   {
+    "id": "N_RSS_20519",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 58,
+    "title": {
+      "en": "Man Utd near deal for Mexico's Bernal",
+      "zh-CN": "曼联接近与墨西哥的Bernal达成协议"
+    },
+    "summary": {
+      "en": "Manchester United are close to signing Mexico international Rebeca Bernal from Washington Spirit.",
+      "zh-CN": "曼联即将从Washington Spirit签下墨西哥国脚Rebeca Bernal。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_22234",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 218,
+    "title": {
+      "en": "Euro Debrief: Mourinho getting best out of Bellingham at Real Madrid",
+      "zh-CN": "欧元汇报：穆里尼奥在皇家马德里获得贝灵厄姆的最佳表现"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13576939/jude-bellingham-jose-mourinho-getting-best-out-of-england-star-as-a-no-10-at-real-madrid-plus-lots-more-in-the-euro-debrief"
+  },
+  {
+    "id": "N_RSS_69041",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 56,
+    "title": {
+      "en": "Football transfer deadline day looms: latest news on Gakpo, Sarr and more – live",
+      "zh-CN": "足球转会截止日迫在眉睫： Gakpo、Sarr等最新消息–现场直播"
+    },
+    "summary": {
+      "en": "Men’s transfer interactive | Women’s transfer interactiveGet in touch: email Dominic and follow us on BlueskyOllie Watkins has gone from Aston Villa to the Saudi Pro League to join Al-Hilal, and the...",
+      "zh-CN": "男子转会互动|女子转会互动联系方式：发送电子邮件至Dominic并关注我们BlueskyOllie Watkins已从阿斯顿维拉转会至沙特职业联赛，加入Al-Hilal ，以及..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/aug/31/football-transfer-deadline-day-looms-latest-news-on-gakpo-sarr-and-more-live"
+  },
+  {
+    "id": "N_RSS_71790",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 97,
+    "title": {
+      "en": "Premier League: 10 talking points from the weekend’s action",
+      "zh-CN": "英超联赛：周末行动的10个谈话要点"
+    },
+    "summary": {
+      "en": "Newcastle players look revitalised, Liverpool’s curious transfer strategy and a  worrying start for PalaceAmid the concerns at Manchester United, one player unquestioned is Senne Lammens. The...",
+      "zh-CN": "纽卡斯尔球员看起来精力充沛，利物浦好奇的转会策略和皇宫令人担忧的开局。在曼联的担忧中，一位毫无疑问的球员是Senne Lammens。..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action"
+  },
+  {
+    "id": "N_RSS_76652",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 60,
+    "title": {
+      "en": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
+      "zh-CN": "足球转会传闻：利物浦签下Estêvão ？克里斯蒂安·普利西奇到马刺？"
+    },
+    "summary": {
+      "en": "Today’s chatter is talking about its dreams againElite football clubs splash out millions on their scouting efforts these days, gather reams of data and spend countless meticulous hours assembling...",
+      "zh-CN": "今天的喋喋不休又在谈论它的梦想精英足球俱乐部现在花费数百万美元进行侦察工作，收集大量数据并花费无数个小时组装......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs"
+  },
+  {
+    "id": "N_RSS_30764",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 200,
+    "title": {
+      "en": "Watkins faces Toney clash as strikers push for Saudi supremacy and Tuchel’s attention",
+      "zh-CN": "随着罢工者推动沙特霸权和图切尔的关注，沃特金斯面临着托尼的冲突"
+    },
+    "summary": {
+      "en": "Al-Hilal’s signing from Villa is thrown straight into big game against Al-Ahli and faces the highest of expectationsOllie Watkins and Ivan Toney spent 33 minutes on the pitch together a few weeks ago...",
+      "zh-CN": "Al-Hilal从Villa的签约直接进入了对Al-Ahli的重要比赛，并面临着最高的期望奥利·沃特金斯和伊万·托尼几周前一起在球场上花了33分钟......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/31/ollie-watkins-ivan-toney-saudi-arabia-thomas-tuchel-england"
+  },
+  {
+    "id": "N_RSS_72722",
+    "type": "official",
+    "date": "2026-08-30",
+    "likes": 161,
+    "title": {
+      "en": "Antonio helps young Ghanaians chase Premier League dreams",
+      "zh-CN": "安东尼奥帮助加纳年轻人追逐英超梦想"
+    },
+    "summary": {
+      "en": "Former West Ham forward Michail Antonio is helping players from a Ghana academy, who have travelled to England in the hope of turning pro.",
+      "zh-CN": "前西汉姆前锋米歇尔·安东尼奥正在帮助加纳青训营的球员，他们已经前往英格兰，希望转为职业球员。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvg0n8l87g7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_48560",
+    "type": "official",
+    "date": "2026-08-28",
+    "likes": 78,
+    "title": {
+      "en": "Why Arsenal still needed Konsa - despite having so many defenders",
+      "zh-CN": "为什么阿森纳仍然需要康萨-尽管有这么多后卫"
+    },
+    "summary": {
+      "en": "The final hours of the transfer window could see Arsenal bring in an attacker. But before the window shuts, a defensive purchase could take centre stage on Monday night.",
+      "zh-CN": "在转会窗口的最后几个小时，阿森纳可能会引进一名攻击者。但在窗口关闭之前，防御性购买可能会在周一晚上成为焦点。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13578303/ezri-konsa-why-arsenal-signed-aston-villas-top-defender-for-55m-despite-having-so-many-defenders"
+  },
+  {
+    "id": "N_RSS_5554",
+    "type": "official",
+    "date": "2026-08-26",
+    "likes": 76,
+    "title": {
+      "en": "Ayyoub Bouaddi: maths student, chess fan and Manchester City’s new Rodri",
+      "zh-CN": "Ayyoub Bouaddi ：数学学生、国际象棋迷和曼城新人Rodri"
+    },
+    "summary": {
+      "en": "The £85m midfielder passed his exams a year early, is studying for a degree and is ready to tackle Premier League learning curve“He’s like a computer,” the former Lille head of academy recruitment,...",
+      "zh-CN": "这位8500万英镑的中场球员提前一年通过了考试，正在攻读学位，并准备应对英超联赛的学习曲线“他就像一台电脑” ，前里尔学院招聘主管，..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/26/ayyoub-bouaddi-manchester-city-lille-transfer-rodri"
+  },
+  {
+    "id": "N_FIFA_81461",
+    "type": "official",
+    "date": "2026-08-05",
+    "likes": 292,
+    "title": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco",
+      "zh-CN": "国际足联领导人在摩洛哥拉巴特举行建设性和积极的会晤"
+    },
+    "summary": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/leadership-constructive-positive-talks-rabat-morocco"
+  },
+  {
+    "id": "N_FIFA_55767",
+    "type": "official",
+    "date": "2026-08-04",
+    "likes": 214,
+    "title": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联为国际足联女足世界杯巴西2027™推出可持续发展和人权战略"
+    },
+    "summary": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
+  },
+  {
     "id": "N_RSS_36464",
     "type": "official",
     "date": "2026-08-30",
@@ -300,180 +473,5 @@
     },
     "source": "BBC Sport",
     "url": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_34709",
-    "type": "official",
-    "date": "2026-08-29",
-    "likes": 83,
-    "title": {
-      "en": "Are Charlton ready to challenge? - Sam Parkin's EFL takeaways",
-      "zh-CN": "查尔顿准备好挑战了吗？ - Sam Parkin的EFL外卖"
-    },
-    "summary": {
-      "en": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including a perfect start for Charlton Athletic.",
-      "zh-CN": "BBC Final Score权威人士Sam Parkin着眼于EFL周末的谈话要点，包括Charlton Athletic的完美开局。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c305n87mdjro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_49722",
-    "type": "official",
-    "date": "2026-08-29",
-    "likes": 207,
-    "title": {
-      "en": "O'Neill would rather Celtic had no fans at Ibrox than 300",
-      "zh-CN": "奥尼尔宁愿凯尔特人在伊布罗克斯没有球迷，也不愿拥有300名球迷"
-    },
-    "summary": {
-      "en": "Martin O'Neill says Celtic \"might as well not get any\" tickets after Rangers offered 300 for the sides' League Cup quarter-final at Ibrox next month.",
-      "zh-CN": "马丁·奥尼尔（ Martin O'Neill ）表示，在流浪者队为下个月在伊布罗克斯（ Ibrox ）举行的双方联赛杯四分之一决赛提供了300张门票后，凯尔特人“不妨"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cwyz4jxg3g4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_37146",
-    "type": "official",
-    "date": "2026-08-29",
-    "likes": 121,
-    "title": {
-      "en": "‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees",
-      "zh-CN": "“现在是球员们大声疾呼的好时机” ：露西·布朗斯在国际足联和帮助难民"
-    },
-    "summary": {
-      "en": "Chelsea defender reflects on spending time with refugees in Colombia this summer and her passion for helping people on and off the pitchLucy Bronze does not stop. Her brain runs a hundred miles a...",
-      "zh-CN": "切尔西后卫反思了今年夏天在哥伦比亚与难民共度的时光，她对帮助球场内外人们的热情露西铜牌并没有停止。她的大脑跑了一百英里……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/29/lucy-bronze-chelsea-women-england-fifa-refugees"
-  },
-  {
-    "id": "N_RSS_23834",
-    "type": "official",
-    "date": "2026-08-28",
-    "likes": 84,
-    "title": {
-      "en": "Esther González, Saudi Arabia and the questions around an unexpected transfer saga",
-      "zh-CN": "沙特阿拉伯的Esther González以及有关意外转会传奇的问题"
-    },
-    "summary": {
-      "en": "The Gotham striker said she was stepping away from the sport, but then signed for Al Qadsiah. The move sparked questions over professionalism and raised concerns of LGBTQ+ fans who have disavowed the...",
-      "zh-CN": "这位高谭市前锋表示，她将退出这项运动，但随后与Al Qadsiah签约。此举引发了对专业性的质疑，并引起了LGBTQ +粉丝的担忧，他们否认..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/28/esther-gonzalez-saudi-arabia-gotham-nwsl"
-  },
-  {
-    "id": "N_RSS_40610",
-    "type": "official",
-    "date": "2026-08-26",
-    "likes": 198,
-    "title": {
-      "en": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
-      "zh-CN": "在主场球迷嘲笑皇家马德里之后， Mbappé帽子戏法沉没了皇家社会"
-    },
-    "summary": {
-      "en": "Kylian Mbappé scored a hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabéu on Wednesday ⁠in their first home match since the return of José Mourinho as head coach.Mbappé put Madrid ahead...",
-      "zh-CN": "Kylian Mbappé周三在伯纳乌以4比1击败皇家社会队，这是自何塞·穆里尼奥回归主教练以来的第一场主场比赛。Mbappé让马德里领先..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe"
-  },
-  {
-    "id": "N_FIFA_69170",
-    "type": "official",
-    "date": "2026-08-20",
-    "likes": 266,
-    "title": {
-      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled",
-      "zh-CN": "国际足联2027年女足世界杯™冠军将在马拉卡纳举行的比赛日程公布之际举起奖杯"
-    },
-    "summary": {
-      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
-  },
-  {
-    "id": "N_RSS_44297",
-    "type": "official",
-    "date": "2026-08-30",
-    "likes": 232,
-    "title": {
-      "en": "McInnes expecting Rangers transfer activity before window closes after Aberdeen win",
-      "zh-CN": "McInnes预计流浪者队将在阿伯丁获胜后在窗口关闭前转移活动"
-    },
-    "summary": {
-      "en": "Derek McInnes has revealed Rangers are expecting to be busy in the final days of the transfer window after securing a much-needed first Scottish Premiership win of the season at Aberdeen.",
-      "zh-CN": "德里克·麦金尼斯（ Derek McInnes ）透露，在阿伯丁赢得本赛季急需的第一场苏格兰超级联赛冠军后，流浪者队预计将在转会窗口的最后几天忙碌起来。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13579055/aberdeen-0-1-rangers-derek-mcinnes-expecting-transfer-business-after-securing-major-first-premiership-win"
-  },
-  {
-    "id": "N_RSS_53975",
-    "type": "official",
-    "date": "2026-08-30",
-    "likes": 76,
-    "title": {
-      "en": "Arsenal agree club-record £55.7m Martinelli sale as Jesus heads to Barcelona",
-      "zh-CN": "当耶稣前往巴塞罗那时，阿森纳同意俱乐部创纪录的£ 55.7m Martinelli销售"
-    },
-    "summary": {
-      "en": "Arsenal have agreed a club-record &#163;55.7m fee with Al Hilal to sell Gabriel Martinelli, with a deal also agreed in principle for fellow Brazilian Gabriel Jesus to depart for Barcelona.",
-      "zh-CN": "阿森纳已与Al Hilal达成协议，以5570万£的价格出售Gabriel Martinelli ，并原则上同意巴西同胞Gabriel Jesus离开巴塞罗那。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13579053/arsenal-agree-55-7m-club-record-gabriel-martinelli-sale-to-al-hilal-with-deal-also-agreed-in-principle-with-barcelona-for-gabriel-jesus"
-  },
-  {
-    "id": "N_RSS_74660",
-    "type": "official",
-    "date": "2026-08-30",
-    "likes": 229,
-    "title": {
-      "en": "Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso",
-      "zh-CN": "切尔西以4-3战胜布莱顿，但在哈比·阿隆索（ Xabi Alonso ）的领导下仍然混乱"
-    },
-    "summary": {
-      "en": "In the fullness of time Chelsea’s surrender against Brighton &amp; Hove Albion last April may come to be seen as the turning point. The humiliation accelerated Liam Rosenior’s demise and forced the...",
-      "zh-CN": "随着时间的推移，切尔西去年4月对阵布莱顿和霍夫阿尔比恩的投降可能会被视为转折点。羞辱加速了利亚姆·罗塞尼奥的死亡，迫使……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report"
-  },
-  {
-    "id": "N_RSS_29252",
-    "type": "official",
-    "date": "2026-08-30",
-    "likes": 229,
-    "title": {
-      "en": "Sunderland’s Wilson Isidor applies the finishing touch to sink Fulham",
-      "zh-CN": "桑德兰的威尔逊·伊西多（ Wilson Isidor ）对富勒姆（ Fulham ）的沉没进行了最后"
-    },
-    "summary": {
-      "en": "At the final whistle Álvaro Arbeloa provided a study in pensiveness while Régis Le Bris simply looked relieved. An almost palpable fear of losing formed the subtext of a match decided when two of the...",
-      "zh-CN": "在终场哨响时，阿尔瓦罗·阿尔贝洛亚（ Álvaro Arbeloa ）进行了一项关于沉思的研究，而雷吉斯·勒布里斯（ Régis Le Bris ）一种几乎显而易见的对失败的恐惧形成了一场比赛的潜台词，当时两个……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/30/sunderland-fulham-premier-league-match-report"
-  },
-  {
-    "id": "N_RSS_95868",
-    "type": "official",
-    "date": "2026-08-27",
-    "likes": 157,
-    "title": {
-      "en": "Plight of Pogba, Sancho and others is cautionary tale for any Carrick rebuild",
-      "zh-CN": "博格巴、桑丘和其他人的困境是卡里克重建的警示故事"
-    },
-    "summary": {
-      "en": "Bruno Fernandes is the only surviving attacker from Ole Gunnar Solskjær’s attempt to bridge gap to rivals in 2021Five years is a long time in football. Manchester United’s summer of 2021 is now...",
-      "zh-CN": "布鲁诺·费尔南德斯（ Bruno Fernandes ）是Ole Gunnar Solskjær在2021年试图弥合与对手的差距时唯一幸存的攻击者。五年在足球界是很长的一段时间。曼联2021年的夏天现在是……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/27/manchester-united-michael-carrick-paul-pogba-jadon-sancho-cautionary-tale"
   }
 ]
