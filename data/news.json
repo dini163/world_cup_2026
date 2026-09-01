@@ -1,5 +1,210 @@
 [
   {
+    "id": "N_RSS_66518",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 67,
+    "title": {
+      "en": "Lamine Yamal and Raphinha score twice as Barcelona hit five",
+      "zh-CN": "拉明·亚马尔（ Lamine Yamal ）和拉菲尼亚（ Raphinha ）的得分是巴塞罗"
+    },
+    "summary": {
+      "en": "Lamine Yamal and Raphinha score twice as Barcelona beat Rayo Vallecano 5-2 in La Liga.",
+      "zh-CN": "拉明·亚马尔（ Lamine Yamal ）和拉菲尼亚（ Raphinha ）在西甲联赛中以5-2击败拉约·巴列卡诺（ Rayo Vallecano ）"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c4gl7j81l1do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_79641",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 240,
+    "title": {
+      "en": "Man Utd near deal for Mexico's Bernal",
+      "zh-CN": "曼联接近与墨西哥的Bernal达成协议"
+    },
+    "summary": {
+      "en": "Manchester United are close to signing Mexico international Rebeca Bernal from Washington Spirit.",
+      "zh-CN": "曼联即将从Washington Spirit签下墨西哥国脚Rebeca Bernal。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_60471",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 134,
+    "title": {
+      "en": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
+      "zh-CN": "最新转会：尤文图斯在Woltemade贷款谈判中，埃弗顿同意£ 4000万Balogun费用"
+    },
+    "summary": {
+      "en": "Manchester City confirm Allan signing for initial £32.1mPalace sell Muñoz to Forest and poised to sign AhanorNick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving...",
+      "zh-CN": "曼城确认艾伦签署了最初的3210万美元的£宫殿出售穆尼奥斯到森林，并准备签署AhanorNick Woltemade接近从纽卡斯尔到尤文图斯的贷款转移，一年后到达..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun"
+  },
+  {
+    "id": "N_RSS_34125",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 263,
+    "title": {
+      "en": "Watkins faces Toney clash as strikers push for Saudi supremacy and Tuchel’s attention",
+      "zh-CN": "随着罢工者推动沙特霸权和图切尔的关注，沃特金斯面临着托尼的冲突"
+    },
+    "summary": {
+      "en": "Al-Hilal’s signing from Villa is thrown straight into big game against Al-Ahli and faces the highest of expectationsOllie Watkins and Ivan Toney spent 33 minutes on the pitch together a few weeks ago...",
+      "zh-CN": "Al-Hilal从Villa的签约直接进入了对Al-Ahli的重要比赛，并面临着最高的期望奥利·沃特金斯和伊万·托尼几周前一起在球场上花了33分钟......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/31/ollie-watkins-ivan-toney-saudi-arabia-thomas-tuchel-england"
+  },
+  {
+    "id": "N_RSS_84334",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 142,
+    "title": {
+      "en": "Premier League: 10 talking points from the weekend’s action",
+      "zh-CN": "英超联赛：周末行动的10个谈话要点"
+    },
+    "summary": {
+      "en": "Newcastle players look revitalised, Liverpool’s curious transfer strategy and a  worrying start for PalaceAmid the concerns at Manchester United, one player unquestioned is Senne Lammens. The...",
+      "zh-CN": "纽卡斯尔球员看起来精力充沛，利物浦好奇的转会策略和皇宫令人担忧的开局。在曼联的担忧中，一位毫无疑问的球员是Senne Lammens。..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action"
+  },
+  {
+    "id": "N_RSS_97645",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 228,
+    "title": {
+      "en": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
+      "zh-CN": "足球转会传闻：利物浦签下Estêvão ？克里斯蒂安·普利西奇到马刺？"
+    },
+    "summary": {
+      "en": "Today’s chatter is talking about its dreams againElite football clubs splash out millions on their scouting efforts these days, gather reams of data and spend countless meticulous hours assembling...",
+      "zh-CN": "今天的喋喋不休又在谈论它的梦想精英足球俱乐部现在花费数百万美元进行侦察工作，收集大量数据并花费无数个小时组装......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs"
+  },
+  {
+    "id": "N_RSS_3747",
+    "type": "official",
+    "date": "2026-08-29",
+    "likes": 180,
+    "title": {
+      "en": "‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees",
+      "zh-CN": "“现在是球员们大声疾呼的好时机” ：露西·布朗斯在国际足联和帮助难民"
+    },
+    "summary": {
+      "en": "Chelsea defender reflects on spending time with refugees in Colombia this summer and her passion for helping people on and off the pitchLucy Bronze does not stop. Her brain runs a hundred miles a...",
+      "zh-CN": "切尔西后卫反思了今年夏天在哥伦比亚与难民共度的时光，她对帮助球场内外人们的热情露西铜牌并没有停止。她的大脑跑了一百英里……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/29/lucy-bronze-chelsea-women-england-fifa-refugees"
+  },
+  {
+    "id": "N_RSS_41052",
+    "type": "official",
+    "date": "2026-08-28",
+    "likes": 131,
+    "title": {
+      "en": "What is the aim for Kompany, Kane and Bayern?",
+      "zh-CN": "Kompany、Kane和Bayern的目标是什么？"
+    },
+    "summary": {
+      "en": "Bayern Munich start their latest title defence as overwhelming odds-on favourites to win the Bundesliga again - so what would constitute success?",
+      "zh-CN": "拜仁慕尼黑以压倒性的赔率开始了他们最新的冠军防守，他们最有可能再次赢得德甲冠军，那么什么才算是成功呢？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvg967e3qqdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_45642",
+    "type": "official",
+    "date": "2026-08-28",
+    "likes": 103,
+    "title": {
+      "en": "Esther González, Saudi Arabia and the questions around an unexpected transfer saga",
+      "zh-CN": "沙特阿拉伯的Esther González以及有关意外转会传奇的问题"
+    },
+    "summary": {
+      "en": "The Gotham striker said she was stepping away from the sport, but then signed for Al Qadsiah. The move sparked questions over professionalism and raised concerns of LGBTQ+ fans who have disavowed the...",
+      "zh-CN": "这位高谭市前锋表示，她将退出这项运动，但随后与Al Qadsiah签约。此举引发了对专业性的质疑，并引起了LGBTQ +粉丝的担忧，他们否认..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/28/esther-gonzalez-saudi-arabia-gotham-nwsl"
+  },
+  {
+    "id": "N_RSS_28109",
+    "type": "official",
+    "date": "2026-08-26",
+    "likes": 146,
+    "title": {
+      "en": "Mbappé hat-trick sinks Real Sociedad after Real Madrid jeered by home fans",
+      "zh-CN": "在主场球迷嘲笑皇家马德里之后， Mbappé帽子戏法沉没了皇家社会"
+    },
+    "summary": {
+      "en": "Kylian Mbappé scored a hat-trick as Real Madrid beat Real Sociedad 4-1 at the Bernabéu on Wednesday ⁠in their first home match since the return of José Mourinho as head coach.Mbappé put Madrid ahead...",
+      "zh-CN": "Kylian Mbappé周三在伯纳乌以4比1击败皇家社会队，这是自何塞·穆里尼奥回归主教练以来的第一场主场比赛。Mbappé让马德里领先..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/26/real-madrid-real-sociedad-la-liga-match-report-jose-mourinho-kylian-mbappe"
+  },
+  {
+    "id": "N_FIFA_24249",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 394,
+    "title": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled",
+      "zh-CN": "国际足联2027年女足世界杯™冠军将在马拉卡纳举行的比赛日程公布之际举起奖杯"
+    },
+    "summary": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
+  },
+  {
+    "id": "N_FIFA_22128",
+    "type": "official",
+    "date": "2026-08-05",
+    "likes": 124,
+    "title": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco",
+      "zh-CN": "国际足联领导人在摩洛哥拉巴特举行建设性和积极的会晤"
+    },
+    "summary": {
+      "en": "FIFA leadership holds constructive and positive meeting in Rabat, Morocco"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/leadership-constructive-positive-talks-rabat-morocco"
+  },
+  {
+    "id": "N_FIFA_39400",
+    "type": "official",
+    "date": "2026-08-04",
+    "likes": 111,
+    "title": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联为国际足联女足世界杯巴西2027™推出可持续发展和人权战略"
+    },
+    "summary": {
+      "en": "FIFA launches Sustainability &amp; Human Rights Strategy for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/launches-sustainability-human-rights-strategy-womens-world-cup-brazil-2027"
+  },
+  {
     "id": "N_RSS_86682",
     "type": "official",
     "date": "2026-08-31",
@@ -265,213 +470,5 @@
     },
     "source": "FIFA Official",
     "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
-  },
-  {
-    "id": "N_RSS_76487",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 252,
-    "title": {
-      "en": "Messi retires from Argentina duty with 'nothing left to give'",
-      "zh-CN": "梅西从阿根廷退休， “没有什么可以给予的”"
-    },
-    "summary": {
-      "en": "Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that \"hurt\" but he understands \"the time has come\".",
-      "zh-CN": "阿根廷伟大的梅西宣布退出国际足球，称这是一个“受伤”的决定，但他理解“时机已到”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_78900",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 178,
-    "title": {
-      "en": "Barcola joins Liverpool from PSG in £123m move",
-      "zh-CN": "Barcola以1.23亿英镑的价格从PSG加盟利物浦"
-    },
-    "summary": {
-      "en": "Liverpool complete the signing of France forward Bradley Barcola from Paris St-Germain for a fee worth up to £123m.",
-      "zh-CN": "利物浦完成了法国前锋布拉德利·巴科拉从巴黎圣日耳曼的签约，费用高达1.23亿美元£。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_46301",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 183,
-    "title": {
-      "en": "Germany's Wamser completes move to Man City",
-      "zh-CN": "德国的Wamser完成向曼城的迁移"
-    },
-    "summary": {
-      "en": "Manchester City complete the signing of Bayer Leverkusen and Germany defender Carlotta Wamser on a four-year deal.",
-      "zh-CN": "曼城以四年合同完成了与拜耳勒沃库森和德国后卫卡洛塔·瓦姆瑟的签约。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c4g5x8y0n2jo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_72821",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 288,
-    "title": {
-      "en": "Swansea agree loan of Manchester City's Monga",
-      "zh-CN": "斯旺西同意租借曼城的MONGA"
-    },
-    "summary": {
-      "en": "Manchester City winger Jeremy Monga is set for a season at Swansea City, who will allow Finland international Leo Walta to join Los Angeles on loan.",
-      "zh-CN": "曼城边锋杰里米·蒙加（ Jeremy Monga ）将在斯旺西城（ Swansea City ）度过一个赛季，他将允许芬兰国脚利奥·沃尔塔（ Leo Walta ）租借到洛杉矶。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c7v4dnrn6lqo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_86437",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 72,
-    "title": {
-      "en": "'It's like the first day of school' - Earps on being part of LCL's new superstar squad",
-      "zh-CN": "“这就像是开学的第一天” -厄普斯成为LCL新超级明星阵容的一员"
-    },
-    "summary": {
-      "en": "Mary Earps is used to leading from the front, whether as an England goalkeeper or highlighting issues in the women's game. This summer, she was the first one through the door as London City Lionesses...",
-      "zh-CN": "玛丽·厄普斯（ Mary Earps ）习惯于从前线领导，无论是作为英格兰门将还是突出女子比赛中的问题。今年夏天，她是第一个以伦敦城市母狮的身份进门的……"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13570623/mary-earps-exclusive-london-city-lionesses-goalkeeper-on-busy-summer-transfer-window-and-facing-man-utd-in-wsl-opener"
-  },
-  {
-    "id": "N_RSS_79658",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 135,
-    "title": {
-      "en": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’",
-      "zh-CN": "阿根廷的莱昂内尔·梅西从国际足球队退役： “这让我很受伤”"
-    },
-    "summary": {
-      "en": "Argentina great’s last game was in World Cup finalPlayer’s father Jorge passed away earlier in AugustLionel Messi has announced his retirement from international football seven weeks after Argentina...",
-      "zh-CN": "阿根廷队的最后一场比赛是在世界杯决赛中球员的父亲豪尔赫于8月早些时候去世莱昂内尔·梅西在阿根廷队退役七周后宣布退役..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/31/lionel-messi-retires-from-international-football-argentina"
-  },
-  {
-    "id": "N_RSS_45091",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 94,
-    "title": {
-      "en": "Liverpool sign Barcola in £123m deal and expect Gakpo to stay after City offer £80m",
-      "zh-CN": "利物浦以1.23亿英镑的价格与Barcola签约，并期望Gakpo在City提供8000万英镑后留下来"
-    },
-    "summary": {
-      "en": "France international says title ‘one of my biggest dreams’Club rejected weekend Gakpo bid from Manchester CityBradley Barcola is aiming to win the Premier League after completing his move to...",
-      "zh-CN": "法国国脚说冠军头衔是“我最大的梦想之一”俱乐部拒绝了周末来自曼城的Gakpo竞标布拉德利·巴科拉（ Bradley Barcola ）的目标是在完成转会后赢得英超联赛......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg"
-  },
-  {
-    "id": "N_RSS_83465",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 80,
-    "title": {
-      "en": "Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
-      "zh-CN": "阿森纳在同意出售Martinelli和Jesus的交易后试图引诱Julián Álvarez"
-    },
-    "summary": {
-      "en": "Atlético say they will not allow Barcelona to buy Álvarez Jesus poised for Barça and Martinelli for Al-HilalArsenal are running out of time to persuade Julián Álvarez to join them from Atlético...",
-      "zh-CN": "Atlético表示，他们不会允许巴塞罗那为巴萨买下Álvarez Jesus ，为Al-HilalArsenal买下Martinelli ，说服Julián Álvarez从Atlético加入他们的时间已经不多了……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers"
-  },
-  {
-    "id": "N_RSS_88734",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 225,
-    "title": {
-      "en": "Transfer latest: Juventus in Woltemade loan talks, Everton pushing for Balogun",
-      "zh-CN": "最新转会：尤文图斯在Woltemade贷款谈判中，埃弗顿推动Balogun"
-    },
-    "summary": {
-      "en": "Manchester City confirm Allan signing for initial £32.1mPalace sell Muñoz to Forest and poised to sign AhanorNick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving...",
-      "zh-CN": "曼城确认艾伦签署了最初的3210万美元的£宫殿出售穆尼奥斯到森林，并准备签署AhanorNick Woltemade接近从纽卡斯尔到尤文图斯的贷款转移，一年后到达..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun"
-  },
-  {
-    "id": "N_RSS_43486",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 261,
-    "title": {
-      "en": "Fifa extends ban on man who secretly filmed female footballers in Austria",
-      "zh-CN": "国际足联延长了对在奥地利秘密拍摄女足球运动员的男子的禁令"
-    },
-    "summary": {
-      "en": "Former SCR Altach employee now banned worldwideMove follows pressure from players’ unionsFifa has extended worldwide the ban on a former match official and SCR Altach employee found guilty of taking...",
-      "zh-CN": "前SCR ALTACH员工现在在全球范围内被禁止在球员工会施加压力后，国际足联在全球范围内延长了对一名前赛事官员和SCR ALTACH员工的禁令，该员工被判犯有..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/31/fifa-worldwide-ban-man-secretly-filmed-female-footballers-austria-altach"
-  },
-  {
-    "id": "N_RSS_16813",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 219,
-    "title": {
-      "en": "Fiorentina’s Serie A renaissance feels a way off after chastening centenary | Nicky Bandini",
-      "zh-CN": "佛罗伦萨的意甲联赛文艺复兴在鞭笞一百周年后感觉遥遥领先|尼基·班迪尼（ Nicky Bandini ）"
-    },
-    "summary": {
-      "en": "The home game against Frosinone seemed a perfect way to celebrate their landmark. It did not work out that wayFiorentina’s 100th birthday party had been going for four days, starting with a fan...",
-      "zh-CN": "对阵Frosinone的主场比赛似乎是庆祝他们地标的完美方式。结果不是这样的，菲奥伦蒂娜的100岁生日派对已经持续了四天，从粉丝开始……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/31/fiorentina-serie-a-renaissance-chastening-centenary-frosinone"
-  },
-  {
-    "id": "N_RSS_77236",
-    "type": "official",
-    "date": "2026-08-30",
-    "likes": 256,
-    "title": {
-      "en": "Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso",
-      "zh-CN": "切尔西以4-3战胜布莱顿，但在哈比·阿隆索（ Xabi Alonso ）的领导下仍然混乱"
-    },
-    "summary": {
-      "en": "In the fullness of time Chelsea’s surrender against Brighton in April may be seen as the turning point. The humiliation accelerated Liam ­Rosenior’s demise and forced the Stamford Bridge hierarchy...",
-      "zh-CN": "随着时间的推移，切尔西在4月份对阵布莱顿的投降可能被视为转折点。这种羞辱加速了利亚姆·罗森尼奥的消亡，迫使斯坦福桥的等级制度……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report"
-  },
-  {
-    "id": "N_RSS_44952",
-    "type": "official",
-    "date": "2026-08-29",
-    "likes": 224,
-    "title": {
-      "en": "Are Charlton ready to challenge? - Sam Parkin's EFL takeaways",
-      "zh-CN": "查尔顿准备好挑战了吗？ - Sam Parkin的EFL外卖"
-    },
-    "summary": {
-      "en": "BBC Final Score pundit Sam Parkin looks at the weekend's talking points in the EFL, including a perfect start for Charlton Athletic.",
-      "zh-CN": "BBC Final Score权威人士Sam Parkin着眼于EFL周末的谈话要点，包括Charlton Athletic的完美开局。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c305n87mdjro?at_medium=RSS&at_campaign=rss"
   }
 ]
