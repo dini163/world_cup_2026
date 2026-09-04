@@ -1,5 +1,197 @@
 [
   {
+    "id": "N_RSS_27046",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 112,
+    "title": {
+      "en": "Ipswich Town v Liverpool: Premier League – live",
+      "zh-CN": "伊普斯威奇镇v利物浦：英超联赛–直播"
+    },
+    "summary": {
+      "en": "Premier League updates from the 8pm BST kick-offLive scoreboard | Read Football Daily | Email ScottThe teams are out! Ipswich in blue, Liverpool in red. A wonderful start-of-the-weekend,...",
+      "zh-CN": "英超联赛的最新消息来自英国夏令时晚上8点开球直播记分牌|阅读足球日报|发送电子邮件给斯科特球队现已退出！蓝色的伊普斯威奇，红色的利物浦。一个美妙的周末开始，..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates"
+  },
+  {
+    "id": "N_RSS_30365",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 111,
+    "title": {
+      "en": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
+      "zh-CN": "切尔西与摩根·罗杰斯（ Morgan Rogers ）一起击中靶心，因为阿森纳对可能发生的事情感到后悔"
+    },
+    "summary": {
+      "en": "The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso’s teamChelsea thought they had little chance of...",
+      "zh-CN": "枪手们将看看当前别墅男子排队对抗他们时，他们本可以赢得什么，因为他们已经为Xabi Alonso的球队开了个好头。切尔西认为他们几乎没有机会……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta"
+  },
+  {
+    "id": "N_RSS_62291",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 213,
+    "title": {
+      "en": "Manchester City failed to land Spain pair in scramble for Miedema cover",
+      "zh-CN": "曼城未能让西班牙队争夺米德马封面"
+    },
+    "summary": {
+      "en": "Atlético rejected £500,000-plus bid for Fiamma BenítezArsenal handed difficult Champions League drawAtlético Madrid rejected a bid of more than £500,000 from Manchester City for the Spain midfielder...",
+      "zh-CN": "马德里竞技拒绝了Fiamma BenítezArsenal的50多£报价，并交出艰难的冠军联赛平局马德里竞技拒绝了曼城为这位西班牙中场球员提出的超过50 £的报价..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/04/manchester-city-fiamma-benitez-ornella-vignola-bid-miedema-womens-champions-league-draw"
+  },
+  {
+    "id": "N_RSS_86439",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 216,
+    "title": {
+      "en": "Lucas Herrington staying grounded at Hull City despite meteoric rise: ‘It’s pretty crazy’",
+      "zh-CN": "卢卡斯·赫林顿（ Lucas Herrington ）在赫尔城（ Hull City ）停飞，尽管流星般的崛起： “这太疯狂了"
+    },
+    "summary": {
+      "en": "The 54th Australian to play in the Premier League insists he will continue working hard – and cannot wait to face Erling HaalandOn the opening day of the Premier League season, with just over an hour...",
+      "zh-CN": "第54位参加英超联赛的澳大利亚人坚称他将继续努力–迫不及待地想面对Erling Haaland在英超联赛赛季的开幕日，只有一个多小时......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-lucas-herrington-hull-city-meteoric-rise-brisbane-roar"
+  },
+  {
+    "id": "N_RSS_58210",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 249,
+    "title": {
+      "en": "Tough start for PSG but Luis Enrique has faith in burst of ‘new energy’ from signings",
+      "zh-CN": "巴黎圣日耳曼开局艰难，但路易斯·恩里克对签约带来的“新能量”充满信心"
+    },
+    "summary": {
+      "en": "Paris Saint-Germain have drawn both of their league games so far and Monaco pose a tricky task on Friday“It’s like we’re at school,” Luis Enrique quipped as he entered the press conference room,...",
+      "zh-CN": "到目前为止，巴黎圣日耳曼已经吸引了他们的两场联赛，摩纳哥在周五提出了一项棘手的任务， “就像我们在学校一样，”路易斯·恩里克在进入新闻发布室时打趣道。"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/04/paris-saint-germain-luis-enrique-monaco"
+  },
+  {
+    "id": "N_RSS_17014",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 235,
+    "title": {
+      "en": "Fifa calls Uefa’s legal threat a ‘smear campaign’ in US federal filing",
+      "zh-CN": "国际足联在美国联邦文件中称欧足联的法律威胁是“诽谤运动”"
+    },
+    "summary": {
+      "en": "Fifa filed motion opposing Uefa’s request for discoveryUefa said to be considering criminal case v Gianni InfantinoAttorneys representing Fifa have hit back at Uefa’s request for discovery in a US...",
+      "zh-CN": "国际足联提出动议，反对欧足联的发现请求欧足联据称正在考虑针对Gianni Infantino的刑事案件代表国际足联的律师回击了欧足联在美国的发现请求..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
+  },
+  {
+    "id": "N_RSS_83058",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 58,
+    "title": {
+      "en": "Premier League paradox: midfielders are more and more expensive, yet more and more mediocre | Jonathan Liew",
+      "zh-CN": "英超悖论：中场球员越来越贵，却越来越平庸| Jonathan Liew"
+    },
+    "summary": {
+      "en": "Enzo Fernández and Sandro Tonali had big-money summer moves, but can they hold a candle to past greats?Perhaps the only thing you really need to know about the modern midfield role is that Enzo...",
+      "zh-CN": "恩佐·费尔南德斯（ Enzo Fernández ）和桑德罗·托纳利（ Sandro Tonali ）有过大笔的夏季动作，但他们能否为过去的伟大也许你真正需要了解的关于现代中场角色的唯一一件事是，恩佐……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-expensive-midfielders-enzo-fernandez-elliot-anderson-sandro-tonali"
+  },
+  {
+    "id": "N_RSS_50251",
+    "type": "official",
+    "date": "2026-09-02",
+    "likes": 253,
+    "title": {
+      "en": "Transfer window verdict: how every Premier League club fared",
+      "zh-CN": "转会窗口判决：每个英超俱乐部的表现如何"
+    },
+    "summary": {
+      "en": "The British transfer record was equalled and one club signed no fewer than 18 players in another hectic summerBringing in Christos Tzolis, Bruno Guimarães and Ezri Konsa was a strong start to the...",
+      "zh-CN": "英国转会纪录不相上下，一家俱乐部在另一个忙碌的夏天签下了不少于18名球员，克里斯托·佐利斯、布鲁诺·吉马良斯和埃兹里·孔萨的到来是..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026"
+  },
+  {
+    "id": "N_RSS_56006",
+    "type": "official",
+    "date": "2026-09-02",
+    "likes": 70,
+    "title": {
+      "en": "Deadline-day shambles leaves Everton and David Moyes fighting the odds again",
+      "zh-CN": "截止日期的混乱让埃弗顿和大卫·莫耶斯再次与赔率作斗争"
+    },
+    "summary": {
+      "en": "From accepting a bid for Armstrong to collapse of Balogun deal, TFG has shown an amateurish and unambitious approachTo be placed in the same bracket as owners whose lack of ambition, lack of...",
+      "zh-CN": "从接受阿姆斯特朗的出价到Balogun交易的崩溃，过渡联邦政府表现出一种业余和雄心勃勃的方法，与缺乏雄心壮志，缺乏..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/02/deadline-day-shambles-leaves-everton-and-david-moyes-fighting-the-odds-again"
+  },
+  {
+    "id": "N_RSS_91709",
+    "type": "official",
+    "date": "2026-09-01",
+    "likes": 241,
+    "title": {
+      "en": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
+      "zh-CN": "巴塞罗那微风吹过Rayo ，但西班牙所有人的目光都集中在Julián Álvarez身上"
+    },
+    "summary": {
+      "en": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona – but Julián Álvarez remains the ultimate prizeIf Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is...",
+      "zh-CN": "Hansi Flick非常高兴地欢迎Gabriel Jesus来到巴塞罗那–但Julián Álvarez仍然是最终的奖品如果Raphinha对作为巴塞罗那的临时9号球员有任何疑虑，他......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez"
+  },
+  {
+    "id": "N_RSS_18657",
+    "type": "official",
+    "date": "2026-09-01",
+    "likes": 254,
+    "title": {
+      "en": "Janine Sonis: ‘63,000 fans in Denver proves a women’s team was way overdue’",
+      "zh-CN": "珍妮·索尼斯（ Janine Sonis ） ： “丹佛的63,000名球迷证明了一支女子球队已经过期了”"
+    },
+    "summary": {
+      "en": "The Canada and Denver Summit full-back on playing at a packed Mile High Stadium and the impact of Lindsey HeapsIn the 13th minute of a 6-1 win against Chicago, Janine Sonis ran into the penalty area...",
+      "zh-CN": "加拿大和丹佛峰会边后卫在一个拥挤的英里高体育场打球以及林赛·希普斯的影响在对芝加哥的6-1胜利的第13分钟，珍妮·索尼斯跑进了禁区……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/01/janine-sonis-interview-denver-summit-moving-the-goalposts"
+  },
+  {
+    "id": "N_RSS_11956",
+    "type": "official",
+    "date": "2026-09-01",
+    "likes": 295,
+    "title": {
+      "en": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
+      "zh-CN": "足球转会传闻：曼联和利物浦EYE Kroupi ？瓦迪到雷克瑟姆？"
+    },
+    "summary": {
+      "en": "Today’s rumours are squeezing out every last dropDeadline day live – follow all the news and movesThe final day of the men’s transfer window is here, but there is still time for some rumourmongering,...",
+      "zh-CN": "今天的谣言正在挤出每一滴Deadline day live –关注所有新闻和动作男子转会窗口的最后一天就在这里，但仍然有时间散布一些谣言，..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham"
+  },
+  {
     "id": "N_RSS_56261",
     "type": "official",
     "date": "2026-09-04",
@@ -282,195 +474,5 @@
     },
     "source": "BBC Sport",
     "url": "https://www.bbc.co.uk/sport/football/articles/cgl7yw9y1weo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_79908",
-    "type": "official",
-    "date": "2026-09-03",
-    "likes": 66,
-    "title": {
-      "en": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
-      "zh-CN": "加布里埃尔·马蒂内利（ Gabriel Martinelli ）以6000万英镑的价格离开阿森纳前往沙特阿拉伯俱乐部Al-Hil"
-    },
-    "summary": {
-      "en": "Forward follows Gabriel Jesus out of championsRicharlison not in Tottenham’s Premier League squadArsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is...",
-      "zh-CN": "前锋跟随冠军中的加布里埃尔·耶稣理查利森不在托特纳姆热刺的英超阵容阿森纳已经确认加布里埃尔·马蒂内利已经以6000万美元的价格加入了沙特阿拉伯方面的Al-Hilal。这是... £"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal"
-  },
-  {
-    "id": "N_RSS_66794",
-    "type": "official",
-    "date": "2026-09-03",
-    "likes": 77,
-    "title": {
-      "en": "World Cup wishlists, early movers, big clearouts: 2026 summer transfer window trends",
-      "zh-CN": "世界杯心愿单、先行者、大清盘： 2026年夏季转会窗口趋势"
-    },
-    "summary": {
-      "en": "At the end of a busy transfer window which spanned the World Cup, here are some of the subplots of the summerThe World Cup is always a good shop window. Yan Diomande was already a rising star at RB...",
-      "zh-CN": "在跨越世界杯的繁忙转会窗口结束时，这里是夏季的一些子场景世界杯总是一个很好的商店橱窗。言迪奥曼德已经是RB的后起之秀了……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/03/summer-transfer-window-2026-trends-premier-league-la-liga-serie-a-bundesliga-ligue-1"
-  },
-  {
-    "id": "N_RSS_35502",
-    "type": "official",
-    "date": "2026-09-01",
-    "likes": 117,
-    "title": {
-      "en": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
-      "zh-CN": "“在我心中，直到我死去” ：阿根廷向莱昂内尔·梅西表示泪流满面的感谢"
-    },
-    "summary": {
-      "en": "The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022Anyone who was present at Lionel Scaloni’s press...",
-      "zh-CN": "这位阿根廷人退出国际足球的决定得到了他在2022年带来世界杯辉煌的国家的热烈欢迎。任何出席莱昂内尔·斯卡洛尼（ Lionel Scaloni ）新闻发布会的人..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement"
-  },
-  {
-    "id": "N_RSS_74064",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 50,
-    "title": {
-      "en": "Premier League: 10 talking points from the weekend’s action",
-      "zh-CN": "英超联赛：周末行动的10个谈话要点"
-    },
-    "summary": {
-      "en": "Newcastle players look revitalised, Liverpool’s curious transfer strategy and a  worrying start for PalaceAmid the concerns at Manchester United, one player unquestioned is Senne Lammens. The...",
-      "zh-CN": "纽卡斯尔球员看起来精力充沛，利物浦好奇的转会策略和皇宫令人担忧的开局。在曼联的担忧中，一位毫无疑问的球员是Senne Lammens。..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action"
-  },
-  {
-    "id": "N_RSS_27486",
-    "type": "official",
-    "date": "2026-08-30",
-    "likes": 150,
-    "title": {
-      "en": "‘I’ve had a very hectic career’: Mario Balotelli on Italian football’s troubles and his future",
-      "zh-CN": "“我的职业生涯非常忙碌” ：马里奥·巴洛特利（ Mario Balotelli ）谈论意大利足球的麻烦和他的未来"
-    },
-    "summary": {
-      "en": "Striker talks life in the UAE, problems with the Azzurri and ‘special feeling’ of playing for Manchester CityWhenever the name Mario Balotelli is brought up, particularly in Italy, the conversation...",
-      "zh-CN": "前锋谈到了阿联酋的生活， Azzurri的问题以及为曼城效力的“特殊感受”每当提到Mario Balotelli这个名字时，特别是在意大利，谈话......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/30/mario-balotelli-interview-italy-saudi-arabia-maturity"
-  },
-  {
-    "id": "N_RSS_44962",
-    "type": "official",
-    "date": "2026-08-29",
-    "likes": 54,
-    "title": {
-      "en": "‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees",
-      "zh-CN": "“现在是球员们大声疾呼的好时机” ：露西·布朗斯在国际足联和帮助难民"
-    },
-    "summary": {
-      "en": "Chelsea defender reflects on spending time with refugees in Colombia this summer and her passion for helping people on and off the pitchLucy Bronze does not stop. Her brain runs a hundred miles a...",
-      "zh-CN": "切尔西后卫反思了今年夏天在哥伦比亚与难民共度的时光，她对帮助球场内外人们的热情露西铜牌并没有停止。她的大脑跑了一百英里……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/29/lucy-bronze-chelsea-women-england-fifa-refugees"
-  },
-  {
-    "id": "N_FIFA_12895",
-    "type": "official",
-    "date": "2026-08-28",
-    "likes": 285,
-    "title": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™",
-      "zh-CN": "已确认FIFA U-20女足世界杯波兰2026™参赛名单"
-    },
-    "summary": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
-  },
-  {
-    "id": "N_FIFA_70752",
-    "type": "official",
-    "date": "2026-08-20",
-    "likes": 111,
-    "title": {
-      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled",
-      "zh-CN": "国际足联2027年女足世界杯™冠军将在马拉卡纳举行的比赛日程公布之际举起奖杯"
-    },
-    "summary": {
-      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
-  },
-  {
-    "id": "N_RSS_48556",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 225,
-    "title": {
-      "en": "73 goals from dropping deep - we ask Kane to break down how he did it",
-      "zh-CN": "从深度下降到73个目标-我们要求Kane详细说明他是如何做到的"
-    },
-    "summary": {
-      "en": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
-      "zh-CN": "哈里·凯恩（ Harry Kane ）上赛季是欧洲得分最高的球员，但他踢得像中场球员。我们要求他放弃比赛。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_20810",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 102,
-    "title": {
-      "en": "How 'unique' Bellingham is thriving in Mourinho's system",
-      "zh-CN": "贝灵厄姆在穆里尼奥的体系中如何“独一无二”蓬勃发展"
-    },
-    "summary": {
-      "en": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
-      "zh-CN": "裘德·贝林厄姆（ Jude Bellingham ）看起来很健康，已经准备好在世界杯形式的基础上再接再厉，因为他的目标是在穆里尼奥（ Jose Mourinho ）的带领下"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_38517",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 258,
-    "title": {
-      "en": "Pato consortium's Northampton investment approved",
-      "zh-CN": "PATO财团的北安普敦投资获得批准"
-    },
-    "summary": {
-      "en": "The Independent Football Regulator approves investment into the Cobblers by a Brazilian consortium.",
-      "zh-CN": "独立足球监管机构批准巴西财团对鞋匠的投资。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvgy7rx799yo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_25244",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 64,
-    "title": {
-      "en": "The assistant headteacher about to become England manager for a week",
-      "zh-CN": "助理校长即将成为英格兰经理一周"
-    },
-    "summary": {
-      "en": "Andy McCann has only just returned to work.",
-      "zh-CN": "Andy McCann刚刚重返工作岗位。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13577442/andy-mccann-interview-the-assistant-headteacher-from-liverpool-about-to-become-england-manager-for-a-week"
   }
 ]
