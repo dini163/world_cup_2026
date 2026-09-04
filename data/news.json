@@ -1,5 +1,177 @@
 [
   {
+    "id": "N_RSS_56261",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 295,
+    "title": {
+      "en": "Football Daily | What you won’t see in the Premier League this weekend",
+      "zh-CN": "足球日报|本周末您在英超联赛中不会看到的内容"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!That icy wind rattling the rafters is the cold reality of what follows the closure of the transfer window, a hungover pall of regret. Despite £3.5bn...",
+      "zh-CN": "立即注册！立即注册！立即注册？立即注册！传送窗关闭后，冰冷的风吹拂着筏子，这是一个冰冷的现实，一个宿醉般的遗憾。尽管£ 35亿..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/04/football-daily-newsletter-premier-league-weekend"
+  },
+  {
+    "id": "N_FIFA_3815",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 179,
+    "title": {
+      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联女足世界杯巴西2027™志愿者申请正式开放"
+    },
+    "summary": {
+      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/volunteer-applications-open-womens-world-cup-brazil-2027"
+  },
+  {
+    "id": "N_FIFA_80408",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 210,
+    "title": {
+      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window",
+      "zh-CN": "2026年世界杯™在年中转会窗口感受到的影响"
+    },
+    "summary": {
+      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-impact-mid-year-transfer-window"
+  },
+  {
+    "id": "N_FIFA_29813",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 216,
+    "title": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October",
+      "zh-CN": "今年10月，在吉达举行的2026年FIFAe总决赛上，迄今为止最大的足球电子竞技赛季达到高潮"
+    },
+    "summary": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
+  },
+  {
+    "id": "N_RSS_60663",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 103,
+    "title": {
+      "en": "Fifa accuses Uefa of 'smear campaign' against Infantino",
+      "zh-CN": "国际足联指责欧足联对因凡蒂诺进行“诽谤运动”"
+    },
+    "summary": {
+      "en": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
+      "zh-CN": "自从国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）取消向私人投资者出售世界杯股份的计划以来，理事机构一直受到打击。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_92323",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 289,
+    "title": {
+      "en": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
+      "zh-CN": "“Adonis” Gibbs-White闪耀的机会- Tuchel会注意到吗？"
+    },
+    "summary": {
+      "en": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
+      "zh-CN": "摩根·吉布斯-怀特（ Morgan Gibbs-White ）被排除在英格兰世界杯阵容之外-托马斯·图切尔（ Thomas Tuchel ）是否无法忽视他的持续良好状态？"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_37921",
+    "type": "official",
+    "date": "2026-09-02",
+    "likes": 100,
+    "title": {
+      "en": "Which footballer has had the most glittering club career? | The Knowledge",
+      "zh-CN": "哪位足球运动员的俱乐部生涯最辉煌？ | The Knowledge"
+    },
+    "summary": {
+      "en": "Plus: brothers playing in England’s top four tiers, shirt-hogging sponsors, and goalkeepers sent off upfieldMail us with your all of your questions and answers“Marquinhos won his 40th trophy in club...",
+      "zh-CN": "此外：在英格兰四级联赛中打球的兄弟们、球衣赞助商和守门员被送上场请给我们发送您的所有问题和答案“Marquinhos在俱乐部赢得了他的第40个奖杯......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/02/which-footballer-has-had-the-most-trophy-laden-club-career"
+  },
+  {
+    "id": "N_RSS_646",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 192,
+    "title": {
+      "en": "Lamine Yamal and Raphinha score twice as Barcelona hit five",
+      "zh-CN": "拉明·亚马尔（ Lamine Yamal ）和拉菲尼亚（ Raphinha ）的得分是巴塞罗"
+    },
+    "summary": {
+      "en": "Lamine Yamal and Raphinha score twice as Barcelona beat Rayo Vallecano 5-2 in La Liga.",
+      "zh-CN": "拉明·亚马尔（ Lamine Yamal ）和拉菲尼亚（ Raphinha ）在西甲联赛中以5-2击败拉约·巴列卡诺（ Rayo Vallecano ）"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c4gl7j81l1do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_34270",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 100,
+    "title": {
+      "en": "'It's like the first day of school' - Earps on being part of LCL's new superstar squad",
+      "zh-CN": "“这就像是开学的第一天” -厄普斯成为LCL新超级明星阵容的一员"
+    },
+    "summary": {
+      "en": "Mary Earps is used to leading from the front, whether as an England goalkeeper or highlighting issues in the women's game. This summer, she was the first one through the door as London City Lionesses...",
+      "zh-CN": "玛丽·厄普斯（ Mary Earps ）习惯于从前线领导，无论是作为英格兰门将还是突出女子比赛中的问题。今年夏天，她是第一个以伦敦城市母狮的身份进门的……"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13570623/mary-earps-exclusive-london-city-lionesses-goalkeeper-on-busy-summer-transfer-window-and-facing-man-utd-in-wsl-opener"
+  },
+  {
+    "id": "N_RSS_2080",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 85,
+    "title": {
+      "en": "Fiorentina’s Serie A renaissance feels a way off after chastening centenary | Nicky Bandini",
+      "zh-CN": "佛罗伦萨的意甲联赛文艺复兴在鞭笞一百周年后感觉遥遥领先|尼基·班迪尼（ Nicky Bandini ）"
+    },
+    "summary": {
+      "en": "The home game against Frosinone seemed a perfect way to celebrate their landmark. It did not work out that wayFiorentina’s 100th birthday party had been going for four days, starting with a fan...",
+      "zh-CN": "对阵Frosinone的主场比赛似乎是庆祝他们地标的完美方式。结果不是这样的，菲奥伦蒂娜的100岁生日派对已经持续了四天，从粉丝开始……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/31/fiorentina-serie-a-renaissance-chastening-centenary-frosinone"
+  },
+  {
+    "id": "N_FIFA_29112",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 172,
+    "title": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
+      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
+    },
+    "summary": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
+  },
+  {
     "id": "N_RSS_83825",
     "type": "official",
     "date": "2026-09-04",
@@ -300,181 +472,5 @@
     },
     "source": "Sky Sports",
     "url": "https://www.skysports.com/football/news/11095/13577442/andy-mccann-interview-the-assistant-headteacher-from-liverpool-about-to-become-england-manager-for-a-week"
-  },
-  {
-    "id": "N_RSS_11474",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 240,
-    "title": {
-      "en": "Former referees’ boss says Dean ‘in fantasy land’; Spurs axe Richarlison; Liverpool head to Ipswich: football – live",
-      "zh-CN": "前裁判“老板说Dean ‘在幻想之地’ ；马刺斧Richarlison ；利物浦前往伊普斯威奇：足球–现场"
-    },
-    "summary": {
-      "en": "• All the latest news and previews before the weekend• Premier League: 10 things to watch for | Email TomThe chief executives of the Football Association, Rugby Football Union and England and Wales...",
-      "zh-CN": "•周末前的所有最新新闻和预览•英超联赛：需要注意的10件事|发送电子邮件给汤姆足球协会、橄榄球足球联盟以及英格兰和威尔士的首席执行官..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/live/2026/sep/04/mike-dean-refereeing-ipswich-liverpool-wsl-wcl-transfers-live"
-  },
-  {
-    "id": "N_RSS_53886",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 125,
-    "title": {
-      "en": "Manchester City failed to land Spain pair in scramble for Miedema cover",
-      "zh-CN": "曼城未能让西班牙队争夺米德马封面"
-    },
-    "summary": {
-      "en": "Atlético rejected £500,000-plus bid for Fiamma BenítezCity also unable to prise Ornella Vignola from EvertonAtlético Madrid rejected a bid of more than £500,000 from Manchester City for the Spain...",
-      "zh-CN": "马德里竞技拒绝了对Fiamma BenítezCity的50多£报价，也无法从EvertonAtlético Madrid获得Ornella Vignola拒绝了曼城对西班牙的50多£报价..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/04/manchester-city-fiamma-benitez-ornella-vignola-bid-miedema-womens-champions-league-draw"
-  },
-  {
-    "id": "N_RSS_45259",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 156,
-    "title": {
-      "en": "Tough start for PSG but Luis Enrique has faith in burst of ‘new energy’ from signings",
-      "zh-CN": "巴黎圣日耳曼开局艰难，但路易斯·恩里克对签约带来的“新能量”充满信心"
-    },
-    "summary": {
-      "en": "Paris Saint-Germain have drawn both of their league games so far and Monaco pose a tricky task on Friday“It’s like we’re at school,” Luis Enrique quipped as he entered the press conference room,...",
-      "zh-CN": "到目前为止，巴黎圣日耳曼已经吸引了他们的两场联赛，摩纳哥在周五提出了一项棘手的任务， “就像我们在学校一样，”路易斯·恩里克在进入新闻发布室时打趣道。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/04/paris-saint-germain-luis-enrique-monaco"
-  },
-  {
-    "id": "N_RSS_71288",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 145,
-    "title": {
-      "en": "Lucas Herrington staying grounded at Hull City despite meteoric rise: ‘It’s pretty crazy’",
-      "zh-CN": "卢卡斯·赫林顿（ Lucas Herrington ）在赫尔城（ Hull City ）停飞，尽管流星般的崛起： “这太疯狂了"
-    },
-    "summary": {
-      "en": "The 54th Australian to play in the Premier League insists he will continue working hard – and cannot wait to face Erling HaalandOn the opening day of the Premier League season, with just over an hour...",
-      "zh-CN": "第54位参加英超联赛的澳大利亚人坚称他将继续努力–迫不及待地想面对Erling Haaland在英超联赛赛季的开幕日，只有一个多小时......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-lucas-herrington-hull-city-meteoric-rise-brisbane-roar"
-  },
-  {
-    "id": "N_RSS_52187",
-    "type": "official",
-    "date": "2026-09-03",
-    "likes": 277,
-    "title": {
-      "en": "Fifa calls Uefa’s legal threat a ‘smear campaign’ in US federal filing",
-      "zh-CN": "国际足联在美国联邦文件中称欧足联的法律威胁是“诽谤运动”"
-    },
-    "summary": {
-      "en": "Fifa filed motion opposing Uefa’s request for discoveryUefa said to be considering criminal case v Gianni InfantinoAttorneys representing Fifa have hit back at Uefa’s request for discovery in a US...",
-      "zh-CN": "国际足联提出动议，反对欧足联的发现请求欧足联据称正在考虑针对Gianni Infantino的刑事案件代表国际足联的律师回击了欧足联在美国的发现请求..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
-  },
-  {
-    "id": "N_RSS_77438",
-    "type": "official",
-    "date": "2026-09-03",
-    "likes": 102,
-    "title": {
-      "en": "Premier League paradox: midfielders are more and more expensive, yet more and more mediocre | Jonathan Liew",
-      "zh-CN": "英超悖论：中场球员越来越贵，却越来越平庸| Jonathan Liew"
-    },
-    "summary": {
-      "en": "Enzo Fernández and Sandro Tonali had big-money summer moves, but can they hold a candle to past greats?Perhaps the only thing you really need to know about the modern midfield role is that Enzo...",
-      "zh-CN": "恩佐·费尔南德斯（ Enzo Fernández ）和桑德罗·托纳利（ Sandro Tonali ）有过大笔的夏季动作，但他们能否为过去的伟大也许你真正需要了解的关于现代中场角色的唯一一件事是，恩佐……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-expensive-midfielders-enzo-fernandez-elliot-anderson-sandro-tonali"
-  },
-  {
-    "id": "N_RSS_49283",
-    "type": "official",
-    "date": "2026-09-02",
-    "likes": 146,
-    "title": {
-      "en": "Transfer window verdict: how every Premier League club fared",
-      "zh-CN": "转会窗口判决：每个英超俱乐部的表现如何"
-    },
-    "summary": {
-      "en": "The British transfer record was equalled and one club signed no fewer than 18 players in another hectic summerBringing in Christos Tzolis, Bruno Guimarães and Ezri Konsa was a strong start to the...",
-      "zh-CN": "英国转会纪录不相上下，一家俱乐部在另一个忙碌的夏天签下了不少于18名球员，克里斯托·佐利斯、布鲁诺·吉马良斯和埃兹里·孔萨的到来是..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026"
-  },
-  {
-    "id": "N_RSS_40879",
-    "type": "official",
-    "date": "2026-09-02",
-    "likes": 215,
-    "title": {
-      "en": "Deadline-day shambles leaves Everton and David Moyes fighting the odds again",
-      "zh-CN": "截止日期的混乱让埃弗顿和大卫·莫耶斯再次与赔率作斗争"
-    },
-    "summary": {
-      "en": "From accepting a bid for Armstrong to collapse of Balogun deal, TFG has shown an amateurish and unambitious approachTo be placed in the same bracket as owners whose lack of ambition, lack of...",
-      "zh-CN": "从接受阿姆斯特朗的出价到Balogun交易的崩溃，过渡联邦政府表现出一种业余和雄心勃勃的方法，与缺乏雄心壮志，缺乏..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/02/deadline-day-shambles-leaves-everton-and-david-moyes-fighting-the-odds-again"
-  },
-  {
-    "id": "N_RSS_93511",
-    "type": "official",
-    "date": "2026-09-01",
-    "likes": 154,
-    "title": {
-      "en": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
-      "zh-CN": "巴塞罗那微风吹过Rayo ，但西班牙所有人的目光都集中在Julián Álvarez身上"
-    },
-    "summary": {
-      "en": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona – but Julián Álvarez remains the ultimate prizeIf Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is...",
-      "zh-CN": "Hansi Flick非常高兴地欢迎Gabriel Jesus来到巴塞罗那–但Julián Álvarez仍然是最终的奖品如果Raphinha对作为巴塞罗那的临时9号球员有任何疑虑，他......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez"
-  },
-  {
-    "id": "N_RSS_68780",
-    "type": "official",
-    "date": "2026-09-01",
-    "likes": 60,
-    "title": {
-      "en": "Janine Sonis: ‘63,000 fans in Denver proves a women’s team was way overdue’",
-      "zh-CN": "珍妮·索尼斯（ Janine Sonis ） ： “丹佛的63,000名球迷证明了一支女子球队已经过期了”"
-    },
-    "summary": {
-      "en": "The Canada and Denver Summit full-back on playing at a packed Mile High Stadium and the impact of Lindsey HeapsIn the 13th minute of a 6-1 win against Chicago, Janine Sonis ran into the penalty area...",
-      "zh-CN": "加拿大和丹佛峰会边后卫在一个拥挤的英里高体育场打球以及林赛·希普斯的影响在对芝加哥的6-1胜利的第13分钟，珍妮·索尼斯跑进了禁区……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/01/janine-sonis-interview-denver-summit-moving-the-goalposts"
-  },
-  {
-    "id": "N_RSS_93172",
-    "type": "official",
-    "date": "2026-09-01",
-    "likes": 77,
-    "title": {
-      "en": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
-      "zh-CN": "足球转会传闻：曼联和利物浦EYE Kroupi ？瓦迪到雷克瑟姆？"
-    },
-    "summary": {
-      "en": "Today’s rumours are squeezing out every last dropDeadline day live – follow all the news and movesThe final day of the men’s transfer window is here, but there is still time for some rumourmongering,...",
-      "zh-CN": "今天的谣言正在挤出每一滴Deadline day live –关注所有新闻和动作男子转会窗口的最后一天就在这里，但仍然有时间散布一些谣言，..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham"
   }
 ]
