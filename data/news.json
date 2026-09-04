@@ -1,5 +1,225 @@
 [
   {
+    "id": "N_FIFA_55623",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 281,
+    "title": {
+      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联女足世界杯巴西2027™志愿者申请正式开放"
+    },
+    "summary": {
+      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/volunteer-applications-open-womens-world-cup-brazil-2027"
+  },
+  {
+    "id": "N_FIFA_8533",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 92,
+    "title": {
+      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window",
+      "zh-CN": "2026年世界杯™在年中转会窗口感受到的影响"
+    },
+    "summary": {
+      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-impact-mid-year-transfer-window"
+  },
+  {
+    "id": "N_RSS_74881",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 71,
+    "title": {
+      "en": "Rangers sign striker Kelsy and winger Bouanani",
+      "zh-CN": "流浪者签下前锋凯尔西和边锋布阿纳尼"
+    },
+    "summary": {
+      "en": "Rangers confirm they have bought Venezuela striker Kevin Kelsy from Portland Timbers and taken Algeria winger Badredine Bouanani on loan from Stuttgart.",
+      "zh-CN": "流浪者队确认他们已经从波特兰木材队买下了委内瑞拉前锋凯文·凯尔西，并从斯图加特租借了阿尔及利亚边锋巴德雷丁·布阿纳尼。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1j4pzgyjedo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_97877",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 215,
+    "title": {
+      "en": "'Humble but ambitious' - the return of fallen giants Schalke",
+      "zh-CN": "“谦虚但雄心勃勃” -堕落巨人沙尔克的回归"
+    },
+    "summary": {
+      "en": "One of Germany's fallen giants, Schalke are back in the Bundesliga after a complicated few years.",
+      "zh-CN": "作为德国堕落的巨人之一，沙尔克在经历了复杂的几年后又回到了德甲。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c5ym7g49gr0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_23202",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 208,
+    "title": {
+      "en": "Rangers buy Portland's Kelsy and take Stuttgart's Bouanani on loan",
+      "zh-CN": "流浪者购买波特兰的凯尔西，并租借斯图加特的布阿纳尼"
+    },
+    "summary": {
+      "en": "Rangers confirm they have bought Venezuela striker Kevin Kelsy from Portland Timbers and taken Algeria winger Badredine Bouanani on loan from Stuttgart.",
+      "zh-CN": "流浪者队确认他们已经从波特兰木材队买下了委内瑞拉前锋凯文·凯尔西，并从斯图加特租借了阿尔及利亚边锋巴德雷丁·布阿纳尼。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c1j4pzgyjedo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_14456",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 71,
+    "title": {
+      "en": "Will Scottish football finally agree on how to fix youth development?",
+      "zh-CN": "苏格兰足球最终会就如何解决青年发展问题达成一致吗？"
+    },
+    "summary": {
+      "en": "For more than 15 years, Scottish football has been asking itself what it could be doing better - now it's preparing for a forum on the future of the game.",
+      "zh-CN": "15多年来，苏格兰足球一直在问自己哪些方面可以做得更好-现在它正在为一个关于比赛未来的论坛做准备。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/news/articles/c1e5zxxegzyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_81370",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 162,
+    "title": {
+      "en": "Gabriel Martinelli leaves Arsenal for Saudi Arabian club Al-Hilal in £60m deal",
+      "zh-CN": "加布里埃尔·马蒂内利（ Gabriel Martinelli ）以6000万英镑的价格离开阿森纳前往沙特阿拉伯俱乐部Al-Hil"
+    },
+    "summary": {
+      "en": "Forward follows Gabriel Jesus out of championsRicharlison not in Tottenham’s Premier League squadArsenal have confirmed Gabriel Martinelli has joined the Saudi Arabian side Al-Hilal for £60m. It is...",
+      "zh-CN": "前锋跟随冠军中的加布里埃尔·耶稣理查利森不在托特纳姆热刺的英超阵容阿森纳已经确认加布里埃尔·马蒂内利已经以6000万美元的价格加入了沙特阿拉伯方面的Al-Hilal。这是... £"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/03/gabriel-martinelli-leaves-arsenal-al-hilal"
+  },
+  {
+    "id": "N_RSS_87780",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 144,
+    "title": {
+      "en": "World Cup wishlists, early movers, big clearouts: 2026 summer transfer window trends",
+      "zh-CN": "世界杯心愿单、先行者、大清盘： 2026年夏季转会窗口趋势"
+    },
+    "summary": {
+      "en": "At the end of a busy transfer window which spanned the World Cup, here are some of the subplots of the summerThe World Cup is always a good shop window. Yan Diomande was already a rising star at RB...",
+      "zh-CN": "在跨越世界杯的繁忙转会窗口结束时，这里是夏季的一些子场景世界杯总是一个很好的商店橱窗。言迪奥曼德已经是RB的后起之秀了……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/03/summer-transfer-window-2026-trends-premier-league-la-liga-serie-a-bundesliga-ligue-1"
+  },
+  {
+    "id": "N_RSS_93560",
+    "type": "official",
+    "date": "2026-09-01",
+    "likes": 263,
+    "title": {
+      "en": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
+      "zh-CN": "“在我心中，直到我死去” ：阿根廷向莱昂内尔·梅西表示泪流满面的感谢"
+    },
+    "summary": {
+      "en": "The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022Anyone who was present at Lionel Scaloni’s press...",
+      "zh-CN": "这位阿根廷人退出国际足球的决定得到了他在2022年带来世界杯辉煌的国家的热烈欢迎。任何出席莱昂内尔·斯卡洛尼（ Lionel Scaloni ）新闻发布会的人..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement"
+  },
+  {
+    "id": "N_RSS_29019",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 123,
+    "title": {
+      "en": "Premier League: 10 talking points from the weekend’s action",
+      "zh-CN": "英超联赛：周末行动的10个谈话要点"
+    },
+    "summary": {
+      "en": "Newcastle players look revitalised, Liverpool’s curious transfer strategy and a  worrying start for PalaceAmid the concerns at Manchester United, one player unquestioned is Senne Lammens. The...",
+      "zh-CN": "纽卡斯尔球员看起来精力充沛，利物浦好奇的转会策略和皇宫令人担忧的开局。在曼联的担忧中，一位毫无疑问的球员是Senne Lammens。..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action"
+  },
+  {
+    "id": "N_RSS_37303",
+    "type": "official",
+    "date": "2026-08-30",
+    "likes": 143,
+    "title": {
+      "en": "‘I’ve had a very hectic career’: Mario Balotelli on Italian football’s troubles and his future",
+      "zh-CN": "“我的职业生涯非常忙碌” ：马里奥·巴洛特利（ Mario Balotelli ）谈论意大利足球的麻烦和他的未来"
+    },
+    "summary": {
+      "en": "Striker talks life in the UAE, problems with the Azzurri and ‘special feeling’ of playing for Manchester CityWhenever the name Mario Balotelli is brought up, particularly in Italy, the conversation...",
+      "zh-CN": "前锋谈到了阿联酋的生活， Azzurri的问题以及为曼城效力的“特殊感受”每当提到Mario Balotelli这个名字时，特别是在意大利，谈话......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/30/mario-balotelli-interview-italy-saudi-arabia-maturity"
+  },
+  {
+    "id": "N_RSS_32790",
+    "type": "official",
+    "date": "2026-08-29",
+    "likes": 194,
+    "title": {
+      "en": "‘Now is a good time for players to speak up’: Lucy Bronze on Fifa and helping refugees",
+      "zh-CN": "“现在是球员们大声疾呼的好时机” ：露西·布朗斯在国际足联和帮助难民"
+    },
+    "summary": {
+      "en": "Chelsea defender reflects on spending time with refugees in Colombia this summer and her passion for helping people on and off the pitchLucy Bronze does not stop. Her brain runs a hundred miles a...",
+      "zh-CN": "切尔西后卫反思了今年夏天在哥伦比亚与难民共度的时光，她对帮助球场内外人们的热情露西铜牌并没有停止。她的大脑跑了一百英里……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/29/lucy-bronze-chelsea-women-england-fifa-refugees"
+  },
+  {
+    "id": "N_FIFA_65925",
+    "type": "official",
+    "date": "2026-08-28",
+    "likes": 285,
+    "title": {
+      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™",
+      "zh-CN": "已确认FIFA U-20女足世界杯波兰2026™参赛名单"
+    },
+    "summary": {
+      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
+  },
+  {
+    "id": "N_FIFA_61583",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 254,
+    "title": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled",
+      "zh-CN": "国际足联2027年女足世界杯™冠军将在马拉卡纳举行的比赛日程公布之际举起奖杯"
+    },
+    "summary": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
+  },
+  {
     "id": "N_RSS_24534",
     "type": "official",
     "date": "2026-09-03",
@@ -251,227 +471,5 @@
     },
     "source": "FIFA Official",
     "url": "https://www.inside.fifa.com/media-releases/leadership-constructive-positive-talks-rabat-morocco"
-  },
-  {
-    "id": "N_RSS_93893",
-    "type": "official",
-    "date": "2026-09-03",
-    "likes": 234,
-    "title": {
-      "en": "Fifa accuses Uefa of 'smear campaign' against Infantino",
-      "zh-CN": "国际足联指责欧足联对因凡蒂诺进行“诽谤运动”"
-    },
-    "summary": {
-      "en": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors.",
-      "zh-CN": "自从国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）取消向私人投资者出售世界杯股份的计划以来，理事机构一直受到打击。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_55253",
-    "type": "official",
-    "date": "2026-09-03",
-    "likes": 202,
-    "title": {
-      "en": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
-      "zh-CN": "“Adonis” Gibbs-White闪耀的机会- Tuchel会注意到吗？"
-    },
-    "summary": {
-      "en": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
-      "zh-CN": "摩根·吉布斯-怀特（ Morgan Gibbs-White ）被排除在英格兰世界杯阵容之外-托马斯·图切尔（ Thomas Tuchel ）是否无法忽视他的持续良好状态？"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_17508",
-    "type": "official",
-    "date": "2026-09-03",
-    "likes": 105,
-    "title": {
-      "en": "Chelsea latest: Teenage Brazilian full-back joins from Corinthians",
-      "zh-CN": "切尔西最新消息：来自科林蒂安斯的巴西青少年边后卫加入"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-  },
-  {
-    "id": "N_RSS_84024",
-    "type": "official",
-    "date": "2026-09-03",
-    "likes": 164,
-    "title": {
-      "en": "FIFA accuses UEFA of launching 'smear campaign' against Gianni Infantino",
-      "zh-CN": "国际足联指责欧足联对Gianni Infantino发起“诽谤运动”"
-    },
-    "summary": {
-      "en": "FIFA has accused European football&#8217;s governing body of launching a &#8220;smear campaign&#8221; against Gianni Infantino in a challenge to legal action over the aborted attempt to sell part of...",
-      "zh-CN": "国际足联指责欧洲足球管理机构对Gianni Infantino发起“诽谤运动” ，以挑战法律诉讼，试图出售部分..."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13580984/gianni-infantino-latest-fifa-accuses-uefa-of-launching-a-smear-campaign-after-legal-cases-filed-in-american-courts"
-  },
-  {
-    "id": "N_RSS_31185",
-    "type": "official",
-    "date": "2026-09-03",
-    "likes": 231,
-    "title": {
-      "en": "Thierry Henry says players ‘have more power than they think’ amid Fifa scandals",
-      "zh-CN": "蒂埃里·亨利（ Thierry Henry ）表示，在国际足联丑闻中，球员“拥有比他们想象的更多的权力”"
-    },
-    "summary": {
-      "en": "The former Arsenal, Barcelona and France star says players shouldn’t underestimate their ability to change how football worksAs Fifa continues to face scrutiny from some confederations and fans,...",
-      "zh-CN": "这位前阿森纳、巴塞罗那和法国球星表示，球员不应低估他们改变足球运作方式的能力，因为国际足联继续面临一些联合会和球迷的审查，..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/03/thierry-henry-fifa-scandal-players"
-  },
-  {
-    "id": "N_RSS_88689",
-    "type": "official",
-    "date": "2026-09-03",
-    "likes": 62,
-    "title": {
-      "en": "Manchester City’s Vivianne Miedema could miss rest of year with knee injury",
-      "zh-CN": "曼城的薇薇安·米德玛（ Vivianne Miedema ）可能会因膝盖受伤而错过余下的一年"
-    },
-    "summary": {
-      "en": "Arsenal poised to land PSG’s Élisa De AlmeidaNew United coach Olid promises attacking styleManchester City could be without Vivianne Miedema for at least the rest of 2026, the Guardian understands,...",
-      "zh-CN": "《卫报》了解到，阿森纳准备让巴黎圣日耳曼队的埃莉萨·德·阿尔梅达（ Élisa De Almeida ）登陆。新曼联教练奥利德（ Olid ）承诺，至少在2026年的剩余时间里，攻击曼城的风格可能会让薇薇安·米德玛（ Vivianne Miedema ）"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/03/wsl-transfer-deadline-day-arsenal-elisa-de-almeida-psg"
-  },
-  {
-    "id": "N_FIFA_2983",
-    "type": "official",
-    "date": "2026-09-03",
-    "likes": 176,
-    "title": {
-      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October",
-      "zh-CN": "今年10月，在吉达举行的2026年FIFAe总决赛上，迄今为止最大的足球电子竞技赛季达到高潮"
-    },
-    "summary": {
-      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
-  },
-  {
-    "id": "N_RSS_51235",
-    "type": "official",
-    "date": "2026-09-02",
-    "likes": 61,
-    "title": {
-      "en": "Celtic sign five in one day after Van den Berg & Lotomba arrive",
-      "zh-CN": "在Van den Berg和Lotomba抵达后的一天内体验凯尔特标志5"
-    },
-    "summary": {
-      "en": "Celtic complete loan deals for former England goalkeeper Sam Johnstone and teenage Chelsea duo Shumaira Mheuka and Landon Emenalo.",
-      "zh-CN": "凯尔特人为前英格兰守门员Sam Johnstone和青少年切尔西二人组Shumaira Mheuka和Landon Emenalo完成了贷款交易。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c07lzmp03kpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_70315",
-    "type": "official",
-    "date": "2026-09-02",
-    "likes": 227,
-    "title": {
-      "en": "Scottish Premiership: Durán inspires Celtic to convincing victory after Dalglish ovation",
-      "zh-CN": "苏格兰超级联赛：杜兰激励凯尔特人在达格利什欢呼后取得令人信服的胜利"
-    },
-    "summary": {
-      "en": "Colombian opens scoring in 3-0 win against AberdeenFalkirk 1-2 Rangers; Kilmarnock 0-1 St MirrenThe Celtic striker Camilo Durán inspired the Scottish champions’ 3-0 win over Aberdeen, while Rangers...",
-      "zh-CN": "哥伦比亚队以3-0战胜阿伯丁福尔柯克1-2流浪者队；基尔马诺克0-1圣米伦凯尔特前锋卡米洛·杜兰激励苏格兰冠军以3-0战胜阿伯丁队，而流浪者队..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/02/scottish-premiership-celtic-aberdeen-kenny-dalglish-rangers-falkirk"
-  },
-  {
-    "id": "N_RSS_90143",
-    "type": "official",
-    "date": "2026-09-02",
-    "likes": 260,
-    "title": {
-      "en": "Premier League transfer talking points: three things we learned from the data",
-      "zh-CN": "英超转会谈话要点：我们从数据中学到的三件事"
-    },
-    "summary": {
-      "en": "After record spending in the transfer market, England’s top clubs have widened the gap to their European counterpartsPremier League clubs have invested more than £3.4bn in players this summer, an...",
-      "zh-CN": "在转会市场支出创纪录之后，英格兰顶级俱乐部扩大了与欧洲顶级俱乐部的差距英超俱乐部今年夏天在球员身上投资超过34亿英镑，这是一个..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-talking-points-three-things-we-learned-from-the-data"
-  },
-  {
-    "id": "N_RSS_40933",
-    "type": "official",
-    "date": "2026-09-02",
-    "likes": 203,
-    "title": {
-      "en": "Football connects communities but can pull them apart if governed carelessly | Cath Bishop",
-      "zh-CN": "足球将社区联系起来，但如果管理不善，足球可以将它们分开| Cath Bishop"
-    },
-    "summary": {
-      "en": "Sport is a space to help youngsters to develop character, resilience and confidence, but we need stronger leadership and safer environments to make this happenThe fight for the soul of football isn’t...",
-      "zh-CN": "体育是一个帮助青少年培养个性、韧性和自信的空间，但我们需要更强大的领导力和更安全的环境来实现这一目标。为足球的灵魂而战并不是……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/sport/2026/sep/02/football-connects-communities-but-can-pull-them-apart-if-governed-carelessly"
-  },
-  {
-    "id": "N_RSS_45318",
-    "type": "official",
-    "date": "2026-09-02",
-    "likes": 266,
-    "title": {
-      "en": "Which footballer has had the most glittering club career? | The Knowledge",
-      "zh-CN": "哪位足球运动员的俱乐部生涯最辉煌？ | The Knowledge"
-    },
-    "summary": {
-      "en": "Plus: brothers playing in England’s top four tiers, shirt-hogging sponsors, and goalkeepers sent off upfieldMail us with your all of your questions and answers“Marquinhos won his 40th trophy in club...",
-      "zh-CN": "此外：在英格兰四级联赛中打球的兄弟们、球衣赞助商和守门员被送上场请给我们发送您的所有问题和答案“Marquinhos在俱乐部赢得了他的第40个奖杯......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/02/which-footballer-has-had-the-most-trophy-laden-club-career"
-  },
-  {
-    "id": "N_RSS_43881",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 252,
-    "title": {
-      "en": "Lamine Yamal and Raphinha score twice as Barcelona hit five",
-      "zh-CN": "拉明·亚马尔（ Lamine Yamal ）和拉菲尼亚（ Raphinha ）的得分是巴塞罗"
-    },
-    "summary": {
-      "en": "Lamine Yamal and Raphinha score twice as Barcelona beat Rayo Vallecano 5-2 in La Liga.",
-      "zh-CN": "拉明·亚马尔（ Lamine Yamal ）和拉菲尼亚（ Raphinha ）在西甲联赛中以5-2击败拉约·巴列卡诺（ Rayo Vallecano ）"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c4gl7j81l1do?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_57337",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 71,
-    "title": {
-      "en": "Fiorentina’s Serie A renaissance feels a way off after chastening centenary | Nicky Bandini",
-      "zh-CN": "佛罗伦萨的意甲联赛文艺复兴在鞭笞一百周年后感觉遥遥领先|尼基·班迪尼（ Nicky Bandini ）"
-    },
-    "summary": {
-      "en": "The home game against Frosinone seemed a perfect way to celebrate their landmark. It did not work out that wayFiorentina’s 100th birthday party had been going for four days, starting with a fan...",
-      "zh-CN": "对阵Frosinone的主场比赛似乎是庆祝他们地标的完美方式。结果不是这样的，菲奥伦蒂娜的100岁生日派对已经持续了四天，从粉丝开始……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/31/fiorentina-serie-a-renaissance-chastening-centenary-frosinone"
   }
 ]
