@@ -1,5 +1,99 @@
 [
   {
+    "id": "N_RSS_45304",
+    "type": "official",
+    "date": "2026-09-05",
+    "likes": 89,
+    "title": {
+      "en": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+      "zh-CN": "随着特朗普的支持消失，欧足联的法律诉讼可能是Infantino结束的开始| Barney Ronay"
+    },
+    "summary": {
+      "en": "The order of discovery related to Fifa’s failed plan to sell the World Cup will worry the American president, a situation that tends to end badly for the culprit“Tell Mike it was just business. I...",
+      "zh-CN": "与国际足联出售世界杯计划失败有关的发现顺序将使美国总统感到担忧，这种情况往往会对罪魁祸首造成严重后果“告诉迈克这只是生意。我……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
+  },
+  {
+    "id": "N_RSS_28647",
+    "type": "official",
+    "date": "2026-09-05",
+    "likes": 75,
+    "title": {
+      "en": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
+      "zh-CN": "“噪音令人难以置信” ：裁判在世界杯上对墨西哥对英格兰的看法"
+    },
+    "summary": {
+      "en": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of eventsIt was 6pm on 5 July in Mexico City, and Alireza...",
+      "zh-CN": "英格兰主教练托马斯·图切尔（ Thomas Tuchel ）称，在过去的16场比赛中，裁判“还不够好”。现在Alireza Faghani给出了他的事件版本7月5日下午6点在墨西哥城， Alireza..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca"
+  },
+  {
+    "id": "N_RSS_49994",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 223,
+    "title": {
+      "en": "Premier League paradox: midfielders are more and more expensive, yet more and more mediocre | Jonathan Liew",
+      "zh-CN": "英超悖论：中场球员越来越贵，却越来越平庸| Jonathan Liew"
+    },
+    "summary": {
+      "en": "Enzo Fernández and Sandro Tonali had big-money summer moves, but can they hold a candle to past greats?Perhaps the only thing you really need to know about the modern midfield role is that Enzo...",
+      "zh-CN": "恩佐·费尔南德斯（ Enzo Fernández ）和桑德罗·托纳利（ Sandro Tonali ）有过大笔的夏季动作，但他们能否为过去的伟大也许你真正需要了解的关于现代中场角色的唯一一件事是，恩佐……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-expensive-midfielders-enzo-fernandez-elliot-anderson-sandro-tonali"
+  },
+  {
+    "id": "N_RSS_57363",
+    "type": "official",
+    "date": "2026-08-30",
+    "likes": 248,
+    "title": {
+      "en": "‘I’ve had a very hectic career’: Mario Balotelli on Italian football’s troubles and his future",
+      "zh-CN": "“我的职业生涯非常忙碌” ：马里奥·巴洛特利（ Mario Balotelli ）谈论意大利足球的麻烦和他的未来"
+    },
+    "summary": {
+      "en": "Striker talks life in the UAE, problems with the Azzurri and ‘special feeling’ of playing for Manchester CityWhenever the name Mario Balotelli is brought up, particularly in Italy, the conversation...",
+      "zh-CN": "前锋谈到了阿联酋的生活， Azzurri的问题以及为曼城效力的“特殊感受”每当提到Mario Balotelli这个名字时，特别是在意大利，谈话......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/30/mario-balotelli-interview-italy-saudi-arabia-maturity"
+  },
+  {
+    "id": "N_FIFA_95931",
+    "type": "official",
+    "date": "2026-08-28",
+    "likes": 371,
+    "title": {
+      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™",
+      "zh-CN": "已确认FIFA U-20女足世界杯波兰2026™参赛名单"
+    },
+    "summary": {
+      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
+  },
+  {
+    "id": "N_FIFA_82192",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 191,
+    "title": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled",
+      "zh-CN": "国际足联2027年女足世界杯™冠军将在马拉卡纳举行的比赛日程公布之际举起奖杯"
+    },
+    "summary": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
+  },
+  {
     "id": "N_RSS_58328",
     "type": "official",
     "date": "2026-09-05",
@@ -378,101 +472,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action"
-  },
-  {
-    "id": "N_RSS_21322",
-    "type": "official",
-    "date": "2026-09-05",
-    "likes": 145,
-    "title": {
-      "en": "Clarke gave SFA 'a little shove' over new contract",
-      "zh-CN": "克拉克给SFA “一点推”新合同"
-    },
-    "summary": {
-      "en": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was...",
-      "zh-CN": "史蒂夫·克拉克（ Steve Clarke ）说，他不得不在今年夏天的世界杯决赛前不久劝说苏格兰足协给他一份新的国家主教练合同，因为他觉得管理机构是……"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_39917",
-    "type": "official",
-    "date": "2026-09-05",
-    "likes": 160,
-    "title": {
-      "en": "Clarke gave Scottish FA 'a little shove' over new contract",
-      "zh-CN": "克拉克给了苏格兰足协对新合同的“一点压力”"
-    },
-    "summary": {
-      "en": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was...",
-      "zh-CN": "史蒂夫·克拉克（ Steve Clarke ）说，他不得不在今年夏天的世界杯决赛前不久劝说苏格兰足协给他一份新的国家主教练合同，因为他觉得管理机构是……"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_81738",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 78,
-    "title": {
-      "en": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
-      "zh-CN": "切尔西与摩根·罗杰斯（ Morgan Rogers ）一起击中靶心，因为阿森纳对可能发生的事情感到后悔"
-    },
-    "summary": {
-      "en": "The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso’s teamChelsea thought they had little chance of...",
-      "zh-CN": "枪手们将看看当前别墅男子排队对抗他们时，他们本可以赢得什么，因为他们已经为Xabi Alonso的球队开了个好头。切尔西认为他们几乎没有机会……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta"
-  },
-  {
-    "id": "N_RSS_14307",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 164,
-    "title": {
-      "en": "Lucas Herrington staying grounded at Hull City despite meteoric rise: ‘It’s pretty crazy’",
-      "zh-CN": "卢卡斯·赫林顿（ Lucas Herrington ）在赫尔城（ Hull City ）停飞，尽管流星般的崛起： “这太疯狂了"
-    },
-    "summary": {
-      "en": "The 54th Australian to play in the Premier League insists he will continue working hard – and cannot wait to face Erling HaalandOn the opening day of the Premier League season, with just over an hour...",
-      "zh-CN": "第54位参加英超联赛的澳大利亚人坚称他将继续努力–迫不及待地想面对Erling Haaland在英超联赛赛季的开幕日，只有一个多小时......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-lucas-herrington-hull-city-meteoric-rise-brisbane-roar"
-  },
-  {
-    "id": "N_RSS_35099",
-    "type": "official",
-    "date": "2026-09-02",
-    "likes": 150,
-    "title": {
-      "en": "Football connects communities but can pull them apart if governed carelessly | Cath Bishop",
-      "zh-CN": "足球将社区联系起来，但如果管理不善，足球可以将它们分开| Cath Bishop"
-    },
-    "summary": {
-      "en": "Sport is a space to help youngsters to develop character, resilience and confidence, but we need stronger leadership and safer environments to make this happenThe fight for the soul of football isn’t...",
-      "zh-CN": "体育是一个帮助青少年培养个性、韧性和自信的空间，但我们需要更强大的领导力和更安全的环境来实现这一目标。为足球的灵魂而战并不是……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/sport/2026/sep/02/football-connects-communities-but-can-pull-them-apart-if-governed-carelessly"
-  },
-  {
-    "id": "N_RSS_93805",
-    "type": "official",
-    "date": "2026-09-02",
-    "likes": 217,
-    "title": {
-      "en": "Premier League transfer talking points: three things we learned from the data",
-      "zh-CN": "英超转会谈话要点：我们从数据中学到的三件事"
-    },
-    "summary": {
-      "en": "After record spending in the transfer market, England’s top clubs have widened the gap to their European counterpartsPremier League clubs have invested more than £3.4bn in players this summer, an...",
-      "zh-CN": "在转会市场支出创纪录之后，英格兰顶级俱乐部扩大了与欧洲顶级俱乐部的差距英超俱乐部今年夏天在球员身上投资超过34亿英镑，这是一个..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-talking-points-three-things-we-learned-from-the-data"
   }
 ]
