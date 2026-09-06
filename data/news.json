@@ -1,5 +1,85 @@
 [
   {
+    "id": "N_RSS_734",
+    "type": "official",
+    "date": "2026-09-05",
+    "likes": 194,
+    "title": {
+      "en": "Clarke gave SFA 'a little shove' over new contract",
+      "zh-CN": "克拉克给SFA “一点推”新合同"
+    },
+    "summary": {
+      "en": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was...",
+      "zh-CN": "史蒂夫·克拉克（ Steve Clarke ）说，他不得不在今年夏天的世界杯决赛前不久劝说苏格兰足协给他一份新的国家主教练合同，因为他觉得管理机构是……"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_71706",
+    "type": "official",
+    "date": "2026-09-05",
+    "likes": 252,
+    "title": {
+      "en": "Clarke gave Scottish FA 'a little shove' over new contract",
+      "zh-CN": "克拉克给了苏格兰足协对新合同的“一点压力”"
+    },
+    "summary": {
+      "en": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was...",
+      "zh-CN": "史蒂夫·克拉克（ Steve Clarke ）说，他不得不在今年夏天的世界杯决赛前不久劝说苏格兰足协给他一份新的国家主教练合同，因为他觉得管理机构是……"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_23867",
+    "type": "official",
+    "date": "2026-09-04",
+    "likes": 91,
+    "title": {
+      "en": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
+      "zh-CN": "切尔西与摩根·罗杰斯（ Morgan Rogers ）一起击中靶心，因为阿森纳对可能发生的事情感到后悔"
+    },
+    "summary": {
+      "en": "The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso’s teamChelsea thought they had little chance of...",
+      "zh-CN": "枪手们将看看当前别墅男子排队对抗他们时，他们本可以赢得什么，因为他们已经为Xabi Alonso的球队开了个好头。切尔西认为他们几乎没有机会……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta"
+  },
+  {
+    "id": "N_RSS_60004",
+    "type": "official",
+    "date": "2026-09-02",
+    "likes": 184,
+    "title": {
+      "en": "Football connects communities but can pull them apart if governed carelessly | Cath Bishop",
+      "zh-CN": "足球将社区联系起来，但如果管理不善，足球可以将它们分开| Cath Bishop"
+    },
+    "summary": {
+      "en": "Sport is a space to help youngsters to develop character, resilience and confidence, but we need stronger leadership and safer environments to make this happenThe fight for the soul of football isn’t...",
+      "zh-CN": "体育是一个帮助青少年培养个性、韧性和自信的空间，但我们需要更强大的领导力和更安全的环境来实现这一目标。为足球的灵魂而战并不是……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/sport/2026/sep/02/football-connects-communities-but-can-pull-them-apart-if-governed-carelessly"
+  },
+  {
+    "id": "N_RSS_4716",
+    "type": "official",
+    "date": "2026-09-02",
+    "likes": 160,
+    "title": {
+      "en": "Premier League transfer talking points: three things we learned from the data",
+      "zh-CN": "英超转会谈话要点：我们从数据中学到的三件事"
+    },
+    "summary": {
+      "en": "After record spending in the transfer market, England’s top clubs have widened the gap to their European counterpartsPremier League clubs have invested more than £3.4bn in players this summer, an...",
+      "zh-CN": "在转会市场支出创纪录之后，英格兰顶级俱乐部扩大了与欧洲顶级俱乐部的差距英超俱乐部今年夏天在球员身上投资超过34亿英镑，这是一个..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-talking-points-three-things-we-learned-from-the-data"
+  },
+  {
     "id": "N_RSS_45304",
     "type": "official",
     "date": "2026-09-05",
@@ -392,85 +472,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/05/chelsea-aston-villa-wsl-match-report"
-  },
-  {
-    "id": "N_RSS_59488",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 186,
-    "title": {
-      "en": "Parrott fires Real Betis to win over Real Madrid",
-      "zh-CN": "Parrott解雇皇家贝蒂斯赢得皇家马德里"
-    },
-    "summary": {
-      "en": "Troy Parrott scores the only goal of the game and Kylian Mbappe misses an injury-time penalty as Real Betis beat Real Madrid 1-0 in La Liga.",
-      "zh-CN": "特洛伊·帕罗特（ Troy Parrott ）打进了比赛的唯一进球，而凯利安·姆巴佩（ Kylian Mbappe ）在西甲联赛中以1比0击败皇家马德里队，错过了伤时点球"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c9v9ewe7kygo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_26230",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 296,
-    "title": {
-      "en": "73 goals from dropping deep - we ask Kane to break down how he did it",
-      "zh-CN": "从深度下降到73个目标-我们要求Kane详细说明他是如何做到的"
-    },
-    "summary": {
-      "en": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
-      "zh-CN": "哈里·凯恩（ Harry Kane ）上赛季是欧洲得分最高的球员，但他踢得像中场球员。我们要求他放弃比赛。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_73464",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 216,
-    "title": {
-      "en": "FA to canvass England players in World Cup review",
-      "zh-CN": "英足总将在世界杯回顾中拉拢英格兰球员"
-    },
-    "summary": {
-      "en": "The Football Association's review into England's World Cup campaign will canvass the opinions of players involved in the tournament.",
-      "zh-CN": "足球协会对英格兰世界杯活动的评论将征求参与比赛的球员的意见。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/clyr1ly8z4xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_16347",
-    "type": "official",
-    "date": "2026-09-01",
-    "likes": 284,
-    "title": {
-      "en": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
-      "zh-CN": "“在我心中，直到我死去” ：阿根廷向莱昂内尔·梅西表示泪流满面的感谢"
-    },
-    "summary": {
-      "en": "The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022Anyone who was present at Lionel Scaloni’s press...",
-      "zh-CN": "这位阿根廷人退出国际足球的决定得到了他在2022年带来世界杯辉煌的国家的热烈欢迎。任何出席莱昂内尔·斯卡洛尼（ Lionel Scaloni ）新闻发布会的人..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement"
-  },
-  {
-    "id": "N_RSS_68189",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 164,
-    "title": {
-      "en": "Premier League: 10 talking points from the weekend’s action",
-      "zh-CN": "英超联赛：周末行动的10个谈话要点"
-    },
-    "summary": {
-      "en": "Newcastle players look revitalised, Liverpool’s curious transfer strategy and a  worrying start for PalaceAmid the concerns at Manchester United, one player unquestioned is Senne Lammens. The...",
-      "zh-CN": "纽卡斯尔球员看起来精力充沛，利物浦好奇的转会策略和皇宫令人担忧的开局。在曼联的担忧中，一位毫无疑问的球员是Senne Lammens。..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action"
   }
 ]
