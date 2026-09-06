@@ -1,5 +1,101 @@
 [
   {
+    "id": "N_RSS_21876",
+    "type": "official",
+    "date": "2026-09-06",
+    "likes": 241,
+    "title": {
+      "en": "Papers: Ex Man-Utd winger Sancho set for stunning Borussia Dortmund return",
+      "zh-CN": "论文：前曼联边锋桑丘，为令人惊叹的多特蒙德回归做准备"
+    },
+    "summary": {
+      "en": "The top stories and transfer rumours from Monday's newspapers...",
+      "zh-CN": "周一报纸的热门报道和转移谣言..."
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13582586/transfer-news-former-manchester-united-and-england-winger-jadon-sancho-lined-up-for-stunning-borussia-dortmund-return-paper-talk"
+  },
+  {
+    "id": "N_RSS_53345",
+    "type": "official",
+    "date": "2026-09-05",
+    "likes": 121,
+    "title": {
+      "en": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
+      "zh-CN": "“噪音令人难以置信” ：裁判在世界杯上对墨西哥对英格兰的看法"
+    },
+    "summary": {
+      "en": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of eventsIt was 6pm on 5 July in Mexico City, and Alireza...",
+      "zh-CN": "英格兰主教练托马斯·图切尔（ Thomas Tuchel ）称，在过去的16场比赛中，裁判“还不够好”。现在Alireza Faghani给出了他的事件版本7月5日下午6点在墨西哥城， Alireza..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca"
+  },
+  {
+    "id": "N_RSS_28586",
+    "type": "official",
+    "date": "2026-09-05",
+    "likes": 151,
+    "title": {
+      "en": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+      "zh-CN": "随着特朗普的支持消失，欧足联的法律诉讼可能是Infantino结束的开始| Barney Ronay"
+    },
+    "summary": {
+      "en": "The order of discovery related to Fifa’s failed plan to sell the World Cup will worry the American president, a situation that tends to end badly for the culprit“Tell Mike it was just business. I...",
+      "zh-CN": "与国际足联出售世界杯计划失败有关的发现顺序将使美国总统感到担忧，这种情况往往会对罪魁祸首造成严重后果“告诉迈克这只是生意。我……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
+  },
+  {
+    "id": "N_RSS_5817",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 239,
+    "title": {
+      "en": "Premier League paradox: midfielders are more and more expensive, yet more and more mediocre | Jonathan Liew",
+      "zh-CN": "英超悖论：中场球员越来越贵，却越来越平庸| Jonathan Liew"
+    },
+    "summary": {
+      "en": "Enzo Fernández and Sandro Tonali had big-money summer moves, but can they hold a candle to past greats?Perhaps the only thing you really need to know about the modern midfield role is that Enzo...",
+      "zh-CN": "恩佐·费尔南德斯（ Enzo Fernández ）和桑德罗·托纳利（ Sandro Tonali ）有过大笔的夏季动作，但他们能否为过去的伟大也许你真正需要了解的关于现代中场角色的唯一一件事是，恩佐……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-expensive-midfielders-enzo-fernandez-elliot-anderson-sandro-tonali"
+  },
+  {
+    "id": "N_RSS_74494",
+    "type": "official",
+    "date": "2026-09-03",
+    "likes": 72,
+    "title": {
+      "en": "World Cup wishlists, early movers, big clearouts: 2026 summer transfer window trends",
+      "zh-CN": "世界杯心愿单、先行者、大清盘： 2026年夏季转会窗口趋势"
+    },
+    "summary": {
+      "en": "At the end of a busy transfer window which spanned the World Cup, here are some of the subplots of the summerThe World Cup is always a good shop window. Yan Diomande was already a rising star at RB...",
+      "zh-CN": "在跨越世界杯的繁忙转会窗口结束时，这里是夏季的一些子场景世界杯总是一个很好的商店橱窗。言迪奥曼德已经是RB的后起之秀了……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/03/summer-transfer-window-2026-trends-premier-league-la-liga-serie-a-bundesliga-ligue-1"
+  },
+  {
+    "id": "N_RSS_12420",
+    "type": "official",
+    "date": "2026-09-02",
+    "likes": 155,
+    "title": {
+      "en": "Football connects communities but can pull them apart if governed carelessly | Cath Bishop",
+      "zh-CN": "足球将社区联系起来，但如果管理不善，足球可以将它们分开| Cath Bishop"
+    },
+    "summary": {
+      "en": "Sport is a space to help youngsters to develop character, resilience and confidence, but we need stronger leadership and safer environments to make this happenThe fight for the soul of football isn’t...",
+      "zh-CN": "体育是一个帮助青少年培养个性、韧性和自信的空间，但我们需要更强大的领导力和更安全的环境来实现这一目标。为足球的灵魂而战并不是……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/sport/2026/sep/02/football-connects-communities-but-can-pull-them-apart-if-governed-carelessly"
+  },
+  {
     "id": "N_RSS_16811",
     "type": "official",
     "date": "2026-09-06",
@@ -376,101 +472,5 @@
     },
     "source": "Sky Sports",
     "url": "https://www.skysports.com/football/news/11095/13576629/charlton-women-how-former-powerhouse-that-challenged-arsenal-and-won-the-fa-cup-is-back-in-the-wsl"
-  },
-  {
-    "id": "N_RSS_27835",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 300,
-    "title": {
-      "en": "73 goals from dropping deep - we ask Kane to break down how he did it",
-      "zh-CN": "从深度下降到73个目标-我们要求Kane详细说明他是如何做到的"
-    },
-    "summary": {
-      "en": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
-      "zh-CN": "哈里·凯恩（ Harry Kane ）上赛季是欧洲得分最高的球员，但他踢得像中场球员。我们要求他放弃比赛。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_23860",
-    "type": "official",
-    "date": "2026-09-01",
-    "likes": 243,
-    "title": {
-      "en": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi",
-      "zh-CN": "“在我心中，直到我死去” ：阿根廷向莱昂内尔·梅西表示泪流满面的感谢"
-    },
-    "summary": {
-      "en": "The Argentinian’s decision to quit international football was met by an outpouring of affection from the country he led to World Cup glory in 2022Anyone who was present at Lionel Scaloni’s press...",
-      "zh-CN": "这位阿根廷人退出国际足球的决定得到了他在2022年带来世界杯辉煌的国家的热烈欢迎。任何出席莱昂内尔·斯卡洛尼（ Lionel Scaloni ）新闻发布会的人..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/01/argentina-tearful-thank-you-to-lionel-messi-retirement"
-  },
-  {
-    "id": "N_RSS_75778",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 280,
-    "title": {
-      "en": "Premier League: 10 talking points from the weekend’s action",
-      "zh-CN": "英超联赛：周末行动的10个谈话要点"
-    },
-    "summary": {
-      "en": "Newcastle players look revitalised, Liverpool’s curious transfer strategy and a  worrying start for PalaceAmid the concerns at Manchester United, one player unquestioned is Senne Lammens. The...",
-      "zh-CN": "纽卡斯尔球员看起来精力充沛，利物浦好奇的转会策略和皇宫令人担忧的开局。在曼联的担忧中，一位毫无疑问的球员是Senne Lammens。..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action"
-  },
-  {
-    "id": "N_RSS_734",
-    "type": "official",
-    "date": "2026-09-05",
-    "likes": 194,
-    "title": {
-      "en": "Clarke gave SFA 'a little shove' over new contract",
-      "zh-CN": "克拉克给SFA “一点推”新合同"
-    },
-    "summary": {
-      "en": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was...",
-      "zh-CN": "史蒂夫·克拉克（ Steve Clarke ）说，他不得不在今年夏天的世界杯决赛前不久劝说苏格兰足协给他一份新的国家主教练合同，因为他觉得管理机构是……"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_71706",
-    "type": "official",
-    "date": "2026-09-05",
-    "likes": 252,
-    "title": {
-      "en": "Clarke gave Scottish FA 'a little shove' over new contract",
-      "zh-CN": "克拉克给了苏格兰足协对新合同的“一点压力”"
-    },
-    "summary": {
-      "en": "Steve Clarke says he had to cajole the Scottish FA into handing him a new contract as national head coach shortly before the World Cup finals this summer because he felt the governing body was...",
-      "zh-CN": "史蒂夫·克拉克（ Steve Clarke ）说，他不得不在今年夏天的世界杯决赛前不久劝说苏格兰足协给他一份新的国家主教练合同，因为他觉得管理机构是……"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c790e8dxddro?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_23867",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 91,
-    "title": {
-      "en": "Chelsea hit bullseye with Morgan Rogers as Arsenal rue what might have been",
-      "zh-CN": "切尔西与摩根·罗杰斯（ Morgan Rogers ）一起击中靶心，因为阿森纳对可能发生的事情感到后悔"
-    },
-    "summary": {
-      "en": "The Gunners will have a look at what they could have won when the former Villa man lines up against them, having made a flying start for Xabi Alonso’s teamChelsea thought they had little chance of...",
-      "zh-CN": "枪手们将看看当前别墅男子排队对抗他们时，他们本可以赢得什么，因为他们已经为Xabi Alonso的球队开了个好头。切尔西认为他们几乎没有机会……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/blog/2026/sep/04/chelsea-morgan-rogers-arsenal-xabi-alonso-mikel-arteta"
   }
 ]
