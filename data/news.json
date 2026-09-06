@@ -1,5 +1,84 @@
 [
   {
+    "id": "N_RSS_44721",
+    "type": "official",
+    "date": "2026-09-06",
+    "likes": 81,
+    "title": {
+      "en": "Ex-Leicester striker Vardy joins Burnley",
+      "zh-CN": "前莱斯特前锋瓦迪加盟伯恩利"
+    },
+    "summary": {
+      "en": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
+      "zh-CN": "前莱斯特城和英格兰前锋杰米·瓦迪加盟伯恩利，直到赛季结束。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_3915",
+    "type": "official",
+    "date": "2026-09-06",
+    "likes": 120,
+    "title": {
+      "en": "Fifa president Infantino will stand for re-election",
+      "zh-CN": "国际足联主席因凡蒂诺将竞选连任"
+    },
+    "summary": {
+      "en": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
+      "zh-CN": "世界管理机构已经确认，国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）将在3月竞选连任。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_48413",
+    "type": "official",
+    "date": "2026-09-06",
+    "likes": 177,
+    "title": {
+      "en": "Infantino to stand for re-election as FIFA president",
+      "zh-CN": "因凡蒂诺竞选连任国际足联主席"
+    },
+    "summary": {
+      "en": "Gianni Infantino will stand for re-election as FIFA president next March.&#160;",
+      "zh-CN": "詹尼·因凡蒂诺（ Gianni Infantino ）将于明年3月竞选连任国际足联主席。 "
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13582278/gianni-infantino-fifa-president-confirms-he-will-stand-for-re-election-in-march"
+  },
+  {
+    "id": "N_RSS_11786",
+    "type": "official",
+    "date": "2026-08-31",
+    "likes": 230,
+    "title": {
+      "en": "Fiorentina’s Serie A renaissance feels a way off after chastening centenary | Nicky Bandini",
+      "zh-CN": "佛罗伦萨的意甲联赛文艺复兴在鞭笞一百周年后感觉遥遥领先|尼基·班迪尼（ Nicky Bandini ）"
+    },
+    "summary": {
+      "en": "The home game against Frosinone seemed a perfect way to celebrate their landmark. It did not work out that wayFiorentina’s 100th birthday party had been going for four days, starting with a fan...",
+      "zh-CN": "对阵Frosinone的主场比赛似乎是庆祝他们地标的完美方式。结果不是这样的，菲奥伦蒂娜的100岁生日派对已经持续了四天，从粉丝开始……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/aug/31/fiorentina-serie-a-renaissance-chastening-centenary-frosinone"
+  },
+  {
+    "id": "N_FIFA_30659",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 293,
+    "title": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
+      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
+    },
+    "summary": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
+  },
+  {
     "id": "N_RSS_1542",
     "type": "official",
     "date": "2026-09-05",
@@ -393,85 +472,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez"
-  },
-  {
-    "id": "N_RSS_45674",
-    "type": "official",
-    "date": "2026-09-05",
-    "likes": 92,
-    "title": {
-      "en": "European football: Nwaneri forces late own goal to cap dramatic Dortmund comeback",
-      "zh-CN": "欧洲足球： Nwaneri迫使自己进球较晚，以戏剧性的多特蒙德复出"
-    },
-    "summary": {
-      "en": "Arsenal loanee inspires late goal in 3-2 win at HoffenheimAthletic Bilbao thump Atlético Madrid 3-0 in La LigaArsenal loanee Ethan Nwaneri caused a late own goal in Borussia Dortmund’s favour, as his...",
-      "zh-CN": "阿森纳租借球员激发了后期进球，在HoffenheimAthletic Bilbao重击马德里竞技3-0在La LigaArsenal租借球员Ethan Nwaneri在Borussia Dortmund的青睐下造成了自己的后期进球，因为他的..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/05/european-football-ethan-nwaneri-dortmund-hoffenheim-athletic-bilbao-atletico-madrid-inter-napoli"
-  },
-  {
-    "id": "N_RSS_36661",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 268,
-    "title": {
-      "en": "Isak finally arrives as Gakpo proves value to Liverpool",
-      "zh-CN": "Isak终于到达，因为Gakpo向利物浦证明了价值"
-    },
-    "summary": {
-      "en": "Has the real Alexander Isak finally arrived at Liverpool after his two-goal display in their Premier League win at Ipswich Town, asks chief football writer Phil McNulty?",
-      "zh-CN": "首席足球作家菲尔·麦克纳尔蒂（ Phil McNulty ）问道，真正的亚历山大·伊萨克（ Alexander Isak ）在英超联赛在伊普斯维奇镇（ Ipswich Town ）的胜利中表现出两球后，"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_45234",
-    "type": "official",
-    "date": "2026-09-02",
-    "likes": 74,
-    "title": {
-      "en": "Which footballer has had the most glittering club career? | The Knowledge",
-      "zh-CN": "哪位足球运动员的俱乐部生涯最辉煌？ | The Knowledge"
-    },
-    "summary": {
-      "en": "Plus: brothers playing in England’s top four tiers, shirt-hogging sponsors, and goalkeepers sent off upfieldMail us with your all of your questions and answers“Marquinhos won his 40th trophy in club...",
-      "zh-CN": "此外：在英格兰四级联赛中打球的兄弟们、球衣赞助商和守门员被送上场请给我们发送您的所有问题和答案“Marquinhos在俱乐部赢得了他的第40个奖杯......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/02/which-footballer-has-had-the-most-trophy-laden-club-career"
-  },
-  {
-    "id": "N_RSS_58152",
-    "type": "official",
-    "date": "2026-09-01",
-    "likes": 108,
-    "title": {
-      "en": "Janine Sonis: ‘63,000 fans in Denver proves a women’s team was way overdue’",
-      "zh-CN": "珍妮·索尼斯（ Janine Sonis ） ： “丹佛的63,000名球迷证明了一支女子球队已经过期了”"
-    },
-    "summary": {
-      "en": "The Canada and Denver Summit full-back on playing at a packed Mile High Stadium and the impact of Lindsey HeapsIn the 13th minute of a 6-1 win against Chicago, Janine Sonis ran into the penalty area...",
-      "zh-CN": "加拿大和丹佛峰会边后卫在一个拥挤的英里高体育场打球以及林赛·希普斯的影响在对芝加哥的6-1胜利的第13分钟，珍妮·索尼斯跑进了禁区……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/01/janine-sonis-interview-denver-summit-moving-the-goalposts"
-  },
-  {
-    "id": "N_RSS_76520",
-    "type": "official",
-    "date": "2026-09-01",
-    "likes": 130,
-    "title": {
-      "en": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
-      "zh-CN": "足球转会传闻：曼联和利物浦EYE Kroupi ？瓦迪到雷克瑟姆？"
-    },
-    "summary": {
-      "en": "Today’s rumours are squeezing out every last dropDeadline day live – follow all the news and movesThe final day of the men’s transfer window is here, but there is still time for some rumourmongering,...",
-      "zh-CN": "今天的谣言正在挤出每一滴Deadline day live –关注所有新闻和动作男子转会窗口的最后一天就在这里，但仍然有时间散布一些谣言，..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham"
   }
 ]
