@@ -1,5 +1,20 @@
 [
   {
+    "id": "N_FB_6503",
+    "type": "official",
+    "date": "2026-04-27",
+    "likes": 228,
+    "title": {
+      "en": "Injury update: Mbappe suffers semitendinosus injury, World Cup participation in doubt",
+      "zh-CN": "受伤更新： Mbappe遭受半腱肌损伤，世界杯参赛有疑问"
+    },
+    "summary": {
+      "en": "Real Madrid confirmed Mbappe suffered a left semitendinosus injury against Real Betis, 45 days before the World Cup kicks off.",
+      "zh-CN": "皇家马德里确认姆巴佩在世界杯开幕前45天对阵皇家贝蒂斯时左半腱肌受伤。"
+    },
+    "source": "OneFootball"
+  },
+  {
     "id": "N_RSS_13019",
     "type": "official",
     "date": "2026-09-04",
@@ -457,20 +472,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/aug/31/fiorentina-serie-a-renaissance-chastening-centenary-frosinone"
-  },
-  {
-    "id": "N_FIFA_30659",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 293,
-    "title": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
-      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
-    },
-    "summary": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
   }
 ]
