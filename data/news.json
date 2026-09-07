@@ -1,5 +1,84 @@
 [
   {
+    "id": "N_RSS_76155",
+    "type": "official",
+    "date": "2026-09-07",
+    "likes": 287,
+    "title": {
+      "en": "Belgian FA still wants Balogun ban answers",
+      "zh-CN": "比利时足协仍希望巴洛根禁令得到解答"
+    },
+    "summary": {
+      "en": "Belgium's FA says it still wants answers about why Folarin Balogun was allowed to play against them at the World Cup.",
+      "zh-CN": "比利时足协表示，它仍然希望得到关于为什么Folarin Balogun被允许在世界杯上与他们对抗的答案。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cx2z03nnmnko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_39867",
+    "type": "official",
+    "date": "2026-09-07",
+    "likes": 136,
+    "title": {
+      "en": "Premier League: 10 talking points from the weekend’s action",
+      "zh-CN": "英超联赛：周末行动的10个谈话要点"
+    },
+    "summary": {
+      "en": "Fulham need a win, Tottenham show some spirit and Jack Grealish offers Everton much-needed energyWith 25 minutes to go against Manchester United, the Everton supporters had something to roar about as...",
+      "zh-CN": "富勒姆需要一场胜利，托特纳姆表现出一些精神，杰克·格雷利什为埃弗顿提供了急需的能量25分钟对阵曼联，埃弗顿的支持者有一些值得咆哮的事情......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/07/premier-league-10-talking-points-from-the-weekends-action"
+  },
+  {
+    "id": "N_RSS_12458",
+    "type": "official",
+    "date": "2026-09-07",
+    "likes": 194,
+    "title": {
+      "en": "‘Relief’ of Premier League title has given Arsenal confidence, says David Raya",
+      "zh-CN": "大卫·拉亚说，英超联赛冠军的“解脱”给了阿森纳信心"
+    },
+    "summary": {
+      "en": "Keeper says Gunners ‘can beat anybody in this league’Arteta’s side have started title defence with three winsDavid Raya says Arsenal are playing with greater confidence after the “relief” of winning...",
+      "zh-CN": "守门员说枪手可以击败这个联盟中的任何人‘阿特塔的球队已经以三场胜利开始了冠军防守大卫·拉亚说阿森纳在获胜后“松了一口气”后表现得更加自信......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/07/david-raya-arsenal-confidence-premier-league-relief"
+  },
+  {
+    "id": "N_RSS_89588",
+    "type": "official",
+    "date": "2026-09-07",
+    "likes": 83,
+    "title": {
+      "en": "Kim Milton Nielsen’s 1998 memories: ‘Hey, you are the man who sent off Beckham’",
+      "zh-CN": "金·米尔顿·尼尔森（ Kim Milton Nielsen ） 1998年的回忆： “嘿，你就是送走贝克汉姆的那个人”"
+    },
+    "summary": {
+      "en": "In an extract from a new book, the Danish former referee recalls sending off the England midfielder for his infamous kick on Diego SimeoneAt half-time on 30 June 1998, Kim Milton Nielsen stepped into...",
+      "zh-CN": "在一本新书的摘录中，这位丹麦前裁判回忆起在1998年6月30日半场时，金·米尔顿·尼尔森（ Kim Milton Nielsen ）因对迭戈·西蒙尼（ Diego Simeone ）臭名昭著的踢球而离开了英格兰中场。"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/07/david-beckham-kim-milton-nielsen-red-card-1998-world-cup-argentina-diego-simeone"
+  },
+  {
+    "id": "N_FIFA_10527",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 193,
+    "title": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
+      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
+    },
+    "summary": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
+  },
+  {
     "id": "N_FB_6503",
     "type": "official",
     "date": "2026-04-27",
@@ -392,85 +471,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/01/janine-sonis-interview-denver-summit-moving-the-goalposts"
-  },
-  {
-    "id": "N_RSS_98928",
-    "type": "official",
-    "date": "2026-09-01",
-    "likes": 264,
-    "title": {
-      "en": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
-      "zh-CN": "足球转会传闻：曼联和利物浦EYE Kroupi ？瓦迪到雷克瑟姆？"
-    },
-    "summary": {
-      "en": "Today’s rumours are squeezing out every last dropDeadline day live – follow all the news and movesThe final day of the men’s transfer window is here, but there is still time for some rumourmongering,...",
-      "zh-CN": "今天的谣言正在挤出每一滴Deadline day live –关注所有新闻和动作男子转会窗口的最后一天就在这里，但仍然有时间散布一些谣言，..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham"
-  },
-  {
-    "id": "N_RSS_44721",
-    "type": "official",
-    "date": "2026-09-06",
-    "likes": 81,
-    "title": {
-      "en": "Ex-Leicester striker Vardy joins Burnley",
-      "zh-CN": "前莱斯特前锋瓦迪加盟伯恩利"
-    },
-    "summary": {
-      "en": "Former Leicester City and England striker Jamie Vardy joins Burnley until the end of the season.",
-      "zh-CN": "前莱斯特城和英格兰前锋杰米·瓦迪加盟伯恩利，直到赛季结束。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cdx5v3405k3o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_3915",
-    "type": "official",
-    "date": "2026-09-06",
-    "likes": 120,
-    "title": {
-      "en": "Fifa president Infantino will stand for re-election",
-      "zh-CN": "国际足联主席因凡蒂诺将竞选连任"
-    },
-    "summary": {
-      "en": "Fifa president Gianni Infantino will stand for re-election in March, the world governing body has confirmed.",
-      "zh-CN": "世界管理机构已经确认，国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）将在3月竞选连任。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c99d1dlpkp4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_48413",
-    "type": "official",
-    "date": "2026-09-06",
-    "likes": 177,
-    "title": {
-      "en": "Infantino to stand for re-election as FIFA president",
-      "zh-CN": "因凡蒂诺竞选连任国际足联主席"
-    },
-    "summary": {
-      "en": "Gianni Infantino will stand for re-election as FIFA president next March.&#160;",
-      "zh-CN": "詹尼·因凡蒂诺（ Gianni Infantino ）将于明年3月竞选连任国际足联主席。 "
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13582278/gianni-infantino-fifa-president-confirms-he-will-stand-for-re-election-in-march"
-  },
-  {
-    "id": "N_RSS_11786",
-    "type": "official",
-    "date": "2026-08-31",
-    "likes": 230,
-    "title": {
-      "en": "Fiorentina’s Serie A renaissance feels a way off after chastening centenary | Nicky Bandini",
-      "zh-CN": "佛罗伦萨的意甲联赛文艺复兴在鞭笞一百周年后感觉遥遥领先|尼基·班迪尼（ Nicky Bandini ）"
-    },
-    "summary": {
-      "en": "The home game against Frosinone seemed a perfect way to celebrate their landmark. It did not work out that wayFiorentina’s 100th birthday party had been going for four days, starting with a fan...",
-      "zh-CN": "对阵Frosinone的主场比赛似乎是庆祝他们地标的完美方式。结果不是这样的，菲奥伦蒂娜的100岁生日派对已经持续了四天，从粉丝开始……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/aug/31/fiorentina-serie-a-renaissance-chastening-centenary-frosinone"
   }
 ]
