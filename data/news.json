@@ -1,5 +1,179 @@
 [
   {
+    "id": "N_RSS_47314",
+    "type": "official",
+    "date": "2026-09-10",
+    "likes": 149,
+    "title": {
+      "en": "French FA accuses Infantino of ‘seriously damaging’ football as it withdraws support",
+      "zh-CN": "法国足协指责Infantino在撤回支持时“严重破坏”足球"
+    },
+    "summary": {
+      "en": "‘Image and unity’ of game affected, FFF president saysIt will consult sacked former Fifa official Kevin LamourThe French Football Federation’s president, Philippe Diallo, said Gianni Infantino had...",
+      "zh-CN": "FFF主席表示，它将咨询被解雇的前国际足联官员凯文·拉穆尔（ Kevin Lamour ）的比赛“形象和团结”法国足球联合会主席菲利普·迪亚洛（ Philippe Diallo ）表示，吉安尼·因凡蒂诺（ Gianni Infantino ）......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa"
+  },
+  {
+    "id": "N_FIFA_94744",
+    "type": "official",
+    "date": "2026-09-10",
+    "likes": 127,
+    "title": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October",
+      "zh-CN": "今年10月，在吉达举行的2026年FIFAe总决赛上，迄今为止最大的足球电子竞技赛季达到高潮"
+    },
+    "summary": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
+  },
+  {
+    "id": "N_RSS_35704",
+    "type": "official",
+    "date": "2026-09-09",
+    "likes": 155,
+    "title": {
+      "en": "Messi agrees to buy second Spanish club",
+      "zh-CN": "梅西同意收购第二家西班牙俱乐部"
+    },
+    "summary": {
+      "en": "Spanish second-division side Eldense say Argentina great Lionel Messi has reached a \"preliminary agreement\" to become the club's majority shareholder.",
+      "zh-CN": "西班牙乙级联赛球队埃尔登斯表示，阿根廷伟大的莱昂内尔·梅西已达成“初步协议” ，成为俱乐部的大股东。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c99dmky78d3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_86352",
+    "type": "official",
+    "date": "2026-09-09",
+    "likes": 59,
+    "title": {
+      "en": "Champions League roundup: Raphinha shines as Barcelona thrash Feyenoord",
+      "zh-CN": "欧洲冠军联赛综述： Raphinha作为巴塞罗那拳击手Feyenoord闪耀"
+    },
+    "summary": {
+      "en": "Brazilian scores twice in 5-1 victory at Camp NouTorres scores hat-trick as PSG thump Slovan BratislavaRaphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist,...",
+      "zh-CN": "巴西人在诺托雷斯营（ Camp NouTorres ）的5-1胜利中得分两次，帽子戏法得分，因为PSG重击斯洛伐克布拉迪斯拉发拉菲尼亚（ Slovan BratislavaRaphinha ）在金球奖（ Ballon d 'Or ）入围名单中被淘汰后，他的进球让"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain"
+  },
+  {
+    "id": "N_RSS_62265",
+    "type": "official",
+    "date": "2026-09-09",
+    "likes": 133,
+    "title": {
+      "en": "Scottish Premiership: Miovski hits last-gasp Rangers winner and Celtic keep 100% record",
+      "zh-CN": "苏格兰超级联赛： Miovski击中了最后一名流浪者冠军，凯尔特人保持了100 ％的纪录"
+    },
+    "summary": {
+      "en": "Rangers beat St Mirren 1-0 at IbroxCeltic also narrow winners at St JohnstoneA dramatic last-gasp strike from substitute Bojan Miovski gave Rangers a 1-0 Premiership win over St Mirren at Ibrox.Back...",
+      "zh-CN": "流浪者队在IbroxCeltic以1比0击败St Mirren ，在St Johnstone也以1比0击败获胜者。来自替补球员Bojan Miovski的戏剧性最后一击让流浪者队在Ibrox以1比0战胜St Mirren。后卫..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone"
+  },
+  {
+    "id": "N_RSS_23257",
+    "type": "official",
+    "date": "2026-09-09",
+    "likes": 140,
+    "title": {
+      "en": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
+      "zh-CN": "男士金球奖2026年权力排名： 25年来是否首次出现英国冠军？"
+    },
+    "summary": {
+      "en": "We assess the standing of the players on the shortlist for the award before the winner is announced in October1) Harry Kane (England/Bayern Munich)Even adjusting for the goal-drunken Bundesliga, his...",
+      "zh-CN": "在10月份宣布获奖者之前，我们会评估入围名单上的球员的排名1 ）哈里·凯恩（英格兰/拜仁慕尼黑）即使调整了进球的德甲，他的..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe"
+  },
+  {
+    "id": "N_RSS_48964",
+    "type": "official",
+    "date": "2026-09-09",
+    "likes": 213,
+    "title": {
+      "en": "Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
+      "zh-CN": "Dani Olmo ： “赢得世界杯改变了你，它改变了你的生活”"
+    },
+    "summary": {
+      "en": "One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them in the Champions LeagueDani Olmo nods towards his right arm. “Look: goosebumps,” he says. The Spain...",
+      "zh-CN": "巴塞罗那的八位世界杯冠军之一反思了西班牙的胜利如何激励他们在欧洲冠军联赛中向他的右臂点头。“看：鸡皮疙瘩，”他说。西班牙..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league"
+  },
+  {
+    "id": "N_RSS_38813",
+    "type": "official",
+    "date": "2026-09-09",
+    "likes": 200,
+    "title": {
+      "en": "Football Daily | Troy Parrott enjoys a big week after taking the scenic route to success",
+      "zh-CN": "《足球日报》|特洛伊·帕罗特（ Troy Parrott ）在走上风景优美的成功之路一周后"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!There are, you suspect, quite a few folk with links to the London postcode of N17 who would be thoroughly grateful if Troy Parrott could stop...",
+      "zh-CN": "立即注册！立即注册！立即注册？立即注册！你怀疑，有相当多的人链接到N17的伦敦邮政编码，如果特洛伊·帕罗特（ Troy Parrott ）能停下来，他们会非常感激……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/09/troy-parrott-real-betis-big-week-football-daily-newsletter"
+  },
+  {
+    "id": "N_RSS_11439",
+    "type": "official",
+    "date": "2026-09-07",
+    "likes": 53,
+    "title": {
+      "en": "Kim Milton Nielsen’s 1998 memories: ‘Hey, you are the man who sent off Beckham’",
+      "zh-CN": "金·米尔顿·尼尔森（ Kim Milton Nielsen ） 1998年的回忆： “嘿，你就是送走贝克汉姆的那个人”"
+    },
+    "summary": {
+      "en": "In an extract from a new book, the Danish former referee recalls sending off the England midfielder for his infamous kick on Diego SimeoneAt half-time on 30 June 1998, Kim Milton Nielsen stepped into...",
+      "zh-CN": "在一本新书的摘录中，这位丹麦前裁判回忆起在1998年6月30日半场时，金·米尔顿·尼尔森（ Kim Milton Nielsen ）因对迭戈·西蒙尼（ Diego Simeone ）臭名昭著的踢球而离开了英格兰中场。"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/07/david-beckham-kim-milton-nielsen-red-card-1998-world-cup-argentina-diego-simeone"
+  },
+  {
+    "id": "N_RSS_87833",
+    "type": "official",
+    "date": "2026-09-05",
+    "likes": 235,
+    "title": {
+      "en": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+      "zh-CN": "随着特朗普的支持消失，欧足联的法律诉讼可能是Infantino结束的开始| Barney Ronay"
+    },
+    "summary": {
+      "en": "The order of discovery related to Fifa’s failed plan to sell the World Cup will worry the American president, a situation that tends to end badly for the culprit“Tell Mike it was just business. I...",
+      "zh-CN": "与国际足联出售世界杯计划失败有关的发现顺序将使美国总统感到担忧，这种情况往往会对罪魁祸首造成严重后果“告诉迈克这只是生意。我……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
+  },
+  {
+    "id": "N_FIFA_61929",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 235,
+    "title": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled",
+      "zh-CN": "国际足联2027年女足世界杯™冠军将在马拉卡纳举行的比赛日程公布之际举起奖杯"
+    },
+    "summary": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
+  },
+  {
     "id": "N_RSS_90343",
     "type": "official",
     "date": "2026-09-10",
@@ -300,178 +474,5 @@
     },
     "source": "BBC Sport",
     "url": "https://www.bbc.co.uk/sport/football/videos/c9v9e23xgeeo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_58645",
-    "type": "official",
-    "date": "2026-09-08",
-    "likes": 93,
-    "title": {
-      "en": "Favourite Kane makes Ballon d'Or shortlist",
-      "zh-CN": "最受欢迎的凯恩入围Ballon d 'Or"
-    },
-    "summary": {
-      "en": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
-      "zh-CN": "拜仁慕尼黑前锋哈里·凯恩（ Harry Kane ）是与裘德·贝灵汉姆（ Jude Bellingham ）和德克兰·赖斯（ Declan Rice ）一起获得2026年金球奖提名的三名英"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_4873",
-    "type": "official",
-    "date": "2026-09-08",
-    "likes": 298,
-    "title": {
-      "en": "Russo and Greenwood nominated for Ballon d'Or",
-      "zh-CN": "鲁索和格林伍德获得金球奖提名"
-    },
-    "summary": {
-      "en": "England stars Alessia Russo and Alex Greenwood are among 30 players nominated for the women's Ballon d'Or.",
-      "zh-CN": "英格兰球星Alessia Russo和Alex Greenwood是获得女子金球奖提名的30名球员之一。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cpd01d9je5zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_2107",
-    "type": "official",
-    "date": "2026-09-08",
-    "likes": 173,
-    "title": {
-      "en": "Legal action against Fifa includes 'abusive conduct' towards women's game",
-      "zh-CN": "针对国际足联的法律诉讼包括对女子比赛的“虐待行为”"
-    },
-    "summary": {
-      "en": "Legal action from the top European leagues and global players' union Fifpro against Fifa is extended to include the world governing body's \"abusive conduct\" towards the women's game.",
-      "zh-CN": "欧洲顶级联赛和全球球员工会Fifpro对国际足联的法律诉讼扩大到包括世界管理机构对女子比赛的“虐待行为”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cy4z0l1erzlo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_9164",
-    "type": "official",
-    "date": "2026-09-08",
-    "likes": 198,
-    "title": {
-      "en": "MLS’s transfer window and the spending line that keeps going up",
-      "zh-CN": "MLS的转会窗口和持续上升的支出额度"
-    },
-    "summary": {
-      "en": "Summer spending across the league’s 30 clubs has ballooned. Here are three takeaways from the league’s transfer windowWith the shadow of the 2026 World Cup hanging over the league and a potential set...",
-      "zh-CN": "联盟30个俱乐部的夏季支出激增。以下是联盟转会窗口的三个要点， 2026年世界杯的阴影笼罩着联盟，还有一套潜在的..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/08/mls-transfer-window-spending"
-  },
-  {
-    "id": "N_RSS_59267",
-    "type": "official",
-    "date": "2026-09-05",
-    "likes": 97,
-    "title": {
-      "en": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
-      "zh-CN": "“噪音令人难以置信” ：裁判在世界杯上对墨西哥对英格兰的看法"
-    },
-    "summary": {
-      "en": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of eventsIt was 6pm on 5 July in Mexico City, and Alireza...",
-      "zh-CN": "英格兰主教练托马斯·图切尔（ Thomas Tuchel ）称，在过去的16场比赛中，裁判“还不够好”。现在Alireza Faghani给出了他的事件版本7月5日下午6点在墨西哥城， Alireza..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca"
-  },
-  {
-    "id": "N_RSS_27858",
-    "type": "official",
-    "date": "2026-09-04",
-    "likes": 279,
-    "title": {
-      "en": "73 goals from dropping deep - we ask Kane to break down how he did it",
-      "zh-CN": "从深度下降到73个目标-我们要求Kane详细说明他是如何做到的"
-    },
-    "summary": {
-      "en": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
-      "zh-CN": "哈里·凯恩（ Harry Kane ）上赛季是欧洲得分最高的球员，但他踢得像中场球员。我们要求他放弃比赛。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_FIFA_22331",
-    "type": "official",
-    "date": "2026-08-28",
-    "likes": 202,
-    "title": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™",
-      "zh-CN": "已确认FIFA U-20女足世界杯波兰2026™参赛名单"
-    },
-    "summary": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
-  },
-  {
-    "id": "N_FIFA_47063",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 244,
-    "title": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
-      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
-    },
-    "summary": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
-  },
-  {
-    "id": "N_RSS_17114",
-    "type": "official",
-    "date": "2026-09-10",
-    "likes": 142,
-    "title": {
-      "en": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
-      "zh-CN": "“就这样开始了” ： Dambrauskas从谁想成为百万富翁到欧洲冠军联赛的旅程"
-    },
-    "summary": {
-      "en": "Valdas Dambrauskas takes Sabah to Manchester United after journeying from Lithuania and a game show win, via London pub work Valdas Dambrauskas can reel off the questions and answers without a...",
-      "zh-CN": "瓦尔达斯·丹布劳斯卡斯（ Valdas Dambrauskas ）从立陶宛来到曼联，赢得了一场比赛，通过伦敦酒吧工作，瓦尔达斯·丹布劳斯卡斯（ Valdas Dambrauskas ）可以在没有..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league"
-  },
-  {
-    "id": "N_RSS_23757",
-    "type": "official",
-    "date": "2026-09-10",
-    "likes": 182,
-    "title": {
-      "en": "Mauricio Pochettino: ‘I am always open to help Tottenham. In whatever division’",
-      "zh-CN": "Mauricio Pochettino ： “我总是乐于帮助托特纳姆热刺。无论在哪个部门’"
-    },
-    "summary": {
-      "en": "Manager is excited by new US deal but might have returned to Spurs if the stars had aligned and does not rule out taking England job one dayIf things had worked out differently, Mauricio Pochettino...",
-      "zh-CN": "经理对新的美国交易感到兴奋，但如果明星们一致，并且不排除有一天会接受英格兰的工作，经理可能会回到马刺队。如果情况有所不同，毛里西奥·波切蒂诺……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/10/mauricio-pochettino-tottenham-united-states-world-cup-england"
-  },
-  {
-    "id": "N_FIFA_81121",
-    "type": "official",
-    "date": "2026-09-10",
-    "likes": 242,
-    "title": {
-      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September",
-      "zh-CN": "国际足联东盟杯™将于9月24日联合东南亚及其他地区的14个国家"
-    },
-    "summary": {
-      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/asean-cup-unite-14-nations-across-southeast-asia-beyond-24-september"
   }
 ]
