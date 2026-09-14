@@ -1,5 +1,148 @@
 [
   {
+    "id": "N_FIFA_35998",
+    "type": "official",
+    "date": "2026-09-14",
+    "likes": 94,
+    "title": {
+      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September",
+      "zh-CN": "国际足联东盟杯™将于9月24日联合东南亚及其他地区的14个国家"
+    },
+    "summary": {
+      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/asean-cup-unite-14-nations-across-southeast-asia-beyond-24-september"
+  },
+  {
+    "id": "N_RSS_56583",
+    "type": "official",
+    "date": "2026-09-13",
+    "likes": 84,
+    "title": {
+      "en": "Cristiano Ronaldo calls for lifetime bans in Saudi Pro League after Diogo Jota chants",
+      "zh-CN": "迪奥戈·乔塔（ Diogo Jota ）唱完歌后，克里斯蒂亚诺·罗纳尔多（ Cristiano Ronaldo ）呼吁"
+    },
+    "summary": {
+      "en": "Al-Hilal’s Rúben Neves subjected to chants at Al-TaawounNeves was close friend of Jota and pallbearer at funeralCristiano Ronaldo said that fans who appeared to ⁠make chants referencing his former...",
+      "zh-CN": "Al-Hilal的RúbenNeves在Al-TaawounNeves唱歌时，是Jota的亲密朋友，也是葬礼上的护身符克里斯蒂亚诺·罗纳尔多（ Christiano Ronaldo ）说，那些似乎在吟唱他的前..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/13/cristiano-ronaldo-diogo-jota-ruben-neves-chants-saudi-pro-league"
+  },
+  {
+    "id": "N_RSS_16861",
+    "type": "official",
+    "date": "2026-09-12",
+    "likes": 229,
+    "title": {
+      "en": "Signed instead of Rashford, Gordon is proving worth at Barca",
+      "zh-CN": "代替拉什福德签约，戈登在巴萨证明了自己的价值"
+    },
+    "summary": {
+      "en": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
+      "zh-CN": "安东尼·戈登（ Anthony Gordon ）以7000万英镑转会巴塞罗那受到了一些人的质疑-但这位英格兰边锋已经证明了他对这位免费得分的西班牙巨人的价值。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_33852",
+    "type": "official",
+    "date": "2026-09-12",
+    "likes": 182,
+    "title": {
+      "en": "De Zerbi says Spurs have ‘mental block’ after wait for league win continues",
+      "zh-CN": "德泽尔比说，马刺队在等待联赛胜利后仍有“精神障碍”"
+    },
+    "summary": {
+      "en": "‘No wins, no goals scored … it is tough for the players’Spurs in 17th place after 0-0 draw against Everton Roberto De Zerbi says his Tottenham players continue to lack physical fitness and must...",
+      "zh-CN": "“没有胜利，没有进球……这对球员来说是艰难的”马刺队在对阵埃弗顿·罗伯托·德·泽比的0-0平局后排名第17位，他说他的热刺球员仍然缺乏体能，必须......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/12/roberto-de-zerbi-tottenham-everton-premier-league"
+  },
+  {
+    "id": "N_RSS_34589",
+    "type": "official",
+    "date": "2026-09-12",
+    "likes": 73,
+    "title": {
+      "en": "European football: Dortmund win again but Freiburg top after Gladbach rout",
+      "zh-CN": "欧洲足球：多特蒙德再次获胜，但弗莱堡在格拉德巴赫溃败后名列前茅"
+    },
+    "summary": {
+      "en": "Milan come from behind in 2-2 draw with LazioKylian Mbappé strikes twice as Real Madrid cruiseFelix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to...",
+      "zh-CN": "米兰以2比2战平拉齐奥·基利安·姆巴佩（ LazioKylian Mbappé ）两次击球，皇家马德里巡航菲利克斯·恩梅查（ Felix Nmecha ）两次得分，法比奥·席尔瓦（ Fábio Silva ）抓住另一次，多特蒙德（ Borussia Dortmund ）"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga"
+  },
+  {
+    "id": "N_RSS_59162",
+    "type": "official",
+    "date": "2026-09-12",
+    "likes": 174,
+    "title": {
+      "en": "What can halt Fifa’s authoritarian turn under Infantino? Change from the outside | Jules Boykoff",
+      "zh-CN": "什么可以阻止国际足联在因凡蒂诺统治下的专制转向？外部变化| Jules Boykoff"
+    },
+    "summary": {
+      "en": "The World Cup and its aftermath made clear that Fifa needs independent oversight by governments and NGOs dedicated to preserving the people’s gameThe 2026 World Cup was a whirling swirl of...",
+      "zh-CN": "世界杯及其后果清楚地表明，国际足联需要政府和非政府组织的独立监督，致力于保护人民的比赛2026年世界杯是一场旋涡般的..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/12/fifa-gianni-infantino-donald-trump-change"
+  },
+  {
+    "id": "N_RSS_4998",
+    "type": "official",
+    "date": "2026-09-11",
+    "likes": 291,
+    "title": {
+      "en": "Champions League review: Irish heroics, rejected resignations and Mourinho’s return",
+      "zh-CN": "欧洲冠军联赛回顾：爱尔兰英雄，拒绝辞职和穆里尼奥的回归"
+    },
+    "summary": {
+      "en": "The league phase has begun. From Olise’s brilliance to Sabah’s pub cleaner turned quiz contestant turned manager, there was plenty to talk aboutThe league phase has been previewed as Barcelona’s...",
+      "zh-CN": "联赛阶段已经开始。从奥利斯的辉煌到沙巴的酒吧清洁工变成问答选手变成经理，有很多话要说联盟阶段被预览为巴塞罗那的..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-review-troy-parrott-jose-mourinho-michael-olise"
+  },
+  {
+    "id": "N_RSS_95037",
+    "type": "official",
+    "date": "2026-09-08",
+    "likes": 114,
+    "title": {
+      "en": "MLS’s transfer window and the spending line that keeps going up",
+      "zh-CN": "MLS的转会窗口和持续上升的支出额度"
+    },
+    "summary": {
+      "en": "Summer spending across the league’s 30 clubs has ballooned. Here are three takeaways from the league’s transfer windowWith the shadow of the 2026 World Cup hanging over the league and a potential set...",
+      "zh-CN": "联盟30个俱乐部的夏季支出激增。以下是联盟转会窗口的三个要点， 2026年世界杯的阴影笼罩着联盟，还有一套潜在的..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/08/mls-transfer-window-spending"
+  },
+  {
+    "id": "N_RSS_4335",
+    "type": "official",
+    "date": "2026-09-08",
+    "likes": 54,
+    "title": {
+      "en": "David Squires on … Lionel Messi enjoying his true passion after Argentina retirement",
+      "zh-CN": "大卫·斯奎尔斯（ David Squires ）在……莱昂内尔·梅西（ Lionel Messi ）在阿"
+    },
+    "summary": {
+      "en": "Our cartoonist imagines how the football great might while away the hours after calling time on his international careerBuy this cartoon | Some of David’s favourite worksAnd his latest book, Chaos in...",
+      "zh-CN": "我们的漫画家想象这位伟大的足球运动员在国际职业生涯结束后的几个小时内可能会如何离开购买这幅漫画|大卫最喜欢的一些作品还有他的最新著作《混沌》……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/picture/2026/sep/08/david-squires-on-lionel-messi-true-passion-international-football-retirement"
+  },
+  {
     "id": "N_RSS_12065",
     "type": "official",
     "date": "2026-09-13",
@@ -329,146 +472,5 @@
     },
     "source": "FIFA Official",
     "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
-  },
-  {
-    "id": "N_RSS_19715",
-    "type": "official",
-    "date": "2026-09-13",
-    "likes": 216,
-    "title": {
-      "en": "Sam Surridge in stoppage time denies Messi and Miami a win: MLS roundup",
-      "zh-CN": "Sam Surridge在停赛时间否认梅西和迈阿密获胜： MLS综述"
-    },
-    "summary": {
-      "en": "Sporting KC end a long winless run v LAFCCharlotte and Cincy play a six-goal thrillerGriezmann on target in Orlando City winSam Surridge scored an equalizer in the first minute of second-half...",
-      "zh-CN": "Sporting KC结束了LAFCCharlotte和Cincy在奥兰多城的胜利中打了一个六球惊悚片Griezmann Sam Surridge在下半场的第一分钟得到了一个均衡器......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/13/mls-lionel-messi-nashville-sc-sporting-kc-antoine-griezmann"
-  },
-  {
-    "id": "N_FIFA_67356",
-    "type": "official",
-    "date": "2026-09-13",
-    "likes": 317,
-    "title": {
-      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials",
-      "zh-CN": "国际足联独立伦理委员会审判庭制裁前足球官员"
-    },
-    "summary": {
-      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/adjudicatory-chamber-independent-ethics-committee-sanctions-former-football-officials"
-  },
-  {
-    "id": "N_FIFA_56036",
-    "type": "official",
-    "date": "2026-09-13",
-    "likes": 342,
-    "title": {
-      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™",
-      "zh-CN": "国际足联女足世界杯巴西2027™志愿者申请正式开放"
-    },
-    "summary": {
-      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/volunteer-applications-open-womens-world-cup-brazil-2027"
-  },
-  {
-    "id": "N_FIFA_17866",
-    "type": "official",
-    "date": "2026-09-13",
-    "likes": 175,
-    "title": {
-      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window",
-      "zh-CN": "2026年世界杯™在年中转会窗口感受到的影响"
-    },
-    "summary": {
-      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-impact-mid-year-transfer-window"
-  },
-  {
-    "id": "N_RSS_75536",
-    "type": "official",
-    "date": "2026-09-12",
-    "likes": 200,
-    "title": {
-      "en": "Frustrated Liverpool lack any spark as Fulham claim deserved first point",
-      "zh-CN": "沮丧的利物浦缺乏任何火花，因为富勒姆声称应该得到第一分"
-    },
-    "summary": {
-      "en": "Álvaro Arbeloa was often the obstacle to Andoni Iraola’s international ambitions back in the days when both were vying for a right-back role with Spain. On his return to Anfield, and under the...",
-      "zh-CN": "阿尔瓦罗·阿尔贝洛亚（ Álvaro Arbeloa ）经常成为安东尼·伊拉奥拉（ Andoni Iraola ）国际野心的障碍，当时两人都在与西班牙争夺右后卫角色。在他回到安菲尔德时，在……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/12/liverpool-fulham-premier-league-match-report"
-  },
-  {
-    "id": "N_RSS_6911",
-    "type": "official",
-    "date": "2026-09-11",
-    "likes": 155,
-    "title": {
-      "en": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
-      "zh-CN": "Ballon d 'Or入围名单显示了英超联赛的进攻失败–但潮流可能正在转变"
-    },
-    "summary": {
-      "en": "English top flight’s forwards are not well represented on the list, reflecting a season of set-piece grapple, but 2026-27 already looks brighterPremier League representation is low when it comes to...",
-      "zh-CN": "英国顶级联赛的前锋在榜单上没有很好的代表，反映了一个定位赛季的格斗，但2026-27赛季已经看起来更亮了。总理联赛的代表性很低..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning"
-  },
-  {
-    "id": "N_RSS_20999",
-    "type": "official",
-    "date": "2026-09-11",
-    "likes": 65,
-    "title": {
-      "en": "Champions League opening data shows English dominance and too few shocks",
-      "zh-CN": "欧洲冠军联赛开场数据显示英格兰优势和太少的冲击"
-    },
-    "summary": {
-      "en": "The numbers from the first round of the league phase point to Italian teams struggling even if Inter impressed in defeat at Real MadridThe 2026-27 Champions League is under way. There are still 126...",
-      "zh-CN": "联赛第一轮的数字表明，即使国际米兰在皇家马德里的失利给人留下了深刻的印象，意大利球队仍在挣扎。2026-27冠军联赛正在进行中。还有126……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/11/champions-league-opening-data-shows-english-dominance-and-too-few-shocks"
-  },
-  {
-    "id": "N_RSS_31909",
-    "type": "official",
-    "date": "2026-09-11",
-    "likes": 287,
-    "title": {
-      "en": "Pochettino’s ‘different’ vow to the US invites unwelcome speculation",
-      "zh-CN": "波切蒂诺对美国的“不同”誓言引发了不受欢迎的猜测"
-    },
-    "summary": {
-      "en": "The US manager’s relationship with the international job has changed with a full World Cup cycle beginningI hope, in this lifetime, you find someone who loves you the way Mauricio Pochettino loves...",
-      "zh-CN": "随着整个世界杯周期的开始，美国经理与国际工作的关系发生了变化我希望，在这一生中，你会找到一个像Mauricio Pochettino一样爱你的人......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/11/mauricio-pochettino-usmnt-tottenham-europe"
-  },
-  {
-    "id": "N_RSS_1184",
-    "type": "official",
-    "date": "2026-09-09",
-    "likes": 229,
-    "title": {
-      "en": "Champions League roundup: Raphinha shines as Barcelona thrash Feyenoord",
-      "zh-CN": "欧洲冠军联赛综述： Raphinha作为巴塞罗那拳击手Feyenoord闪耀"
-    },
-    "summary": {
-      "en": "Brazilian scores twice in 5-1 victory at Camp NouTorres scores hat-trick as PSG thump Slovan BratislavaRaphinha let his goals do the talking after being omitted from the Ballon d’Or shortlist,...",
-      "zh-CN": "巴西人在诺托雷斯营（ Camp NouTorres ）的5-1胜利中得分两次，帽子戏法得分，因为PSG重击斯洛伐克布拉迪斯拉发拉菲尼亚（ Slovan BratislavaRaphinha ）在金球奖（ Ballon d 'Or ）入围名单中被淘汰后，他的进球让"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/09/champions-league-roundup-barcelona-paris-saint-germain"
   }
 ]
