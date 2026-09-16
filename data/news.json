@@ -1,5 +1,369 @@
 [
   {
+    "id": "N_RSS_1420",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 55,
+    "title": {
+      "en": "De la Fuente extends Spain contract to 2032",
+      "zh-CN": "De la Fuente将西班牙合同延长至2032年"
+    },
+    "summary": {
+      "en": "World Cup-winning head coach Luis de la Fuente agrees a contract extension with Spain until 2032.",
+      "zh-CN": "世界杯冠军主教练Luis de la Fuente同意与西班牙续约至2032年。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6eq8z9wjjqlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_372",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 289,
+    "title": {
+      "en": "Rangers-Aberdeen semi on 31 October, Edinburgh derby on 1 November",
+      "zh-CN": "流浪者-阿伯丁半决赛10月31日，爱丁堡德比11月1日"
+    },
+    "summary": {
+      "en": "Rangers and Aberdeen's Premier Sports Cup semi-final will take place on 31 October at 17:30 BST, with the Edinburgh derby last-four tie scheduled for 1 November at 15:00.",
+      "zh-CN": "流浪者和阿伯丁的顶级体育杯半决赛将于英国夏令时10月31日17:30举行，爱丁堡德比的最后四场比赛定于11月1日15:00举行。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm4gk04w592vo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_41977",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 280,
+    "title": {
+      "en": "‘My scar, not your scar’: Tuchel stands by England semi-final subs but admits wrong timing",
+      "zh-CN": "“我的伤疤，不是你的伤疤” ：图切尔站在英格兰半决赛潜艇旁边，但承认时机错误"
+    },
+    "summary": {
+      "en": "Coach says Argentina’s gung-ho approach forced hand‘No one is more hurt than me, no one wanted it more’Thomas Tuchel stands by his heavily criticised defensive substitutions in the World Cup...",
+      "zh-CN": "教练说，阿根廷的强硬方法迫使手'没有人比我更受伤，没有人想要更多'托马斯·图切尔（ Thomas Tuchel ）支持他在世界杯上受到严厉批评的防守替补......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/tuchel-stands-england-semi-final-subs-wrong-timing-argentina-world-cup-2026"
+  },
+  {
+    "id": "N_RSS_49678",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 213,
+    "title": {
+      "en": "Saudi Pro League club Al-Taawoun handed stadium ban over Diogo Jota chants",
+      "zh-CN": "沙特职业足球联赛俱乐部Al-Taawoun在Diogo Jota的圣歌上递交了体育场禁令"
+    },
+    "summary": {
+      "en": "Fans heard shouting chants of ‘Jota’ against Al-HilalRonaldo had called for lifetime bans for those supportersThe Saudi Pro League club Al-Taawoun have been fined nearly £20,000 and given a two-game...",
+      "zh-CN": "球迷们听到了针对Al-HilalRonaldo的“Jota”大喊大叫，呼吁终身禁止这些支持者沙特职业联赛俱乐部Al-Taawoun被罚款近20,000 £ ，并获得两场比赛......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/saudi-pro-league-club-al-taawoun-handed-stadium-ban-over-diogo-jota-chants"
+  },
+  {
+    "id": "N_RSS_77571",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 65,
+    "title": {
+      "en": "Enzo Le Fée makes amends from the spot as Sunderland overcome AZ",
+      "zh-CN": "随着桑德兰克服亚利桑那州， Enzo Le Fée从现场进行了弥补"
+    },
+    "summary": {
+      "en": "Sunderland’s captain, Granit Xhaka, believes it is not unrealistic to dream about Régis Le Bris’s side travelling all the way to next spring’s Europa League final.It is rarely a good idea to dismiss...",
+      "zh-CN": "桑德兰的队长格兰尼特·查卡（ Granit Xhaka ）认为，梦想着雷吉斯·勒布里斯（ Régis Le Bris ）一路前往明年春天的欧洲联赛决赛并不是不现实的。很少有人认为解雇..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/sunderland-az-alkmaar-europa-league-league-stage-match-report"
+  },
+  {
+    "id": "N_RSS_96190",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 239,
+    "title": {
+      "en": "Raphinha cashes in against Santander with hat-trick as Barça hit seven",
+      "zh-CN": "Raphinha以帽子戏法对阵桑坦德，巴萨击中七人"
+    },
+    "summary": {
+      "en": "Cancelo, Jesus and Lamine Yamal also score in routAtlético Madrid thrash Osasuna 4-0 to move into thirdRaphinha scored a hat-trick as Barcelona ripped Racing Santander to shreds in a spectacular 7-2...",
+      "zh-CN": "Cancelo、Jesus和Lamine Yamal也在routAtlético Madrid以4-0击败Osasuna进入第三名。Raphinha在一场壮观的7-2比赛中将Racing Santander撕成碎片，从而获得了帽子戏法……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/raphinha-hat-trick-santander-barcelona-hit-seven-atletico-madrid"
+  },
+  {
+    "id": "N_RSS_84221",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 231,
+    "title": {
+      "en": "USMNT to call up 16-year-old Cavan Sullivan for upcoming friendlies",
+      "zh-CN": "USMNT将召集16岁的Cavan Sullivan参加即将到来的友谊赛"
+    },
+    "summary": {
+      "en": "Sullivan has six goals and eight assists post-World CupUS play four games in upcoming windowPhiladelphia Union midfielder Cavan Sullivan is set to earn his first international call-up with the United...",
+      "zh-CN": "沙利文有六个进球和八次助攻，世界杯后，美国队将在即将到来的窗口中打四场比赛。费城联盟中场球员卡文·沙利文将赢得他与曼联的第一次国际征召……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-usmnt"
+  },
+  {
+    "id": "N_RSS_57536",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 72,
+    "title": {
+      "en": "USA exit U-20 World Cup on penalties as tournament’s timing draws criticism",
+      "zh-CN": "美国退出U-20世界杯罚球，因为比赛的时机受到批评"
+    },
+    "summary": {
+      "en": "Brazil advance to quarter-finals in PolandAmericans have not won tournament since 2012US youth teams have struggled in recent showingsThe United States were eliminated from the U-20 Women’s World Cup...",
+      "zh-CN": "巴西晋级波兰四分之一决赛自2012年以来，美国青年队在最近的比赛中举步维艰美国队被U-20女足世界杯淘汰出局..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/usa-brazil-u20-womens-world-cup"
+  },
+  {
+    "id": "N_RSS_8910",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 252,
+    "title": {
+      "en": "When did football fans first start wearing replica kits? | The Knowledge",
+      "zh-CN": "足球迷什么时候开始穿复制品套装？ | The Knowledge"
+    },
+    "summary": {
+      "en": "Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goalsMail us with your all of your questions and answers“When did fans wearing replica kits become a...",
+      "zh-CN": "此外：更昂贵（和有益的）红牌和攻击，拥有三个半世纪的国际目标请向我们发送您的所有问题和答案“粉丝什么时候穿着复制品套件成为......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits"
+  },
+  {
+    "id": "N_RSS_20566",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 68,
+    "title": {
+      "en": "Glory at 11,000ft: Cusco’s Cienciano aim to bring Peru continental success once again",
+      "zh-CN": "11,000英尺的辉煌： Cusco的Cienciano旨在再次为秘鲁大陆带来成功"
+    },
+    "summary": {
+      "en": "Cusco is known for tourism. But the city’s biggest football team is chasing a repeat of a South American title that caused shockwaves more than 20 years agoIt was one of those nights when Cusco...",
+      "zh-CN": "库斯科以旅游闻名。但该市最大的足球队正在追逐20多年前引发冲击波的南美冠军头衔的重演这是库斯科..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/glory-at-11000ft-cuscos-cienciano-aim-to-bring-peru-continental-success-once-again"
+  },
+  {
+    "id": "N_RSS_48985",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 192,
+    "title": {
+      "en": "Iranian football returns in the shadow of war and with row over last league title",
+      "zh-CN": "伊朗足球在战争的阴影下回归，争夺上届联赛冠军"
+    },
+    "summary": {
+      "en": "Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in IranThree months ago, Iran was one of the biggest stories in football as Team Melli arrived...",
+      "zh-CN": "由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，随着梅利队的到来，伊朗是足球界最大的故事之一..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
+  },
+  {
+    "id": "N_FIFA_69857",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 299,
+    "title": {
+      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September",
+      "zh-CN": "国际足联东盟杯™将于9月24日联合东南亚及其他地区的14个国家"
+    },
+    "summary": {
+      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/asean-cup-unite-14-nations-across-southeast-asia-beyond-24-september"
+  },
+  {
+    "id": "N_FIFA_97578",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 346,
+    "title": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October",
+      "zh-CN": "今年10月，在吉达举行的2026年FIFAe总决赛上，迄今为止最大的足球电子竞技赛季达到高潮"
+    },
+    "summary": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
+  },
+  {
+    "id": "N_RSS_47037",
+    "type": "official",
+    "date": "2026-09-15",
+    "likes": 240,
+    "title": {
+      "en": "Lionel Messi called up by Argentina to make farewell ⁠appearance in friendly",
+      "zh-CN": "莱昂内尔·梅西（ Lionel Messi ）被阿根廷召集，在友好的"
+    },
+    "summary": {
+      "en": "Argentina will host Benin in October in Buenos AiresAFA president invites Messi to enjoy ‘deserved farewell’Lionel Messi has been called up by Argentina to make a farewell ⁠appearance in a home...",
+      "zh-CN": "阿根廷将于10月在布宜诺斯艾利斯主办贝宁亚足联主席邀请梅西享受“当之无愧的告别”莱昂内尔·梅西被阿根廷召集到家中告别……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/15/lionel-messi-called-up-argentina-farewell-appearance-friendly-benin"
+  },
+  {
+    "id": "N_RSS_1632",
+    "type": "official",
+    "date": "2026-09-15",
+    "likes": 189,
+    "title": {
+      "en": "Kane on target, Barcelona stay perfect and Ballon d’Or debate | Football Weekly – video",
+      "zh-CN": "凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论|《足球周刊》–视频"
+    },
+    "summary": {
+      "en": "Max Rushden is joined by Philippe Auclair, Sid Lowe, Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Continue reading...",
+      "zh-CN": "马克斯·拉什登（ Max Rushden ）与菲利普·奥克莱尔（ Philippe Auclair ）、希德·洛（ Sid Lowe ）、尼基·班迪尼（ Nicky Bandini ）和马克·兰登（ Mark"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/video/2026/sep/15/kane-on-target-barcelona-stay-perfect-and-ballon-dor-debate-football-weekly-video"
+  },
+  {
+    "id": "N_RSS_74684",
+    "type": "official",
+    "date": "2026-09-15",
+    "likes": 192,
+    "title": {
+      "en": "Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly"
+    },
+    "summary": {
+      "en": "Max Rushden is joined by Philippe Auclair, Sid Lowe, Nicky Bandini and Mark Langdon to discuss the weekend’s action around EuropeMax Rushden is joined by Philippe Auclair, Sid Lowe, Nicky Bandini and..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/audio/2026/sep/15/europe-bayern-harry-kane-barcelona-ballon-dor-football-weekly"
+  },
+  {
+    "id": "N_RSS_48584",
+    "type": "official",
+    "date": "2026-09-12",
+    "likes": 269,
+    "title": {
+      "en": "Signed instead of Rashford, Gordon is proving worth at Barca"
+    },
+    "summary": {
+      "en": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_83832",
+    "type": "official",
+    "date": "2026-09-12",
+    "likes": 259,
+    "title": {
+      "en": "What can halt Fifa’s authoritarian turn under Infantino? Change from the outside | Jules Boykoff"
+    },
+    "summary": {
+      "en": "The World Cup and its aftermath made clear that Fifa needs independent oversight by governments and NGOs dedicated to preserving the people’s gameThe 2026 World Cup was a whirling swirl of..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/12/fifa-gianni-infantino-donald-trump-change"
+  },
+  {
+    "id": "N_RSS_56058",
+    "type": "official",
+    "date": "2026-09-11",
+    "likes": 211,
+    "title": {
+      "en": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning"
+    },
+    "summary": {
+      "en": "English top flight’s forwards are not well represented on the list, reflecting a season of set-piece grapple, but 2026-27 already looks brighterPremier League representation is low when it comes to..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning"
+  },
+  {
+    "id": "N_RSS_39580",
+    "type": "official",
+    "date": "2026-09-10",
+    "likes": 131,
+    "title": {
+      "en": "French FA accuses Infantino of ‘seriously damaging’ football as it withdraws support"
+    },
+    "summary": {
+      "en": "‘Image and unity’ of game affected, FFF president saysIt will consult sacked former Fifa official Kevin LamourThe French Football Federation’s president, Philippe Diallo, said Gianni Infantino had..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/10/gianni-infantino-accused-seriously-damaging-football-french-fa-withdraws-support-fifa"
+  },
+  {
+    "id": "N_RSS_91405",
+    "type": "official",
+    "date": "2026-09-10",
+    "likes": 85,
+    "title": {
+      "en": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer"
+    },
+    "summary": {
+      "en": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official titleSign up for our free newsletter hereNext spring, when the US Soccer Hall of..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer"
+  },
+  {
+    "id": "N_RSS_80503",
+    "type": "official",
+    "date": "2026-09-10",
+    "likes": 298,
+    "title": {
+      "en": "Mauricio Pochettino: ‘I am always open to help Tottenham. In whatever division’"
+    },
+    "summary": {
+      "en": "Manager is excited by new US deal but might have returned to Spurs if the stars had aligned and does not rule out taking England job one dayIf things had worked out differently, Mauricio Pochettino..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/10/mauricio-pochettino-tottenham-united-states-world-cup-england"
+  },
+  {
+    "id": "N_RSS_60590",
+    "type": "official",
+    "date": "2026-09-10",
+    "likes": 188,
+    "title": {
+      "en": "‘Football saved Dad’s life’: meet the coach of the England women’s Parkinson’s team"
+    },
+    "summary": {
+      "en": "It began with getting her dad into walking football after his diagnosis – now Gemma Darvill is taking a national team on tour to CanadaWhen Gemma Darvill’s dad, Les, was diagnosed with Parkinson’s..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/10/football-saved-dads-life-meet-the-coach-of-the-england-womens-parkinsons-team"
+  },
+  {
+    "id": "N_FIFA_93995",
+    "type": "official",
+    "date": "2026-08-28",
+    "likes": 253,
+    "title": {
+      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
+    },
+    "summary": {
+      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
+  },
+  {
     "id": "N_RSS_92685",
     "type": "official",
     "date": "2026-09-16",
@@ -92,376 +456,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/16/usa-brazil-u20-womens-world-cup"
-  },
-  {
-    "id": "N_FIFA_8155",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 295,
-    "title": {
-      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials",
-      "zh-CN": "国际足联独立伦理委员会审判庭制裁前足球官员"
-    },
-    "summary": {
-      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/adjudicatory-chamber-independent-ethics-committee-sanctions-former-football-officials"
-  },
-  {
-    "id": "N_FIFA_14945",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 91,
-    "title": {
-      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™",
-      "zh-CN": "国际足联女足世界杯巴西2027™志愿者申请正式开放"
-    },
-    "summary": {
-      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/volunteer-applications-open-womens-world-cup-brazil-2027"
-  },
-  {
-    "id": "N_FIFA_79906",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 184,
-    "title": {
-      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window",
-      "zh-CN": "2026年世界杯™在年中转会窗口感受到的影响"
-    },
-    "summary": {
-      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-impact-mid-year-transfer-window"
-  },
-  {
-    "id": "N_RSS_49995",
-    "type": "official",
-    "date": "2026-09-15",
-    "likes": 269,
-    "title": {
-      "en": "Messi in Argentina squad for farewell friendly",
-      "zh-CN": "梅西在阿根廷队友好告别"
-    },
-    "summary": {
-      "en": "Argentina name Lionel Messi in their squad for a friendly against Benin in October in a match which is set to be the forward's farewell to international football.",
-      "zh-CN": "阿根廷队在10月对阵贝宁的友谊赛中命名了莱昂内尔·梅西，这场比赛将成为前锋对国际足球的告别。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_65929",
-    "type": "official",
-    "date": "2026-09-15",
-    "likes": 61,
-    "title": {
-      "en": "Raheem Sterling could face prison for reckless driving while using nitrous oxide",
-      "zh-CN": "Raheem Sterling在使用一氧化二氮时可能因鲁莽驾驶而面临监禁"
-    },
-    "summary": {
-      "en": "Ex-England footballer pleads guilty and admits to failing to provide a specimen as he appears in courtRaheem Sterling pleaded guilty to dangerous driving and could be sent to prison after driving his...",
-      "zh-CN": "前英格兰足球运动员认罪，并承认未能提供样本，因为他出现在法庭上Raheem Sterling承认危险驾驶，并可能在驾驶后被送进监狱......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/uk-news/2026/sep/15/raheem-sterling-pleads-guilty-dangerous-driving-possession-nitrous-oxide"
-  },
-  {
-    "id": "N_RSS_63146",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 291,
-    "title": {
-      "en": "Top of the table, empty in the stands: inside the revolt against Lazio’s owner | Nicky Bandini",
-      "zh-CN": "桌子顶部，看台上空无一人：在反对拉齐奥主人的起义中|尼基·班迪尼"
-    },
-    "summary": {
-      "en": "Despite an impressive start under Gennaro Gattuso, supporters are boycotting the Stadio Olimpico to wage war against Claudio LotitoGennaro Gattuso has given some memorable post‑game interviews down...",
-      "zh-CN": "尽管在Gennaro Gattuso的领导下取得了令人印象深刻的开局，但支持者正在抵制奥林匹克体育场对Claudio Lotito发动战争Gennaro Gattuso在赛后接受了一些令人难忘的采访..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/14/lazio-claudio-lotito-gennaro-gattuso-milan"
-  },
-  {
-    "id": "N_RSS_57338",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 246,
-    "title": {
-      "en": "‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
-      "zh-CN": "“非常虚弱。非常糟糕” ：罗德里的判决如何暴露了可悲的瓦伦西亚危机| Sid Lowe"
-    },
-    "summary": {
-      "en": "The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeperKiat Lim wanted to see Valencia play so badly, so that...",
-      "zh-CN": "这位世界杯冠军的即兴评估非常诚实。几天之内，他们的经理和首席执行官就不见了，但问题更加严重。Kiat Lim希望看到瓦伦西亚表现如此糟糕，以至于..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
-  },
-  {
-    "id": "N_RSS_9868",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 221,
-    "title": {
-      "en": "WSL talking points: Olid must weather United storm, Arsenal wasteful again",
-      "zh-CN": "WSL谈话要点：奥利德必须经受住曼联风暴，阿森纳再次浪费"
-    },
-    "summary": {
-      "en": "Manchester United need to regroup after a heavy home loss to Chelsea while Crystal Palace frustrated the GunnersThe frustration among Manchester United fans at full-time was evident at Leigh Sports...",
-      "zh-CN": "在主场输给切尔西之后，曼联需要重新组合，而水晶宫让枪手感到沮丧曼联全职球迷的沮丧在Leigh Sports很明显......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal"
-  },
-  {
-    "id": "N_RSS_21030",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 203,
-    "title": {
-      "en": "Polanski the first managerial victim of Bundesliga season as Gladbach fail again | Andy Brassell",
-      "zh-CN": "波兰斯基是德甲赛季的第一位管理受害者，格拉德巴赫再次失败|安迪·布拉塞尔"
-    },
-    "summary": {
-      "en": "Departure of head coach after defeat at Freiburg sums up club that could join other fallen giants in second tierIt could not go on. Even at this early stage the sinking feeling was familiar and...",
-      "zh-CN": "在弗莱堡失利后主教练的离开总结了俱乐部可以加入其他堕落的巨人二线它不能继续下去。即使在这个早期阶段，下沉的感觉也很熟悉，而且……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/14/borussia-monchengladbach-eugen-polanski-bundesliga"
-  },
-  {
-    "id": "N_RSS_54878",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 108,
-    "title": {
-      "en": "PSG have finally won a game in Ligue 1 – but they were far from convincing"
-    },
-    "summary": {
-      "en": "Ferran Torres has been brilliant for his new club with most of his new teammates floundering for formBy Get French Football NewsIt was just a flicker. Ferran Torres picks the ball up and passes it to..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/14/psg-won-game-ligue-1-convincing-ferran-torres"
-  },
-  {
-    "id": "N_RSS_59255",
-    "type": "official",
-    "date": "2026-09-13",
-    "likes": 58,
-    "title": {
-      "en": "European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus"
-    },
-    "summary": {
-      "en": "Elversberg 1-2 Bayern; Sassuolo 3-2 JuventusBarcelona see off Levante, PSG end winless startHarry Kane scored his first Bundesliga goal of the season to help Bayern Munich edge to a 2-1 win at..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus"
-  },
-  {
-    "id": "N_RSS_37383",
-    "type": "official",
-    "date": "2026-09-13",
-    "likes": 163,
-    "title": {
-      "en": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin"
-    },
-    "summary": {
-      "en": "Some scoffed at £125m price tag, but the Argentinian did the work of two midfielders after Phil Foden’s red cardEnzo Maresca does not pay the bills at Manchester City but he is ecstatic that those..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby"
-  },
-  {
-    "id": "N_FIFA_57754",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 99,
-    "title": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "summary": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
-  },
-  {
-    "id": "N_FIFA_86421",
-    "type": "official",
-    "date": "2026-08-20",
-    "likes": 330,
-    "title": {
-      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
-    },
-    "summary": {
-      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
-  },
-  {
-    "id": "N_RSS_24718",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 133,
-    "title": {
-      "en": "Mbappe, Vini and Konate cover up Real's message of support for Ceuta",
-      "zh-CN": "Mbappe、Vini和Konate掩盖了Real对休达的支持信息"
-    },
-    "summary": {
-      "en": "Vini Jnr, Mbappe and Konate cover up Ceuta message of support ahead of Real Madrid's match against Elche.",
-      "zh-CN": "Vini Jnr、Mbappe和Konate在皇家马德里对阵埃尔切之前掩盖了休达的支持信息。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cxm2qyr5r009o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_88585",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 137,
-    "title": {
-      "en": "Watching Cavan Sullivan, excitement is tempered by memories of hypetrains past",
-      "zh-CN": "看着Cavan Sullivan ，对过去的Hypetrains的回忆缓和了兴奋"
-    },
-    "summary": {
-      "en": "The 16-year-old Union star isn’t the first wunderkind to be feted by the American soccersphereThe trouble with trying not to hype up Cavan Sullivan is that he keeps on doing cool stuff. Like this...",
-      "zh-CN": "这位16岁的联盟明星并不是第一个被美国足球圈所崇拜的神奇人物。试图不去炒作Cavan Sullivan的麻烦在于他一直在做很酷的事情，就像这样……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/16/cavan-sullivan-mls-philadelphia-union"
-  },
-  {
-    "id": "N_RSS_76658",
-    "type": "official",
-    "date": "2026-09-15",
-    "likes": 144,
-    "title": {
-      "en": "Barcelona monitor Kane & Haaland - Wednesday's gossip",
-      "zh-CN": "巴塞罗那监视器Kane & Haaland ：周三的流言蜚语"
-    },
-    "summary": {
-      "en": "Barcelona are monitoring Harry Kane and Erling Haaland, Nick Woltemade could be a replacement for Kane at Bayern Munich, and Manchester United are interested in Jarrad Branthwaite, plus more.",
-      "zh-CN": "巴塞罗那正在监控哈里·凯恩（ Harry Kane ）和埃尔林·哈兰德（ Erling Haaland ） ，尼克·沃尔特梅德（ Nick Woltemade ）可能取代拜仁慕尼黑的凯恩，曼联对贾拉德·布兰斯韦特（ Jarrad Branthwaite ）"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqzezjn3wzjpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_19462",
-    "type": "official",
-    "date": "2026-09-15",
-    "likes": 243,
-    "title": {
-      "en": "Tuchel regrets not eating Azteca turf after win over Mexico",
-      "zh-CN": "图切尔在战胜墨西哥后后悔没有吃阿兹特克草皮"
-    },
-    "summary": {
-      "en": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's epic World Cup win against Mexico.",
-      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）在英格兰史诗般的世界杯战胜墨西哥后，很遗憾没有吃掉阿兹特克体育场的任何一片草地。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_95754",
-    "type": "official",
-    "date": "2026-09-15",
-    "likes": 170,
-    "title": {
-      "en": "Cardiff to host 2029 women's Champions League final",
-      "zh-CN": "加的夫将举办2029年女子冠军联赛决赛"
-    },
-    "summary": {
-      "en": "Uefa have confirmed a number of host appointments for upcoming finals, with Cardiff's Principality Stadium set to host the 2029 women's Champions League final.",
-      "zh-CN": "欧足联已经确认了即将到来的决赛的一些主办方预约，加的夫公国体育场将举办2029年女子冠军联赛决赛。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmrer2j8lnr2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_90344",
-    "type": "official",
-    "date": "2026-09-15",
-    "likes": 278,
-    "title": {
-      "en": "NI squad only picked on merit - O'Neill",
-      "zh-CN": "NI小队只根据成绩挑选-奥尼尔"
-    },
-    "summary": {
-      "en": "Northern Ireland manager Michael O'Neill says he would never take Fifa eligibility rules into consideration when selecting his squad.",
-      "zh-CN": "北爱尔兰主教练迈克尔·奥尼尔（ Michael O'Neill ）表示，在选择球队时，他绝不会考虑国际足联的资格规则。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cked7wng4557o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_80895",
-    "type": "official",
-    "date": "2026-09-15",
-    "likes": 236,
-    "title": {
-      "en": "From Segura to Maltby: six breakout stars from the Women’s Under-20 World Cup",
-      "zh-CN": "从塞古拉到马尔特比：女子20岁以下世界杯的六位突破明星"
-    },
-    "summary": {
-      "en": "With an incredible array of talent on show we select half a dozen players who could make the step up to the senior World Cup next yearThe 2026 Under-20 Women’s World Cup is entering the knockout...",
-      "zh-CN": "凭借令人难以置信的天赋，我们选择了六名球员，他们可以晋级明年的高级世界杯2026年20岁以下女足世界杯即将进入淘汰赛......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cup"
-  },
-  {
-    "id": "N_RSS_22829",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 245,
-    "title": {
-      "en": "The Hotspot | South Korea pushes for football season to make winter switch after unbearable summer",
-      "zh-CN": "热点|韩国推动足球赛季，在难以忍受的夏天之后进行冬季转换"
-    },
-    "summary": {
-      "en": "Why fainting fans and perspiring players are a worry for the Asian league seeking to follow Japan and align with EuropeSouth Korean football is trying to find the goldilocks time to play the...",
-      "zh-CN": "为什么晕倒的球迷和出汗的球员是亚洲联赛寻求跟随日本并与欧洲保持一致的担忧韩国足球正在努力寻找金发女郎的时间来打..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/sport/2026/sep/14/south-korea-football-season-heat-summer-the-hotspot"
-  },
-  {
-    "id": "N_RSS_97513",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 112,
-    "title": {
-      "en": "Premier League: 10 talking points from the weekend’s action",
-      "zh-CN": "英超联赛：周末行动的10个谈话要点"
-    },
-    "summary": {
-      "en": "Controversy rules the Manchester derby, Coventry are dunked on and Tottenham still can’t score a goalThe 199th Manchester derby was defined by two refereeing decisions: Phil Foden’s first-half red...",
-      "zh-CN": "争议规则曼彻斯特德比，考文垂扣篮，托特纳姆热刺仍然无法进球第199届曼彻斯特德比由两个裁判决定：菲尔·福登的上半场红色......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action"
-  },
-  {
-    "id": "N_RSS_81665",
-    "type": "official",
-    "date": "2026-09-13",
-    "likes": 50,
-    "title": {
-      "en": "Sam Surridge in stoppage time denies Messi and Miami a win: MLS roundup",
-      "zh-CN": "Sam Surridge在停赛时间否认梅西和迈阿密获胜： MLS综述"
-    },
-    "summary": {
-      "en": "Sporting KC end a long winless run v LAFCCharlotte and Cincy play a six-goal thrillerGriezmann on target in Orlando City winSam Surridge scored an equalizer in the first minute of second-half...",
-      "zh-CN": "Sporting KC结束了LAFCCharlotte和Cincy在奥兰多城的胜利中打了一个六球惊悚片Griezmann Sam Surridge在下半场的第一分钟得到了一个均衡器......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/13/mls-lionel-messi-nashville-sc-sporting-kc-antoine-griezmann"
   }
 ]
