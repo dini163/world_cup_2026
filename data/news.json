@@ -1,5 +1,192 @@
 [
   {
+    "id": "N_RSS_19011",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 165,
+    "title": {
+      "en": "England squad announcement at 10am: Who should be in? Have your say!",
+      "zh-CN": "上午10点英格兰队宣布：谁应该参加？发表意见吧！"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+  },
+  {
+    "id": "N_FIFA_14138",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 371,
+    "title": {
+      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September",
+      "zh-CN": "国际足联东盟杯™将于9月24日联合东南亚及其他地区的14个国家"
+    },
+    "summary": {
+      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/asean-cup-unite-14-nations-across-southeast-asia-beyond-24-september"
+  },
+  {
+    "id": "N_FIFA_54867",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 389,
+    "title": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October",
+      "zh-CN": "今年10月，在吉达举行的2026年FIFAe总决赛上，迄今为止最大的足球电子竞技赛季达到高潮"
+    },
+    "summary": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
+  },
+  {
+    "id": "N_RSS_93726",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 279,
+    "title": {
+      "en": "The big questions for Tuchel's first England squad since World Cup",
+      "zh-CN": "图切尔自世界杯以来第一支英格兰队面临的大问题"
+    },
+    "summary": {
+      "en": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
+      "zh-CN": "在托马斯·图切尔（ Thomas Tuchel ）命名他自周五世界杯以来的第一支球队之前，英国广播公司体育台（ BBC Sport ）着眼于英"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_93845",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 65,
+    "title": {
+      "en": "Will Palmer, Foden and Trent be recalled to England squad?",
+      "zh-CN": "帕尔默、福登和特伦特会被召回英格兰队吗？"
+    },
+    "summary": {
+      "en": "Cole Palmer's outstanding form this season has put him in a strong position for an England recall, with the Chelsea man the most likely to be included from all the big names left out of the World Cup...",
+      "zh-CN": "科尔·帕尔默（ Cole Palmer ）本赛季的出色表现使他处于英格兰召回的强势地位，切尔西男子最有可能被排除在世界杯之外的所有大牌球员之外......"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13588982/england-squad-will-cole-palmer-phil-foden-and-trent-alexander-arnold-be-left-out-again-after-world-cup-snubs"
+  },
+  {
+    "id": "N_RSS_76396",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 174,
+    "title": {
+      "en": "Tuchel must win back trust ahead of pivotal England camp",
+      "zh-CN": "图切尔必须在关键的英格兰阵营之前赢回信任"
+    },
+    "summary": {
+      "en": "Despite achieving England's best-ever World Cup performance on foreign soil, this international break feels like a pivotal moment in Thomas Tuchel's tenure.",
+      "zh-CN": "尽管在国外取得了英格兰有史以来最好的世界杯成绩，但这次国际比赛感觉就像托马斯·图切尔（ Thomas Tuchel ）任职期间的关键时刻。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13588885/thomas-tuchel-england-manager-faces-pivotal-international-break-to-win-over-some-players-and-supporters-after-world-cup-exit"
+  },
+  {
+    "id": "N_RSS_34289",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 203,
+    "title": {
+      "en": "When did football fans first start wearing replica kits? | The Knowledge",
+      "zh-CN": "足球迷什么时候开始穿复制品套装？ | The Knowledge"
+    },
+    "summary": {
+      "en": "Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goalsMail us with your all of your questions and answers“When did fans wearing replica kits become a...",
+      "zh-CN": "此外：更昂贵（和有益的）红牌和攻击，拥有三个半世纪的国际目标请向我们发送您的所有问题和答案“粉丝什么时候穿着复制品套件成为......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits"
+  },
+  {
+    "id": "N_RSS_2477",
+    "type": "official",
+    "date": "2026-09-14",
+    "likes": 68,
+    "title": {
+      "en": "WSL talking points: Olid must weather United storm, Arsenal wasteful again",
+      "zh-CN": "WSL谈话要点：奥利德必须经受住曼联风暴，阿森纳再次浪费"
+    },
+    "summary": {
+      "en": "Manchester United need to regroup after a heavy home loss to Chelsea while Crystal Palace frustrated the GunnersThe frustration among Manchester United fans at full-time was evident at Leigh Sports...",
+      "zh-CN": "在主场输给切尔西之后，曼联需要重新组合，而水晶宫让枪手感到沮丧曼联全职球迷的沮丧在Leigh Sports很明显......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal"
+  },
+  {
+    "id": "N_RSS_22473",
+    "type": "official",
+    "date": "2026-09-13",
+    "likes": 300,
+    "title": {
+      "en": "Sam Surridge in stoppage time denies Messi and Miami a win: MLS roundup",
+      "zh-CN": "Sam Surridge在停赛时间否认梅西和迈阿密获胜： MLS综述"
+    },
+    "summary": {
+      "en": "Sporting KC end a long winless run v LAFCCharlotte and Cincy play a six-goal thrillerGriezmann on target in Orlando City winSam Surridge scored an equalizer in the first minute of second-half...",
+      "zh-CN": "Sporting KC结束了LAFCCharlotte和Cincy在奥兰多城的胜利中打了一个六球惊悚片Griezmann Sam Surridge在下半场的第一分钟得到了一个均衡器......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/13/mls-lionel-messi-nashville-sc-sporting-kc-antoine-griezmann"
+  },
+  {
+    "id": "N_RSS_47795",
+    "type": "official",
+    "date": "2026-09-13",
+    "likes": 114,
+    "title": {
+      "en": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin",
+      "zh-CN": "恩佐·费尔南德斯（ Enzo Fernández ）的坚韧表明，马雷斯卡（ Maresca ）渴望城市重聚是正确的|威尔·"
+    },
+    "summary": {
+      "en": "Some scoffed at £125m price tag, but the Argentinian did the work of two midfielders after Phil Foden’s red cardEnzo Maresca does not pay the bills at Manchester City but he is ecstatic that those...",
+      "zh-CN": "有些人嘲笑1.25亿英镑的价格，但在菲尔·福登的红牌之后，阿根廷人做了两名中场球员的工作恩佐·马雷斯卡没有在曼城支付账单，但他欣喜若狂的是，那些..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby"
+  },
+  {
+    "id": "N_FIFA_76687",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 125,
+    "title": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
+      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
+    },
+    "summary": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
+  },
+  {
+    "id": "N_FIFA_25781",
+    "type": "official",
+    "date": "2026-08-20",
+    "likes": 314,
+    "title": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled",
+      "zh-CN": "国际足联2027年女足世界杯™冠军将在马拉卡纳举行的比赛日程公布之际举起奖杯"
+    },
+    "summary": {
+      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
+  },
+  {
     "id": "N_RSS_86772",
     "type": "official",
     "date": "2026-09-18",
@@ -282,196 +469,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cup"
-  },
-  {
-    "id": "N_RSS_84395",
-    "type": "official",
-    "date": "2026-09-15",
-    "likes": 150,
-    "title": {
-      "en": "Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly",
-      "zh-CN": "凯恩的目标，巴塞罗那保持完美和Ballon d 'Or辩论–足球周刊"
-    },
-    "summary": {
-      "en": "Max Rushden is joined by Philippe Auclair, Sid Lowe, Nicky Bandini and Mark Langdon to discuss the weekend’s action around EuropeMax Rushden is joined by Philippe Auclair, Sid Lowe, Nicky Bandini and...",
-      "zh-CN": "马克斯·拉什登（ Max Rushden ）与菲利普·奥克莱尔（ Philippe Auclair ）、希德·洛（ Sid Lowe ）、尼基·班迪尼（ Nicky Bandini ）和马克·兰登（ Mark Langdon ）一起讨论周末在欧洲的行动。马克斯·拉什登（ Max Rushden ）与菲利普·奥克"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/audio/2026/sep/15/europe-bayern-harry-kane-barcelona-ballon-dor-football-weekly"
-  },
-  {
-    "id": "N_RSS_14531",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 160,
-    "title": {
-      "en": "PSG have finally won a game in Ligue 1 – but they were far from convincing",
-      "zh-CN": "巴黎圣日耳曼终于在法甲联赛中赢得了一场比赛–但他们远未令人信服"
-    },
-    "summary": {
-      "en": "Ferran Torres has been brilliant for his new club with most of his new teammates floundering for formBy Get French Football NewsIt was just a flicker. Ferran Torres picks the ball up and passes it to...",
-      "zh-CN": "Ferran Torres在他的新俱乐部表现出色，他的大多数新队友都在为形式而挣扎通过获取法国足球新闻这只是一个闪烁。费兰·托雷斯（ Ferran Torres ）把球捡起来传给……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/14/psg-won-game-ligue-1-convincing-ferran-torres"
-  },
-  {
-    "id": "N_RSS_78150",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 96,
-    "title": {
-      "en": "The Hotspot | South Korea pushes for football season to make winter switch after unbearable summer",
-      "zh-CN": "热点|韩国推动足球赛季，在难以忍受的夏天之后进行冬季转换"
-    },
-    "summary": {
-      "en": "Why fainting fans and perspiring players are a worry for the Asian league seeking to follow Japan and align with EuropeSouth Korean football is trying to find the goldilocks time to play the...",
-      "zh-CN": "为什么晕倒的球迷和出汗的球员是亚洲联赛寻求跟随日本并与欧洲保持一致的担忧韩国足球正在努力寻找金发女郎的时间来打..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/sport/2026/sep/14/south-korea-football-season-heat-summer-the-hotspot"
-  },
-  {
-    "id": "N_RSS_2671",
-    "type": "official",
-    "date": "2026-09-12",
-    "likes": 205,
-    "title": {
-      "en": "What can halt Fifa’s authoritarian turn under Infantino? Change from the outside | Jules Boykoff",
-      "zh-CN": "什么可以阻止国际足联在因凡蒂诺统治下的专制转向？外部变化| Jules Boykoff"
-    },
-    "summary": {
-      "en": "The World Cup and its aftermath made clear that Fifa needs independent oversight by governments and NGOs dedicated to preserving the people’s gameThe 2026 World Cup was a whirling swirl of...",
-      "zh-CN": "世界杯及其后果清楚地表明，国际足联需要政府和非政府组织的独立监督，致力于保护人民的比赛2026年世界杯是一场旋涡般的..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/12/fifa-gianni-infantino-donald-trump-change"
-  },
-  {
-    "id": "N_RSS_90410",
-    "type": "official",
-    "date": "2026-09-11",
-    "likes": 254,
-    "title": {
-      "en": "Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
-      "zh-CN": "Ballon d 'Or入围名单显示了英超联赛的进攻失败–但潮流可能正在转变"
-    },
-    "summary": {
-      "en": "English top flight’s forwards are not well represented on the list, reflecting a season of set-piece grapple, but 2026-27 already looks brighterPremier League representation is low when it comes to...",
-      "zh-CN": "英国顶级联赛的前锋在榜单上没有很好的代表，反映了一个定位赛季的格斗，但2026-27赛季已经看起来更亮了。总理联赛的代表性很低..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning"
-  },
-  {
-    "id": "N_FIFA_15858",
-    "type": "official",
-    "date": "2026-08-28",
-    "likes": 93,
-    "title": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™",
-      "zh-CN": "已确认FIFA U-20女足世界杯波兰2026™参赛名单"
-    },
-    "summary": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
-  },
-  {
-    "id": "N_RSS_10424",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 182,
-    "title": {
-      "en": "Tuchel considers England recall for Cole Palmer in Nations League squad",
-      "zh-CN": "图切尔认为英格兰队在国家联赛阵容中召回了科尔·帕尔默"
-    },
-    "summary": {
-      "en": "Chelsea forward back in form after World Cup snubAlex Scott and Morgan Gibbs-White also in contentionThomas Tuchel is considering an England recall for Cole Palmer and could include Alex Scott in his...",
-      "zh-CN": "在世界杯冷落之后，切尔西以前锋的形式回归亚历克斯·斯科特（ Alex Scott ）和摩根·吉布斯-怀特（ Morgan Gibbs-White ）也在争夺托马斯·图切尔（ Thomas Tuchel ）正在考虑召回科尔·帕尔默（ Cole Palmer ）的英"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/17/thomas-tuchel-england-cole-palmer-nations-league-alex-scott-morgan-gibbs-white"
-  },
-  {
-    "id": "N_RSS_27678",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 152,
-    "title": {
-      "en": "FA chair Hewitt demands Infantino release records of failed World Cup plan",
-      "zh-CN": "足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录"
-    },
-    "summary": {
-      "en": "Letter sent before Fifa council meeting on 15 OctoberInfantino under pressure before presidential electionThe Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino demanding...",
-      "zh-CN": "在10月15日国际足联理事会会议之前发出的信函在总统选举前的压力下， Infantino足球协会主席Debbie Hewitt写信给Gianni Infantino ，要求......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
-  },
-  {
-    "id": "N_RSS_36992",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 293,
-    "title": {
-      "en": "Laura Kaminski relishing trophy hunt at Brann after Crystal Palace ‘crash course’",
-      "zh-CN": "水晶宫“速成课程”结束后，劳拉·卡明斯基（ Laura Kaminski ）在布兰（ Brann ）享受奖杯狩"
-    },
-    "summary": {
-      "en": "Former Palace head coach has won a cup final in Norway and says chance to challenge for league title was a pull“When it’s a good day, it’s absolutely stunning, so we’ll take that,” Laura Kaminski...",
-      "zh-CN": "前宫殿主教练在挪威赢得了一场杯赛决赛，并表示有机会挑战联赛冠军是一种吸引力“当这是一个美好的一天，这绝对是令人惊叹的，所以我们会接受这一点，”劳拉卡明斯基..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/17/laura-kaminski-brann-crystal-palace-moving-the-goalposts"
-  },
-  {
-    "id": "N_RSS_28519",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 227,
-    "title": {
-      "en": "Jürgen Klopp wants his Germany team to reclaim national pride from ‘the wrong people’",
-      "zh-CN": "Jürgen Klopp希望他的德国团队从“错误的人”手中夺回民族自豪感"
-    },
-    "summary": {
-      "en": "Comments follow far-right election win in Saxony-Anhalt‘I’d like to reclaim the flag for myself and for us,’ he saysJürgen Klopp has said Germany’s football team can help ensure “national pride is...",
-      "zh-CN": "他说，在萨克森-安哈尔特州的极右翼选举胜利后发表的评论“我想为自己和我们夺回国旗，”他说，德国足球队可以帮助确保“民族自豪感......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/17/jurgen-klopp-germany-reclaim-national-pride-wrong-people-afd"
-  },
-  {
-    "id": "N_RSS_27080",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 164,
-    "title": {
-      "en": "Chicago Stars make a splash as Vlatko Andonovski joins as chief soccer officer",
-      "zh-CN": "随着Vlatko Andonovski加入首席足球官行列，芝加哥之星轰动一时"
-    },
-    "summary": {
-      "en": "Former USWNT head coach will start role immediatelyAndonovski has won two NWSL championshipsFormer Kansas City Current sporting director Vlatko Andonovski is already back in the NWSL, with the...",
-      "zh-CN": "前USWNT主教练将立即开始担任职务Andonovski赢得了两次NWSL冠军前堪萨斯城现任体育总监Vlatko Andonovski已经回到NWSL ，与..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/17/vlatko-andonovski-chicago-stars-kc-current-hire"
-  },
-  {
-    "id": "N_RSS_56852",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 218,
-    "title": {
-      "en": "‘It is for every fan who has ever followed us’: Bournemouth’s European debut caps journey from the brink",
-      "zh-CN": "“这是给每一个曾经关注过我们的粉丝的” ：伯恩茅斯的欧洲处女作从边缘开始的旅程"
-    },
-    "summary": {
-      "en": "Club legend Steve Fletcher reflects on the wild rise over two decades to playing Real Sociedad in the Europa LeagueIt is 13 years since Bournemouth, a couple of months after finishing runners-up to...",
-      "zh-CN": "俱乐部传奇人物史蒂夫·弗莱彻（ Steve Fletcher ）回顾了二十多年来在欧洲联赛中扮演皇家社会的狂野崛起自伯恩茅斯（ Bournemouth ）以来已经过去了13年，在获得亚军到..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/17/bournemouth-europa-league-real-sociedad-journey"
   }
 ]
