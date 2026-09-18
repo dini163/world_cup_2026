@@ -1,5 +1,193 @@
 [
   {
+    "id": "N_RSS_86772",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 298,
+    "title": {
+      "en": "Socceroos captain Maty Ryan axed for Brazil friendlies",
+      "zh-CN": "足球队队长Maty Ryan为巴西友谊赛出场"
+    },
+    "summary": {
+      "en": "Goalkeeper dropped despite strong start to La Liga seasonSeven uncapped players called into 26-man Australia squadCaptain Maty Ryan has been left out of the Socceroos squad altogether for upcoming...",
+      "zh-CN": "尽管西甲赛季开局强劲，守门员还是下降了七名未上限的球员被召入26人澳大利亚队队长马蒂·瑞恩（ Maty Ryan ）因即将到来的比赛而被完全排除在足球队之外..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/18/socceroos-captain-maty-ryan-droppedr-brazil-vs-australia-friendlies"
+  },
+  {
+    "id": "N_FIFA_50407",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 381,
+    "title": {
+      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials",
+      "zh-CN": "国际足联独立伦理委员会审判庭制裁前足球官员"
+    },
+    "summary": {
+      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/adjudicatory-chamber-independent-ethics-committee-sanctions-former-football-officials"
+  },
+  {
+    "id": "N_FIFA_69238",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 221,
+    "title": {
+      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联女足世界杯巴西2027™志愿者申请正式开放"
+    },
+    "summary": {
+      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/volunteer-applications-open-womens-world-cup-brazil-2027"
+  },
+  {
+    "id": "N_FIFA_49743",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 219,
+    "title": {
+      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window",
+      "zh-CN": "2026年世界杯™在年中转会窗口感受到的影响"
+    },
+    "summary": {
+      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-impact-mid-year-transfer-window"
+  },
+  {
+    "id": "N_RSS_32891",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 56,
+    "title": {
+      "en": "FA chair demands Infantino release World Cup sell-off documents",
+      "zh-CN": "足协主席要求Infantino发布世界杯抛售文件"
+    },
+    "summary": {
+      "en": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+      "zh-CN": "国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）被告知要公布与他有争议的出售世界杯股份的计划有关的所有文件。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_59629",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 253,
+    "title": {
+      "en": "Klopp wants to 'reclaim' flag amid German elections",
+      "zh-CN": "克洛普希望在德国选举期间“收回”国旗"
+    },
+    "summary": {
+      "en": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not entrusted to the wrong people\" after a recent far-right election victory.",
+      "zh-CN": "新任德国教练尤尔根·克洛普（ Jurgen Klopp ）表示，在最近的极右翼选举胜利之后，他的团队可以帮助确保“民族自豪感不会被委托给错误的人”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_88140",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 87,
+    "title": {
+      "en": "FA writes to Infantino over World Cup sell-off plan and Balogun controversy",
+      "zh-CN": "英足总就世界杯抛售计划和Balogun争议致函Infantino"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+  },
+  {
+    "id": "N_RSS_62783",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 136,
+    "title": {
+      "en": "Cavan Sullivan in, Christian Pulisic out: takeaways from the latest USMNT roster",
+      "zh-CN": "Cavan Sullivan in ， Christian Pulisic out ：来自USMNT最新名册的外卖"
+    },
+    "summary": {
+      "en": "Mauricio Pochettino has called in a youthful group for the upcoming friendlies. Here are the big takeawaysIt was reasonable to expect that Mauricio Pochettino’s first United States squad after this...",
+      "zh-CN": "毛里西奥·波切蒂诺（ Mauricio Pochettino ）召集了一个年轻的小组参加即将到来的友谊赛。以下是重要的收获可以合理地预计，毛里西奥·波切蒂诺（ Mauricio Pochettino ）在这之后的第一支美国队......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/usmnt-roster-squad-analysis-cavan-sullivan-christian-pulisic"
+  },
+  {
+    "id": "N_RSS_58840",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 148,
+    "title": {
+      "en": "Hull City’s rise from Championship strugglers to Premier League fliers",
+      "zh-CN": "赫尔城从冠军挣扎者崛起为英超联赛传单"
+    },
+    "summary": {
+      "en": "Hull were nearly relegated to League One last year. Now they are fourth in the Premier LeagueBy WhoScoredSixteen months ago Hull City avoided relegation to League One on goal difference. Four months...",
+      "zh-CN": "赫尔去年几乎被降级到一级联赛。现在他们在英超联赛中排名第四由谁得分十六个月前赫尔城避免了因进球差异而降级到联赛一。四个月..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/who-scored-blog/2026/sep/17/hull-city-championship-premier-league"
+  },
+  {
+    "id": "N_RSS_34149",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 272,
+    "title": {
+      "en": "Thomas Tuchel’s shot at redemption begins with England’s tricky Nations League tests",
+      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）的救赎机会始于英格兰棘手的国家联赛测试"
+    },
+    "summary": {
+      "en": "It is hard to know whether haters will ever accept manager’s failed tactical shift against Argentina but positive start to preparation for Euros might helpThomas Tuchel has been back around the...",
+      "zh-CN": "很难知道仇恨者是否会接受经理对阿根廷失败的战术转变，但积极开始准备欧元可能会帮助托马斯·图切尔（ Thomas Tuchel ）回到..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/thomas-tuchels-shot-at-redemption-begins-with-englands-tricky-nations-league-tests"
+  },
+  {
+    "id": "N_RSS_6139",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 177,
+    "title": {
+      "en": "Two years and one World Cup down, Mauricio Pochettino is still assessing",
+      "zh-CN": "毛里西奥·波切蒂诺（ Mauricio Pochettino ）在两年的时间里击败了一届世界杯，他"
+    },
+    "summary": {
+      "en": "The US manager’s first squad of the 2030 World Cup cycle leans heavily on youth, injecting intrigue into the four-game window. Sign up for our free newsletter hereIn the moments after the USMNT’s 4-1...",
+      "zh-CN": "这位美国主教练在2030年世界杯周期的第一支球队严重依赖年轻人，为四场比赛的窗口注入了阴谋。在此处订阅我们的免费时事通讯在USMNT 4-1之后..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/mauricio-pochettino-calls-the-kids"
+  },
+  {
+    "id": "N_RSS_30470",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 64,
+    "title": {
+      "en": "Football Daily | Michael Carrick risks untimely spell in the ‘crisis’ box seat with Manchester United",
+      "zh-CN": "《足球日报》|迈克尔·卡里克冒险在曼联的“危机”席位上拼写不合时宜"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Following the conclusion of this weekend’s round of Premier League fixtures, football fans have what promises to be an exceptionally long,...",
+      "zh-CN": "立即注册！立即注册！立即注册？立即注册！在本周末的英超联赛赛程结束后，足球迷们有望拥有一段非常长的时间，..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/football-daily-email-manchester-united"
+  },
+  {
     "id": "N_RSS_25474",
     "type": "official",
     "date": "2026-09-17",
@@ -285,190 +473,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/17/bournemouth-europa-league-real-sociedad-journey"
-  },
-  {
-    "id": "N_FIFA_89773",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 149,
-    "title": {
-      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September",
-      "zh-CN": "国际足联东盟杯™将于9月24日联合东南亚及其他地区的14个国家"
-    },
-    "summary": {
-      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/asean-cup-unite-14-nations-across-southeast-asia-beyond-24-september"
-  },
-  {
-    "id": "N_FIFA_10954",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 173,
-    "title": {
-      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October",
-      "zh-CN": "今年10月，在吉达举行的2026年FIFAe总决赛上，迄今为止最大的足球电子竞技赛季达到高潮"
-    },
-    "summary": {
-      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
-  },
-  {
-    "id": "N_RSS_13341",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 261,
-    "title": {
-      "en": "'It's my scar, not yours' - Tuchel defends World Cup semi-final subs",
-      "zh-CN": "“这是我的伤疤，不是你的” -图切尔为世界杯半决赛潜艇辩护"
-    },
-    "summary": {
-      "en": "Thomas Tuchel has passionately defended his controversial defensive substitutions during England's World Cup semi-final defeat to Argentina.",
-      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）在英格兰世界杯半决赛击败阿根廷期间热情地捍卫了他有争议的防守替补。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13588663/thomas-tuchel-england-head-coach-defends-controversial-world-cup-semi-final-substitutions-with-argentina-adding-its-my-scar-not-yours"
-  },
-  {
-    "id": "N_RSS_56678",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 220,
-    "title": {
-      "en": "45 players! Klopp picks TWO separate Germany squads for international break",
-      "zh-CN": "45名球员！克洛普选择了两支不同的德国队进行国际比赛"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
-  },
-  {
-    "id": "N_RSS_40695",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 201,
-    "title": {
-      "en": "When did football fans first start wearing replica kits? | The Knowledge",
-      "zh-CN": "足球迷什么时候开始穿复制品套装？ | The Knowledge"
-    },
-    "summary": {
-      "en": "Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goalsMail us with your all of your questions and answers“When did fans wearing replica kits become a...",
-      "zh-CN": "此外：更昂贵（和有益的）红牌和攻击，拥有三个半世纪的国际目标请向我们发送您的所有问题和答案“粉丝什么时候穿着复制品套件成为......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits"
-  },
-  {
-    "id": "N_RSS_65350",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 239,
-    "title": {
-      "en": "Iranian football returns in the shadow of war and with row over last league title",
-      "zh-CN": "伊朗足球在战争的阴影下回归，争夺上届联赛冠军"
-    },
-    "summary": {
-      "en": "Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in IranThree months ago, Iran was one of the biggest stories in football as Team Melli arrived...",
-      "zh-CN": "由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，随着梅利队的到来，伊朗是足球界最大的故事之一..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
-  },
-  {
-    "id": "N_RSS_2995",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 50,
-    "title": {
-      "en": "WSL talking points: Olid must weather United storm, Arsenal wasteful again",
-      "zh-CN": "WSL谈话要点：奥利德必须经受住曼联风暴，阿森纳再次浪费"
-    },
-    "summary": {
-      "en": "Manchester United need to regroup after a heavy home loss to Chelsea while Crystal Palace frustrated the GunnersThe frustration among Manchester United fans at full-time was evident at Leigh Sports...",
-      "zh-CN": "在主场输给切尔西之后，曼联需要重新组合，而水晶宫让枪手感到沮丧曼联全职球迷的沮丧在Leigh Sports很明显......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal"
-  },
-  {
-    "id": "N_RSS_64574",
-    "type": "official",
-    "date": "2026-09-13",
-    "likes": 61,
-    "title": {
-      "en": "Sam Surridge in stoppage time denies Messi and Miami a win: MLS roundup",
-      "zh-CN": "Sam Surridge在停赛时间否认梅西和迈阿密获胜： MLS综述"
-    },
-    "summary": {
-      "en": "Sporting KC end a long winless run v LAFCCharlotte and Cincy play a six-goal thrillerGriezmann on target in Orlando City winSam Surridge scored an equalizer in the first minute of second-half...",
-      "zh-CN": "Sporting KC结束了LAFCCharlotte和Cincy在奥兰多城的胜利中打了一个六球惊悚片Griezmann Sam Surridge在下半场的第一分钟得到了一个均衡器......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/13/mls-lionel-messi-nashville-sc-sporting-kc-antoine-griezmann"
-  },
-  {
-    "id": "N_RSS_62841",
-    "type": "official",
-    "date": "2026-09-13",
-    "likes": 109,
-    "title": {
-      "en": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin",
-      "zh-CN": "恩佐·费尔南德斯（ Enzo Fernández ）的坚韧表明，马雷斯卡（ Maresca ）渴望城市重聚是正确的|威尔·"
-    },
-    "summary": {
-      "en": "Some scoffed at £125m price tag, but the Argentinian did the work of two midfielders after Phil Foden’s red cardEnzo Maresca does not pay the bills at Manchester City but he is ecstatic that those...",
-      "zh-CN": "有些人嘲笑1.25亿英镑的价格，但在菲尔·福登的红牌之后，阿根廷人做了两名中场球员的工作恩佐·马雷斯卡没有在曼城支付账单，但他欣喜若狂的是，那些..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby"
-  },
-  {
-    "id": "N_FIFA_69793",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 280,
-    "title": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "summary": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
-  },
-  {
-    "id": "N_FIFA_68264",
-    "type": "official",
-    "date": "2026-08-20",
-    "likes": 154,
-    "title": {
-      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
-    },
-    "summary": {
-      "en": "FIFA Women’s World Cup 2027™ champions to lift trophy at Maracanã as match schedule unveiled"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-brazil-maracana-match-schedule-unveiled"
-  },
-  {
-    "id": "N_RSS_37889",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 67,
-    "title": {
-      "en": "The big questions for Tuchel's first England squad since World Cup",
-      "zh-CN": "图切尔自世界杯以来第一支英格兰队面临的大问题"
-    },
-    "summary": {
-      "en": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport looks at the big questions facing the England boss.",
-      "zh-CN": "在托马斯·图切尔（ Thomas Tuchel ）命名他自周五世界杯以来的第一支球队之前，英国广播公司体育台（ BBC Sport ）着眼于英"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&at_campaign=rss"
   }
 ]
