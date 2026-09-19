@@ -1,5 +1,228 @@
 [
   {
+    "id": "N_RSS_32209",
+    "type": "official",
+    "date": "2026-09-19",
+    "likes": 91,
+    "title": {
+      "en": "Shambles at Spurs? They finally score but Villa leave with the points LIVE!",
+      "zh-CN": "马刺队的混乱？他们终于得分了，但别墅带着积分离开了！"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493"
+  },
+  {
+    "id": "N_RSS_24417",
+    "type": "official",
+    "date": "2026-09-19",
+    "likes": 223,
+    "title": {
+      "en": "Cardiff beat Charlton to record first win of the season",
+      "zh-CN": "卡迪夫击败查尔顿，创下本赛季首胜纪录"
+    },
+    "summary": {
+      "en": "Cardiff's long wait for a first win on their Championship return is finally over after Republic of Ireland star Jack Moylan scored a brace in their 3-1 home victory over Charlton.",
+      "zh-CN": "在爱尔兰共和国球星杰克·莫伊兰（ Jack Moylan ）以3比1主场战胜查尔顿（ Charlton ）后，加的夫（ Cardiff ）对冠军回归的第一场胜利的漫长等待终于结束了。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/cardiff-city-vs-charlton-athletic/report/560585"
+  },
+  {
+    "id": "N_RSS_99386",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 153,
+    "title": {
+      "en": "Will England boss Tuchel 'embrace the chaos'?",
+      "zh-CN": "英格兰老板图切尔会“拥抱混乱”吗？"
+    },
+    "summary": {
+      "en": "After the World Cup, England boss Thomas Tuchel wanted greater control. Two months on, he is keen to \"embrace the chaos\" after naming his squad for the upcoming Nations League fixtures.",
+      "zh-CN": "世界杯结束后，英格兰老板托马斯·图切尔（ Thomas Tuchel ）希望获得更大的控制权。两个月后，在为即将到来的国家联赛比赛命名球队后，他热衷于“拥抱混乱”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvrl64y9rdn9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_72463",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 300,
+    "title": {
+      "en": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
+      "zh-CN": "凯恩创造历史，奥利斯用帽子戏法演绎柏林拜仁鞭笞联盟"
+    },
+    "summary": {
+      "en": "HHarry Kane makes history by becoming the fastest player to reach 100 Bundesliga goals in his 98th game, while Michael Olise nets a hat-trick as Bayern Munich thrash Union Berlin 7-0.",
+      "zh-CN": "哈里·凯恩（ HHarry Kane ）在第98场比赛中成为最快达到100个德甲进球的球员，而迈克尔·奥利斯（ Michael Olise ）在拜仁慕尼黑（ Bayern Munich ）以7比0击败柏林联盟（ Union Berlin ）时获得帽子戏法。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/ck4gle1ep647o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_44995",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 199,
+    "title": {
+      "en": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
+      "zh-CN": "欧足联和CONCACAF DEMAND FIFA向所有211名成员支付1000万美元$"
+    },
+    "summary": {
+      "en": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its cash reserves to each of the 211 member associations.",
+      "zh-CN": "欧足联和Concacaf发表联合声明，呼吁国际足联从其现金储备中向211个成员协会中的每一个支付1000万$。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_50301",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 113,
+    "title": {
+      "en": "I have experienced racism a thousand times - Lamine Yamal",
+      "zh-CN": "我经历过一千次种族主义- Lamine Yamal"
+    },
+    "summary": {
+      "en": "Barcelona winger Lamine Yamal says he has experienced racism \"a thousand times\", because people are unaware their comments or behaviour are offensive.",
+      "zh-CN": "巴塞罗那边锋拉明·亚马尔（ Lamine Yamal ）说，他经历过“一千次”种族主义，因为人们不知道他们的评论或行为是冒犯性的。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ck05rv4q3176o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_68920",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 78,
+    "title": {
+      "en": "Northampton agree deal with Pato-led consortium",
+      "zh-CN": "北安普敦同意与Pato-led财团达成协议"
+    },
+    "summary": {
+      "en": "Northampton reach agreement with a consortium including former Brazil forward Alexandre Pato over a \"proposed shareholding acquisition\".",
+      "zh-CN": "北安普敦与包括前巴西前锋Alexandre Pato在内的财团就“拟议的股权收购”达成协议。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6qxvd5vv33wo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_58678",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 102,
+    "title": {
+      "en": "Sorensen to join Republic of Ireland coaching staff",
+      "zh-CN": "Sorensen将加入爱尔兰共和国教练组"
+    },
+    "summary": {
+      "en": "Former Everton manager Brian Sorensen is set to join the Republic of Ireland squad for their Women's World Cup play-off qualifiers this year.",
+      "zh-CN": "前埃弗顿主教练布莱恩·索伦森（ Brian Sorensen ）今年将加入爱尔兰共和国队，参加女足世界杯附加赛预选赛。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqj9x8kr0dm2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_21536",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 84,
+    "title": {
+      "en": "Brentford blitz Chelsea as Fábio Carvalho caps stunning second-half display",
+      "zh-CN": "布伦特福德闪电战切尔西，法比奥·卡瓦略（ Fábio Carvalho ）出演令人惊叹的下半场表演"
+    },
+    "summary": {
+      "en": "Those early-season thoughts that Chelsea might be the team best-placed to challenge Arsenal are beginning to look extremely over-optimistic. The two chaotic wins with which they began were always...",
+      "zh-CN": "那些认为切尔西可能是最适合挑战阿森纳的球队的赛季初想法开始显得过于乐观。他们开始的两场混乱的胜利总是……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/18/brentford-chelsea-premier-league-match-report"
+  },
+  {
+    "id": "N_RSS_44542",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 212,
+    "title": {
+      "en": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
+      "zh-CN": "哈里·凯恩在第98场比赛中以最快的速度打入100个德甲进球"
+    },
+    "summary": {
+      "en": "Striker’s double helps Bayern Munich beat Union Berlin 7-0Dieter Müller’s record of 129 games had stood since 1977Harry Kane broke the 49-year-old record for the fastest player to score 100...",
+      "zh-CN": "前锋的双打帮助拜仁慕尼黑以7-0击败柏林联盟迪特尔·穆勒自1977年以来的129场比赛的纪录哈里·凯恩打破了49岁的纪录，成为得分100的最快球员..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game"
+  },
+  {
+    "id": "N_RSS_95673",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 114,
+    "title": {
+      "en": "Thomas Tuchel’s shot at redemption begins with England’s tricky Nations League tests",
+      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）的救赎机会始于英格兰棘手的国家联赛测试"
+    },
+    "summary": {
+      "en": "It is hard to know whether haters will ever accept manager’s failed tactical shift against Argentina but positive start to preparation for Euros might helpThomas Tuchel has been back around the...",
+      "zh-CN": "很难知道仇恨者是否会接受经理对阿根廷失败的战术转变，但积极开始准备欧元可能会帮助托马斯·图切尔（ Thomas Tuchel ）回到..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/thomas-tuchels-shot-at-redemption-begins-with-englands-tricky-nations-league-tests"
+  },
+  {
+    "id": "N_RSS_25481",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 118,
+    "title": {
+      "en": "Football Daily | Michael Carrick risks untimely spell in the ‘crisis’ box seat with Manchester United",
+      "zh-CN": "《足球日报》|迈克尔·卡里克冒险在曼联的“危机”席位上拼写不合时宜"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Following the conclusion of this weekend’s round of Premier League fixtures, football fans have what promises to be an exceptionally long,...",
+      "zh-CN": "立即注册！立即注册！立即注册？立即注册！在本周末的英超联赛赛程结束后，足球迷们有望拥有一段非常长的时间，..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/football-daily-email-manchester-united"
+  },
+  {
+    "id": "N_RSS_95159",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 287,
+    "title": {
+      "en": "Glory at 11,000ft: Cusco’s Cienciano aim to bring Peru continental success once again",
+      "zh-CN": "11,000英尺的辉煌： Cusco的Cienciano旨在再次为秘鲁大陆带来成功"
+    },
+    "summary": {
+      "en": "Cusco is known for tourism. But the city’s biggest football team is chasing a repeat of a South American title that caused shockwaves more than 20 years agoIt was one of those nights when Cusco...",
+      "zh-CN": "库斯科以旅游闻名。但该市最大的足球队正在追逐20多年前引发冲击波的南美冠军头衔的重演这是库斯科..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/glory-at-11000ft-cuscos-cienciano-aim-to-bring-peru-continental-success-once-again"
+  },
+  {
+    "id": "N_RSS_79093",
+    "type": "official",
+    "date": "2026-09-14",
+    "likes": 147,
+    "title": {
+      "en": "‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe",
+      "zh-CN": "“非常虚弱。非常糟糕” ：罗德里的判决如何暴露了可悲的瓦伦西亚危机| Sid Lowe"
+    },
+    "summary": {
+      "en": "The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeperKiat Lim wanted to see Valencia play so badly, so that...",
+      "zh-CN": "这位世界杯冠军的即兴评估非常诚实。几天之内，他们的经理和首席执行官就不见了，但问题更加严重。Kiat Lim希望看到瓦伦西亚表现如此糟糕，以至于..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
+  },
+  {
     "id": "N_RSS_23169",
     "type": "official",
     "date": "2026-09-19",
@@ -250,220 +473,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby"
-  },
-  {
-    "id": "N_FIFA_31974",
-    "type": "official",
-    "date": "2026-08-28",
-    "likes": 338,
-    "title": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
-    },
-    "summary": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
-  },
-  {
-    "id": "N_FIFA_42435",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 206,
-    "title": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "summary": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
-  },
-  {
-    "id": "N_FIFA_44419",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 325,
-    "title": {
-      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September",
-      "zh-CN": "国际足联东盟杯™将于9月24日联合东南亚及其他地区的14个国家"
-    },
-    "summary": {
-      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/asean-cup-unite-14-nations-across-southeast-asia-beyond-24-september"
-  },
-  {
-    "id": "N_FIFA_436",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 86,
-    "title": {
-      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window",
-      "zh-CN": "2026年世界杯™在年中转会窗口感受到的影响"
-    },
-    "summary": {
-      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-impact-mid-year-transfer-window"
-  },
-  {
-    "id": "N_FIFA_79283",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 295,
-    "title": {
-      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October",
-      "zh-CN": "今年10月，在吉达举行的2026年FIFAe总决赛上，迄今为止最大的足球电子竞技赛季达到高潮"
-    },
-    "summary": {
-      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
-  },
-  {
-    "id": "N_RSS_78342",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 247,
-    "title": {
-      "en": "Senegal job an 'absolute dream' for new boss Vieira",
-      "zh-CN": "塞内加尔工作是新老板维埃拉的“绝对梦想”"
-    },
-    "summary": {
-      "en": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
-      "zh-CN": "1998年世界杯冠军、前法国国脚帕特里克·维埃拉（ Patrick Vieira ）表示，掌管他出生的国家塞内加尔是一种“荣誉”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_56291",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 227,
-    "title": {
-      "en": "Palmer and Alexander-Arnold recalled to England squad",
-      "zh-CN": "帕尔默和亚历山大-阿诺德召回英格兰队"
-    },
-    "summary": {
-      "en": "Trent Alexander-Arnold and Cole Palmer have been recalled to the England squad by Thomas Tuchel for the upcoming Nations League games.",
-      "zh-CN": "特伦特·亚历山大·阿诺德（ Trent Alexander-Arnold ）和科尔·帕尔默（ Cole Palmer ）已被托马斯·图切尔（ Thomas Tuchel ）召回英格"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13589193/trent-alexander-arnold-and-cole-palmer-recalled-to-england-squad-for-nations-league-games-by-thomas-tuchel"
-  },
-  {
-    "id": "N_RSS_806",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 111,
-    "title": {
-      "en": "'Embrace the chaos' - What we learnt from Tuchel's England picks",
-      "zh-CN": "“拥抱混乱” --我们从Tuchel的英格兰精选中学到了什么"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13589219/england-squad-thomas-tuchels-three-lions-selections-analysed-as-trent-alexander-arnold-and-cole-palmer-return-after-world-cup"
-  },
-  {
-    "id": "N_RSS_64250",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 196,
-    "title": {
-      "en": "England latest: 'Never a doubt' - Tuchel says his job was safe after World Cup",
-      "zh-CN": "英格兰最新消息： “从不怀疑” -图切尔说，他的工作在世界杯后是安全的"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
-  },
-  {
-    "id": "N_RSS_74983",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 103,
-    "title": {
-      "en": "Trent Alexander-Arnold recalled by England but with a warning from Thomas Tuchel",
-      "zh-CN": "特伦特·亚历山大·阿诺德（ Trent Alexander-Arnold ）被英格兰召回，但托马斯·"
-    },
-    "summary": {
-      "en": "Real Madrid player must help improve defensive solidityScott, Hall, Lewis-Skelly and Calvert-Lewin selectedThomas Tuchel has told Trent Alexander-Arnold he must bring defensive solidity to the...",
-      "zh-CN": "皇家马德里球员必须帮助提高防守可靠性斯科特、霍尔、刘易斯-斯凯利和卡尔弗特-莱温选择托马斯·图切尔告诉特伦特·亚历山大-阿诺德，他必须为……带来防守可靠性"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-returns-england-squad-cole-palmer-rio-ngumoha-alex-scott-thomas-tuchel"
-  },
-  {
-    "id": "N_RSS_93542",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 118,
-    "title": {
-      "en": "Uefa and Concacaf ask Gianni Infantino to give Fifa’s billions to its member associations",
-      "zh-CN": "欧足联和Concacaf要求Gianni Infantino将国际足联的数十亿美元捐给其成员协会"
-    },
-    "summary": {
-      "en": "Payout of at least $10m to each association proposed Leaders want plan to be considered by Fifa CouncilThe presidents of Uefa and Concacaf have written to Gianni Infantino requesting that Fifa...",
-      "zh-CN": "向每个拟议协会支付至少1000万$的领导人希望计划由国际足联理事会审议欧足联和Concacaf的总裁已致函Gianni Infantino ，要求国际足联......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/uefa-concacaf-gianni-infantino-fifa-billions-member-associations"
-  },
-  {
-    "id": "N_RSS_44118",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 221,
-    "title": {
-      "en": "Case not proven: Trent Alexander-Arnold’s England recall is based on patchy evidence",
-      "zh-CN": "个案未得到证实： Trent Alexander-Arnold的英格兰召回是基于不完整的证据"
-    },
-    "summary": {
-      "en": "Thomas Tuchel promises to play the full-back in his natural right-sided position but we have not seen enough of him this term to gauge his formThomas Tuchel said Trent Alexander Arnold had enjoyed a...",
-      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）承诺以他天生的右侧位置打边后卫，但我们这个学期还没有看到足够的他来衡量他的状态托马斯·图切尔（ Thomas Tuchel ）说特伦特·亚历山大·阿诺德（ Trent Alexander Arnold ）享受了......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-england-recall-patchy-evidence"
-  },
-  {
-    "id": "N_RSS_59178",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 186,
-    "title": {
-      "en": "FA chair demands Infantino release World Cup sell-off documents",
-      "zh-CN": "足协主席要求Infantino发布世界杯抛售文件"
-    },
-    "summary": {
-      "en": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
-      "zh-CN": "国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）被告知要公布与他有争议的出售世界杯股份的计划有关的所有文件。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_66960",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 161,
-    "title": {
-      "en": "USA midfielder sues doctors after on-pitch cardiac arrest",
-      "zh-CN": "美国中场球员在球场上心脏骤停后起诉医生"
-    },
-    "summary": {
-      "en": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a cardiac arrest on the pitch last year.",
-      "zh-CN": "去年，美国女子国家队球员萨凡纳·德梅洛（ Savannah DeMelo ）在球场上心脏骤停后，起诉了一家医院和两名医生。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss"
   }
 ]
