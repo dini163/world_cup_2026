@@ -1,5 +1,282 @@
 [
   {
+    "id": "N_FIFA_44419",
+    "type": "official",
+    "date": "2026-09-19",
+    "likes": 325,
+    "title": {
+      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September",
+      "zh-CN": "国际足联东盟杯™将于9月24日联合东南亚及其他地区的14个国家"
+    },
+    "summary": {
+      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/asean-cup-unite-14-nations-across-southeast-asia-beyond-24-september"
+  },
+  {
+    "id": "N_FIFA_436",
+    "type": "official",
+    "date": "2026-09-19",
+    "likes": 86,
+    "title": {
+      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window",
+      "zh-CN": "2026年世界杯™在年中转会窗口感受到的影响"
+    },
+    "summary": {
+      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-impact-mid-year-transfer-window"
+  },
+  {
+    "id": "N_FIFA_79283",
+    "type": "official",
+    "date": "2026-09-19",
+    "likes": 295,
+    "title": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October",
+      "zh-CN": "今年10月，在吉达举行的2026年FIFAe总决赛上，迄今为止最大的足球电子竞技赛季达到高潮"
+    },
+    "summary": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
+  },
+  {
+    "id": "N_RSS_78342",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 247,
+    "title": {
+      "en": "Senegal job an 'absolute dream' for new boss Vieira",
+      "zh-CN": "塞内加尔工作是新老板维埃拉的“绝对梦想”"
+    },
+    "summary": {
+      "en": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of Senegal, the nation of his birth, is an \"honour\".",
+      "zh-CN": "1998年世界杯冠军、前法国国脚帕特里克·维埃拉（ Patrick Vieira ）表示，掌管他出生的国家塞内加尔是一种“荣誉”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_56291",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 227,
+    "title": {
+      "en": "Palmer and Alexander-Arnold recalled to England squad",
+      "zh-CN": "帕尔默和亚历山大-阿诺德召回英格兰队"
+    },
+    "summary": {
+      "en": "Trent Alexander-Arnold and Cole Palmer have been recalled to the England squad by Thomas Tuchel for the upcoming Nations League games.",
+      "zh-CN": "特伦特·亚历山大·阿诺德（ Trent Alexander-Arnold ）和科尔·帕尔默（ Cole Palmer ）已被托马斯·图切尔（ Thomas Tuchel ）召回英格"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13589193/trent-alexander-arnold-and-cole-palmer-recalled-to-england-squad-for-nations-league-games-by-thomas-tuchel"
+  },
+  {
+    "id": "N_RSS_806",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 111,
+    "title": {
+      "en": "'Embrace the chaos' - What we learnt from Tuchel's England picks",
+      "zh-CN": "“拥抱混乱” --我们从Tuchel的英格兰精选中学到了什么"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13589219/england-squad-thomas-tuchels-three-lions-selections-analysed-as-trent-alexander-arnold-and-cole-palmer-return-after-world-cup"
+  },
+  {
+    "id": "N_RSS_64250",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 196,
+    "title": {
+      "en": "England latest: 'Never a doubt' - Tuchel says his job was safe after World Cup",
+      "zh-CN": "英格兰最新消息： “从不怀疑” -图切尔说，他的工作在世界杯后是安全的"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
+  },
+  {
+    "id": "N_RSS_74983",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 103,
+    "title": {
+      "en": "Trent Alexander-Arnold recalled by England but with a warning from Thomas Tuchel",
+      "zh-CN": "特伦特·亚历山大·阿诺德（ Trent Alexander-Arnold ）被英格兰召回，但托马斯·"
+    },
+    "summary": {
+      "en": "Real Madrid player must help improve defensive solidityScott, Hall, Lewis-Skelly and Calvert-Lewin selectedThomas Tuchel has told Trent Alexander-Arnold he must bring defensive solidity to the...",
+      "zh-CN": "皇家马德里球员必须帮助提高防守可靠性斯科特、霍尔、刘易斯-斯凯利和卡尔弗特-莱温选择托马斯·图切尔告诉特伦特·亚历山大-阿诺德，他必须为……带来防守可靠性"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-returns-england-squad-cole-palmer-rio-ngumoha-alex-scott-thomas-tuchel"
+  },
+  {
+    "id": "N_RSS_93542",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 118,
+    "title": {
+      "en": "Uefa and Concacaf ask Gianni Infantino to give Fifa’s billions to its member associations",
+      "zh-CN": "欧足联和Concacaf要求Gianni Infantino将国际足联的数十亿美元捐给其成员协会"
+    },
+    "summary": {
+      "en": "Payout of at least $10m to each association proposed Leaders want plan to be considered by Fifa CouncilThe presidents of Uefa and Concacaf have written to Gianni Infantino requesting that Fifa...",
+      "zh-CN": "向每个拟议协会支付至少1000万$的领导人希望计划由国际足联理事会审议欧足联和Concacaf的总裁已致函Gianni Infantino ，要求国际足联......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/18/uefa-concacaf-gianni-infantino-fifa-billions-member-associations"
+  },
+  {
+    "id": "N_RSS_44118",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 221,
+    "title": {
+      "en": "Case not proven: Trent Alexander-Arnold’s England recall is based on patchy evidence",
+      "zh-CN": "个案未得到证实： Trent Alexander-Arnold的英格兰召回是基于不完整的证据"
+    },
+    "summary": {
+      "en": "Thomas Tuchel promises to play the full-back in his natural right-sided position but we have not seen enough of him this term to gauge his formThomas Tuchel said Trent Alexander Arnold had enjoyed a...",
+      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）承诺以他天生的右侧位置打边后卫，但我们这个学期还没有看到足够的他来衡量他的状态托马斯·图切尔（ Thomas Tuchel ）说特伦特·亚历山大·阿诺德（ Trent Alexander Arnold ）享受了......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-england-recall-patchy-evidence"
+  },
+  {
+    "id": "N_RSS_59178",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 186,
+    "title": {
+      "en": "FA chair demands Infantino release World Cup sell-off documents",
+      "zh-CN": "足协主席要求Infantino发布世界杯抛售文件"
+    },
+    "summary": {
+      "en": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial plan to sell off a stake in the World Cup.",
+      "zh-CN": "国际足联主席詹尼·因凡蒂诺（ Gianni Infantino ）被告知要公布与他有争议的出售世界杯股份的计划有关的所有文件。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_66960",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 161,
+    "title": {
+      "en": "USA midfielder sues doctors after on-pitch cardiac arrest",
+      "zh-CN": "美国中场球员在球场上心脏骤停后起诉医生"
+    },
+    "summary": {
+      "en": "United States women's national team player Savannah DeMelo is suing a hospital and two doctors after she suffered a cardiac arrest on the pitch last year.",
+      "zh-CN": "去年，美国女子国家队球员萨凡纳·德梅洛（ Savannah DeMelo ）在球场上心脏骤停后，起诉了一家医院和两名医生。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6j4jlqgeejvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_54530",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 243,
+    "title": {
+      "en": "FA chair Hewitt demands Infantino release records of failed World Cup plan",
+      "zh-CN": "足协主席休伊特要求因凡蒂诺公布世界杯计划失败的记录"
+    },
+    "summary": {
+      "en": "Letter sent before Fifa council meeting on 15 OctoberInfantino under pressure before presidential electionThe Football Association’s chair, Debbie Hewitt, has written to Gianni Infantino demanding...",
+      "zh-CN": "在10月15日国际足联理事会会议之前发出的信函在总统选举前的压力下， Infantino足球协会主席Debbie Hewitt写信给Gianni Infantino ，要求......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
+  },
+  {
+    "id": "N_RSS_97318",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 166,
+    "title": {
+      "en": "Thomas Tuchel’s shot at redemption begins with England’s tricky Nations League tests",
+      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）的救赎机会始于英格兰棘手的国家联赛测试"
+    },
+    "summary": {
+      "en": "It is hard to know whether haters will ever accept manager’s failed tactical shift against Argentina but positive start to preparation for Euros might helpThomas Tuchel has been back around the...",
+      "zh-CN": "很难知道仇恨者是否会接受经理对阿根廷失败的战术转变，但积极开始准备欧元可能会帮助托马斯·图切尔（ Thomas Tuchel ）回到..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/thomas-tuchels-shot-at-redemption-begins-with-englands-tricky-nations-league-tests"
+  },
+  {
+    "id": "N_RSS_28587",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 186,
+    "title": {
+      "en": "Football Daily | Michael Carrick risks untimely spell in the ‘crisis’ box seat with Manchester United",
+      "zh-CN": "《足球日报》|迈克尔·卡里克冒险在曼联的“危机”席位上拼写不合时宜"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Following the conclusion of this weekend’s round of Premier League fixtures, football fans have what promises to be an exceptionally long,...",
+      "zh-CN": "立即注册！立即注册！立即注册？立即注册！在本周末的英超联赛赛程结束后，足球迷们有望拥有一段非常长的时间，..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/football-daily-email-manchester-united"
+  },
+  {
+    "id": "N_RSS_22958",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 75,
+    "title": {
+      "en": "Glory at 11,000ft: Cusco’s Cienciano aim to bring Peru continental success once again"
+    },
+    "summary": {
+      "en": "Cusco is known for tourism. But the city’s biggest football team is chasing a repeat of a South American title that caused shockwaves more than 20 years agoIt was one of those nights when Cusco..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/glory-at-11000ft-cuscos-cienciano-aim-to-bring-peru-continental-success-once-again"
+  },
+  {
+    "id": "N_RSS_31284",
+    "type": "official",
+    "date": "2026-09-15",
+    "likes": 92,
+    "title": {
+      "en": "Cardiff to host 2029 women's Champions League final"
+    },
+    "summary": {
+      "en": "Uefa have confirmed a number of host appointments for upcoming finals, with Cardiff's Principality Stadium set to host the 2029 women's Champions League final."
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmrer2j8lnr2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_35536",
+    "type": "official",
+    "date": "2026-09-14",
+    "likes": 151,
+    "title": {
+      "en": "‘Very weak. Very bad’: how Rodri’s verdict exposed woeful Valencia’s crisis | Sid Lowe"
+    },
+    "summary": {
+      "en": "The World Cup winner’s off-the-cuff assessment was brutally honest. Within days their manager and CEO were gone, but the problems run much deeperKiat Lim wanted to see Valencia play so badly, so that..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/14/valencia-rodri-carlos-corberan-la-liga"
+  },
+  {
     "id": "N_RSS_72862",
     "type": "official",
     "date": "2026-09-18",
@@ -189,280 +466,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game"
-  },
-  {
-    "id": "N_RSS_53986",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 60,
-    "title": {
-      "en": "Jürgen Klopp wants his Germany team to reclaim national pride from ‘the wrong people’",
-      "zh-CN": "Jürgen Klopp希望他的德国团队从“错误的人”手中夺回民族自豪感"
-    },
-    "summary": {
-      "en": "Comments follow far-right election win in Saxony-Anhalt‘I’d like to reclaim the flag for myself and for us,’ he saysJürgen Klopp has said Germany’s football team can help ensure “national pride is...",
-      "zh-CN": "他说，在萨克森-安哈尔特州的极右翼选举胜利后发表的评论“我想为自己和我们夺回国旗，”他说，德国足球队可以帮助确保“民族自豪感......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/17/jurgen-klopp-germany-reclaim-national-pride-wrong-people-afd"
-  },
-  {
-    "id": "N_RSS_16306",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 160,
-    "title": {
-      "en": "Laura Kaminski relishing trophy hunt at Brann after Crystal Palace ‘crash course’",
-      "zh-CN": "水晶宫“速成课程”结束后，劳拉·卡明斯基（ Laura Kaminski ）在布兰（ Brann ）享受奖杯狩"
-    },
-    "summary": {
-      "en": "Former Palace head coach has won a cup final in Norway and says chance to challenge for league title was a pull“When it’s a good day, it’s absolutely stunning, so we’ll take that,” Laura Kaminski...",
-      "zh-CN": "前宫殿主教练在挪威赢得了一场杯赛决赛，并表示有机会挑战联赛冠军是一种吸引力“当这是一个美好的一天，这绝对是令人惊叹的，所以我们会接受这一点，”劳拉卡明斯基..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/17/laura-kaminski-brann-crystal-palace-moving-the-goalposts"
-  },
-  {
-    "id": "N_RSS_10715",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 71,
-    "title": {
-      "en": "When did football fans first start wearing replica kits? | The Knowledge",
-      "zh-CN": "足球迷什么时候开始穿复制品套装？ | The Knowledge"
-    },
-    "summary": {
-      "en": "Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goalsMail us with your all of your questions and answers“When did fans wearing replica kits become a...",
-      "zh-CN": "此外：更昂贵（和有益的）红牌和攻击，拥有三个半世纪的国际目标请向我们发送您的所有问题和答案“粉丝什么时候穿着复制品套件成为......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits"
-  },
-  {
-    "id": "N_RSS_83018",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 89,
-    "title": {
-      "en": "The Hotspot | South Korea pushes for football season to make winter switch after unbearable summer"
-    },
-    "summary": {
-      "en": "Why fainting fans and perspiring players are a worry for the Asian league seeking to follow Japan and align with EuropeSouth Korean football is trying to find the goldilocks time to play the..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/sport/2026/sep/14/south-korea-football-season-heat-summer-the-hotspot"
-  },
-  {
-    "id": "N_RSS_411",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 184,
-    "title": {
-      "en": "WSL talking points: Olid must weather United storm, Arsenal wasteful again"
-    },
-    "summary": {
-      "en": "Manchester United need to regroup after a heavy home loss to Chelsea while Crystal Palace frustrated the GunnersThe frustration among Manchester United fans at full-time was evident at Leigh Sports..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal"
-  },
-  {
-    "id": "N_RSS_71091",
-    "type": "official",
-    "date": "2026-09-13",
-    "likes": 116,
-    "title": {
-      "en": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin"
-    },
-    "summary": {
-      "en": "Some scoffed at £125m price tag, but the Argentinian did the work of two midfielders after Phil Foden’s red cardEnzo Maresca does not pay the bills at Manchester City but he is ecstatic that those..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby"
-  },
-  {
-    "id": "N_FIFA_29373",
-    "type": "official",
-    "date": "2026-08-28",
-    "likes": 108,
-    "title": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
-    },
-    "summary": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
-  },
-  {
-    "id": "N_FIFA_83946",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 127,
-    "title": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "summary": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
-  },
-  {
-    "id": "N_RSS_98583",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 77,
-    "title": {
-      "en": "Liverpool watch £51.5m-rated Smit - Saturday's gossip",
-      "zh-CN": "利物浦手表£ 51.5m-分级Smit -周六的八卦"
-    },
-    "summary": {
-      "en": "Netherlands midfielder Kees Smit is watched by Liverpool, Tottenham lead the race for Brazil defender Arthur Dias and Monaco's Folarin Balogun is expected to leave in January.",
-      "zh-CN": "利物浦正在观看荷兰中场Kees Smit的比赛，托特纳姆热刺队领先巴西后卫Arthur Dias的比赛，摩纳哥的Folarin Balogun预计将于1月份离开。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cwd083944eeko?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_53001",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 207,
-    "title": {
-      "en": "Tuchel recalls Alexander-Arnold and Palmer with warning",
-      "zh-CN": "Tuchel警告地回忆起Alexander-Arnold和Palmer"
-    },
-    "summary": {
-      "en": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to \"perform\".",
-      "zh-CN": "英格兰老板托马斯·图切尔（ Thomas Tuchel ）回忆起特伦特·亚历山大·阿诺德（ Trent Alexander-Arnold ）和科尔"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_83916",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 55,
-    "title": {
-      "en": "Tuchel recalls Palmer and Alexander-Arnold for England",
-      "zh-CN": "图切尔回忆起英格兰的帕尔默和亚历山大-阿诺德"
-    },
-    "summary": {
-      "en": "Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer to his first England squad since the 2026 World Cup.",
-      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）回忆起特伦特·亚历山大·阿诺德（ Trent Alexander-Arnold ）和科尔·帕尔默（ Cole Pal"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c61wx5x33jyjo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_39173",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 212,
-    "title": {
-      "en": "Record-breaking Kane brings up his Bayern Bundesliga century",
-      "zh-CN": "破纪录的凯恩带来了他的拜仁德甲世纪"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
-  },
-  {
-    "id": "N_RSS_51758",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 177,
-    "title": {
-      "en": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
-      "zh-CN": "Kylian Mbappé在20年后离开耐克，与瑞士品牌On签订靴子协议"
-    },
-    "summary": {
-      "en": "France captain also becomes a shareholder in company‘We have a shared dream, and this is only the beginning’Kylian Mbappé has ended a 20-year association with Nike to sign a boot deal with the Swiss...",
-      "zh-CN": "法国队长也成为公司的股东'我们有一个共同的梦想，这只是开始' Kylian Mbappé与耐克结束了20年的合作关系，与瑞士队签订了一份靴子协议......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on"
-  },
-  {
-    "id": "N_RSS_80810",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 158,
-    "title": {
-      "en": "Tuchel should listen to ‘the 0.1%’ and learn from England’s World Cup mistakes | Jacob Steinberg",
-      "zh-CN": "Tuchel应该听取“0.1 ％”的意见，并从英格兰世界杯的错误中吸取教训| Jacob Steinberg"
-    },
-    "summary": {
-      "en": "Head coach is keen to focus on positives but Nations League squad hints at desire for greater tactical optionsThomas Tuchel should be listening to the 0.1%. As he unveiled his first England squad...",
-      "zh-CN": "主教练热衷于关注积极因素，但国家联盟球队暗示渴望获得更多战术选择托马斯·图切尔（ Thomas Tuchel ）应该倾听0.1%。当他揭开他的第一支英格兰队的面纱时……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/thomas-tuchel-england-squad-world-cup-mistakes-nations-league"
-  },
-  {
-    "id": "N_RSS_30667",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 188,
-    "title": {
-      "en": "Socceroos captain Maty Ryan axed for Brazil friendlies",
-      "zh-CN": "足球队队长Maty Ryan为巴西友谊赛出场"
-    },
-    "summary": {
-      "en": "Goalkeeper dropped despite strong start to La Liga seasonSeven uncapped players called into 26-man Australia squadMaty Ryan’s Socceroos days aren’t done, insists coach Tony Popovoc, despite the...",
-      "zh-CN": "尽管西甲联赛赛季开局强劲，但守门员还是下降了七名没有上限的球员被召入26人澳大利亚队Maty Ryan的足球日还没有完成，教练Tony Popovoc坚持认为，尽管......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/socceroos-captain-maty-ryan-droppedr-brazil-vs-australia-friendlies"
-  },
-  {
-    "id": "N_RSS_40056",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 260,
-    "title": {
-      "en": "Football Daily | Spying some tasty match-ups, from Wrexham v Saints to desperation derbies",
-      "zh-CN": "足球日报|间谍一些美味的对决，从雷克瑟姆v圣徒到绝望的德比"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Before an engorged international break we have a gala weekend of derby games. Some of them are familiar, others rather longer in the waiting, others...",
-      "zh-CN": "立即注册！立即注册！立即注册？立即注册！在充满活力的国际休息之前，我们有一个德比比赛的周末盛会。有些人很熟悉，有些人等待的时间更长，有些人……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/weekend-derbies-football-daily-newsletter"
-  },
-  {
-    "id": "N_FIFA_69157",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 243,
-    "title": {
-      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials",
-      "zh-CN": "国际足联独立伦理委员会审判庭制裁前足球官员"
-    },
-    "summary": {
-      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/adjudicatory-chamber-independent-ethics-committee-sanctions-former-football-officials"
-  },
-  {
-    "id": "N_FIFA_70625",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 392,
-    "title": {
-      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™",
-      "zh-CN": "国际足联女足世界杯巴西2027™志愿者申请正式开放"
-    },
-    "summary": {
-      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/volunteer-applications-open-womens-world-cup-brazil-2027"
   }
 ]
