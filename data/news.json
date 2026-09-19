@@ -1,5 +1,83 @@
 [
   {
+    "id": "N_FIFA_67728",
+    "type": "official",
+    "date": "2026-09-19",
+    "likes": 113,
+    "title": {
+      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials",
+      "zh-CN": "国际足联独立伦理委员会审判庭制裁前足球官员"
+    },
+    "summary": {
+      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/adjudicatory-chamber-independent-ethics-committee-sanctions-former-football-officials"
+  },
+  {
+    "id": "N_FIFA_91223",
+    "type": "official",
+    "date": "2026-09-19",
+    "likes": 288,
+    "title": {
+      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联女足世界杯巴西2027™志愿者申请正式开放"
+    },
+    "summary": {
+      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/volunteer-applications-open-womens-world-cup-brazil-2027"
+  },
+  {
+    "id": "N_RSS_54413",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 188,
+    "title": {
+      "en": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
+      "zh-CN": "哈里·凯恩在第98场比赛中以最快的速度打入100个德甲进球"
+    },
+    "summary": {
+      "en": "Striker’s double helps Bayern Munich beat Union Berlin 7-0Dieter Müller’s record of 129 games had stood since 1977Harry Kane broke the 49-year-old record for the fastest player to score 100...",
+      "zh-CN": "前锋的双打帮助拜仁慕尼黑以7-0击败柏林联盟迪特尔·穆勒自1977年以来的129场比赛的纪录哈里·凯恩打破了49岁的纪录，成为得分100的最快球员..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game"
+  },
+  {
+    "id": "N_RSS_64928",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 100,
+    "title": {
+      "en": "Brentford blitz Chelsea as Fábio Carvalho caps stunning second-half display",
+      "zh-CN": "布伦特福德闪电战切尔西，法比奥·卡瓦略（ Fábio Carvalho ）出演令人惊叹的下半场表演"
+    },
+    "summary": {
+      "en": "Those early-season thoughts that Chelsea might be the team best-placed to challenge Arsenal are beginning to look extremely over-optimistic. The two chaotic wins with which they began were always...",
+      "zh-CN": "那些认为切尔西可能是最适合挑战阿森纳的球队的赛季初想法开始显得过于乐观。他们开始的两场混乱的胜利总是……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/18/brentford-chelsea-premier-league-match-report"
+  },
+  {
+    "id": "N_RSS_99292",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 184,
+    "title": {
+      "en": "Football Daily | Michael Carrick risks untimely spell in the ‘crisis’ box seat with Manchester United",
+      "zh-CN": "《足球日报》|迈克尔·卡里克冒险在曼联的“危机”席位上拼写不合时宜"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Following the conclusion of this weekend’s round of Premier League fixtures, football fans have what promises to be an exceptionally long,...",
+      "zh-CN": "立即注册！立即注册！立即注册？立即注册！在本周末的英超联赛赛程结束后，足球迷们有望拥有一段非常长的时间，..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/football-daily-email-manchester-united"
+  },
+  {
     "id": "N_RSS_72635",
     "type": "official",
     "date": "2026-09-19",
@@ -394,83 +472,5 @@
     },
     "source": "FIFA Official",
     "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
-  },
-  {
-    "id": "N_FIFA_61815",
-    "type": "official",
-    "date": "2026-08-25",
-    "likes": 286,
-    "title": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
-      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
-    },
-    "summary": {
-      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
-  },
-  {
-    "id": "N_RSS_32209",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 91,
-    "title": {
-      "en": "Shambles at Spurs? They finally score but Villa leave with the points LIVE!",
-      "zh-CN": "马刺队的混乱？他们终于得分了，但别墅带着积分离开了！"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/live/559493"
-  },
-  {
-    "id": "N_RSS_24417",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 223,
-    "title": {
-      "en": "Cardiff beat Charlton to record first win of the season",
-      "zh-CN": "卡迪夫击败查尔顿，创下本赛季首胜纪录"
-    },
-    "summary": {
-      "en": "Cardiff's long wait for a first win on their Championship return is finally over after Republic of Ireland star Jack Moylan scored a brace in their 3-1 home victory over Charlton.",
-      "zh-CN": "在爱尔兰共和国球星杰克·莫伊兰（ Jack Moylan ）以3比1主场战胜查尔顿（ Charlton ）后，加的夫（ Cardiff ）对冠军回归的第一场胜利的漫长等待终于结束了。"
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/cardiff-city-vs-charlton-athletic/report/560585"
-  },
-  {
-    "id": "N_RSS_99386",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 153,
-    "title": {
-      "en": "Will England boss Tuchel 'embrace the chaos'?",
-      "zh-CN": "英格兰老板图切尔会“拥抱混乱”吗？"
-    },
-    "summary": {
-      "en": "After the World Cup, England boss Thomas Tuchel wanted greater control. Two months on, he is keen to \"embrace the chaos\" after naming his squad for the upcoming Nations League fixtures.",
-      "zh-CN": "世界杯结束后，英格兰老板托马斯·图切尔（ Thomas Tuchel ）希望获得更大的控制权。两个月后，在为即将到来的国家联赛比赛命名球队后，他热衷于“拥抱混乱”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvrl64y9rdn9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_72463",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 300,
-    "title": {
-      "en": "Kane makes history and Olise nets hat-trick as Bayern thrash Union Berlin",
-      "zh-CN": "凯恩创造历史，奥利斯用帽子戏法演绎柏林拜仁鞭笞联盟"
-    },
-    "summary": {
-      "en": "HHarry Kane makes history by becoming the fastest player to reach 100 Bundesliga goals in his 98th game, while Michael Olise nets a hat-trick as Bayern Munich thrash Union Berlin 7-0.",
-      "zh-CN": "哈里·凯恩（ HHarry Kane ）在第98场比赛中成为最快达到100个德甲进球的球员，而迈克尔·奥利斯（ Michael Olise ）在拜仁慕尼黑（ Bayern Munich ）以7比0击败柏林联盟（ Union Berlin ）时获得帽子戏法。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/ck4gle1ep647o?at_medium=RSS&at_campaign=rss"
   }
 ]
