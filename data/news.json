@@ -1,5 +1,52 @@
 [
   {
+    "id": "N_RSS_11564",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 171,
+    "title": {
+      "en": "Will England boss Tuchel 'embrace the chaos'?",
+      "zh-CN": "英格兰老板图切尔会“拥抱混乱”吗？"
+    },
+    "summary": {
+      "en": "After the World Cup, England boss Thomas Tuchel wanted greater control. Two months on, he is keen to \"embrace the chaos\" after naming his squad for the upcoming Nations League fixtures.",
+      "zh-CN": "世界杯结束后，英格兰老板托马斯·图切尔（ Thomas Tuchel ）希望获得更大的控制权。两个月后，在为即将到来的国家联赛比赛命名球队后，他热衷于“拥抱混乱”。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvrl64y9rdn9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_80884",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 83,
+    "title": {
+      "en": "I have experienced racism a thousand times - Lamine Yamal",
+      "zh-CN": "我经历过一千次种族主义- Lamine Yamal"
+    },
+    "summary": {
+      "en": "Barcelona winger Lamine Yamal says he has experienced racism \"a thousand times\", because people are unaware their comments or behaviour are offensive.",
+      "zh-CN": "巴塞罗那边锋拉明·亚马尔（ Lamine Yamal ）说，他经历过“一千次”种族主义，因为人们不知道他们的评论或行为是冒犯性的。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ck05rv4q3176o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_FIFA_3594",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 232,
+    "title": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
+      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
+    },
+    "summary": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
+  },
+  {
     "id": "N_FIFA_67728",
     "type": "official",
     "date": "2026-09-19",
@@ -425,52 +472,5 @@
     },
     "source": "FIFA Official",
     "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
-  },
-  {
-    "id": "N_RSS_70950",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 159,
-    "title": {
-      "en": "Uefa and Concacaf ask Gianni Infantino to give Fifa’s billions to its member associations",
-      "zh-CN": "欧足联和Concacaf要求Gianni Infantino将国际足联的数十亿美元捐给其成员协会"
-    },
-    "summary": {
-      "en": "Payout of at least $10m to each association proposed Leaders want plan to be considered by Fifa CouncilThe presidents of Uefa and Concacaf have written to Gianni Infantino requesting that Fifa...",
-      "zh-CN": "向每个拟议协会支付至少1000万$的领导人希望计划由国际足联理事会审议欧足联和Concacaf的总裁已致函Gianni Infantino ，要求国际足联......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/uefa-concacaf-gianni-infantino-fifa-billions-member-associations"
-  },
-  {
-    "id": "N_RSS_81527",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 152,
-    "title": {
-      "en": "Case not proven: Trent Alexander-Arnold’s England recall is based on patchy evidence",
-      "zh-CN": "个案未得到证实： Trent Alexander-Arnold的英格兰召回是基于不完整的证据"
-    },
-    "summary": {
-      "en": "Thomas Tuchel promises to play the full-back in his natural right-sided position but we have not seen enough of him this term to gauge his formThomas Tuchel said Trent Alexander Arnold had enjoyed a...",
-      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）承诺以他天生的右侧位置打边后卫，但我们这个学期还没有看到足够的他来衡量他的状态托马斯·图切尔（ Thomas Tuchel ）说特伦特·亚历山大·阿诺德（ Trent Alexander Arnold ）享受了......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-england-recall-patchy-evidence"
-  },
-  {
-    "id": "N_FIFA_84328",
-    "type": "official",
-    "date": "2026-08-28",
-    "likes": 187,
-    "title": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™",
-      "zh-CN": "已确认FIFA U-20女足世界杯波兰2026™参赛名单"
-    },
-    "summary": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
   }
 ]
