@@ -1,5 +1,101 @@
 [
   {
+    "id": "N_RSS_6802",
+    "type": "official",
+    "date": "2026-09-20",
+    "likes": 146,
+    "title": {
+      "en": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
+      "zh-CN": "伊萨克希望让利物浦赢得伊拉奥拉重返伯恩茅斯的胜利"
+    },
+    "summary": {
+      "en": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not yet the overwhelming,...",
+      "zh-CN": "在终场哨响时，安东尼·伊拉奥拉（ Andoni Iraola ）拥抱了他现在的球员和他上个赛季在伯恩茅斯带领球队达到新高度的球员。利物浦还没有压倒性的……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report"
+  },
+  {
+    "id": "N_RSS_27021",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 129,
+    "title": {
+      "en": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
+      "zh-CN": "“拥抱混乱” ： Tuchel旨在利用英格兰的足球文化"
+    },
+    "summary": {
+      "en": "Head coach says he must accept lack of control in games‘Deep down, English players … they go for it’Thomas Tuchel has admitted there are times when he craves greater control in matches. But the...",
+      "zh-CN": "主教练说，他必须接受在比赛中缺乏控制的深度，英国球员……他们会去做。托马斯·图切尔（ Thomas Tuchel ）承认，有时他渴望在比赛中获得更大的控制权。但是……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture"
+  },
+  {
+    "id": "N_RSS_20278",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 257,
+    "title": {
+      "en": "Football Daily | Spying some tasty match-ups, from Wrexham v Saints to desperation derbies",
+      "zh-CN": "足球日报|间谍一些美味的对决，从雷克瑟姆v圣徒到绝望的德比"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Before an engorged international break we have a gala weekend of derby games. Some of them are familiar, others rather longer in the waiting, others...",
+      "zh-CN": "立即注册！立即注册！立即注册？立即注册！在充满活力的国际休息之前，我们有一个德比比赛的周末盛会。有些人很熟悉，有些人等待的时间更长，有些人……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/18/weekend-derbies-football-daily-newsletter"
+  },
+  {
+    "id": "N_RSS_24874",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 250,
+    "title": {
+      "en": "Two years and one World Cup down, Mauricio Pochettino is still assessing",
+      "zh-CN": "毛里西奥·波切蒂诺（ Mauricio Pochettino ）在两年的时间里击败了一届世界杯，他"
+    },
+    "summary": {
+      "en": "The US manager’s first squad of the 2030 World Cup cycle leans heavily on youth, injecting intrigue into the four-game window. Sign up for our free newsletter hereIn the moments after the USMNT’s 4-1...",
+      "zh-CN": "这位美国主教练在2030年世界杯周期的第一支球队严重依赖年轻人，为四场比赛的窗口注入了阴谋。在此处订阅我们的免费时事通讯在USMNT 4-1之后..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/mauricio-pochettino-calls-the-kids"
+  },
+  {
+    "id": "N_RSS_26098",
+    "type": "official",
+    "date": "2026-09-17",
+    "likes": 104,
+    "title": {
+      "en": "Laura Kaminski relishing trophy hunt at Brann after Crystal Palace ‘crash course’",
+      "zh-CN": "水晶宫“速成课程”结束后，劳拉·卡明斯基（ Laura Kaminski ）在布兰（ Brann ）享受奖杯狩"
+    },
+    "summary": {
+      "en": "Former Palace head coach has won a cup final in Norway and says chance to challenge for league title was a pull“When it’s a good day, it’s absolutely stunning, so we’ll take that,” Laura Kaminski...",
+      "zh-CN": "前宫殿主教练在挪威赢得了一场杯赛决赛，并表示有机会挑战联赛冠军是一种吸引力“当这是一个美好的一天，这绝对是令人惊叹的，所以我们会接受这一点，”劳拉卡明斯基..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/17/laura-kaminski-brann-crystal-palace-moving-the-goalposts"
+  },
+  {
+    "id": "N_RSS_81227",
+    "type": "official",
+    "date": "2026-09-16",
+    "likes": 224,
+    "title": {
+      "en": "Iranian football returns in the shadow of war and with row over last league title",
+      "zh-CN": "伊朗足球在战争的阴影下回归，争夺上届联赛冠军"
+    },
+    "summary": {
+      "en": "Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in IranThree months ago, Iran was one of the biggest stories in football as Team Melli arrived...",
+      "zh-CN": "由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，随着梅利队的到来，伊朗是足球界最大的故事之一..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
+  },
+  {
     "id": "N_RSS_6332",
     "type": "official",
     "date": "2026-09-20",
@@ -374,101 +470,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game"
-  },
-  {
-    "id": "N_RSS_64928",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 100,
-    "title": {
-      "en": "Brentford blitz Chelsea as Fábio Carvalho caps stunning second-half display",
-      "zh-CN": "布伦特福德闪电战切尔西，法比奥·卡瓦略（ Fábio Carvalho ）出演令人惊叹的下半场表演"
-    },
-    "summary": {
-      "en": "Those early-season thoughts that Chelsea might be the team best-placed to challenge Arsenal are beginning to look extremely over-optimistic. The two chaotic wins with which they began were always...",
-      "zh-CN": "那些认为切尔西可能是最适合挑战阿森纳的球队的赛季初想法开始显得过于乐观。他们开始的两场混乱的胜利总是……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/brentford-chelsea-premier-league-match-report"
-  },
-  {
-    "id": "N_RSS_99292",
-    "type": "official",
-    "date": "2026-09-17",
-    "likes": 184,
-    "title": {
-      "en": "Football Daily | Michael Carrick risks untimely spell in the ‘crisis’ box seat with Manchester United",
-      "zh-CN": "《足球日报》|迈克尔·卡里克冒险在曼联的“危机”席位上拼写不合时宜"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Following the conclusion of this weekend’s round of Premier League fixtures, football fans have what promises to be an exceptionally long,...",
-      "zh-CN": "立即注册！立即注册！立即注册？立即注册！在本周末的英超联赛赛程结束后，足球迷们有望拥有一段非常长的时间，..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/17/football-daily-email-manchester-united"
-  },
-  {
-    "id": "N_RSS_72635",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 176,
-    "title": {
-      "en": "Wrexham's boost & Alexander in ideal place - Aaron McLean's EFL takeaways",
-      "zh-CN": "Wrexham's BOOST和Alexander在理想的地方- Aaron McLean的EFL外卖"
-    },
-    "summary": {
-      "en": "BBC Final Score pundit Aaron McLean looks at the weekend's talking points in the EFL, including Wrexham, QPR and Bradford City.",
-      "zh-CN": "英国广播公司最终得分专家亚伦·麦克莱恩（ Aaron McLean ）着眼于周末EFL的谈话要点，包括雷克瑟姆（ Wrexham ）、QPR和布拉德福德城（ Brad"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm4gdj405n2no?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_73036",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 200,
-    "title": {
-      "en": "Holmberg rescues point for Arsenal but Manchester United off the mark in WSL",
-      "zh-CN": "霍尔姆伯格为阿森纳拯救了积分，但曼联在WSL中脱颖而出"
-    },
-    "summary": {
-      "en": "Arsenal were mightily relieved as a 95th-minute equaliser from Smilla Holmberg rescued them a point at home to a much-improved Manchester United side, but the draw will not be enough to eradicate...",
-      "zh-CN": "阿森纳在第95分钟从斯米拉·霍尔姆伯格（ Smilla Holmberg ）的扳平比分的比赛中获得了巨大的缓解，他们在曼联主场获得了一分，曼联得到了很大的改善，但这场平局还不足以铲除..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/19/arsenal-manchester-united-wsl-match-report"
-  },
-  {
-    "id": "N_RSS_60568",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 298,
-    "title": {
-      "en": "Zidane’s next move as France coach may reveal the wizard behind the curtain | Jonathan Wilson",
-      "zh-CN": "齐达内的下一步行动是法国教练可能会揭开幕后巫师|乔纳森·威尔逊"
-    },
-    "summary": {
-      "en": "It is apt that the most perplexing football country will now be guided by the most enigmatic of leadersEven in his playing days, Zinedine Zidane seemed unknowable. As a manager, the sense of distance...",
-      "zh-CN": "最令人困惑的足球国家现在将被最神秘的领导人所引导，这是很恰当的。即使在他比赛的日子里，齐达内似乎也不可知。作为经理，距离感……"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/19/zinedine-zidane-france-coach-wizard-behind-curtain"
-  },
-  {
-    "id": "N_RSS_99406",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 86,
-    "title": {
-      "en": "Kylian Mbappé leaves Nike after 20 years to sign boot deal with Swiss brand On",
-      "zh-CN": "Kylian Mbappé在20年后离开耐克，与瑞士品牌On签订靴子协议"
-    },
-    "summary": {
-      "en": "France captain also becomes a shareholder in company‘We have a shared dream, and this is only the beginning’Kylian Mbappé has ended a 20-year association with Nike to sign a boot deal with the Swiss...",
-      "zh-CN": "法国队长也成为公司的股东'我们有一个共同的梦想，这只是开始' Kylian Mbappé与耐克结束了20年的合作关系，与瑞士队签订了一份靴子协议......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/kylian-mbappe-leaves-nike-20-years-boot-deal-swiss-brand-on"
   }
 ]
