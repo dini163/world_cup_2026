@@ -1,5 +1,50 @@
 [
   {
+    "id": "N_FIFA_19008",
+    "type": "official",
+    "date": "2026-09-20",
+    "likes": 229,
+    "title": {
+      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials",
+      "zh-CN": "国际足联独立伦理委员会审判庭制裁前足球官员"
+    },
+    "summary": {
+      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/adjudicatory-chamber-independent-ethics-committee-sanctions-former-football-officials"
+  },
+  {
+    "id": "N_FIFA_74372",
+    "type": "official",
+    "date": "2026-09-20",
+    "likes": 247,
+    "title": {
+      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™",
+      "zh-CN": "国际足联女足世界杯巴西2027™志愿者申请正式开放"
+    },
+    "summary": {
+      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/volunteer-applications-open-womens-world-cup-brazil-2027"
+  },
+  {
+    "id": "N_FIFA_66887",
+    "type": "official",
+    "date": "2026-08-25",
+    "likes": 184,
+    "title": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art",
+      "zh-CN": "巴西的足球艺术将被庆祝为2027年女足世界杯™的最终抽签前往里约热内卢现代艺术博物馆"
+    },
+    "summary": {
+      "en": "Brazil’s futebol arte to be celebrated as the Final Draw for the FIFA Women’s World Cup 2027™ heads to Rio’s Museum of Modern Art"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/womens-world-cup-2027-final-draw-museum-modern-art-rio-janeiro"
+  },
+  {
     "id": "N_RSS_25633",
     "type": "official",
     "date": "2026-09-20",
@@ -426,52 +471,5 @@
     },
     "source": "BBC Sport",
     "url": "https://www.bbc.co.uk/sport/football/articles/cm4gj50qqlqwo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_67678",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 275,
-    "title": {
-      "en": "Case not proven: Trent Alexander-Arnold’s England recall is based on patchy evidence",
-      "zh-CN": "个案未得到证实： Trent Alexander-Arnold的英格兰召回是基于不完整的证据"
-    },
-    "summary": {
-      "en": "Thomas Tuchel promises to play the full-back in his natural right-sided position but we have not seen enough of him this term to gauge his formThomas Tuchel said Trent Alexander Arnold had enjoyed a...",
-      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）承诺以他天生的右侧位置打边后卫，但我们这个学期还没有看到足够的他来衡量他的状态托马斯·图切尔（ Thomas Tuchel ）说特伦特·亚历山大·阿诺德（ Trent Alexander Arnold ）享受了......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-england-recall-patchy-evidence"
-  },
-  {
-    "id": "N_FIFA_92087",
-    "type": "official",
-    "date": "2026-08-28",
-    "likes": 121,
-    "title": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™",
-      "zh-CN": "已确认FIFA U-20女足世界杯波兰2026™参赛名单"
-    },
-    "summary": {
-      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
-  },
-  {
-    "id": "N_RSS_11564",
-    "type": "official",
-    "date": "2026-09-18",
-    "likes": 171,
-    "title": {
-      "en": "Will England boss Tuchel 'embrace the chaos'?",
-      "zh-CN": "英格兰老板图切尔会“拥抱混乱”吗？"
-    },
-    "summary": {
-      "en": "After the World Cup, England boss Thomas Tuchel wanted greater control. Two months on, he is keen to \"embrace the chaos\" after naming his squad for the upcoming Nations League fixtures.",
-      "zh-CN": "世界杯结束后，英格兰老板托马斯·图切尔（ Thomas Tuchel ）希望获得更大的控制权。两个月后，在为即将到来的国家联赛比赛命名球队后，他热衷于“拥抱混乱”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cvrl64y9rdn9o?at_medium=RSS&at_campaign=rss"
   }
 ]
