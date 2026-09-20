@@ -1,5 +1,52 @@
 [
   {
+    "id": "N_RSS_30904",
+    "type": "official",
+    "date": "2026-09-20",
+    "likes": 188,
+    "title": {
+      "en": "Colwill's 'surreal' Ronaldo and Haaland ambition",
+      "zh-CN": "科尔维尔的“超现实”罗纳尔多和哈兰德野心"
+    },
+    "summary": {
+      "en": "In just 12 months, the Cardiff City midfielder has gone from League One football to the prospect of facing Cristiano Ronaldo and Erling Haaland.",
+      "zh-CN": "在短短12个月的时间里，这位卡迪夫城的中场球员已经从联赛一号转向面对克里斯蒂亚诺·罗纳尔多和埃尔林·哈兰德的前景。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm4gj50qqlqwo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_67678",
+    "type": "official",
+    "date": "2026-09-18",
+    "likes": 275,
+    "title": {
+      "en": "Case not proven: Trent Alexander-Arnold’s England recall is based on patchy evidence",
+      "zh-CN": "个案未得到证实： Trent Alexander-Arnold的英格兰召回是基于不完整的证据"
+    },
+    "summary": {
+      "en": "Thomas Tuchel promises to play the full-back in his natural right-sided position but we have not seen enough of him this term to gauge his formThomas Tuchel said Trent Alexander Arnold had enjoyed a...",
+      "zh-CN": "托马斯·图切尔（ Thomas Tuchel ）承诺以他天生的右侧位置打边后卫，但我们这个学期还没有看到足够的他来衡量他的状态托马斯·图切尔（ Thomas Tuchel ）说特伦特·亚历山大·阿诺德（ Trent Alexander Arnold ）享受了......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/18/trent-alexander-arnold-england-recall-patchy-evidence"
+  },
+  {
+    "id": "N_FIFA_92087",
+    "type": "official",
+    "date": "2026-08-28",
+    "likes": 121,
+    "title": {
+      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™",
+      "zh-CN": "已确认FIFA U-20女足世界杯波兰2026™参赛名单"
+    },
+    "summary": {
+      "en": "Squad lists confirmed for FIFA U-20 Women’s World Cup Poland 2026™"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/squad-lists-confirmed-u20-womens-world-cup-poland-2026"
+  },
+  {
     "id": "N_RSS_11564",
     "type": "official",
     "date": "2026-09-18",
@@ -427,50 +474,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/19/wrexhams-trailblazing-black-footballer-peter-baines-first-indigenous-australian-to-play-overseas"
-  },
-  {
-    "id": "N_FIFA_74273",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 377,
-    "title": {
-      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September",
-      "zh-CN": "国际足联东盟杯™将于9月24日联合东南亚及其他地区的14个国家"
-    },
-    "summary": {
-      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/asean-cup-unite-14-nations-across-southeast-asia-beyond-24-september"
-  },
-  {
-    "id": "N_FIFA_3142",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 200,
-    "title": {
-      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window",
-      "zh-CN": "2026年世界杯™在年中转会窗口感受到的影响"
-    },
-    "summary": {
-      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-impact-mid-year-transfer-window"
-  },
-  {
-    "id": "N_FIFA_95854",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 369,
-    "title": {
-      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October",
-      "zh-CN": "今年10月，在吉达举行的2026年FIFAe总决赛上，迄今为止最大的足球电子竞技赛季达到高潮"
-    },
-    "summary": {
-      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
   }
 ]
