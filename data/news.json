@@ -1,5 +1,130 @@
 [
   {
+    "id": "N_RSS_9181",
+    "type": "official",
+    "date": "2026-09-21",
+    "likes": 101,
+    "title": {
+      "en": "'Constant bombardment' - Fans shown 65,000 junk food ads at World Cup",
+      "zh-CN": "“不断轰炸” -粉丝们在世界杯上展示了65,000个垃圾食品广告"
+    },
+    "summary": {
+      "en": "New data shows fans were shown more than 28 hours of adverts for unhealthy food and drinks during World Cup matches this summer.",
+      "zh-CN": "新数据显示，在今年夏天的世界杯比赛中，球迷们看到了超过28小时的不健康食品和饮料广告。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq4g528drx79o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_FIFA_64823",
+    "type": "official",
+    "date": "2026-09-21",
+    "likes": 380,
+    "title": {
+      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September",
+      "zh-CN": "国际足联东盟杯™将于9月24日联合东南亚及其他地区的14个国家"
+    },
+    "summary": {
+      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/asean-cup-unite-14-nations-across-southeast-asia-beyond-24-september"
+  },
+  {
+    "id": "N_FIFA_79438",
+    "type": "official",
+    "date": "2026-09-21",
+    "likes": 257,
+    "title": {
+      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window",
+      "zh-CN": "2026年世界杯™在年中转会窗口感受到的影响"
+    },
+    "summary": {
+      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-impact-mid-year-transfer-window"
+  },
+  {
+    "id": "N_FIFA_80374",
+    "type": "official",
+    "date": "2026-09-21",
+    "likes": 111,
+    "title": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October",
+      "zh-CN": "今年10月，在吉达举行的2026年FIFAe总决赛上，迄今为止最大的足球电子竞技赛季达到高潮"
+    },
+    "summary": {
+      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
+  },
+  {
+    "id": "N_RSS_39056",
+    "type": "official",
+    "date": "2026-09-20",
+    "likes": 271,
+    "title": {
+      "en": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy",
+      "zh-CN": "“我们每天都想念她” ：奥利维亚·库萨克（ Olivia Cusack ）谈论她已故的足球运动员妹妹马"
+    },
+    "summary": {
+      "en": "Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s deathOlivia Cusack says her sister, the late Maddy Cusack, is on her mind every single day and she...",
+      "zh-CN": "奥利维亚·库萨克（ Olivia Cusack ）说，她的妹妹，已故的麦迪·库萨克（ Maddy Cusack ）每天都在想着她，她..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united"
+  },
+  {
+    "id": "N_RSS_66370",
+    "type": "official",
+    "date": "2026-09-20",
+    "likes": 89,
+    "title": {
+      "en": "Hayen must worry about his Burnley future but fans’ fears are existential",
+      "zh-CN": "Hayen必须担心他的伯恩利未来，但球迷的恐惧是存在的"
+    },
+    "summary": {
+      "en": "Derby’s stoppage-time equaliser leaves Burnley winless at home since last October and financial problems are mountingThe greatest moments of Burnley’s history were beamed on to a big screen before...",
+      "zh-CN": "自去年10月以来，德比的暂停时间均衡器让伯恩利在主场一败涂地，财务问题正在恶化伯恩利历史上最伟大的时刻被传送到大银幕上..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/20/nicky-hayen-burnley-fans-fears-existential-championship"
+  },
+  {
+    "id": "N_RSS_47420",
+    "type": "official",
+    "date": "2026-09-19",
+    "likes": 300,
+    "title": {
+      "en": "Cusack 'more than a number on a shirt' as anniversary falls during inquest delay",
+      "zh-CN": "由于审讯延迟期间周年纪念日落下，库萨克“不止一个数字”"
+    },
+    "summary": {
+      "en": "The third anniversary of Maddy Cusack's death falls during a pause in the footballer's inquest.",
+      "zh-CN": "马迪·库萨克（ Maddy Cusack ）去世三周年之际，这位足球运动员的调查暂停。"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/news/articles/c4gr2rdrk59o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_22741",
+    "type": "official",
+    "date": "2026-09-19",
+    "likes": 168,
+    "title": {
+      "en": "European football: Rosenior taunts Strasbourg fans who ‘insulted family’",
+      "zh-CN": "欧洲足球： Rosenior嘲笑“侮辱家庭”的斯特拉斯堡球迷"
+    },
+    "summary": {
+      "en": "English manager responds after Paris FC’s winMartínez rescues Inter; Salah hits hat-trickParis FC extended their unbeaten start to the Ligue 1 campaign, beating Liam Rosenior’s old charges Strasbourg...",
+      "zh-CN": "英格兰主教练在巴黎足球俱乐部的胜利之后做出回应马丁内斯拯救了国米；萨拉赫击中了帽子戏法巴黎足球俱乐部将他们不败的开局延伸到了法甲联赛，击败了利亚姆·罗塞尼奥的旧指控斯特拉斯堡……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/19/roma-inter-lazio-dortmund-sevilla-barcelona"
+  },
+  {
     "id": "N_RSS_52429",
     "type": "official",
     "date": "2026-09-20",
@@ -346,133 +471,5 @@
     },
     "source": "The Guardian",
     "url": "https://www.theguardian.com/football/2026/sep/17/laura-kaminski-brann-crystal-palace-moving-the-goalposts"
-  },
-  {
-    "id": "N_RSS_81227",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 224,
-    "title": {
-      "en": "Iranian football returns in the shadow of war and with row over last league title",
-      "zh-CN": "伊朗足球在战争的阴影下回归，争夺上届联赛冠军"
-    },
-    "summary": {
-      "en": "Prolonged league suspension due to war and falling behind Saudi spending power are weakening the sport in IranThree months ago, Iran was one of the biggest stories in football as Team Melli arrived...",
-      "zh-CN": "由于战争和落后于沙特的消费能力而导致的长期联赛停赛正在削弱伊朗的体育运动三个月前，随着梅利队的到来，伊朗是足球界最大的故事之一..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/16/iran-football-esteghlal-tractor-sc-afc-champions-league-elite-asia"
-  },
-  {
-    "id": "N_RSS_6332",
-    "type": "official",
-    "date": "2026-09-20",
-    "likes": 181,
-    "title": {
-      "en": "Andros Townsend avoids injury after bizarre pitch roller incident in Thailand",
-      "zh-CN": "安德罗斯·汤森（ Andros Townsend ）在泰国发生奇怪的滚球事故后避免受伤"
-    },
-    "summary": {
-      "en": "Former England player run over while warming up‘It turns out Stoke away wasn’t so bad,’ says wingerThe former England winger Andros Townsend has joked Stoke away “wasn’t so bad after all” following a...",
-      "zh-CN": "前英格兰球员在热身时奔跑， “事实证明斯托克离开并不是那么糟糕，”边锋说道。前英格兰边锋安德罗斯·汤森德（ Andros Townsend ）开玩笑说，斯托克离开“毕竟不是那么糟糕”。"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/20/andros-townsend-avoids-injury-after-bizarre-pitch-roller-incident-in-thailand"
-  },
-  {
-    "id": "N_RSS_86738",
-    "type": "official",
-    "date": "2026-09-19",
-    "likes": 151,
-    "title": {
-      "en": "Was Wrexham’s trailblazing black footballer also the first Indigenous Australian to play overseas?",
-      "zh-CN": "雷克瑟姆这位开拓性的黑人足球运动员也是第一位在海外踢球的澳大利亚原住民吗？"
-    },
-    "summary": {
-      "en": "Mystery surrounds the origin of Peter Baines, the trailblazing black footballer who played for the Welsh club, among others, during the 1940sWarning: Aboriginal and Torres Strait Islander readers are...",
-      "zh-CN": "神秘感围绕着彼得·贝恩斯（ Peter Baines ）的起源，他是一位开拓性的黑人足球运动员，曾在20世纪40年代为威尔士俱乐部等地效力。警告：原住民和托雷斯海峡岛民读者是..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/19/wrexhams-trailblazing-black-footballer-peter-baines-first-indigenous-australian-to-play-overseas"
-  },
-  {
-    "id": "N_RSS_1223",
-    "type": "official",
-    "date": "2026-09-16",
-    "likes": 171,
-    "title": {
-      "en": "When did football fans first start wearing replica kits? | The Knowledge",
-      "zh-CN": "足球迷什么时候开始穿复制品套装？ | The Knowledge"
-    },
-    "summary": {
-      "en": "Plus: more costly (and beneficial) red cards and attacks with triple half-century of international goalsMail us with your all of your questions and answers“When did fans wearing replica kits become a...",
-      "zh-CN": "此外：更昂贵（和有益的）红牌和攻击，拥有三个半世纪的国际目标请向我们发送您的所有问题和答案“粉丝什么时候穿着复制品套件成为......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits"
-  },
-  {
-    "id": "N_RSS_82269",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 189,
-    "title": {
-      "en": "Top of the table, empty in the stands: inside the revolt against Lazio’s owner | Nicky Bandini",
-      "zh-CN": "桌子顶部，看台上空无一人：在反对拉齐奥主人的起义中|尼基·班迪尼"
-    },
-    "summary": {
-      "en": "Despite an impressive start under Gennaro Gattuso, supporters are boycotting the Stadio Olimpico to wage war against Claudio LotitoGennaro Gattuso has given some memorable post‑game interviews down...",
-      "zh-CN": "尽管在Gennaro Gattuso的领导下取得了令人印象深刻的开局，但支持者正在抵制奥林匹克体育场对Claudio Lotito发动战争Gennaro Gattuso在赛后接受了一些令人难忘的采访..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/14/lazio-claudio-lotito-gennaro-gattuso-milan"
-  },
-  {
-    "id": "N_RSS_99570",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 115,
-    "title": {
-      "en": "The Hotspot | South Korea pushes for football season to make winter switch after unbearable summer",
-      "zh-CN": "热点|韩国推动足球赛季，在难以忍受的夏天之后进行冬季转换"
-    },
-    "summary": {
-      "en": "Why fainting fans and perspiring players are a worry for the Asian league seeking to follow Japan and align with EuropeSouth Korean football is trying to find the goldilocks time to play the...",
-      "zh-CN": "为什么晕倒的球迷和出汗的球员是亚洲联赛寻求跟随日本并与欧洲保持一致的担忧韩国足球正在努力寻找金发女郎的时间来打..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/sport/2026/sep/14/south-korea-football-season-heat-summer-the-hotspot"
-  },
-  {
-    "id": "N_RSS_62040",
-    "type": "official",
-    "date": "2026-09-14",
-    "likes": 299,
-    "title": {
-      "en": "WSL talking points: Olid must weather United storm, Arsenal wasteful again",
-      "zh-CN": "WSL谈话要点：奥利德必须经受住曼联风暴，阿森纳再次浪费"
-    },
-    "summary": {
-      "en": "Manchester United need to regroup after a heavy home loss to Chelsea while Crystal Palace frustrated the GunnersThe frustration among Manchester United fans at full-time was evident at Leigh Sports...",
-      "zh-CN": "在主场输给切尔西之后，曼联需要重新组合，而水晶宫让枪手感到沮丧曼联全职球迷的沮丧在Leigh Sports很明显......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal"
-  },
-  {
-    "id": "N_RSS_69074",
-    "type": "official",
-    "date": "2026-09-20",
-    "likes": 131,
-    "title": {
-      "en": "Townsend run over by pitch roller in Thailand",
-      "zh-CN": "汤森在泰国被沥青压路机碾过"
-    },
-    "summary": {
-      "en": "Former England winger Andros Townsend jokes that playing Stoke away \"wasn't so bad after all\" following a bizarre incident before a game in Thailand.",
-      "zh-CN": "前英格兰边锋安德罗斯·汤森（ Andros Townsend ）开玩笑说，在泰国一场比赛前发生奇怪的事件后，打斯托克“毕竟没有那么糟糕”。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cr93e70xv21ko?at_medium=RSS&at_campaign=rss"
   }
 ]
