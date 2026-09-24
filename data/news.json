@@ -1,446 +1,451 @@
 [
   {
-    "id": "N_RSS_63177",
+    "id": "N_RSS_67764",
     "type": "official",
     "date": "2026-09-24",
-    "likes": 206,
+    "likes": 279,
     "title": {
-      "en": "Carroll reveals he was sexually assaulted in 2021",
-      "zh-CN": "卡罗尔透露他在2021年遭到性侵犯"
+      "en": "England should stop trying to replicate Spain - Gordon",
+      "zh-CN": "英格兰应该停止试图复制西班牙-戈登"
     },
     "summary": {
-      "en": "Former England striker Andy Carroll reveals he was sexually assaulted in 2021, by a man who has subsequently been jailed for three years.",
-      "zh-CN": "前英格兰前锋安迪·卡罗尔（ Andy Carroll ）透露，他在2021年遭到一名男子的性侵犯，该男子随后被判入狱三年。"
+      "en": "Anthony Gordon says that controlling games is not in the \"English DNA\" but the Three Lions could still win major tournaments if they stop \"trying to replicate Spain\".",
+      "zh-CN": "安东尼·戈登（ Anthony Gordon ）表示，控制比赛不在“英国DNA”中，但如果他们停止“试图复制西班牙” ，三狮队仍然可以赢得大型锦标赛。"
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6grv7x544qro?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/c90kly6kelk1o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_21307",
+    "id": "N_RSS_953",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 170,
+    "title": {
+      "en": "Football Daily",
+      "zh-CN": "足球日报"
+    },
+    "summary": {
+      "en": "John Murray, Ian Dennis & Ali Bruce-Ball hear from Anthony Gordon ahead of England-Spain.",
+      "zh-CN": "约翰·默里（ John Murray ）、伊恩·丹尼斯（ Ian Dennis ）和阿里·布鲁斯-鲍尔（ Ali Bruce-Ball ）在英格兰-西班牙"
+    },
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sounds/play/m0032km2?at_medium=RSS&at_campaign=rss"
+  },
+  {
+    "id": "N_RSS_80758",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 135,
+    "title": {
+      "en": "Joao Felix puts Portugal in front against Wales in Lisbon LIVE!",
+      "zh-CN": "Joao Felix在里斯本现场直播，葡萄牙队对阵威尔士队！"
+    },
+    "summary": {
+      "en": ""
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/portugal-vs-wales/live/553987"
+  },
+  {
+    "id": "N_RSS_90680",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 263,
+    "title": {
+      "en": "Premier League in joint call for FIFA reform amid Infantino crisis",
+      "zh-CN": "英超联赛在因凡蒂诺危机期间共同呼吁国际足联改革"
+    },
+    "summary": {
+      "en": "The Premier League and three of its top European counterparts will on Friday issue a joint call for urgent governance reform at FIFA amid the crisis engulfing its president, Gianni Infantino.",
+      "zh-CN": "在英超联赛主席詹尼·因凡蒂诺（ Gianni Infantino ）陷入危机之际，英超联赛及其三大欧洲同行将于周五共同呼吁国际足联进行紧急治理改革。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13591530/gianni-infantino-premier-league-and-three-other-top-european-leagues-to-demand-fifa-reform"
+  },
+  {
+    "id": "N_RSS_76422",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 286,
+    "title": {
+      "en": "'We have our own strengths' – Gordon backs Tuchel’s DNA comments",
+      "zh-CN": "“我们有自己的优势” – Gordon支持Tuchel的DNA评论"
+    },
+    "summary": {
+      "en": "Anthony Gordon has backed Thomas Tuchel's view that England's players have an inbuilt inability to control matches with possession - and has urged the team to embrace the country's traditional...",
+      "zh-CN": "安东尼·戈登（ Anthony Gordon ）支持托马斯·图切尔（ Thomas Tuchel ）的观点，即英格兰球员天生就无法通过控球来控制比赛，并敦促球队接受该国传统的..."
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13591079/england-vs-spain-anthony-gordon-backs-thomas-tuchels-dna-comments-about-possession-and-calls-on-three-lions-to-focus-on-their-strengths"
+  },
+  {
+    "id": "N_RSS_12341",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 212,
+    "title": {
+      "en": "'Utter nonsense' - Van Dijk slams reporter in viral exchange",
+      "zh-CN": "“完全无稽之谈” - Van Dijk在病毒交换中抨击记者"
+    },
+    "summary": {
+      "en": "Virgil van Dijk hit back at suggestions that he forced former Netherlands boss Ronaldo Koeman into changing his tactics during the World Cup.",
+      "zh-CN": "维吉尔·范迪克（ Virgil van Dijk ）回击了有关他在世界杯期间强迫前荷兰主帅罗纳尔多·科曼（ Ronaldo Koeman ）改变战术的建议。"
+    },
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13591280/virgil-van-dijk-liverpool-captain-slams-dutch-reporter-following-claims-he-forced-ronald-koeman-to-change-world-cup-tactics"
+  },
+  {
+    "id": "N_RSS_45196",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 115,
+    "title": {
+      "en": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
+      "zh-CN": "荷兰诉德国、葡萄牙诉威尔士等：欧足联国家联盟–直播"
+    },
+    "summary": {
+      "en": "⚽ Updates across Thursday night’s Nations League games⚽ Get in touch: email Daniel and follow us on BlueSkyRobert Earnshaw is in the BBC studio wearing the same rig he was in on Sky this morning. The...",
+      "zh-CN": "周四晚上国家联盟比赛⚽的更新联系我们：⚽给丹尼尔发电子邮件，并在BlueSky上关注我们罗伯特·恩肖（ Robert Earnshaw ）在英国广播公司的工作室穿着他今天早上在Sky上穿的同一套装备。..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live"
+  },
+  {
+    "id": "N_RSS_64867",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 277,
+    "title": {
+      "en": "Former England player Andy Carroll reveals he was sexually assaulted in 2021",
+      "zh-CN": "前英格兰球员安迪·卡罗尔（ Andy Carroll ）透露他在2021年遭到性侵犯"
+    },
+    "summary": {
+      "en": "Carroll was assaulted by a man at his home while he sleptAttacker found guilty of sexual offences after player testifiedThe former England forward Andy Carroll has revealed in his autobiography he...",
+      "zh-CN": "卡罗尔在家中睡觉时被一名男子殴打攻击者在球员作证后被判犯有性犯罪前英格兰前锋安迪卡罗尔在他的自传中透露他......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/24/andy-carroll-sexually-assaulted-2021-football"
+  },
+  {
+    "id": "N_RSS_10553",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 63,
+    "title": {
+      "en": "UK Football Police Unit accused of ‘bringing Hillsborough’ into alcohol debate",
+      "zh-CN": "英国足球警察部队被指控“将希尔斯伯勒带入酒精辩论”"
+    },
+    "summary": {
+      "en": "‘The disaster was not caused by alcohol,’ says fan groupPolice say they had not intended to make such a linkEnglish football’s leading fans’ group has criticised the UK Football Policing Unit for...",
+      "zh-CN": "“这场灾难不是由酒精引起的，”球迷团体警察说，他们无意建立这样的联系英国足球的主要球迷团体批评英国足球警察部队......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/24/uk-football-police-unit-accused-of-bringing-hillsborough-into-alcohol-debate"
+  },
+  {
+    "id": "N_RSS_86894",
     "type": "official",
     "date": "2026-09-24",
     "likes": 83,
     "title": {
-      "en": "Fox makes 'easy decision' to sign three-year Arsenal deal",
-      "zh-CN": "福克斯“轻松决定”与阿森纳签订为期三年的合同"
+      "en": "Raphinha: ‘In my head I was leaving Barça, but a few small words can change you’",
+      "zh-CN": "Raphinha ： “在我的脑海里，我离开了巴萨，但几句话可以改变你”"
     },
     "summary": {
-      "en": "USA international Emily Fox has described signed a new contract at Arsenal as \"an easy decision\".",
-      "zh-CN": "美国国脚艾米丽·福克斯（ Emily Fox ）形容在阿森纳签下一份新合同是“一个简单的决定”。"
+      "en": "Two years ago the Brazilian thought his time at Barcelona was ending but, two La Liga titles later, he is now captain and the most potent No 9 in EuropeFor once, Raphael Dias Belloli puts the brakes...",
+      "zh-CN": "两年前，这位巴西人认为他在巴塞罗那的时光即将结束，但两次西甲联赛冠军后，他现在是队长，也是欧洲最强大的第九名。有一次，拉斐尔·迪亚斯·贝洛利（ Raphael Dias Belloli ）刹车......"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/24/raphinha-barcelona-interview-la-liga-no9"
+  },
+  {
+    "id": "N_RSS_8863",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 214,
+    "title": {
+      "en": "Infantino under pressure to include abandoned World Cup sell-off plan in external Fifa review",
+      "zh-CN": "Infantino面临将放弃的世界杯抛售计划纳入国际足联外部审查的压力"
+    },
+    "summary": {
+      "en": "Council members also want Balogun affair includedFifa president says review letter been well received Fifa council members will demand that Gianni Infantino include the abandoned World Cup sell-off...",
+      "zh-CN": "理事会成员还希望Balogun事件包括国际足联主席说，审查信受到好评国际足联理事会成员将要求Gianni Infantino包括放弃的世界杯抛售..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/24/gianni-infantino-under-pressure-abandoned-world-cup-sell-off-fifa-review"
+  },
+  {
+    "id": "N_RSS_89957",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 142,
+    "title": {
+      "en": "Football Daily | Pints and points: the arguments for and against booze at football matches",
+      "zh-CN": "足球日报|品脱和积分：足球比赛中赞成和反对酒的论点"
+    },
+    "summary": {
+      "en": "Sign up now! Sign up now! Sign up now? Sign up now!Considering he is a lifelong Everton fan, it’s no surprise that Andy Burnham seems to be in favour of allowing fans to drink Tin at football...",
+      "zh-CN": "立即注册！立即注册！立即注册？立即注册！考虑到他是埃弗顿的终身粉丝，安迪·伯纳姆（ Andy Burnham ）似乎赞成让球迷在足球场上喝锡也就不足为奇了……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/24/pints-points-arguments-for-against-booze-football-daily"
+  },
+  {
+    "id": "N_RSS_11172",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 63,
+    "title": {
+      "en": "James Garner keen to live up to ‘mini-Valverde’ tag after late England call",
+      "zh-CN": "詹姆斯·加纳（ James Garner ）热衷于在英格兰后期通话后不辜负“mini-Valverde"
+    },
+    "summary": {
+      "en": "Everton midfielder’s spirit and intelligence earned him another chance and he is eager to test himself against Spain in the Nations League on Saturday“It’s a very good comparison,” James Garner says,...",
+      "zh-CN": "埃弗顿中场球员的精神和智慧为他赢得了另一次机会，他渴望在周六的国家联赛中对阵西班牙， “这是一个非常好的比较，”詹姆斯加纳说，..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/24/james-garner-mini-valverde-late-england-call"
+  },
+  {
+    "id": "N_RSS_52325",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 189,
+    "title": {
+      "en": "Anger at Tuchel over World Cup exit exposes biggest obstacle to England success | Barney Ronay",
+      "zh-CN": "对图切尔退出世界杯的愤怒暴露了英格兰成功的最大障碍| Barney Ronay"
+    },
+    "summary": {
+      "en": "Manager is not responsible for underlying weaknesses but there are reasons for optimism in the buildup to Euro 2028In the end, Steve, Brian, Gaz or similar, he’s just not done the job he was hired to...",
+      "zh-CN": "经理不对潜在的弱点负责，但有理由对2028年欧洲杯的积累持乐观态度。最后， Steve、Brian、Gaz或类似的人，他只是没有完成他被雇佣的工作……"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope"
+  },
+  {
+    "id": "N_RSS_80930",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 280,
+    "title": {
+      "en": "‘It’s not in us’: Anthony Gordon backs Tuchel over England’s possession problem",
+      "zh-CN": "“这不在我们身上” ：安东尼·戈登（ Anthony Gordon ）在英格兰的控球问题上支持图切尔"
+    },
+    "summary": {
+      "en": "Barcelona winger says England cannot play like SpainGordon: players ‘could have done more’ in semi-finalAnthony Gordon has sided with Thomas Tuchel’s assertion that controlling games through...",
+      "zh-CN": "巴塞罗那边锋表示，英格兰不能像西班牙戈登那样踢球：球员在半决赛中“本可以做得更多”安东尼·戈登（ Anthony Gordon ）支持托马斯·图切尔（ Thomas Tuchel ）的说法，即通过……控制比赛。"
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/24/anthony-gordon-backs-tuchel-over-england-possession-problem-world-cup-nations-league"
+  },
+  {
+    "id": "N_FIFA_22633",
+    "type": "official",
+    "date": "2026-09-24",
+    "likes": 350,
+    "title": {
+      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials"
+    },
+    "summary": {
+      "en": "Adjudicatory chamber of FIFA’s independent Ethics Committee sanctions former football officials"
+    },
+    "source": "FIFA Official",
+    "url": "https://www.inside.fifa.com/media-releases/adjudicatory-chamber-independent-ethics-committee-sanctions-former-football-officials"
+  },
+  {
+    "id": "N_RSS_47379",
+    "type": "official",
+    "date": "2026-09-23",
+    "likes": 293,
+    "title": {
+      "en": "Ronaldo spurred on by 1,000-goal target and Portugal glory"
+    },
+    "summary": {
+      "en": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals and help a new-look Portugal thrive before hanging up his boots."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c046lgw20nno?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_95295",
+    "id": "N_RSS_74419",
     "type": "official",
-    "date": "2026-09-24",
-    "likes": 86,
+    "date": "2026-09-23",
+    "likes": 272,
     "title": {
-      "en": "Euro Leagues",
-      "zh-CN": "欧洲联赛"
+      "en": "Germany's saviour? How Klopp is looking to turn fortunes around"
     },
     "summary": {
-      "en": "Can Klopp unlock Wirtz for Germany? & Jose wants justice after Real's Madrid Derby defeat",
-      "zh-CN": "Klopp可以为德国解锁Wirtz吗？在皇马的马德里德比失利后，何塞想要伸张正义"
+      "en": "As Jurgen Klopp prepares for his first game as Germany manager, BBC Sport looks at how is trying to turn their fortunes around."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sounds/play/p0pc83kj?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z3n88z77o?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_78224",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 209,
-    "title": {
-      "en": "Send us your Scotland World Cup memories of Boston",
-      "zh-CN": "向我们发送您对波士顿的苏格兰世界杯回忆"
-    },
-    "summary": {
-      "en": "BBC Scotland is looking for Scotland supporters to send us their videos, audio and memories of that magical week or so in Boston at the World Cup.",
-      "zh-CN": "英国广播公司苏格兰频道正在寻找苏格兰的支持者，将他们在波士顿世界杯那一周的视频、音频和回忆发送给我们。"
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c04k6nqgxdpo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_36297",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 87,
-    "title": {
-      "en": "Ballon d'Or: Kane, Lamine Yamal, Mbappe and the main runners and riders assessed",
-      "zh-CN": "Ballon d 'Or ： Kane、Lamine Yamal、Mbappe和主要跑步者和骑手接受了评估"
-    },
-    "summary": {
-      "en": "With a month left until the Ballon d'Or 2026 winner is announced in London on October 26, will favourite Harry Kane lift the trophy on home soil or will Lamine Yamal become the youngest winner in the...",
-      "zh-CN": "距离2026年金球奖获奖者于10月26日在伦敦宣布还有一个月的时间， Harry Kane将最喜欢在本土举起奖杯，或者Lamine Yamal将成为..."
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/news/11095/13591323/ballon-dor-the-case-for-harry-kane-lamine-yamal-kylian-mbappe-and-the-main-favourites-assessed"
-  },
-  {
-    "id": "N_RSS_24037",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 105,
-    "title": {
-      "en": "Tuchel backs Kane for Ballon d'Or - and World Cup 2030 spot!",
-      "zh-CN": "图切尔支持凯恩争夺金球奖和2030年世界杯席位！"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more"
-  },
-  {
-    "id": "N_RSS_75336",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 260,
-    "title": {
-      "en": "Liverpool latest: Van Dijk promises to defeat Klopp in first Germany match",
-      "zh-CN": "利物浦最新消息：范迪克承诺在德国首场比赛中击败克洛普"
-    },
-    "summary": {
-      "en": ""
-    },
-    "source": "Sky Sports",
-    "url": "https://www.skysports.com/football/live-blog/11095/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-  },
-  {
-    "id": "N_RSS_36592",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 268,
-    "title": {
-      "en": "Archive, 1985: Alcohol banned from football grounds in England and Wales",
-      "zh-CN": "档案， 1985年：英格兰和威尔士足球场禁止饮酒"
-    },
-    "summary": {
-      "en": "The violence at the Luton Town v Millwall FA Cup match in 1985, along with the Heysel Stadium disaster, saw the Thatcher government enact new lawsUK prime minister Andy Burnham has spoken out about...",
-      "zh-CN": "1985年卢顿镇vs米尔沃尔足总杯比赛的暴力事件，加上海塞尔体育场的灾难，使撒切尔政府颁布了新法律英国首相安迪·伯纳姆（ Andy Burnham ）公开表示......"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/24/archive-1985-alcohol-banned-from-football-grounds-in-england-and-wales"
-  },
-  {
-    "id": "N_RSS_66315",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 203,
-    "title": {
-      "en": "Vinícius Júnior et al land in unlikely outpost of Townsville as Brazil reboot begins | Joey Lynch",
-      "zh-CN": "Vinícius Júnior等人在巴西重新启动时登陆汤斯维尔不太可能的前哨| Joey Lynch"
-    },
-    "summary": {
-      "en": "The Seleção’s rebuild after their latest World Cup exit begins against the Socceroos in a place better known for rugby league than joga bonitoIt’s a safe bet that Vinícius Júnior, who plays week in...",
-      "zh-CN": "塞莱桑队在最近一次世界杯退出后，在一个以橄榄球联赛闻名的地方对阵足球队，而不是joga bonito这是一个安全的赌注， Vinícius Júnior在..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/24/vinicius-junior-et-al-land-in-unlikely-outpost-of-townsville-as-brazil-reboot-begins"
-  },
-  {
-    "id": "N_RSS_89395",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 182,
-    "title": {
-      "en": "Sandro Mazzola obituary",
-      "zh-CN": "桑德罗·马佐拉讣告"
-    },
-    "summary": {
-      "en": "Outstanding footballer who won two European Cups with Internazionale and a World Cup runners-up medal with ItalyThe Italian footballer Sandro Mazzola, who has died aged 83, was a supremely gifted...",
-      "zh-CN": "在国际足联赢得两次欧洲杯冠军和意大利世界杯亚军奖牌的杰出足球运动员意大利足球运动员桑德罗·马佐拉（ Sandro Mazzola ）去世，享年83岁，是一位极具天赋的..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/24/sandro-mazzola-obituary"
-  },
-  {
-    "id": "N_RSS_26823",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 133,
-    "title": {
-      "en": "England face world champions Spain as international break commences | Football Weekly – video",
-      "zh-CN": "英格兰面对世界冠军西班牙，国际比赛开始|《足球周刊》–视频"
-    },
-    "summary": {
-      "en": "Max Rushden is joined by Barry Glendenning, Seb Hutchinson and Paul Watson as the international break begins Continue reading...",
-      "zh-CN": "马克斯·拉什登（ Max Rushden ）与巴里·格伦登宁（ Barry Glendenning ）、塞布·哈钦森（ Seb Hutchinson ）和保罗·沃森（ Paul"
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/video/2026/sep/24/england-face-world-champions-spain-as-international-break-commences-football-weekly"
-  },
-  {
-    "id": "N_FIFA_21679",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 253,
-    "title": {
-      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September",
-      "zh-CN": "国际足联东盟杯™将于9月24日联合东南亚及其他地区的14个国家"
-    },
-    "summary": {
-      "en": "FIFA ASEAN Cup™ set to unite 14 nations across Southeast Asia and beyond as of 24 September"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/asean-cup-unite-14-nations-across-southeast-asia-beyond-24-september"
-  },
-  {
-    "id": "N_FIFA_37318",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 165,
-    "title": {
-      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™",
-      "zh-CN": "国际足联女足世界杯巴西2027™志愿者申请正式开放"
-    },
-    "summary": {
-      "en": "Volunteer applications officially open for FIFA Women’s World Cup Brazil 2027™"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/volunteer-applications-open-womens-world-cup-brazil-2027"
-  },
-  {
-    "id": "N_FIFA_24318",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 308,
-    "title": {
-      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window",
-      "zh-CN": "2026年世界杯™在年中转会窗口感受到的影响"
-    },
-    "summary": {
-      "en": "FIFA World Cup 2026™ impact felt in mid-year transfer window"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/world-cup-2026-impact-mid-year-transfer-window"
-  },
-  {
-    "id": "N_FIFA_33975",
-    "type": "official",
-    "date": "2026-09-24",
-    "likes": 243,
-    "title": {
-      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October",
-      "zh-CN": "今年10月，在吉达举行的2026年FIFAe总决赛上，迄今为止最大的足球电子竞技赛季达到高潮"
-    },
-    "summary": {
-      "en": "Biggest football esports season to date to reach its climax at FIFAe Finals 2026 in Jeddah this October"
-    },
-    "source": "FIFA Official",
-    "url": "https://www.inside.fifa.com/media-releases/biggest-football-esports-season-date-reach-climax-fifae-finals-2026-jeddah-october"
-  },
-  {
-    "id": "N_RSS_57648",
+    "id": "N_RSS_44832",
     "type": "official",
     "date": "2026-09-23",
     "likes": 94,
     "title": {
-      "en": "Eriksen leaves Wolfsburg by mutual consent"
+      "en": "When Bellamy watched on as Ronaldo caused airport lockdown"
     },
     "summary": {
-      "en": "Christian Eriksen leaves Wolfsburg by mutual consent, just over three months after collapsing during Denmark's friendly with Ukraine."
+      "en": "Craig Bellamy says Cristiano Ronaldo is \"beyond a superstar\" before his Wales side face the Portugal legend in the opening match of their Nations League A campaign."
     },
     "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm5yezn8w4xdo?at_medium=RSS&at_campaign=rss"
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmgqdjvvqp2no?at_medium=RSS&at_campaign=rss"
   },
   {
-    "id": "N_RSS_47652",
+    "id": "N_RSS_97435",
     "type": "official",
     "date": "2026-09-23",
-    "likes": 277,
+    "likes": 110,
     "title": {
-      "en": "The footballer who had a heart transplant - then became a World Cup winner"
+      "en": "England Podcast: Best style for success, Mainoo, Alexander-Arnold and more"
     },
     "summary": {
-      "en": "Martyn Jackson never thought he'd play football again when he had a heart transplant in 2024. Less than two years later, he was a World Cup winner with England."
+      "en": ""
     },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmgjqx96nxdeo?at_medium=RSS&at_campaign=rss"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/live-blog/11095/13427059/england-football-news-live-updates-schedule-and-analysis-of-thomas-tuchels-three-lions"
   },
   {
-    "id": "N_RSS_90768",
+    "id": "N_RSS_32063",
     "type": "official",
     "date": "2026-09-23",
-    "likes": 256,
+    "likes": 116,
     "title": {
-      "en": "Scots recall 'versatile' Kerr & Thomas for World Cup play-offs"
+      "en": "Ronaldo defiant over Portugal future as he targets 1,000 goals"
     },
     "summary": {
-      "en": "Sam Kerr and Martha Thomas are named in their first Scotland squad in almost a year for next month's World Cup round one play-offs against the Czech Republic."
+      "en": "Cristiano Ronaldo considered retiring from international football after the World Cup before deciding to extend his Portugal career."
     },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c63d7ypd11ydo?at_medium=RSS&at_campaign=rss"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13591141/cristiano-ronaldo-portugal-legend-considered-international-retirement-after-2026-world-cup-but-is-still-targeting-1000-goals"
   },
   {
-    "id": "N_RSS_7513",
+    "id": "N_RSS_7511",
     "type": "official",
     "date": "2026-09-23",
-    "likes": 285,
+    "likes": 92,
     "title": {
-      "en": "Netherlands v Germany: Klopp and Xavi begin revival projects with derby"
+      "en": "The Italian Job gets a sequel! Can Mancini inspire a new generation?"
     },
     "summary": {
-      "en": "Jürgen Klopp and Xavi Hernández face each other in Nations League as they take the reins following disappointing World CupsBefore the latest instalment of a time-honoured international rivalry..."
+      "en": "This year, Italian football fell to its lowest ebb. In Europe, no Italian club made it past the quarter-finals - while Atalanta were the only Serie A side to reach the Champions League last 16. But..."
     },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/23/special-klopp-and-xavi-take-first-steps-on-international-stage-with-revival-in-mind"
+    "source": "Sky Sports",
+    "url": "https://www.skysports.com/football/news/11095/13590474/roberto-mancini-returns-as-italy-head-coach-but-can-the-azzurri-recover-from-lowest-ebb-with-a-youth-inspired-revolution"
   },
   {
-    "id": "N_RSS_66582",
-    "type": "official",
-    "date": "2026-09-23",
-    "likes": 226,
-    "title": {
-      "en": "Florian Wirtz does not look like a £116m player but it’s too early to write him off"
-    },
-    "summary": {
-      "en": "The 23-year-old playmaker has been disappointing for Liverpool but has he really been that bad?By Opta AnalystWhen Florian Wirtz signed for Liverpool in the summer of 2025, there was only one logical..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/23/florian-wirtz-liverpool-playmaker-opta"
-  },
-  {
-    "id": "N_RSS_27747",
-    "type": "official",
-    "date": "2026-09-23",
-    "likes": 287,
-    "title": {
-      "en": "Christian Eriksen leaves Wolfsburg by mutual consent after on-pitch collapse in June"
-    },
-    "summary": {
-      "en": "Danish midfielder has been recuperating in homelandEriksen: ‘I’m pleased we were able to find a solution’Christian Eriksen and the German side VfL Wolfsburg have agreed to terminate ⁠his contract by..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/23/christian-eriksen-leaves-wolfsburg-mutual-consent-denmark"
-  },
-  {
-    "id": "N_RSS_27220",
-    "type": "official",
-    "date": "2026-09-23",
-    "likes": 63,
-    "title": {
-      "en": "Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals"
-    },
-    "summary": {
-      "en": "Player reflects on critics, says ‘they’ve tried to kill me’Jorge Jesus launches passionate defence of 41-year-oldCristiano Ronaldo said he considered quitting international football after the World..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
-  },
-  {
-    "id": "N_RSS_94491",
-    "type": "official",
-    "date": "2026-09-23",
-    "likes": 118,
-    "title": {
-      "en": "Ireland manager gets prime minister Martin’s backing in row with Israel over ‘genocide’"
-    },
-    "summary": {
-      "en": "Heimir Hallgrímsson accused of ‘stupidity’ by Israel’s FAMicheál Martin says IFA’s response is ‘unacceptable’Ireland’s prime minister, Micheál Martin, backed his country’s football manager, Heimir..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza"
-  },
-  {
-    "id": "N_RSS_28643",
-    "type": "official",
-    "date": "2026-09-23",
-    "likes": 285,
-    "title": {
-      "en": "Chelsea have entered the realm of late-stage American sports capitalism | Leander Schaerlaeckens"
-    },
-    "summary": {
-      "en": "The Blues’ lack of success was no impediment to Todd Boehly and Mark Walter recouping profits from the club’s sale. That’s how things work in the USHere follows a list of the things accomplished at..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism"
-  },
-  {
-    "id": "N_RSS_22475",
-    "type": "official",
-    "date": "2026-09-23",
-    "likes": 93,
-    "title": {
-      "en": "Ten of the best-value deals from this summer’s transfer window"
-    },
-    "summary": {
-      "en": "From veteran strikers to exciting young talents, here are 10 signings who could prove to be bargains for their new teamsEven in this era of relentless transfer inflation, a fee of more than £20m does..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/23/summer-football-transfer-window-best-value-deals"
-  },
-  {
-    "id": "N_RSS_37120",
-    "type": "official",
-    "date": "2026-09-23",
-    "likes": 58,
-    "title": {
-      "en": "Football Daily | Madrid, Mourinho and the fight for neutrality in row with Javier Tebas"
-    },
-    "summary": {
-      "en": "Sign up now! Sign up now! Sign up now? Sign up now!While football managers moaning about referees to deflect from their own teams’ shortcomings is nothing new, few do performative, wounded, righteous..."
-    },
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/23/madrid-mourinho-javier-tebas-football-daily-newsletter"
-  },
-  {
-    "id": "N_RSS_1654",
+    "id": "N_RSS_67060",
     "type": "official",
     "date": "2026-09-22",
-    "likes": 149,
+    "likes": 255,
     "title": {
-      "en": "Who will start for England at Euro 2028? BBC Sport's predictions"
+      "en": "‘Have some humanity’: Diogo Jota chants at Rúben Neves a wake-up call for Saudi Arabia"
     },
     "summary": {
-      "en": "As England prepare to face world champions Spain on Saturday, BBC Sport's experts predict who will be starting for the Three Lions at Euro 2028."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm3v41epe3l9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_46748",
-    "type": "official",
-    "date": "2026-09-22",
-    "likes": 209,
-    "title": {
-      "en": "I was close to joining Liverpool in 2016 - Mbappe"
-    },
-    "summary": {
-      "en": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her son to move to Merseyside."
-    },
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "id": "N_RSS_40396",
-    "type": "official",
-    "date": "2026-09-22",
-    "likes": 129,
-    "title": {
-      "en": "Dockers derby delivers and England squad upheaval – Football Weekly podcast"
-    },
-    "summary": {
-      "en": "Max Rushden is joined by Barry Glendenning, George Elek and Sanny Rudravajhala for an update across the EFL and the latest from the England campRate, review, share on Apple Podcasts and join the..."
+      "en": "With added coverage comes added scrutiny and there is a feeling that the league was too lenient when punishing chants about the late Portugal forwardThe good thing about Cristiano Ronaldo playing in..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/audio/2026/sep/22/dockers-derby-delivers-and-england-squad-upheaval-football-weekly"
+    "url": "https://www.theguardian.com/football/2026/sep/22/cristiano-ronaldo-humanity-diogo-jota-chants-neves-saudi-pro-league"
   },
   {
-    "id": "N_RSS_31913",
+    "id": "N_RSS_91966",
+    "type": "official",
+    "date": "2026-09-22",
+    "likes": 105,
+    "title": {
+      "en": "Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle"
+    },
+    "summary": {
+      "en": "Fifa president continues to lobby for re-election despite no other candidates coming forward to challenge himFor Gianni Infantino there is no international break. The Fifa president is widely..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle"
+  },
+  {
+    "id": "N_RSS_28103",
     "type": "official",
     "date": "2026-09-21",
-    "likes": 87,
+    "likes": 206,
     "title": {
-      "en": "Paper trail of protests: José Mourinho plays the hits in Madrid derby defeat | Sid Lowe"
+      "en": "Long-range hits and goals galore: inside the Premier League’s return to chaos | Andrew Beasley"
     },
     "summary": {
-      "en": "Facing Diego Simeone 13 years on, José Mourinho brought a print-out and paranoia. Some things don’t change. Some people don’t, eitherThere were many questions to emerge from the Madrid derby, which..."
+      "en": "Teams are running further and set-piece strikes are in decline as end-to-end football takes over the divisionGoals in the Premier League are up. Chaos is returning. End‑to‑end football is back. The..."
     },
     "source": "The Guardian",
-    "url": "https://www.theguardian.com/football/2026/sep/21/real-madrid-atletico-madrid-jose-mourinho-diego-simeone-madrid-derby-la-liga"
+    "url": "https://www.theguardian.com/football/2026/sep/21/long-range-hits-goals-galore-inside-premier-league-chaos"
+  },
+  {
+    "id": "N_RSS_79264",
+    "type": "official",
+    "date": "2026-09-21",
+    "likes": 133,
+    "title": {
+      "en": "The last two seasons were grim for Spurs. This is as bad as it’s ever been | Jonathan Wilson"
+    },
+    "summary": {
+      "en": "Pre-season thoughts of European qualification are already beginning to look bafflingly optimistic for Roberto De Zerbi’s teamSign up for our free newsletter hereIn March, Tottenham, fearing possible..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/21/tottenham-hotspur-premier-league"
+  },
+  {
+    "id": "N_RSS_1737",
+    "type": "official",
+    "date": "2026-09-21",
+    "likes": 149,
+    "title": {
+      "en": "WSL talking points: Arsenal’s attacking woes and Goodwin makes England case"
+    },
+    "summary": {
+      "en": "Gunners are held to second home draw in two weeks, while Spurs smash Palace 7-0 to maintain strong startAfter being unable to find a way through Crystal Palace’s backline last time out, Arsenal were..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/21/wsl-talking-points-arsenal-isobel-goodwin-england"
+  },
+  {
+    "id": "N_RSS_40047",
+    "type": "official",
+    "date": "2026-09-21",
+    "likes": 231,
+    "title": {
+      "en": "Premier League: 10 talking points from the weekend’s action"
+    },
+    "summary": {
+      "en": "Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with LeedsPremier League table | Top scorersIn the week that 16-year-old..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action"
+  },
+  {
+    "id": "N_RSS_5655",
+    "type": "official",
+    "date": "2026-09-20",
+    "likes": 106,
+    "title": {
+      "en": "Manchester United’s engine room runs out of steam as fans voice frustration | Jacob Steinberg"
+    },
+    "summary": {
+      "en": "Carrick’s side were short on inspiration, despite the summer spend in midfield, and the lack of quality in the final third was starkOne of the more damning aspects of Manchester United’s tortured..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/20/manchester-uniteds-engine-room-runs-out-of-puff-as-fans-begin-to-voice-frustration"
+  },
+  {
+    "id": "N_RSS_69105",
+    "type": "official",
+    "date": "2026-09-20",
+    "likes": 188,
+    "title": {
+      "en": "‘We miss her the same every day’: Olivia Cusack on her late footballer sister Maddy"
+    },
+    "summary": {
+      "en": "Family is determined to ensure her ‘legacy lives on’ three years after the Sheffield United player’s deathOlivia Cusack says her sister, the late Maddy Cusack, is on her mind every single day and she..."
+    },
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/football/2026/sep/20/olivia-cusack-maddy-cusack-late-footballer-legacy-sheffield-united"
   }
 ]
